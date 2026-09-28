@@ -1,0 +1,76 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "lokasi_text": "lokasi mentah apa adanya sesuai artikel (kelurahan/kecamatan/kota/kabupaten/provinsi jika disebut)",
+          "alasan_viral": "ringkasan alasan/daya tarik",
+          "indikasi_waktu": "tanggal/bulan/periode eksplisit terkait mulai viral, atau null jika tidak disebut",
+          "is_explicitly_viral": true atau false (true HANYA jika artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet, bukan sekadar direkomendasikan),
+          "confidence": angka 0-1
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 1880
+Judul: Wapres Gibran Berkunjung di Mimika, Ditunggu Warga dan Belanja di Toko Meriah - Tribunpapuatengah.com
+Isi:
+Korban diketahui berinisial KM, seorang mahasiswi asal Denpasar Utara. Sedangkan terlapor adalah ASM, seorang pria yang berprofesi sebagai guru agama dan berdomisili di wilayah Denpasar Barat
+
+
+### Artikel 1881
+Judul: Dorong Pertumbuhan Ekonomi Lokal, PT Aspirasi Hidup Indonesia Resmikan AZKO Timika - Tribunpapuatengah.com
+Isi:
+Luas lahan subak aktif di Denpasar kini tersisa sekitar 1.915 hektare dari total 42 subak yang tersebar di empat kecamatan. Selama ini subak tak hanya menjadi sistem irigasi tradisional dan penyangga pertanian, tetapi juga daya tarik wisata. "Itu termasuk sawah dan tanaman hortikultura, bukan sawah saja. Yang kami catat yang aktif yang tentu masih bisa ditanam untuk kami beri bantuan, bantuannya beragam, bisa bibit seperti itu," tutur Kepala Dinas Pertanian (Distan) Kota Denpasar AA Gde Bayu Brahmasta ketika dikonfirmasi tim detikBali, Rabu (13/5/2026). Distan Kota Denpasar mengungkap area subak yang mulai kritis berada di Denpasar Selatan dan Denpasar Utara. Wilayah terancam disebabkan karena adanya pembangunan permukiman. SCROLL TO CONTINUE WITH CONTENT Saat ini terdapat 8 subak di Denpasar Barat, 10 subak di Denpasar Selatan, 10 subak di Denpasar Utara, dan 14 subak di Denpasar Timur. Brahmasta menekankan bahwa pengawasan keberlangsungan subak dilakukan oleh desa/kelurahan setempat bersama Dinas Pekerjaan Umum dan Perumahan Rakyat (PUPR) Kota Denpasar. "Ditambah kolaborasi dengan desa adat, dengan memanfaatkan wilayah subak sebagai agrowisata. Selain itu, para desa adat sudah memiliki perarem (aturan adat) yang mengikat soal subak," kata Brahmasta. Selain menjaga kawasan pertanian, Distan bersama Dikbud Kota Denpasar juga berupaya mempertahankan filosofi Tri Hita Karana dalam sistem subak, mulai dari aspek lingkungan (palemahan), spiritual (parhyangan), hingga sosial petani (pawongan). Selain itu, sistem subak juga berkembang menjadi destinasi wisata berbasis ekowisata dan edukasi. Salah satu contohnya adalah Subak Sembung yang dikembangkan menjadi kawasan ekowisata dengan jalur trekking dan pemandangan sawah di tengah perkotaan. Selain itu, Subak Teba Majalangu juga menjadi lokasi wisata edukasi yang memperkenalkan aktivitas pertanian tradisional serta kearifan lokal sistem subak kepada pengunjung. Kemudian, Subak Anggabaya yang mengembangkan konsep agrowisata yang menggabungkan kegiatan pertanian aktif dengan pengalaman wisata budaya dan lingkungan. Di tengah krisis subak di Denpasar, optimalisasi ketahanan pangan turut dilakukan oleh Distan Kota Denpasar melalui upaya peningkatan hasil produksi pertanian. Salah satunya dengan menerapkan Demonstration Plot (demplot) varietas baru padi unggul yang memiliki produktivitas tinggi serta lebih tahan terhadap hama dan penyakit. Brahmasta turut menyebutkan bahwa regulasi saat ini telah mendukung untuk perlindungan subak. Di antaranya Peraturan Presiden Nomor 4 Tahun 2026 tentang Pengendalian Alih Fungsi Lahan Sawah, Peraturan Daerah Nomor 4 Tahun 2026 tentang Pengendalian Alih Fungsi Lahan Produktif dan Larangan Alih Kepemilikan Lahan Secara Nomine, serta Peraturan Daerah Nomor 8 Tahun 2021 tentang Rencana Tata Ruang Wilayan Kota Denpasar Tahun 2021-2041. Anda menyukai artikel ini
+
+
+### Artikel 1882
+Judul: Demam Piala Dunia 2026 Melanda Warga Kabupaten Mimika, Jersey Belanda dan Argentina Laris Manis - Tribunpapuatengah.com
+Isi:
+Kunjungan turis Tiongkok ke Bali &amp; NTT melonjak, Konjen Tiongkok galang kolaborasi lintas sektor untuk tingkatkan sistem pengawasan wisata berisiko tinggi dan tanggap darurat.
+
+
+### Artikel 1883
+Judul: Viral Video Menteri Pertanian RI Soal Papua Beredar di WhatsApp, BMP RI: Itu Hoax dan Editan AI - Tribunpapuatengah.com
+Isi:
+Badung (ANTARA) - Pemerintah Provinsi (Pemprov) Bali mengembangkan produk pertanian organik untuk mewujudkan Bali sebagai destinasi wisata kuliner. “Dalam rangka mewujudkan wisata kuliner, Pemprov Bali sejak beberapa tahun terakhir ini telah berkomitmen untuk mengembangkan produk pertanian organik,” kata Kepala Dinas Pariwisata (Dispar) Bali I Wayan Sumarajaya. Sumarajaya di pameran kuliner Food, Hotel and Tourism Bali (FHTB) 2026 di Kabupaten Badung, Selasa, menjelaskan dengan mengembangkan produk pertanian organik maka kuliner Bali akan mendapat nilai tambah. Menurut dia, itu diyakini akan menjadi daya tarik tersendiri khususnya bagi wisatawan yang berorientasi pada wisata sehat. Untuk mendorong semakin masifnya pertanian organik, ia mengatakan Pemprov Bali sudah menerbitkan Peraturan Daerah Provinsi Bali Nomor 8 Tahun 2019 tentang Sistem Pertanian Organik, Peraturan Gubernur Bali Nomor 15 Tahun 2021 sebagai pelaksanaan dari perda tadi, dan Peraturan Gubernur Bali Nomor 99 Tahun 2018 tentang Pemasaran dan Pemanfaatan Produk Pertanian, Perikanan, dan Industri Lokal Bali. Ia menjelaskan melalui regulasi itu, Bali secara tegas melarang penggunaan produk kimia maupun pestisida kimia dalam kegiatan pertanian dan mendorong sepenuhnya pertanian berbasis organik. Kebijakan itu juga sudah mendapat dukungan dari Kementerian Pertanian yang setiap tahun menyalurkan subsidi pupuk organik kepada petani di Bali. “Namun lebih dari itu, banyak petani Bali kita secara mandiri menerapkan sistem pertanian organik karena menyadari hasilnya memiliki nilai ekonomi yang sangat tinggi,” ujar dia. Melihat tren positif itu, Sumarajaya optimistis pada tahun 2028 mendatang seluruh sawah di Bali sudah beralih ke pertanian organik. “Hingga saat ini capaian kita telah mencapai satu yang menggembirakan, yaitu 70 persen sawah di Bali sudah organik, bahkan hampir semua tanaman hortikultura, sayur-sayuran, dan buah-buahan di Bali kini berbasis organik,” ujar dia. Ia merincikan, selain untuk mendorong Bali menjadi destinasi wisata kuliner, pertanian organik memberi manfaat seperti menghasilkan pangan yang sehat, berkualitas, dan bernilai tinggi, yang sekaligus mampu meningkatkan pendapatan petani lokal. Pertanian organik juga dapat menjaga ekosistem lingkungan Bali agar tetap bersih, bebas polusi, serta melestarikan tanah dan keanekaragamannya. “Ketiga, ini membuka peluang besar untuk pengembangan restoran dan kuliner berbahan pangan organik yang akan semakin memperkuat daya tarik pariwisata Bali,” ujar dia. Dispar Bali memandang masyarakat patut berbangga sebab hanya Provinsi Bali di Indonesia yang menerapkan kebijakan sistem pertanian organik secara menyeluruh. “Ini menjadi keunggulan sekaligus identitas Bali di mata dunia, tidak hanya sebagai destinasi wisata budaya, tetapi juga sebagai pusat pariwisata berkelanjutan dan pulau organik,” kata Sumarajaya. Ia menambahkan kuliner Bali sendiri sudah memiliki karakter yang khas, sangat unik, dan sangat berbeda dari kuliner di luar se
+
+
+### Artikel 1884
+Judul: Viral Tanah di Jakpus Semburkan Asap Hitam, Polisi Sebut Korsleting - cnnindonesia.com
+Isi:
+Belum punya akun? Daftar Akun Download TribunX untuk Android & iOS TRIBUN-BALI.COM - Sebuah video yang memperlihatkan dua remaja wanita terlibat keributan di kawasan Penelokan , Kecamatan Kintamani, Kabupaten Bangli, viral di media sosial. Peristiwa tersebut terjadi di depan Museum Geopark Batur dan sempat menjadi perhatian warga maupun pengguna jalan yang melintas di lokasi kejadian. Dalam video yang beredar, kedua remaja wanita tampak terlibat adu fisik di tepi jalan. Aksi tersebut disaksikan oleh sejumlah warga yang berada di sekitar lokasi. Keributan yang terjadi di salah satu kawasan wisata favorit di Bangli itu sontak menarik perhatian pengguna jalan. Beberapa orang terlihat berupaya mendekati lokasi untuk mengetahui apa yang sedang terjadi. Beruntung perkelahian itu tak berlangsung lama. Baca juga: VIDEO Viral Siswa SMP di Jimbaran Bali Dikeroyok Teman Sebaya, Kasus Berakhir Damai Lewat Mediasi Sejumlah warga bersama pengendara yang melintas segera turun tangan untuk melerai kedua remaja tersebut. Terlihat seorang pria bersama beberapa warga lainnya berusaha memisahkan kedua remaja wanita agar situasi tak semakin memanas. Hingga kini belum diketahui secara pasti penyebab maupun kronologi yang memicu terjadinya keributan tersebut. Belum ada keterangan resmi terkait identitas kedua remaja yang terlibat. Video kejadian itu pertama kali diunggah oleh akun instagram @banglidaily pada Kamis 18 Juni 2026 dan dengan cepat menyebar di berbagai platform media sosial. Unggahan tersebut langsung dibanjiri komentar oleh warganet yang menyayangkan terjadinya perkelahian di ruang publik. Terlebih di kawasan wisata yang ramai dikunjungin wisatawan. Kejadian keributan di jalan raya juga sebelumnya terjadi di Canggu, Badung Bali yang melibatkan wisatawan asing. Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
+
+
+### Artikel 1885
+Judul: VIRAL - SKANDAL MTQ PAPUA TENGAH: Juara I Dibuang, Juara II Melenggang ke Nasional - Iskandar Diblok - Papuanewsonline.com
+Isi:
+Denpasar, baliilu.com – Sebuah video rekaman CCTV yang memperlihatkan dugaan aksi pencurian beras di sebuah toko kelontong di wilayah Denpasar Timur viral di media sosial. Peristiwa tersebut terjadi di Jl. Noja No. 74, Br. Abiannangka Kaja, Desa Kesiman Petilan, Denpasar Timur, pada Jumat (7/8/2026) sekitar pukul 16.55 WITA. Dalam rekaman CCTV, seorang laki-laki yang datang menggunakan sepeda motor tampak berada di dalam toko. Berdasarkan keterangan korban, pria tersebut awalnya berpura-pura berbelanja dengan menanyakan harga telur dan sejumlah barang lainnya. Saat pemilik toko mengambil barang-barang yang diminta, pria tersebut diduga memanfaatkan kesempatan dengan mengambil sejumlah karung beras yang berada di dalam toko dan menaikkannya ke sepeda motor. Korban kemudian menyadari beras miliknya telah dibawa pergi. Setelah dilakukan pengecekan terhadap rekaman CCTV, terlihat enam karung beras ukuran 5 kilogram telah diambil dan dibawa menggunakan sepeda motor. Barang yang dilaporkan hilang berupa 6 karung beras merek Sido Makmur (SM) ukuran 5 kilogram, dengan total kerugian yang dialami korban diperkirakan mencapai Rp 465.000. Kasi Humas Polresta Denpasar Iptu I Gede Adi Saputra Jaya, S.H., M.H., membenarkan adanya laporan terkait dugaan pencurian tersebut. Pihak kepolisian saat ini masih melakukan proses penyelidikan untuk mengungkap identitas dan keberadaan terduga pelaku. “Benar, kami menerima laporan terkait dugaan pencurian enam karung beras di sebuah toko kelontong di wilayah Denpasar Timur. Saat ini perkara tersebut masih dalam proses penyelidikan oleh Polsek Denpasar Timur,” ujarnya. Ia mengimbau masyarakat, khususnya pemilik toko dan pelaku usaha, agar tetap meningkatkan kewaspadaan saat melayani pembeli, terutama ketika toko dalam kondisi ramai atau penjaga toko sedang mengambil barang. “Kami mengimbau masyarakat untuk tetap waspada dan memperhatikan barang-barang yang ada di tempat usaha. Apabila memiliki rekaman CCTV atau informasi yang berkaitan dengan kejadian tersebut, dapat segera disampaikan kepada pihak kepolisian untuk membantu proses penyelidikan,” tambahnya. Polresta Denpasar juga mengingatkan masyarakat agar tidak melakukan tindakan main hakim sendiri maupun menyebarkan identitas seseorang sebagai pelaku sebelum adanya kepastian hukum. Saat ini, kasus tersebut masih dalam proses penyelidikan Polsek Denpasar Timur. (gs/bi) Abdullah Desak Ungkap Aktor Intelektual dan Telusuri Aliran Uang Sindikat Pemalsu Meterai Bareskrim Polri Amankan 6 Tersangka Kasus Narkotika Terekam CCTV Curi Uang dan Celengan di Kos, Terduga Pelaku Diamankan Polsek Dentim Simpan Sabu hingga Ekstasi, Sepasang Kekasih Diamankan Sat Resnarkoba Polresta Denpasar Simpan Puluhan Gram Sabu, Kurir Diamankan Satresnarkoba Polresta Denpasar Alamat email Anda tidak akan dipublikasikan. Ruas yang wajib ditandai * Denpasar, baliilu.com – Aksi pencurian di sebuah rumah kos di Jl. Sedap Malam, Gang Tunjung Biru No. 1, Denpasar Timur, yang viral di media sosial, berhas
+
+
+### Artikel 1886
+Judul: 593 Personel Gabungan Dipersiapkan Untuk Amankan Aksi Damai 10 Agustus 2026 Di Nabire - Salam Papua
+Isi:
+Polemik video dugaan pelayanan pembuatan Surat Izin Mengemudi (SIM) di luar prosedur di Satpas SIM Polresta Denpasar memasuki babak baru.
+
+Selain menyeret seorang oknum anggota Satlantas ke pemeriksaan internal, polisi
+
+
+### Artikel 1887
+Judul: Pedagang Pasar Lama Sentani Hambur Sampah di Badan Jalan, Ini Penjelasan DLH Kabupaten Jayapura - Tribunpapuatengah.com
+Isi:
+Bali > Denpasar > Aksi Terekam CCTV, Dua Karyawan Agen LPG Curi Tabung Ditangkap Kasi Humas Polresta Denpasar Iptu Gede Adi Saputra Jaya, Jumat (12/6) menyampaikan pada Sabtu (6/6) pukul 08.00 Wita saat pemilik toko, Ni Wayan Sugiarsingsih (35) mengecek stok tabung gas ternyata kurang. “Seharusnya jumlah tabung gas 3 kilogram 48 buah, namun kurang lagi dua,” ujarnya. Selanjutnya dilakukan pengecekan CCTV dan terekam tiga orang laki-laki yg membawa mobil pick-up hitam nopol tidak kelihatan menjual tabung gas. Satu pelaku mengambil dua tabung gas dan langsung dinaikkan ke mobil carry tersebut. Setelah menerima laporan kejadian itu, Tim Opsnal dipimpin Kanitreskrim Iptu I Ketut Sudarsana dan Panit opsnal Iptu Nyoman Padu melakukan olah TKP. Berbekal ciri-ciri pelaku berdasarkan rekaman CCTV, polisi mencari pelakunya. Pada Kamis pukul 10.30 WITA para pelaku ditangkap di pangkalan agen elpiji, Jalan Cekomaria, Denpasar Utara. Petugas mengamankan barang bukti uang hasil penjualan tabung gas curian Rp150.000 dan mobil pick-up. Selain di TKP, pelaku mengaku mencuri tabung gas di Jalan Kapten Sujana dan Jalan Sedap Malam. Tabung gas curian itu lalu dijual dan uangnya dipakai biaya hidup sehari-hari. Akibat perbuatannya itu kedua pelaku ditahan di Polsek Dentim. Polisi masih mengembangkan pengungkapan kasus ini. (Kerta Negara/balipost) Login untuk meninggalkan komentar

@@ -1,0 +1,74 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "lokasi_text": "lokasi mentah apa adanya sesuai artikel (kelurahan/kecamatan/kota/kabupaten/provinsi jika disebut)",
+          "alasan_viral": "ringkasan alasan/daya tarik",
+          "indikasi_waktu": "tanggal/bulan/periode eksplisit terkait mulai viral, atau null jika tidak disebut",
+          "is_explicitly_viral": true atau false (true HANYA jika artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet, bukan sekadar direkomendasikan),
+          "confidence": angka 0-1
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 312
+Judul: Viral Dugaan KDRT terhadap Istri, Terduga Pelaku Serahkan Diri ke Polisi - hariansib.com
+Isi:
+Museum Jamin Ginting di Kabupaten Karo memiliki arsitektur unik berbentuk kacang tanah. Di dalamnya tersimpan koleksi perjuangan Jamin Ginting dan budaya masyarakat Karo.
+
+
+### Artikel 313
+Judul: Viral di media sosial terkait keluhan konsumen yang menemukan produk kue berjamur mendapat perhatian dari Dinas Perindustrian, Perdagangan, Energi dan Sumber Daya Mineral (Perindag ESDM) Sumatera Utara. Menindaklanjuti viralnya video tersebut, - facebook.com
+Isi:
+Pematangsiantar ( harianSIB.com ) Menindaklanjuti beredarnya video viral di media sosial Instagram yang diduga memperlihatkan adanya persoalan dalam sebuah rumah di Jalan Lobak, Kelurahan Tomuan, Kecamatan Siantar Timur, Kota Pematangsiantar, jajaran Polres Pematangsiantar langsung turun ke lokasi untuk melakukan pengecekan, Kamis (16/7/2026) malam sekitar pukul 23.00 WIB. Pengecekan dipimpin Kanit Perlindungan Perempuan dan Anak (PPA) Satreskrim Polres Pematangsiantar, Ipda Darwin P. Siregar, didampingi Bhabinkamtibmas Aiptu Andreas Purba dan Aiptu Moris Manik. Turut hadir Lurah Tomuan Mongonsidi Purba serta Ketua RT Nurli Siagian. Setibanya di lokasi, petugas mendapati gerbang rumah dalam keadaan tergembok, sementara pintu rumah juga terkunci sehingga tidak dapat bertemu langsung dengan penghuni rumah tersebut. Dari hasil koordinasi dengan warga sekitar, seorang tetangga bernama Tampu Bolon menyampaikan bahwa keluarga yang tinggal di rumah tersebut memang kerap terlibat pertengkaran. Untuk memastikan kondisi sebenarnya sekaligus memperoleh informasi yang lebih lengkap, pihak kepolisian telah berkoordinasi dan menjadwalkan pertemuan dengan pendeta yang menangani persoalan tersebut pada keesokan harinya. Selama kegiatan berlangsung, situasi di lokasi terpantau aman dan kondusif. Polisi memastikan akan terus menindaklanjuti informasi yang beredar di masyarakat guna memastikan setiap laporan maupun informasi viral ditangani secara profesional dan sesuai prosedur. Sementara di waktu terpisah Kanit Jatanras Sat Reskrim Polres Pematangsiantar IPDA Revanto Barasa saat diwawancarai wartawan di Mako Polres, Jumat (17/7/2026) sore, membenarkan dugaan penganiayaan KDRT yang dilakukan suaminya sendiri. "Benar yang bersangkutan terduga pelaku tak lain suaminya korban sudah menyerahkan diri sore tadi," katanya. Ia juga menambahkan untuk penanganan kasus KDRT tersebut telah diserahkan penanganan selanjutnya di unit PPA Sat Reskrim Polres Pematangsiantar. (**)
+
+
+### Artikel 314
+Judul: Yang Lagi Viral Toko SJ Shelly Pecah Belah Binjai Ternyata Banyak Beragam Hadiah Bagi Pelanggan Setia - PAB INDONESIA
+Isi:
+Pematangsiantar – Rekaman kamera pengawas (CCTV) yang memperlihatkan aksi perampokan di salah satu toko emas di Pasar Horas, Kota Pematangsiantar, Sumatera Utara, viral di media sosial, Rabu (3/6/2026). Dalam rekaman tersebut, wajah terduga pelaku tampak cukup jelas sehingga menjadi perbincangan warganet. Peristiwa itu terjadi sekitar pukul 12.39 WIB saat aktivitas jual beli di kawasan pasar masih berlangsung ramai. Video yang beredar memperlihatkan detik-detik pelaku menjalankan aksinya di dalam area toko emas. Beredarnya rekaman CCTV tersebut menarik perhatian masyarakat karena kejadian berlangsung pada siang hari di pusat keramaian. Sejumlah akun media sosial turut membagikan video tersebut dan berharap pelaku segera ditangkap. Hingga kini, kronologi lengkap peristiwa maupun nilai kerugian yang dialami korban masih belum diketahui secara pasti. Namun, kejadian tersebut sempat menimbulkan kepanikan di sekitar lokasi. Aparat kepolisian dikabarkan telah melakukan penyelidikan dengan mengumpulkan keterangan dari sejumlah saksi dan memeriksa rekaman CCTV yang beredar. Rekaman itu diharapkan dapat membantu proses identifikasi pelaku. ( SC-Romi ) Alamat email Anda tidak akan dipublikasikan. Ruas yang wajib ditandai * Simpan nama, email, dan situs web saya pada peramban ini untuk komentar saya berikutnya.
+
+
+### Artikel 315
+Judul: Viral di media sosial terkait keluhan konsumen yang menemukan produk kue berjamur mendapat perhatian dari Dinas Perindustrian, Perdagangan, Energi dan Sumber Daya Mineral (Perindag ESDM) Sumatera Utara. Menindaklanjuti viralnya video tersebut, - facebook.com
+Isi:
+Selasa, 19 Mei 2026 - 09:33:36 WIB BINJAI, PAB | Siapa yang tidak kenal dengan Toko SJ Shelly Pecah Belah Binjai,  pusat toko grosir terlengkap dan termurah di kota Binjai ini, selain menjual produk termurah, Toko SJ Shelly Binjai ini sering membagikan hadiah kepada customer atau pelanggan setia di toko Shelly. Mulai dari hadiah berupa barang hingga uang tunai dibagi bagikan kepada pelanggan setia Toko Shelly. Seperti yang dijual di Toko Shelly yang berada di Jalan Jendral Sudirman No 218 Binjai Kota.Ditoko yang menjual grosir barang pecah belah kebutuhan masyarakat ini setiap hari ‘diserbu’ ratusan masyarakat kota Binjai sekitarnya, khususnya para pelaku usaha menengah kecil mikro (UMKM) . Di toko ini lengkap dijual segala barang pecah belah perabotan rumah tangga dengan harga murah sekali sehingga warga beramai ramai selalu menyerbu toko dengan memiliki karyawan yang ramah semua menghadapi pelanggan. " Saya mengucap syukur kepada Allah SWT atas berkah dan kesehatan serta berterimakasih kepada warga Binjai yang sudah mampir belanja di toko Shelly dan harap kedepannya toko Shelly bisa buka cabang berbagai daerah di Sumatera Utara" ujar Jiwend Owner Toko Shelly, Senin (18/05/26). Kami juga, lanjut Owner, selain membagikan hadiah kepada customer, Toko Shelly juga berbagi berkah di hari Jum'at kepada masyarakat kota Binjai. Ditempat terpisah, Winda (35) salah satu pelanggan toko Shelly mengatakan, hanya di toko Shelly ini barang terlengkap dan termurah di kota Binjai, semua karyawan ramah ramah dan baik. " Semua barang perabot saya belinya di toko Shelly bang, harganya murah murah dan kualitas sangat bagus, apalagi di toko Shelly sering bagi bagi hadiah, cuma di toko Shelly ada bagi bagi hadiah nya, semoga toko Shelly semakin maju dan sukses selalu," pungkasnya.
+
+
+### Artikel 316
+Judul: Viral Pria di Siantar Curi Emas Batangan, Awalnya Pura-pura Beli - detikcom
+Isi:
+Pria yang viral mencuri emas batangan dari salah satu toko emas di Pajak Horas Pematangsiantar, Sumatera Utara (Sumut) ditangkap. Pelaku berinisial LM (32). "Setelah dilakukan serangkaian penyelidikan, tim berhasil meringkus pelaku pencurian emas batangan tersebut di Jalan Samosir Kecamatan Siantar Selatan Kota, tepatnya di rumah seorang warga," kata Kasat Reskrim Polres Pematangsiantar AKP Sandi Riz Akbar dilansir detikSumut , Sabtu (27/6/2026). SCROLL TO CONTINUE WITH CONTENT Sandi mengatakan pencurian itu terjadi pada Rabu (3/6) siang, tepatnya di Toko Emas MA Siregar di lantai 2 Pasar Horas. Awalnya, pelaku dagang ke toko itu dan dilayani langsung oleh pemilik toko, Khairani Sianturi (46). Saat melancarkan aksinya, pelaku lebih dulu berpura-pura bertanya soal kalung dan gelang emas. Namun, setelah emas itu ditunjukkan pemilik toko, pelaku mengaku tidak tertarik. Korban pun memberikan saran kepada pelaku untuk mengambil emas batangan sembari meminta anak korban untuk mengambil contoh emas batangan itu. Emas batangan yang ditunjukkan anak korban seberat 70 gram. Saat berpura-pura memfoto emas itu, pelaku pun langsung mengambil emas batangan tersebut dari tangan korban dan melarikan diri dari pasar itu. Korban yang kaget pun sontak berteriak meminta tolong kepada pedagang lain. Baca berita selengkapnya di sini . [Gambas:Video 20detik] Anda menyukai artikel ini
+
+
+### Artikel 317
+Judul: Polisi Buru Pelaku Pencurian 150 Gram Emas Batangan di Toko Emas Medan - detikcom
+Isi:
+Video seorang pria mencuri emas Batangan dari toko emas di Pajak Horas Pematangsiantar, viral di media sosial. Pelaku awalnya berpura-pura ingin membeli emas dati toko tersebut. Dilihat dari video yang beredar Kamis (4/6/2026), ada seorang pria mengenakan masker sedang melihat-lihat emas dari sebuah toko. Tampak ada dua orang wanita, dan salah satunya melayani pelaku yang berpura-pura ingin membeli. "Pria terekam CCTV diduga bawa lari emas di toko perhiasan Pasar Horas," tulis narasi video tersebut. SCROLL TO CONTINUE WITH CONTENT Pemilik toko emas, Khairani Sianturi, menyebut peristiwa pencurian dari tokonya terjadi pada Rabu (3/6) kemarin. Ia menyebut pelaku datang untuk bertanya tentang sejumlah perhiasan. "Awalnya dia nanya gelang emas 10 mayam. Setelah itu dia minta lihat emas batangan Antam," ujarnya. Dijelaskannya, saat kejadian pelaku dilayani oleh anaknya Erika Siregar. Putrinya itu sedang memperlihatkan emas kepada pelaku. "Barang masih dipegang anak saya, lalu langsung dirampas dan dia langsung kabur," sebut Khairani. Korban langsung berteriak dan meminta pertolongan sambil mengejar pelaku namun pelaku berhasil melarikan diri. Kasat Reskrim Polres Pematangsiantar AKP Sandi mengatakan pemilik toko emas sudah melaporkan peristiwa itu. Ia menyebut aksi pencurian emas itu sedang diusut. "Sudah ada laporan polisi masuk dan sedang dalam penyelidikan dan emas yang dicuri seberat 70 Gram," ujar AKP Sandi. Pihak kepolisian juga sudah mengantongi identitas pelaku pencurian emas tersebut. Pihaknya sedang mencari keberadaan dari pelaku pencurian emas batangan tersebut. "Sementara masih proses pencarian pelaku, identitas pelaku akan kami rilis jika pelaku sudah tertangkap," Sebut AKP Sandi. Anda menyukai artikel ini
+
+
+### Artikel 318
+Judul: Viral Aksi Nekat Wanita Sandera Karyawan Toko HP Pakai Golok di Medan, Ini Kronologinya - news.okezone.com
+Isi:
+Polisi menyelidiki kasus pencurian emas di Toko Mas Agung, Jalan Brigjen Katamso, Kecamatan Medan Maimun, Kota Medan, yang viral di media sosial. Saat ini pelaku masih dalam kejaran polisi. "Langsung kami menuju lokasi dan melakukan penyelidikan. Kami juga mengambil beberapa rekaman CCTV dan menemukan dugaan tindak pidana," kata Kanit Polsek Medan Kota, Iptu Poltak Tambunan, Senin (25/5/2026). Sejauh ini, pihak kepolisian menduga hanya ada satu pelaku yang terekam CCTV. Namun, jika ditemukan keterlibatan pihak lain, penyelidikan akan terus dikembangkan. SCROLL TO CONTINUE WITH CONTENT "Pelaku memakai helm, masker, dan jaket. Dari rekaman CCTV, pelaku terlihat seorang diri," ujarnya. Selain itu, polisi juga telah memeriksa sejumlah saksi dan melakukan pengejaran terhadap pelaku pencurian emas batangan tersebut. "Kami sudah melakukan pencarian terhadap pelaku dan memeriksa saksi-saksi," katanya. Sebelumnya diberitakan, video aksi seorang pria mencuri emas batangan di Toko Mas Agung, Jalan Brigjen Katamso, Kecamatan Medan Maimun, Kota Medan, viral di media sosial. Pelaku membawa kabur emas batangan seberat 150 gram. Dalam video yang dilihat detikSumut , Senin (25/5/2026), tampak seorang pria mengenakan helm dan masker datang ke toko untuk membeli emas. Dari rekaman CCTV, pelaku sempat memeriksa keaslian emas batangan dengan memotretnya menggunakan telepon genggam. Tidak lama kemudian, tanpa diduga, pelaku langsung membawa kabur emas tersebut dari toko. Kanit Polsek Medan Kota, Poltak Tambunan, mengatakan peristiwa itu terjadi pada Sabtu (23/5/2026). Awalnya, seorang pria datang dengan maksud membeli emas batangan dan meminta melihat emas tersebut terlebih dahulu. Kemudian, karyawan toko memberikan emas itu dalam dua tahap. "Kami melihat karyawan memberikan emas kepada pembeli yang sebenarnya belum dikenal, bahkan sampai dua kali. Saya menilai karyawan kurang waspada," ujarnya, Senin (25/5/2026). Karyawan toko pertama kali memberikan emas batangan seberat 50 gram kepada pelaku untuk diperiksa keasliannya. Setelah itu, pelaku kembali diberikan emas batangan seberat 100 gram. Setelah kedua emas batangan berada dalam penguasaannya, pelaku langsung melarikan diri sambil membawa emas tersebut. "Kerugian diperkirakan mencapai Rp400 juta. Kami sudah melakukan olah tempat kejadian perkara dan memeriksa saksi-saksi," katanya. Setelah emas dibawa kabur pelaku, karyawan toko justru tidak berteriak meminta pertolongan. Karyawan tersebut malah membiarkan pria itu pergi. "Kalau saat emas diberikan karyawan langsung berteriak, mungkin warga sekitar bisa membantu. Setelah kami cek di lapangan, jarak sepeda motor terduga pelaku hanya sekitar 10 meter," pungkasnya. Anda menyukai artikel ini
+
+
+### Artikel 319
+Judul: Polisi Datangi Bandar Narkoba yang Viral Digerebek Seorang Ibu - Tempo.co
+Isi:
+MEDAN – Seorang pekerja toko handphone di Kota Medan, Sumatera Utara, nyaris kehilangan nyawa setelah diancam dengan senjata tajam oleh seorang wanita yang diduga kesal karena tertipu iklan ponsel murah di media sosial. Peristiwa tersebut terjadi di sebuah toko handphone di Jalan Sisingamangaraja, Medan. Aksi pelaku terekam kamera CCTV dan sempat membuat panik pengunjung yang berada di lokasi. Dalam rekaman CCTV, terlihat seorang wanita berhijab dengan membawa ransel mendatangi toko dan berbincang dengan pegawai. Ia awalnya menanyakan promo handphone yang disebut-sebut berasal dari akun yang mengatasnamakan “PStore” di platform TikTok. Namun, pegawai toko menjelaskan bahwa pihaknya tidak pernah mengiklankan produk tersebut. Diduga emosi karena merasa tertipu, pelaku kemudian nekat masuk ke area dalam etalase toko. Ia lalu mengeluarkan sebilah golok dari dalam tas ranselnya dan menodongkannya ke arah leher korban. Situasi yang saat itu cukup ramai membuat sejumlah pengunjung langsung bereaksi. Mereka berupaya menenangkan sekaligus menggagalkan aksi pelaku.

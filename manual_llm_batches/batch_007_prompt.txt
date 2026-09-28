@@ -1,0 +1,74 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "lokasi_text": "lokasi mentah apa adanya sesuai artikel (kelurahan/kecamatan/kota/kabupaten/provinsi jika disebut)",
+          "alasan_viral": "ringkasan alasan/daya tarik",
+          "indikasi_waktu": "tanggal/bulan/periode eksplisit terkait mulai viral, atau null jika tidak disebut",
+          "is_explicitly_viral": true atau false (true HANYA jika artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet, bukan sekadar direkomendasikan),
+          "confidence": angka 0-1
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 48
+Judul: Menyantap Kuliner Lezat di Cafe Viral, Jakarta - 20detik
+Isi:
+Di cafe ini terdapat spot-spot foto yang instagramable. Jadi sambil makan, kita juga bisa berfoto-foto di cafe ini. Selain tempatnya yang asik, menu dan rasa dari makanan yang ditawarkan cafe inipun cukup bervariasi dan enak-enak semua. Dok : Celebrity On VacationTrans TV (Diki)
+
+
+### Artikel 49
+Judul: Bergaya di Cafe Viral yang Instagramable di Bogor - 20detik
+Isi:
+Selanjutnya selebriti akan kulineran di tempat makan yang lagi hits di Bogor. Tempat ini memiliki konsep unik dan sangat instagramable. Tempat duduk yang disediakan ada yang berupa ayunan dan berkonsep taman, serta hal unik lainnya. Dok : Celebrity On VacationTrans TV (Diki)
+
+
+### Artikel 50
+Judul: Menyusuri Cafe Viral yang Menghadap Laut di Pangandaran - 20detik
+Isi:
+Di pangandaran terdapat sebuah cafe yang hits. Cafe ini menghadap langsung ke lautan lepas. Nama cafe ini adalah Madyâs Gelato, Cafe and Grill. Dok : Celebrity On VacationTrans TV (Diki)
+
+
+### Artikel 51
+Judul: Berkuliner di Cafe Viral yang Hits di Cianjur - 20detik
+Isi:
+Ada banyak menu istimewa yang dipesan oleh selebriti. Rasa makanannya sangat enak-enak.Selain makanannya yang istimewa, minumannya pun cukup spesial. Dok : Celebrity On VacationTrans TV (Diki)
+
+
+### Artikel 52
+Judul: Ditjenpas Sultra Tindak Tegas Napi yang Viral Berkeliaran ke Coffee Shop - detikNews
+Isi:
+Kantor Wilayah (Kanwil) Direktorat Jendral Pemasyarakatan (Ditjenpas) Sulawesi Tenggara (Sultra) menindak tegas narapidana kasus Tindak Pidana Korupsi (Tipikor) Supriadi yang viral berkeliaran ke kedai kopi di Kendari, Sultra. Kepala Kanwil Ditjenpas Sultra Sulardi mengatakan pihaknya langsung mengerahkan Satuan Operasional Kepatuhan Internal (Satops Patnal) Ditjenpas Sultra untuk menyelidiki kasus tersebut. "Kita langsung periksa petugas yang mengawal WBP itu langsung di-BAP (Berita Acara Pemeriksaan) bersama-sama dengan Patnal Rutan Kendari," kata Sulardi dilansir kantor berita Antara, Rabu (15/4/2026). SCROLL TO CONTINUE WITH CONTENT Dia menyebutkan dari hasil BAP, ditemukan terdapat pelanggaran yang dilakukan oleh petugas yang mengawal narapidana tersebut. Untuk itu, pihaknya memutuskan untuk memberikan sanksi disiplin terhadap petugas tersebut. "Karena, saat selesai sidangnya WBP itu diajak ngopi oleh mantan bawahannya dulu (Syahbandar). Namun, oleh petugas itu juga tidak melarangnya sehingga mereka lanjut lkedai kopi," ujarnya. Sulardi menyampaikan selain diberikan sanksi disiplin, pihaknya juga menarik petugas tersebut ke Kanwil Ditjenpas Sultra, yang sebelumnya dia bertugas di Rumah Tahanan (Rutan) Kelas II A Kendari. "Hukuman disiplin sifatnya rahasia dan masih punya hak menyampaikan tanggapan atas sanksi tersebut," ucap Sulardi. Dia mengungkapkan selain petugas, pihaknya juga memberikan sanksi terhadap narapidana Supriadi tersebut dengan memindahkannya ke Lapas Kendari. "Napinya diberikan sanksi sel isolasi dan dipindahkan ke Lapas," sebut Sulardi. Sebelumnya, Rutan Kendari melakukan pemeriksaan intensif terhadap seorang petugas yang viral mengawal narapidana Tipikor inisial S ke kedai kopi di Kendari, Provinsi Sultra. Pelaksana Harian (Plh) Kepala Rutan Kelas II A Kendari La Ode Mustakim mengatakan bahwa narapidana tersebut keluar secara resmi untuk menghadiri sidang Peninjauan Kembali (PK) di Pengadilan Negeri Kendari pada pukul 09.00 WITA. "Yang bersangkutan keluar berdasarkan surat panggilan sidang dan dikawal oleh satu orang petugas kami. Namun, muncul permasalahan saat perjalanan pulang menuju rutan usai persidangan," kata Mustakim. Lihat juga Video: Detik-detik Penangkapan Napi yang Kabur dari Rutan Sinjai Sulsel [Gambas:Video 20detik] Anda menyukai artikel ini
+
+
+### Artikel 53
+Judul: Viral Kafe de'Clan di Depok Tutup, Bagian Depan Dipasang Rantai - detikNews
+Isi:
+Kafe de'Clan di Jalan Tole Iskandar, Kota Depok , Jawa Barat, tutup. Tutupnya kafe tersebut pun viral di media sosial (medsos). Pantauan detikcom di lokasi, Senin (13/7/2026), kafe yang berada persis di tepi Jalan Tole Iskandar, Kota Depok, Jawa Barat, ini tampak sepi. Tidak ada aktivitas yang terlihat. Sementara itu, rantai yang dipasang berada persis di area masuk parkir kafe. Rantai itu dipasang dari ujung ke ujung area masuk parkir kafe. SCROLL TO CONTINUE WITH CONTENT Adapun di area parkir kafe, hanya terdapat satu unit mobil yang terparkir. Sedangkan pos satpam serta titik petugas parkir juga tampak kosong. Salah satu warga di sekitar lokasi mengatakan kafe tersebut tutup sudah sejak empat hari lalu. Warga juga menyampaikan tidak ada aktivitas apa pun saat kafe itu tutup. "Baru (tutupnya). Sudah empat harilah. Nggak ada apa-apa sih, tutup aja," ujarnya. Lihat juga Video: Daftar 12 Lokasi yang Digeledah Terkait 3 Kasus Korupsi [Gambas:Video 20detik] Anda menyukai artikel ini
+
+
+### Artikel 54
+Judul: Viral Restoran 'Teriak' di Spanyol, Pesan Makanannya Mirip Lelang - detikFood
+Isi:
+Tak ada buku menu di restoran Spanyol ini. Pelayan justru keliling sambil meneriakkan hidangan dan pengunjung harus 'gercep' sebelum makanan diambil meja lain. Makan di restoran biasanya dimulai dengan melihat buku menu. Namun, restoran di Málaga, Spanyol, ini justru menawarkan pengalaman berbeda. Pengunjung harus sigap memilih makanan yang dibawa berkeliling oleh pelayan sambil diteriakkan. Konsep unik tersebut ditawarkan El Tintero, restoran yang belakangan ramai dibicarakan setelah dikunjungi konten kreator bernama Steph dan Marco. Video pengalaman mereka makan di sini viral di media sosial dan telah ditonton lebih dari 23 juta kali. SCROLL TO CONTINUE WITH CONTENT Dilansir dari Food NDTV (23/09/2026), dalam video tersebut, suasana restoran terdengar ramai dengan teriakan para pelayan. Rupanya, cara tersebut memang menjadi bagian dari sistem pemesanan makanan di El Tintero. "Alasan kalian mendengar semua teriakan ini karena kami sedang berada di El Tintero di Málaga, Spanyol. Restoran ini sangat terkenal karena tidak memiliki menu. Semua makanan seperti dilelang," jelas Marco. Alih-alih memberikan buku menu kepada pengunjung, pelayan berkeliling restoran sambil membawa piring berisi makanan. Pilihannya beragam, mulai dari ikan, aneka seafood segar, daging, salad, hingga minuman. Pelayan akan meneriakkan makanan yang sedang mereka bawa. Jika tertarik, pengunjung cukup memberikan respons agar hidangan tersebut dibawa ke meja. Jika tidak menginginkannya, mereka bisa melewatkan makanan itu dan menunggu pilihan berikutnya. Karena itu, pengunjung perlu bergerak cepat ketika mendengar hidangan yang diinginkan. Sebab, makanan tersebut bisa lebih dulu diambil pengunjung di meja lain. "Kalau kalian mendengar nama makanan yang disukai, sebaiknya cepat bertindak sebelum makanan itu berakhir di meja orang lain," tulis Marco dalam keterangan videonya. Cara menghitung tagihan makanan juga tak kalah unik. Menurut Marco, pengunjung tidak perlu mencatat setiap makanan yang telah dipesan. Setelah selesai makan, pihak restoran akan menghitung jumlah piring di atas meja untuk menentukan tagihan. Mirip seperti konsep makan di rumah makan Padang yang ada di Indonesia. Kesegaran makanan juga menjadi perhatian. Marco mengatakan hidangan langsung dipanggang menggunakan arang atau digoreng di area dapur sebelum diedarkan oleh pelayan. "Makanannya disajikan sangat segar. Makanan langsung dipanggang di atas arang yang mereka punya di sini atau digoreng di bagian belakang," ujarnya. Video tersebut mengundang beragam komentar netizen. Ada yang bercanda bahwa konsep ini bisa membuat orang introvert kelaparan. Sebab biasanya orang-orang introvert sungkan berinteraksi di depan banyak orang. Meski begitu, Marco menyebut restoran El Tintero sebagai salah satu destinasi kuliner unik yang patut dicoba ketika berkunjung ke wilayah selatan Spanyol. Anda menyukai artikel ini
+
+
+### Artikel 55
+Judul: Restoran dengan Fried Mozzarella yang Viral Buka Gerai Kedua - investor.id
+Isi:
+Untuk Masuk dan Daftar akan kami arahkan ke laman Subscribe Investor Daily J AKARTA, investor.id — Restoran dengan menu f ried mozzarella yang viral, Chili’s, kini memperluas kehadirannya dengan membuka gerai kedua di Plaza Senayan, Jakarta Selatan. Pembukaan gerai terbaru ini menandai kelanjutan dari perjalanan kesuksesan Chili’s selama satu tahun di Indonesia. “Kami sangat antusias membuka gerai Chili’s® kedua di Indonesia di Plaza Senaya dengan membawa cita rasa khas Chili’s®, keramahan, serta energi kami kepada lebih banyak pelanggan di Jakarta. Sambutan yang kami terima sejak pembukaan gerai pertama sangat positif dan semakin menguatkan langkah kami untuk terus mengembangkan Chili’s® di Indonesia," kata Chili’s® Indonesia Partner dari Rajafa Boga Group, Puti Lenggogeni, dalam keterangan tertulis. "Kami memilih Plaza Senayan sebagai gerai kedua karena salah satu destinasi populer untuk gaya hidup dan kuliner di Jakarta, sekaligus menjadi peluang bagi kami untuk menjangkau lebih banyak pelanggan dan menghadirkan pengalaman khas Chili’s® kepada masyarakat yang lebih luas,” ujar Puti Lenggogeni. Sebelumnya, brand restoran ikonik asal Dallas, Texas, itu mendapat respon positif sejak pembukaan gerai pertamanya di Tribeca Central Park Mall, Jakarta Barat. Lebih dari 100.000 tarikan keju dari Fried Mozzarella yang viral telah dinikmati para pelanggan, yang menunjukkan tingginya antusiasme terhadap cita rasa khas Chili’s® yang kuat, porsi berlimpah, dan pengalaman bersantap yang menyenangkan. “ Kini, baik pelanggan setia maupun pengunjung yang baru pertama kali datang dapat menikmati berbagai menu favorit Chili’s® di gerai terbaru yang hadir di salah satu destinasi gaya hidup ternama di Jakarta,” lanjut Puti. Didirikan pada tahun 1975, Chili’s® telah mencatatkan perjalanan sukses selama lebih dari 50 tahun secara global, dengan lebih dari 1.600 gerai di lebih dari 30 negara. Kehadiran Chili’s® di Plaza Senayan menjadi babak baru dalam ekspansinya di Indonesia, membawa cita rasa khas, porsi berlimpah, dan pengalaman bersantap yang menyenangkan kepada lebih banyak pelanggan di Jakarta. “Para pelanggan di Chili’s® Plaza Senayan dapat menikmati beragam menu andalan khas Chili’s®, termasuk Triple Dipper® yang sudah mendunia dan tentunya Fried Mozzarella yang viral, Big Mouth Burgers®, Hand-battered Crispy Chicken Crispers®, Sizzling Fajitas, dessert klasik Molten Chocolate Cake, serta pilihan minuman racikan non-alkohol,” papar Puti. Selain itu, Chili’s® Plaza Senayan juga akan menghadirkan paket 3 for Me yang baru, terdiri dari minuman, makanan pembuka, dan hidangan utama dengan harga terjangkau. Terletak di lantai 3 Mall Plaza Senayan, gerai Chili’s® dapat menampung sekitar 100 pelanggan dan dilengkapi dengan ruangan khusus VIP, sebagai pilihan ruangan bagi pelanggan untuk menikmati hidangan dan berkumpul dalam suasana yang lebih privat. Chili’s® Plaza Senayan buka setiap hari mulai pukul 10.00 hingga 22.00 WIB. Chili’s® Indonesia dioperasikan oleh Raja

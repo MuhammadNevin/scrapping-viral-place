@@ -1,0 +1,78 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "lokasi_text": "lokasi mentah apa adanya sesuai artikel (kelurahan/kecamatan/kota/kabupaten/provinsi jika disebut)",
+          "alasan_viral": "ringkasan alasan/daya tarik",
+          "indikasi_waktu": "tanggal/bulan/periode eksplisit terkait mulai viral, atau null jika tidak disebut",
+          "is_explicitly_viral": true atau false (true HANYA jika artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet, bukan sekadar direkomendasikan),
+          "confidence": angka 0-1
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 72
+Judul: Kritikus Makanan Bilang Ogah Masuk Restoran dengan 5 Ciri Ini - detikFood
+Isi:
+Kritikus makanan ini membagikan ciri-ciri restoran yang tidak akan pernah ia kunjungi. Kenapa ya alasannya? Kritikus makanan atau food critic mengunjungi restoran untuk mencicipi berbagai hidangan dan menilai pengalaman bersantapnya secara menyeluruh. Mereka kerap mengomentari beberapa hal, termasuk mengevaluasi kualitas rasa, teknik memasak, penyajian, pelayanan, dan suasana restoran. Beberapa restoran mungkin lolos dalam kualifikasi para kritikus makanan. Namun, ada juga restoran yang tidak masuk kriteria bahkan dihindari oleh kritikus makanan. SCROLL TO CONTINUE WITH CONTENT Baru-baru ini, kritikus makanan, Grace Dent, yang juga merupakan juri MasterChef Inggris mengungkap dalam sebuah unggahan di Instagram terkait lima jenis restoran yang menurutnya tidak akan pernah ia kunjungi. Wanita 52 tahun ini tidak akan memilih restoran mana pun yang berubah menjadi klub malam setelah jam 10 malam. Selanjutnya ia mengungkap kalau tidak akan datang ke kafe yang keren dan trendi pada pukul 8 pagi. Menurutnya, kafe-kafe tersebut akan selalu dimiliki oleh orang-orang yang tinggalnya jauh dari lokasi usaha tersebut berdiri. Jarak yang jauh akhirnya kerap menyebabkan masalah di kafe, seperti mesin kopinya sering mati atau lupa menyimpan stok kue atau roti, sehingga ada bekas gigitan tikus di dalamnya, lapor people.com (10/7). Jenis restoran ketiga yang membuat Dent geram adalah restoran dengan minimal 18 tasting menu. Menurutnya menu tersebut bisa memakan waktu sangat lama. "Secara teknis, apa pun yang lebih dari 11 hidangan tasting menu adalah sebuah penculikan," ujarnya. Dent kemudian mengecam tempat makan yang bisnisnya melibatkan 'pencucian uang'. Istilah tersebut ia gunakan untuk menggambarkan restoran baru misterius yang dipromosikan minim di media online, tetapi menawarkan hidangan mahal. Kritikus makanan ini mengakhiri tulisannya dengan mengungkap bahwa ia tahu terlalu banyak tentang bisnis restoran. Unggahan tersebut menarik perhatian banyak orang di kolom komentar. Beberapa netizen menyampaikan keluhan mereka sendiri tentang restoran-restoran tertentu. Mulai dari restoran yang menawarkan hidangan tradisional tetapi menggunakan perasa buatan hingga restoran yang menawarkan 'busa' dalam rangkaian tasting menunya. Dent memang sering membagikan pemikiran dan rekomendasinya lewat unggahan Instagram. Sebelumya, ia juga telah menunjukkan kepada followers (pengikut) terkait lima restoran 'sangat menawan' untuk disambangi bagi teman-temannya yang ingin kencan romantis. Anda menyukai artikel ini
+
+
+### Artikel 73
+Judul: Viral, Kasatpol PP Samarinda Cekcok Dengan Anggota TNI Saat Penertiban Warung Miras - gotvnews.co.id
+Isi:
+GOTVNEWS, Kaltim – Penertiban sejumlah warung yang diduga menjadi lokasi penjualan minuman keras di Jalan Teuku Umar, Samarinda, Kalimantan Timur, Selasa (22/9/2026) malam, sempat diwarnai cekcok antara Kepala Satpol PP Samarinda Anis Siswantini dan seorang anggota TNI. ‎Diduga anggota tersebut bukan kali pertama hadir saat penertiban di lokasi yang sama, anggota tersebut kerap menyampaikan bahwa kawasan tersebut merupakan wilayahnya. ‎ ‎Kepala Satpol PP menegaskan, keberadaan pihak tertentu tidak boleh menghambat petugas dalam menjalankan penegakan Peraturan Daerah. ‎ ‎Menanggapi kejadian itu, Komandan Kodim 0901/Samarinda Kolonel Inf Arif Hermad menyampaikan permohonan maaf atas tindakan anggotanya. ‎ ‎Arif mengatakan, anggota TNI tersebut telah menjalani pemeriksaan oleh staf Kodim dan selanjutnya diperiksa di Denpom VI/1 Samarinda. ‎ ‎Ia memastikan pemeriksaan dilakukan untuk mendalami kronologi kejadian. Jika ditemukan pelanggaran hukum, tindakan akan diberikan sesuai ketentuan yang berlaku. (Ald) ‎ ‎Sumber: X/@RadioElshinta Ikuti Berita gotvnews.co.id di Google News Alamat email Anda tidak akan dipublikasikan. Ruas yang wajib ditandai * Simpan nama, email, dan situs web saya pada peramban ini untuk komentar saya berikutnya.
+
+
+### Artikel 74
+Judul: Duo WN Iran Viral Hipnotis Pedagang Warung Ditangkap di Kuta - mcwnews.com
+Isi:
+Kejari Mimika Tetapkan Tersangka Korupsi Pembangunan Gerai Maritim Kejagung Tetapkan 5 Tersangka Korupsi Tata Kelola Nikel, Kerugian Negara Rp401,65 Miliar DPO Korupsi Kejati Kalsel Ditangkap di Berau Togar Jalani Eksekusi: Saya Datang karena Taat Hukum Togar Situmorang Dieksekusi, Kuasa Hukum Sebut Terjadi ‘Peradilan Sesat’ Kejari Mimika Tetapkan Tersangka Korupsi Pembangunan Gerai Maritim Kejagung Tetapkan 5 Tersangka Korupsi Tata Kelola Nikel, Kerugian Negara Rp401,65 Miliar DPO Korupsi Kejati Kalsel Ditangkap di Berau Togar Jalani Eksekusi: Saya Datang karena Taat Hukum Togar Situmorang Dieksekusi, Kuasa Hukum Sebut Terjadi ‘Peradilan Sesat’
+
+
+### Artikel 75
+Judul: Ngaku Pecalang Pungut Rp120 Ribu di Warung, Warga Gianyar Viral di TikTok - Radar Badung
+Isi:
+Aksi pria mengaku sebagai Pecalang dan meminta uang keamanan serta iuran banjar di sebuah warung makan di Jalan Gunung Soputan, Denpasar, viral di media sosial TikTok.
+
+
+### Artikel 76
+Judul: Viral Pemotor Dikejar Begal Sampai Nabrak Warung di Tebet, Polisi Selidiki - detikNews
+Isi:
+Rekaman CCTV yang menunjukkan dugaan pembegalan terhadap dua orang pemuda di Tebet, Jakarta Selatan (Jaksel), viral di media sosial. Polisi menduga korban dan pelaku diduga saling kenal. Dalam video yang beredar seperti dilihat, Selasa (1/9/2026), peristiwa itu disebut terjadi pada Sabtu (29/8) pagi. Kedua korban mulanya tengah berboncengan. Kemudian para pelaku diduga mengejarnya hingga korban terjatuh di depan warung. Pelaku yang membawa senjata tajam panjang terlihat mengancam korban. SCROLL TO CONTINUE WITH CONTENT Pelaku kemudian pergi dari lokasi dengan membawa motor korban. Polisi mengatakan korban diduga kenal dengan para terduga pelaku. "Kami sedang upaya mencari pelaku tersebut, diduga korban kenal baik dengan para terduga pelanggar," kata Kapolsek Tebet AKP Ischak. Ischak mengatakan motor korban sudah ditemukan dan dikembalikan. Kendaraan itu terlacak keberadaannya saat hendak dijual oleh para pelaku. "Adapun sebagai informasi bahwa kendaraan korban sudah ditemukan dan dikembalikan. Pada saat lidik (penyelidikan) menurut informasi korban kendaraan tersebut mau dijual, kami tracing dan pancing ternyata betul namun pelaku sudah keburu melarikan diri," jelasnya. Para pelaku masih diburu. Polisi masih melakukan serangkaian pendalaman. Simak juga Video 'Dua Aksi Begal Beraksi di Probolinggo dalam Semalam, Korbannya Pemotor Wanita': [Gambas:Video 20detik] Anda menyukai artikel ini
+
+
+### Artikel 77
+Judul: Viral Penyerangan Pelajar di Duren Sawit: Korban Ditebas Sajam, Warung Jadi Sasaran Amuk Pelaku - Tribunnewsdepok.com
+Isi:
+Belum punya akun? Daftar Akun Download TribunX untuk Android & iOS TRIBUNNEWSDEPOK.COM, JAKARTA TIMUR – Jagat media sosial dihebohkan oleh rekaman video aksi penyerangan brutal sekelompok pelajar bermotor di Jalan Masjid Al-Wustho, Kecamatan Duren Sawit , Jakarta Timur, pada Jumat (11/9/2026) malam. Aksi kejar-kejaran sepeda motor tersebut berujung pada sabetan senjata tajam serta penganiayaan yang merusak barang milik pedagang di lokasi kejadian. Peristiwa mencekam itu bermula saat rombongan pelaku mengejar dua pelajar yang sedang berboncengan motor. Baca juga: Diduga Hendak Tawuran, 32 Remaja Dibekuk Polisi di Jalan Perikanan Raya Tapos Depok Salah satu korban menjadi sasaran sabetan senjata tajam hingga terluka, sementara rekannya yang dibonceng langsung melompat dari motor dan berlari masuk ke dalam warung tembakau untuk menyelamatkan diri. Sembunyi di Balik Etalase Pelajar yang panik tersebut berusaha berlindung di balik etalase kaca toko. Namun, para pelaku tetap merangsek masuk dan melakukan pengeroyokan menggunakan tangan kosong serta kayu. Pemilik warung tembakau, Hamdani, membeberkan kronologi berdasarkan keterangan anak buahnya yang melihat langsung rombongan pelaku datang dari arah Gereja Santa Anna. “Terus satu motor pelajar berboncengan dikejar sama rombongan lain. Terus sampai dekat sini, motor kena satu pelaku dibacok. Yang dibonceng lari masuk ke etalase,” katanya, Minggu (13/9/2026). Pelaku Kabur Dikejar Warga Aksi pengeroyokan liar di area sempit warung tersebut membuat etalase milik Hamdani terdorong hingga roboh ke tanah. Seluruh bagian kaca etalase hancur berantakan. Melihat etalase pedagang hancur dan warga sekitar mulai berdatangan melakukan pengejaran, rombongan pelaku langsung kocar-kacir melarikan diri dari lokasi kejadian. Beruntung, pelajar yang bersembunyi di balik etalase tidak mengalami luka sabetan fatal. Melihat aksi kenakalan remaja yang merugikan masyarakat umum, Hamdani menyayangkan insiden ini dan memberikan imbauan menohok. “Kalau saya sih imbau supaya tidak merusak barang orang lain kalau lagi ada masalah di jalanan. Buat apa sih tawuran. Mending belajar yang baik biar masa depannya cerah,” tandasnya. Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
+
+
+### Artikel 78
+Judul: Viral di Media Sosial terkait dugaan aksi penipuan yang melibatkan seorang warga negara asing (WNA) di sebuah warung wilayah Darmasaba - suryaindonesia.net
+Isi:
+Redaksi Surya Indonesia Kamis, 10 September 2026 -  16:18    					 WIB Mangupura, Surya Indonesia.net – Menindaklanjuti informasi yang Viral di Media Sosial terkait dugaan aksi penipuan yang melibatkan seorang warga negara asing (WNA) di sebuah warung wilayah Darmasaba, UKL Polsek Abiansemal dipimpin Pawas IPDA Si Ngurah Putu Kusumayadi, S.H., M.H., mendatangi TKP untuk melakukan pengecekan dan penanganan awal. Rabu (9/9/2026) Setibanya di lokasi, personel UKL melakukan pengumpulan informasi dari pihak terkait serta memastikan situasi tetap aman dan kondusif. Petugas juga mengimbau pemilik warung dan masyarakat agar meningkatkan kewaspadaan terhadap modus transaksi yang tidak biasa. SCROLL TO RESUME CONTENT Pawas Polsek Abiansemal IPDA Si Ngurah Putu Kusumayadi, S.H., M.H., menyampaikan bahwa kehadiran personel di TKP merupakan bentuk respons cepat Kepolisian dalam menindaklanjuti setiap informasi yang berkembang di masyarakat. “Masyarakat kami imbau untuk tetap tenang dan waspada. Apabila menemukan transaksi atau perilaku yang mencurigakan, jangan terburu-buru menyerahkan uang dan segera laporkan kepada pihak Kepolisian dengan memanfaatkan layanan Call Centre 110 Polri untuk dilakukan pengecekan,” ujarnya. Polsek Abiansemal terus berkomitmen memberikan pelayanan dan perlindungan kepada masyarakat serta menjaga situasi Kamtibmas tetap aman dan kondusif. Polisi Sidoarjo Beri Edukasi Pelajar Saat Upacara Senin KEBAKARAN LALAP SMPN 1 JOGOROGO, DIDUGA DARI PEMBAKARAN TEBU Arda Fitriana dan Suami Bangun Akademi Bunda Pintar, Hadirkan Mentor dari Jakarta hingga Ricky Harun Sikap Tegas Eri Cahyadi Haramkan Bisnis Seragam, AMP : “Pungli Sekolah Adalah Pembusukan Negara Ketua (F-Wamipro)  Forum – Wartawan Mingguan Probolinggo  Menggelar Rapat Koordinasi (Rakor) Polsek Kuta Utara Amankan Kegiatan Perang Ketupat Di Pura Puseh Lan Desa Padang Luwih. Kamis, 24 September 2026 -  19:20        			 WIB Kamis, 24 September 2026 -  18:52        			 WIB Rabu, 23 September 2026 -  19:31        			 WIB Rabu, 23 September 2026 -  18:27        			 WIB Selasa, 22 September 2026 -  20:37        			 WIB Selasa, 22 September 2026 -  15:15        			 WIB Senin, 21 September 2026 -  19:05        			 WIB Minggu, 20 September 2026 -  15:38        			 WIB Polisi Sidoarjo Beri Edukasi Pelajar Saat Upacara Senin Senin, 28 Sep 2026 -  12:01				 WIB KEBAKARAN LALAP SMPN 1 JOGOROGO, DIDUGA DARI PEMBAKARAN TEBU Senin, 28 Sep 2026 -  10:00				 WIB Arda Fitriana dan Suami Bangun Akademi Bunda Pintar, Hadirkan Mentor dari Jakarta hingga Ricky Harun Senin, 28 Sep 2026 -  08:55				 WIB Sikap Tegas Eri Cahyadi Haramkan Bisnis Seragam, AMP : “Pungli Sekolah Adalah Pembusukan Negara Senin, 28 Sep 2026 -  07:39				 WIB Ketua (F-Wamipro)  Forum – Wartawan Mingguan Probolinggo  Menggelar Rapat Koordinasi (Rakor) Minggu, 27 Sep 2026 -  19:32				 WIB
+
+
+### Artikel 79
+Judul: Warung di Tengah Makam Viral, Ulama Tegaskan Kuburan Muslim Harus Dijaga Kehormatannya - CaraPandang
+Isi:
+CARAPANDANG – Sebuah warung makan yang berdiri di tengah kompleks pemakaman di Karawang, Jawa Barat, menjadi perhatian publik. Lokasinya yang tidak lazim membuat banyak orang penasaran hingga rela datang untuk menikmati hidangan di antara deretan makam. Warung milik Ida Nengsih (50) itu berada di Tempat Pemakaman Umum (TPU) Karangpamulang, Kampung Sukasari, Kelurahan Karawang Wetan, Kecamatan Karawang Timur. Bangunan warung menyatu dengan rumah yang berada di tepi kompleks pemakaman. Berbagai lampu hias dipasang untuk menciptakan suasana yang nyaman pada malam hari. Meja dan kursi pengunjung bahkan ditempatkan di sela-sela makam. Meski demikian, para pengunjung tampak menikmati makanan seperti biasa tanpa menunjukkan rasa takut. Menurut pemilik warung, ide membuka usaha di lokasi tersebut datang dari sang menantu. Selain karena berada di dekat permukiman, lokasi itu dinilai memiliki potensi pembeli, terutama pada sore hingga malam hari. Warung yang baru beroperasi sekitar dua pekan itu disebut ramai dikunjungi, bahkan oleh pembeli dari luar daerah karena penasaran dengan konsepnya. Namun, di balik ramainya perhatian masyarakat, muncul pertanyaan yang jauh lebih penting: patutkah kuburan kaum Muslimin dijadikan tempat usaha dan lokasi makan? Kuburan Bukan Tempat Rekreasi atau Aktivitas Komersial Save my name, email, and website in
+                                                                this browser for the next time I
+                                                                comment. Alamat Redaksi Pusat Jalan Pulo Ribung Rukan Rose Garden Boulevard No. 85-87
+Kota Bekasi 17147 Telp (021) 82760392 dan (021) 21383521
+email: redaksi@carapandang.com © Carapandang.com - by Lintang Kreasindo Media

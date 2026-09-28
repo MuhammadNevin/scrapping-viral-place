@@ -1,0 +1,108 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "lokasi_text": "lokasi mentah apa adanya sesuai artikel (kelurahan/kecamatan/kota/kabupaten/provinsi jika disebut)",
+          "alasan_viral": "ringkasan alasan/daya tarik",
+          "indikasi_waktu": "tanggal/bulan/periode eksplisit terkait mulai viral, atau null jika tidak disebut",
+          "is_explicitly_viral": true atau false (true HANYA jika artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet, bukan sekadar direkomendasikan),
+          "confidence": angka 0-1
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 1944
+Judul: Kemendag Proyeksikan Realisasi DMO Minyakita September 2026 Meningkat Seiring Kenaikan Ekspor CPO - Pontianak Post
+Isi:
+Padang – Pemerintah Kota Padang mulai menggencarkan Operasi Pasar Murah di tiga kecamatan guna menjaga stabilitas harga kebutuhan pokok serta menekan laju inflasi menjelang perayaan Iduladha 1447 Hijriah. Program ini menyasar masyarakat kelas menengah ke bawah dengan menghadirkan komoditas pangan langsung dari distributor utama. Lokasi perdana kegiatan tersebut dipusatkan di Tempat Evakuasi Sementara (TES) Jalan Pinang Sori II, Kelurahan Air Tawar Timur, Kecamatan Padang Utara, Selasa (19/5/2026). Kepala Bidang Penyelenggaraan Kebutuhan Pokok Penting Dinas Perdagangan Kota Padang, Edrian Edward, menjelaskan bahwa pihaknya memangkas rantai distribusi dengan menggandeng sejumlah mitra strategis. Kolaborasi bersama Bulog, PPI, CP Tani Makmur, serta PT Genta Raya dilakukan untuk menjamin ketersediaan stok barang tetap aman di pasaran. “Kegiatan ini bertujuan mengendalikan inflasi dan menjaga stabilitas harga barang pokok penting menjelang Iduladha,” ujar Edrian. Melalui skema ini, harga berbagai komoditas seperti beras, telur, minyak goreng, gula, hingga cabai dipastikan lebih rendah dibandingkan harga di pasar tradisional. Sebagai contoh, minyak goreng subsidi dijual seharga Rp15.000 per liter, atau di bawah Harga Eceran Tertinggi (HET) yang ditetapkan sebesar Rp15.700. Selain harga yang kompetitif, pemerintah daerah juga memberikan insentif tambahan berupa kupon potongan harga senilai Rp5.000 per lembar bagi 300 warga. Setiap warga diperbolehkan menggunakan maksimal dua kupon, sehingga mereka mendapatkan potongan harga langsung sebesar Rp10.000 saat melakukan pembayaran di kasir. Inisiatif ini mendapat respons positif dari masyarakat. Salah seorang warga, Dewianra Wita, mengaku sangat terbantu dengan kehadiran pasar murah tersebut karena meringankan beban pengeluaran rumah tangga berkat harga produk yang jauh lebih terjangkau. Setelah menyambangi Kecamatan Padang Utara, rangkaian Operasi Pasar Murah ini dijadwalkan berlanjut ke Kecamatan Koto Tangah pada 20 Mei, dan berakhir di Kecamatan Kuranji pada 21 Mei 2026. Jakarta – Notifikasi ruang penyimpanan ponsel yang penuh… Bukittinggi – Gubernur Sumatera Barat, Mahyeldi Ansharullah, mendesak… Lubukbasung – Kabupaten Agam sukses mengukuhkan diri sebagai… Padang – Perumda Air Minum Kota Padang memperkuat… Padang – DPRD Provinsi Sumatera Barat bakal menggelar… Jakarta – Program Studi Sarjana Farmasi dan Pendidikan…
+
+
+### Artikel 1945
+Judul: Harga Masih di Atas HET, Distribusi Minyakita Terus Diperkuat - Harianjogja.com
+Isi:
+Adapun para pemenang dalam lomba tersebut, yakni juara
+favorit I judul lagu pos atemu turang, penyanyi Hepron Padang, ciptaan Hepron
+Padang. Juara favorit II judul lagu tading medumang, penyanyi Rita Sihotang
+ciptaan Rita Sihotang. Juara favorit III judul lagu ikan lae gundur, penyanyi
+Muslim Boang Manalu, pencipta Muslim Boang Manalu. Juara favorit IV judul lagu tanoh Dairi meriah, penyanyi
+Aidah Kasea Bintang, pencipta Santi Limbong, juara favorit V judul lagu mbue
+deng ngo lako pekadenta, penyanyi Vindah Agustinus Munthe, pencipta Vindah
+Agustinus Munthe. Juara favorit VI judul lagu tedoh anak siampunen, penyanyi
+Sahmin Solin, pencipta Sahmin Solin. Untuk juara harapan III dengan nilai 265, judul lagu eta
+merdembas, pencipta Yulira Boang Manalu, penyanyi Yulira Boang Manalu dan
+Beatris. Juara harapan II dengan nilai 267 judul lagu roh ke karina, pencipta
+Eben Siregar, penyanyi Fitri Tobing. Juara harapan I dengan nilai 268, judul
+lagu pembangunan, pencipta Hendri Berutu, penyanyi Gonong Samosir dan Hendri
+Berutu. Juara III dengan nilai 270 judul lagu ku embah calon
+permaenmi nange, pencipta Dirman Situmorang, penyanyi Dirman Situmorang. Juara
+II dengan nilai 275 judul lagu o tano Pakpak, pencipta Febri Limbong, penyanyi
+Febri Limbong. Juara I dengan nilai 282 judul lagu rama rama roh karah pintu,
+pencipta Sedekia Padang, penyanyi James Siburian. Ketua PB LKP dalam acara tersebut menyampaikan apresiasi
+yang tinggi untuk para pencipta lagu dan penyanyi yang luar biasa. Zuhri
+Bintang mengatakan lagu Pakpak sudah hampir terlupakan di era saat ini yang
+semakin berkembang. "Banyak lagu yang dinyanyikan oleh peserta, bertemakan
+pembangunan, keluarga ataupun ciri khas Pakpak. Lagu itu kita akan kembangkan
+dan viralkan," ujarnya. Ia berharap dari festival ini akan hadir lagu Pakpak yang
+setara dengan Hilman Padang yakni Cikalepongpong. Zuhri Bintang menambahkan
+nantinya setiap lagu yang diperlombakan akan di sampai kepada Bupati Dairi
+Vickner Sinaga dan diharapkan akan dapat diperdengarkan atau ditampilkan di
+hari jadi kabupaten Dairi. "Kepada sponsorship yang telah memberikan dukungan,
+kami sampaikan terimakasih. Kita harus bangga karena ini adalah salah satu
+wujud kecintaan terhadap bangsa. Atas nama panitia kami sampaikan terimakasih
+terhadap seluruh pihak yang mendukung untuk mensukseskan acara ini. Budaya
+Pakpak akan semakin dikenang lewat festival ini, mudah mudahan tahun depan akan
+kita buat event yang lebih meriah lagi," tutup Zuhri Bintang dalam
+sambutannya. Sebagai informasi, event perdana PB LKP tersebut di ikuti
+oleh peserta dari 6 Kabupaten/Kota, yakni Aceh Singkil, Aceh Tenggara, Kota
+Subulussalam, Humbang Hasundutan, Pakpak Bharat, Dairi. . (PS/K.TUMANGGER).
+
+
+### Artikel 1946
+Judul: Pendapatan PBD Naik Rp202 Miliar, Belanja Modal Baru 12,6 Persen, Gubernur Elisa Kambu Bereaksi - iNews.ID
+Isi:
+PEKANBARU (CAKAPLAH) - Libur panjang sekolah menjadi momen yang dimanfaatkan banyak keluarga untuk menghabiskan waktu bersama. Selama ini, pusat perbelanjaan masih menjadi pilihan utama masyarakat Pekanbaru untuk berlibur. Padahal Pekanbaru juga memiliki sejumlah destinasi wisata yang dapat menjadi alternatif untuk mengisi waktu liburan tanpa harus keluar daerah. Salah satu destinasi yang dapat menjadi pilihan adalah taman pinggir sungai siak. Kawasan ruang terbuka ini menawarkan suasana yang tenang dengan pemandangan Sungai Siak yang menjadi salah satu ikon Kota Pekanbaru. Pengunjung dapat menikmati pemandangan di sore hari sambil menghabiskan waktu bersama keluarga. Pilihan wisata lainnya adalah D'keboen Park. Destinasi yang beralamat di Jl. Beringin, Air Hitam, Payung Sekaki ini menghadirkan konsep rekreasi keluarga dengan berbagai wahana permainan anak. Sementara itu, Taman Aerosport juga menjadi salah satu alternatif wisata yang cukup di minati masyarakat. Kawasan yang tak jauh dari Bandara SSK II Pekanbaru ini didominasi oleh pepohonan rindang yang menciptakan suasana teduh dan nyaman untuk bersantai. Selain itu, pengunjung dapat menikmati wahana perahu bebek yang menjadi salah satu daya tarik utama. Keberadaan berbagai destinasi wisata tersebut menunjukkan bahwa di Kota Pekanbaru memiliki pilihan wisata yang beragam selain pusat perbelanjaan. Dengan konsep yang berbeda di setiap lokasi, masyarakat dapat memilih tempat rekreasi sesuai dengan kebutuhan, baik untuk menikmati suasana alam, bermain bersama anak, maupun sekedar melepas penat di ruang terbuka. "Lumayan sering main ke Taman Aerosport sama teman-teman. Biasa duduk-duduk sambil menikmati sore hari. Apalagi ada pohon-pohon, jadi lumayan adem lah," ujar Fifah, warga Panam. Ia mengaku sudah tiga kali datang ke Taman Aerosport. "Itu ada bebek-bebekan juga. Seru banget kalau kesini sama teman," pungkasnya.
+
+
+### Artikel 1947
+Judul: Minang Geopark Run 2026 Segera Digelar, Lari di Tengah Pemandangan Ngarai Sianok Jadi Daya Tarik - Tribunnews.com
+Isi:
+PEKANBARU (CAKAPLAH) - Walikota Pekanbaru Agung Nugroho berharap para finalis Bujang Dara Pekanbaru Tahun 2026 dapat menjadi generasi muda yang berperan aktif dalam mempromosikan budaya dan pariwisata daerah. Harapan itu disampaikan Agung saat menghadiri grand final Pemilihan Bujang Dara Pekanbaru Tahun 2026 yang digelar di halaman Mal Pelayanan Publik (MPP) Pekanbaru, Sabtu (20/6/2026) malam. Dalam kesempatan tersebut, Agung menegaskan bahwa ajang Bujang Dara bukan hanya tentang meraih gelar juara. Menurutnya, seluruh peserta yang berhasil melangkah hingga babak grand final telah membuktikan kemampuan dan keberanian mereka untuk tampil di depan publik. "Semua finalis yang ada malam ini adalah pemenang. Mereka berani mengikuti proses, belajar, dan keluar dari zona nyaman," kata Agung. Ia mengapresiasi semangat para finalis yang dinilai memiliki keberanian untuk mengembangkan diri. Menurutnya, sikap tersebut menjadi modal penting bagi generasi muda dalam menghadapi berbagai tantangan ke depan. Lebih lanjut, Agung mengatakan bahwa seorang Bujang dan Dara Pekanbaru harusq memiliki lebih dari sekadar penampilan menarik. Mereka juga dituntut memiliki wawasan luas, karakter yang baik, adab, serta rasa cinta terhadap daerah yang diwakili. Menurutnya, Bujang Dara Pekanbaru memiliki peran strategis sebagai duta daerah yang bertugas memperkenalkan kekayaan budaya dan potensi wisata Kota Pekanbaru kepada masyarakat. "Kalau cantik dan tampan itu banyak di media sosial, tapi yang kita cari adalah cantik dan tampan yang memiliki wawasan, karakter, adab, dan kecintaan terhadap Kota Pekanbaru," ujarnya. Melalui ajang tersebut, Agung berharap para finalis dapat menjadi representasi generasi muda Pekanbaru yang tidak hanya berprestasi, tetapi juga mampu membawa nama baik daerah serta ikut mendukung pengembangan sektor budaya dan pariwisata di Kota Bertuah Agung berharap para finalis yang terpilih nantinya mampu menjadi wajah Kota Pekanbaru yang membanggakan serta berkontribusi dalam mengenalkan potensi daerah kepada masyarakat luas. "Kami berharap Bujang Dara Pekanbaru 2026 dapat menjadi generasi muda yang mampu mempromosikan budaya dan pariwisata daerah, sekaligus menjadi representasi Kota Pekanbaru yang berkarakter, berwawasan, dan membanggakan," tutupnya.
+
+
+### Artikel 1948
+Judul: Bantuan Pangan Beras Disalurkan kepada 1.800 KPM di Sorong - Headline.co.id
+Isi:
+PEKANBARU (CAKAPLAH) - Sebagai bagian dari komitmen dalam mendukung kemajuan sektor pariwisata di Provinsi Riau, jajaran manajemen ARYADUTA Pekanbaru yang dipimpin oleh General Manager, Mr. Rivelino, melakukan kunjungan silaturahmi sekaligus audiensi ke Dinas Pariwisata Provinsi Riau. Kunjungan tersebut disambut hangat oleh Kepala Dinas Pariwisata Provinsi Riau, H. Tekad Parbatas Setia Dewa, S.T., M.T., beserta jajaran. Pertemuan berlangsung dalam suasana penuh keakraban dan semangat kolaborasi untuk membangun sinergi yang lebih erat antara pemerintah dan industri perhotelan. Melalui kunjungan ini, ARYADUTA Pekanbaru menegaskan komitmennya untuk terus menjalin hubungan yang baik dengan Dinas Pariwisata Provinsi Riau sekaligus membuka peluang kolaborasi dalam berbagai program promosi destinasi, penyelenggaraan event, hingga kegiatan yang dapat meningkatkan daya tarik wisata Kota Pekanbaru dan Provinsi Riau secara keseluruhan. General Manager ARYADUTA Pekanbaru, Mr. Rivelino, menyampaikan bahwa kemajuan industri pariwisata membutuhkan kolaborasi yang kuat dari seluruh pemangku kepentingan. "Kami percaya bahwa sinergi antara pemerintah dan pelaku industri pariwisata merupakan kunci dalam meningkatkan daya saing destinasi. ARYADUTA Pekanbaru siap mendukung berbagai program promosi dan kegiatan yang dapat menarik lebih banyak wisatawan untuk berkunjung ke Pekanbaru serta memberikan pengalaman menginap yang berkesan bagi setiap tamu," ujar Mr. Rivelino. Senada dengan hal tersebut, Kepala Dinas Pariwisata Provinsi Riau, H. Tekad Parbatas Setia Dewa, S.T., M.T., menyambut baik inisiatif ARYADUTA Pekanbaru dalam membangun kolaborasi yang berorientasi pada pengembangan pariwisata daerah. Diharapkan sinergi ini dapat menghadirkan berbagai program inovatif yang mampu meningkatkan kunjungan wisatawan domestik maupun mancanegara ke Provinsi Riau. Sebagai salah satu hotel terkemuka di Kota Pekanbaru, ARYADUTA Pekanbaru akan terus berperan aktif dalam mendukung perkembangan industri pariwisata melalui penyelenggaraan berbagai kegiatan, promosi, serta kolaborasi strategis bersama pemerintah, komunitas, dan berbagai mitra lainnya. Melalui hubungan yang semakin erat ini, ARYADUTA Pekanbaru optimistis dapat berkontribusi dalam memperkuat citra Pekanbaru sebagai destinasi yang menarik untuk bisnis maupun rekreasi, sekaligus memberikan dampak positif bagi pertumbuhan sektor pariwisata dan ekonomi daerah.
+
+
+### Artikel 1949
+Judul: Wisata Kuliner Jaksel Berikut Tempat Makan Ramen Paling Enak dan Populer di Jakarta Selatan - jogja.disway.id - Disway Jogja
+Isi:
+PEKANBARU (RA) - Festival kue Ketan Talam Durian yang diselenggarakan Pemerintah Kota (Pemko) Pekanbaru, Minggu (21/6/2026) resmi tercatat di Museum Rekor Indonesia (MURI) sebagai sajian terpanjang di dunia. Jutaan masyarakat tumpah ruah memadati kawasan Jalan Jendral Sudirman, tepat kue khas Pekanbaru itu disajikan. Selain dari pihak MURI, acara dalam rangka perayaan HUT Pekanbaru Ke-242 ini juga dihadiri Wakil Ketua Komisi VI DPR RI, Andre Rosiade. Politisi senior dari Partai Gerinda itu, diminta Wali Kota Pekanbaru, Agung Nugroho untuk memberikan hadiah umroh kepada masyarakat yang hadir. "Dari bapak Andre satu hadiah umroh dan dari saya satu. Kita berikan kepada satu pria dan satu wanita hadiah umroh ini," kata Wali Kota Pekanbaru, Agung Nugroho saat memberikan sambutan dalam Festival kue Ketan Talam Durian. Masyarakat yang hadir semakin antusias mendengar adanya hadiah umroh yang bakal diberikan. Wako pun meminta masyarakat yang hadir di sana untuk menjawab beberapa pertanyaan agar mendapatkan hadiah umroh tersebut. Salah seorang jurnalis, Evan berhasil mendapatkan hadiah umroh tersebut. Jurnalis dari salah satu media cetak di Provinsi Riau ini berhasil menjawab pernyataan yang diberikan Wako dan Andre Rosiade. Sementara, Dian dari TP PKK Kecamatan Kulim juga berhasil meraih hadiah tiket umroh. Agung menyebut, pada momen HUT Pekanbaru ini ia ingin agar masyarakat juga merasakan semarak dan kebahagiaan. Apalagi Pemko Pekanbaru juga sudah membuat 48 kegiatan dan kebijakan yang meringankan masyarakat. Mulai dari kebijakan parkir gratis, naik Bus TMP gratis, khitanan massal gratis, penghapusan denda pajak daerah, diskon menginap di hotel berbintang, hingga kegiatan sosial lainnya.
+
+
+### Artikel 1950
+Judul: Ayu Dewi dan Suami Spill Top 13 Makanan Favoritnya di Jakarta - detikFood
+Isi:
+INSTITUT Teknologi Bandung (ITB) merespons lagu berjudul &ldquo;Erika&rdquo; yang dibawakan Orkes Semi Dangdut (OSD). OSD berada di bawah naungan Himpunan Mahasiswa Tambang ITB (HMT-ITB). Lagu itu viral di media sosial karena liriknya dinilai memuat unsur pelecehan terhadap perempuan. Direktur Komunikasi dan Hubungan Masyarakat ITB Neneng Nurlaela Arief mengklaim pihaknya berkomitmen membangun lingkungan kampus yang aman, nyaman, bermartabat, dan saling menghormati bagi seluruh sivitas akademika. ITB memandang peristiwa ini sebagai momentum penting untuk memperkuat budaya kampus yang menjunjung etika, penghormatan terhadap martabat manusia, serta pencegahan segala bentuk kekerasan, termasuk kekerasan seksual verbal. &ldquo;Atas hal tersebut, HMT-ITB telah menyampaikan permohonan maaf secara terbuka,&rdquo; kata Nurlaela pada Rabu, 15 April 2026. Permintaan maaf HMT-ITB, kata Nurlaela, sekaligus mengonfirmasi konten dalam penampilan OSD tak mencerminkan nilai-nilai yang seharusnya dijunjung di lingkungan akademik dan organisasi kemahasiswaan. HMT-ITB juga menyatakan tidak membenarkan segala bentuk tindakan yang merendahkan martabat individu maupun kelompok mana pun. Nurlaela mengatakan HMT-ITB telah berkoordinasi dengan sejumlah pihak untuk menurunkan konten video dan audio dari kanal resmi organisasi serta akun-akun terafiliasi. Termasuk untuk menurunkan video lama yang kembali beredar di masyarakat.&nbsp; Selain itu, HMT-ITB juga mengevaluasi secara menyeluruh terhadap konten, pelaksanaan, pengawasan kegiatan, sekaligus peninjauan ulang terhadap standar dan pedoman organisasi. &ldquo;Agar semakin selaras dengan nilai-nilai etika di lingkungan kampus dan masyarakat,&rdquo; kata Nurlaela.&nbsp; Menurut dia, komitmen tersebut sejalan dengan langkah pembinaan yang telah dilakukan ITB. Termasuk di antaranya kampanye etika berpenampilan dan etika komunikasi mahasiswa melalui pesan singkat yang digagas Direktorat Persiapan Bersama (Ditsama) ITB. Kampanye ini, katanya, menekankan pentingnya sikap sopan, hormat, tanggung jawab, dan kedewasaan mahasiswa dalam berpenampilan maupun berkomunikasi di lingkungan akademik. Di samping itu, ada kampanye etika mahasiswa dan literasi media sosial di lingkungan kampus. Lewat kampanye ini, ITB mengajak mahasiswa untuk memahami pencegahan kekerasan seksual, baik fisik maupun verbal, sekaligus menggunakan media sosial secara bijak, kritis, santun, dan bertanggung jawab.&nbsp; Untuk pencegahan dan penanganan terhadap kekerasan, ITB mempunyai Satgas Pencegahan dan Penanganan Kekerasan (PPK) yang menaungi seluruh kampus ITB di Ganesha, Jatinangor, Cirebon, dan Jakarta. Satgas ini berperan dalam memperkuat sosialisasi, pencegahan, serta menyediakan kanal konsultasi dan pelaporan bagi sivitas akademika. Selain itu, edukasi mengenai Pencegahan dan Penanganan Kekerasan Seksual (PPKS) juga telah menjadi bagian dari materi pembinaan mahasiswa baru ITB. Edukasi tersebut dipadukan dengan informasi pelayanan kesehatan di lingkunga
+
+
+### Artikel 1951
+Judul: 3 Tempat Makan Siang Enak di Jakarta Selatan, Traveler Wajib Coba - Tribun Travel
+Isi:
+RIAU ONLINE , PEKANBARU - Pemerintah Kota (Pemko) Pekanbaru akan menggelar 12.000 ASN mengaji dan Tabligh Akbar di Masjid Raya An-Nur Kota Pekanbaru, pada Sabtu sore, 4 Juli 2026. Plh Sekretaris Daerah (Sekda) Kota Pekanbaru Syamsuwir mengatakan agenda ini merupakan penutup dari rangkaian acara Hari Ulang Tahun (HUT) Ke-242 Pekanbaru. Ditargetkan, 12.000 ASN mengaji akan kembali memecahkan Rekor Museum Rekor Dunia Indonesia (MURI), setelah sebelumnya Pekanbaru memecahkan rekor MURI untuk kue talam durian sepanjang 1 kilometer. "Kita menargetkan ASN Mengaji untuk memecahkan Rekor Museum Rekor Indonesia (MURI) dengan peserta ASN terbanyak se-Indonesia. Ada 12.000 ASN akan ikut mengaji dengan surah Al-Mulk," ujarnya, Sabtu, 4 Juli 2026. Setelah mengaji, agenda akan ditutup dengan Tabligh Akbar yang akan menghadirkan Ustad Das'ad Latif. Pengajian akan dimulai usai salat maghrib dan kemudian Tabligh Akbar dimulai sekitar pukul 20.00 WIB. Syamswir memprediksi area Masjid Agung An-Nur akan dipenuhi oleh ribuan masyarakat maupun kalangan ASN pada sore nanti. Ia menjelaskan, pihaknya sudah mematangkan persiapan, baik untuk pengaturan arus lalu lintas, keamanan dan keselamatan serta hal-hal lain yang dibutuhkan untuk penyelenggaraan acara. "Semua persiapan sudah dimatangkan, kita sudah berkoordinasi dengan aparat keamanan untuk lalu lintas dan keamanan, dinas-dinas terkait untuk keadaan darurat kebersihan dan sebagainya," pungkasnya.

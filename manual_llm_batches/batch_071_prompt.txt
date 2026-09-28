@@ -1,0 +1,141 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "lokasi_text": "lokasi mentah apa adanya sesuai artikel (kelurahan/kecamatan/kota/kabupaten/provinsi jika disebut)",
+          "alasan_viral": "ringkasan alasan/daya tarik",
+          "indikasi_waktu": "tanggal/bulan/periode eksplisit terkait mulai viral, atau null jika tidak disebut",
+          "is_explicitly_viral": true atau false (true HANYA jika artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet, bukan sekadar direkomendasikan),
+          "confidence": angka 0-1
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 560
+Judul: Viral Kepala SPPG Pesisir Barat Pamer Tumpukan Uang, KPPG Lampung Minta Klarifikasi - Kupas Tuntas
+Isi:
+Lampung Selatan — Semangat kebersamaan dan sinergitas lintas elemen masyarakat mewarnai pelaksanaan kegiatan Bazar, Pasar Rakyat, Olahraga Bersama, dan Bakti Sosial yang digelar Polda Lampung dalam rangka memperingati Hari Bhayangkara ke-80 Tahun 2026, Jumat (19/6/2026). Kegiatan yang berlangsung di Lapangan Polda Lampung sejak pukul 06.30 WIB tersebut dihadiri langsung oleh Kapolda Lampung, Irjen Pol Helfi Assegaf, didampingi Wakapolda Lampung, Brigjen Pol Sumarto, beserta Bhayangkari, jajaran pejabat utama Polda Lampung, unsur TNI, Forkopimda, pemerintah daerah, stakeholder terkait, serta masyarakat. Pelaksanaan kegiatan ini menjadi salah satu wujud komitmen Polri, khususnya Polda Lampung, dalam memperkuat kedekatan dengan masyarakat melalui kegiatan yang menyentuh langsung kebutuhan publik. Selain olahraga bersama dan jalan sehat, kegiatan juga diisi dengan bazar UMKM, pasar rakyat, bakti sosial, hiburan, serta pembagian berbagai door prize kepada peserta. Dalam kegiatan bakti sosial tersebut, Polda Lampung menyalurkan sebanyak 1.000 paket bantuan dengan sasaran komunitas ojek online atau ojol dan masyarakat penerima lainnya. Bantuan tersebut menjadi bentuk kepedulian Polri kepada masyarakat, khususnya kelompok yang membutuhkan dukungan langsung dalam memenuhi kebutuhan sehari-hari. Dalam sambutannya, Kapolda Lampung menyampaikan bahwa peringatan Hari Bhayangkara ke-80 menjadi momentum penting bagi Polri untuk terus memperkuat pengabdian kepada bangsa dan negara, sekaligus meningkatkan kualitas pelayanan, perlindungan, dan pengayoman kepada masyarakat. Kapolda Lampung menegaskan bahwa olahraga bersama dan kegiatan sosial yang dilaksanakan tidak hanya bertujuan menjaga kesehatan dan kebugaran, tetapi juga menjadi sarana mempererat silaturahmi, soliditas, dan sinergitas antara Polri, TNI, pemerintah daerah, Forkopimda, stakeholder, serta seluruh lapisan masyarakat. “Melalui kegiatan ini, kita ingin terus memperkuat kebersamaan dan sinergitas dalam menjaga keamanan, ketertiban, serta mendukung pembangunan di Provinsi Lampung. Polri tidak dapat bekerja sendiri tanpa dukungan seluruh elemen bangsa,” ujar Helfi. Lebih lanjut, Kapolda Lampung menyampaikan apresiasi dan terima kasih kepada unsur TNI, Forkopimda, pemerintah daerah, stakeholder terkait, masyarakat, serta seluruh personel Polda Lampung dan jajaran yang telah berperan aktif dalam menjaga stabilitas keamanan dan ketertiban masyarakat di wilayah Lampung. Menurutnya, kolaborasi yang kuat antara Polri dan seluruh elemen masyarakat merupakan fondasi penting dalam menciptakan situasi kamtibmas yang aman, damai, dan kondusif. Sinergitas tersebut juga menjadi bagian dari upaya mendukung terwujudnya pembangunan daerah yang berkelanjutan serta kesejahteraan masyarakat. Kapolda Lampung juga menekankan bahwa memasuki usia ke-80 tahun, Polri dituntut untuk semakin adaptif, responsif, dan profesional dalam menjawab berbagai tantangan tugas ke depan. Polri harus terus hadir di tengah masyarakat dengan p
+
+
+### Artikel 561
+Judul: Pria di Bandar Lampung yang Curi Mobil Temannya Ditangkap, Pelaku Ditembak - detikcom
+Isi:
+Viral Kepala SPPG Pesisir Barat Pamer Tumpukan Uang, KPPG Lampung Minta Klarifikasi. Foto: Ist. Kupastuntas.co, Pesisir Barat - Foto yang memperlihatkan Kepala Satuan Pelayanan Pemenuhan Gizi (SPPG) di Kabupaten Pesisir Barat bersama seorang ahli gizi memegang tumpukan uang tunai viral di media sosial. Unggahan tersebut memicu beragam spekulasi dari warganet hingga akhirnya mendapat perhatian dari Kantor Pelayanan Pemenuhan Gizi (KPPG) Provinsi Lampung. Dalam foto yang beredar, terlihat dua perempuan memegang uang pecahan Rp100 ribu dan Rp50 ribu yang disusun dalam beberapa tumpukan. Pada foto lainnya, uang tersebut tampak dimasukkan ke dalam kantong plastik hitam. Unggahan itu ramai diperbincangkan dan menuai berbagai komentar yang mempertanyakan asal-usul uang yang terlihat dalam dokumentasi tersebut. Menanggapi hal itu, Kepala KPPG Provinsi Lampung, Achmad Hery Setiawan mengatakan, pihaknya telah meminta klarifikasi kepada Koordinator Wilayah serta Kepala SPPG Pasar Krui untuk mengetahui fakta di balik foto yang beredar. Langkah tersebut dilakukan agar informasi yang berkembang di masyarakat tidak menimbulkan kesalahpahaman. Berdasarkan keterangan awal yang diterima KPPG Lampung, foto tersebut merupakan dokumentasi lama yang diunggah melalui akun media sosial milik seorang ahli gizi di SPPG 02 Pasar Krui pada Januari 2026. Namun, foto itu kembali beredar dan menjadi viral sehingga memunculkan berbagai spekulasi di ruang publik. "Kami sudah meminta klarifikasi kepada koordinator wilayah dan Kepala SPPG terkait foto yang beredar di media sosial. Berdasarkan informasi sementara, foto tersebut merupakan unggahan lama yang diambil pada Januari lalu," ujar Achmad Hery, Jumat (17/7/2026). KPPG Provinsi Lampung menegaskan proses pendalaman masih berlangsung untuk memastikan konteks foto tersebut secara utuh. Pihaknya juga mengimbau masyarakat tidak terburu-buru menarik kesimpulan sebelum hasil klarifikasi resmi disampaikan. Hingga kini, belum ada informasi yang menunjukkan adanya pelanggaran ataupun penyimpangan terkait foto yang viral tersebut, dan penyelusuran masih terus dilakukan. (*)
+
+
+### Artikel 562
+Judul: Program MBG Lampung Barat Kembali Tuai Keluhan, SPPG Pasar Liwa Tak Jera Meski Sudah Dapat SP1 - Kupas Tuntas
+Isi:
+Pria di Bandar Lampung, berinisial MRP (25) yang mencuri mobil milik temannya ditangkap polisi. Saat hendak ditangkap pelaku melawan hingga ditembak petugas. Direktur Reserse Kriminal Umum Polda Lampung Kombes Indra Hermawan mengatakan pelaku ditangkap di kawasan Pasar Tugu, Bandar Lampung, Minggu (14/6/2026) sekitar pukul 11.30 WIB. "Pelaku berhasil kami amankan berikut barang bukti kendaraan yang sebelumnya dilaporkan hilang oleh korban. Saat proses penangkapan, pelaku melakukan perlawanan aktif yang membahayakan petugas sehingga dilakukan tindakan tegas dan terukur sesuai prosedur," kata Indra, Rabu (17/6/2026). SCROLL TO CONTINUE WITH CONTENT Setelah dilumpuhkan, pelaku langsung dibawa ke Rumah Sakit Bhayangkara Polda Lampung untuk mendapatkan perawatan medis sebelum menjalani pemeriksaan lebih lanjut. Indra menjelaskan kasus tersebut bermula saat pelaku yang merupakan teman anak korban meminjam mobil Daihatsu Sigra milik korban pada 10 Mei 2026. Saat itu, pelaku meminta izin menggunakan kendaraan melalui anak korban dan diberikan kunci serep mobil. "Keesokan harinya, mobil tersebut dikembalikan. Namun beberapa hari kemudian, korban mendapati kendaraan yang diparkir di sekitar rumahnya di kawasan Sawah Brebes, Tanjungkarang Timur, Bandar Lampung ini telah hilang," jelasnya. Tak hanya mobil, korban juga mengetahui kunci serep dan STNK kendaraan telah raib. Atas kejadian itu, korban mengalami kerugian berupa satu unit mobil Daihatsu Sigra tahun 2024 warna hitam bernomor polisi BE-1891-AAS. "Dari hasil penyelidikan, pelaku diduga memanfaatkan akses yang diperolehnya saat meminjam kendaraan korban. Setelah laporan diterima, tim melakukan serangkaian penyelidikan hingga akhirnya keberadaan pelaku berhasil diketahui," ujarnya. Dalam pengungkapan kasus tersebut, polisi mengamankan barang bukti berupa satu unit mobil Daihatsu Sigra milik korban yang sebelumnya dilaporkan hilang. Saat ini pelaku telah ditahan di Mapolda Lampung dan menjalani proses hukum. Penyidik menjerat pelaku dengan Pasal 477 Undang-undang Nomor 1 Tahun 2023 tentang pencurian dengan pemberatan. "Kami mengimbau masyarakat untuk lebih berhati-hati saat meminjamkan kendaraan kepada pihak lain, sekalipun orang yang sudah dikenal. Kasus ini masih terus kami dalami untuk melengkapi berkas penyidikan," ujarnya. Anda menyukai artikel ini
+
+
+### Artikel 563
+Judul: Lindungi Konsumen, Dinas Perdagangan Bandar Lampung Gencar Sidang Tera di Pasar Tradisional - radarlampung.disway.id - Radar Lampung
+Isi:
+Temuan ulat di Menu MBG dari SPPG Pasar Liwa. Foto: Ist Kupastuntas.co, Lampung Barat - Satgas MBG Lampung Barat
+mengaku masih belum menerima laporan terkait keluhan penerima menu program MBG
+yang dibagikan SPPG Tugu Sari 2, Kecamatan Sumber Jaya yang mendapat menu
+daging dengan kondisi alot dan susah di makan. Hal tersebut disampaikan Anggota Satgas MBG Lampung Barat,
+Marjohan, namun demikian ia mengatakan ketua Satgas telah menginstruksikan
+Camat untuk datang langsung ke lokasi memastikan hal tersebut. "Untuk Satgas sudah diperintah langsung (ke lokasi)
+oleh Ketua Satgas, camat yang melaksanakan cek ke lokasi," kata Marjohan
+saat diminta keterangan, Senin (20/4/2026). Ia mengatakan jika dapur SPPG Tugu Sari 2, Sumber Jaya yang
+mendistribusikan menu MBG yang viral tersebut yakni milik yayasan Bangun
+Cakrawala Nusantara, namun saat ditanya terkait pemilik yayasan ia mengaku
+belum tau pasti. "Kalau nama mitra nya kami kurang paham, karena antara
+yayasan dan mitra orang nya berbeda," kata dia. Selain kasus MBG di Kecamatan Sumber Jaya, pihaknya juga
+telah menginstruksikan Satgas Kecamatan untuk menindaklanjuti kasus temuan ulat
+di SDN 3 Way Mengaku milik dapur SPPG Pasar Liwa, Kecamatan Balik Bukit. Diketahui SPPG Pasar Liwa berlokasi di Komplek Pertokoan
+Pasar Liwa, Kecamatan Balik Bukit, di bawah naungan Yayasan Insan Sehat
+Mandiri. Namun ia mengatakan belum menerima hasil dari peninjauan lokasi atas
+kedua kasus itu. "Kami belum dapat (laporan) mungkin langsung lapor
+Ketua satgas," sambungnya. BACA JUGA: MBG
+di Lampung Barat Dikeluhkan, Daging Alot Seperti Karet hingga Temuan Ulat di
+Makanan Siswa Marjohan mengatakan, mengantisipasi kasus serupa agar tidak
+terulang, pihaknya minggu ini akan segera mengumpulkan kepala Dapur SPPG untuk
+dilakukan pembinaan serta membahas kasus yang sedang viral. "Segera minggu ini satgas akan mengumpulkan kepala
+dapur SPPG untuk melakukan rakor bulanan, dan pembinaan. Sekalian membahas hal
+ini petunjuk pimpinan," jelasnya. Sekedar diketahui, SPPG Pasar Liwa sebelumnya telah mendapat
+SP1 karena kesalahan yang sama, yakni ditemukan ulat pada daun sajian makanan
+yang disiapkan untuk di konsumsi para penerima beberapa waktu lalu. Ketua Satgas MBG Lampung Barat, Ahmad Hikami saat itu
+menjelaskan, Satgas menemukan proses pencucian bahan makanan yang kurang
+higienis dan Satgas juga menemukan adanya ulat pada daun sajian makanan yang
+disiapkan. Atas temuan tersebut, Satgas langsung melakukan pemeriksaan
+lanjutan dan memberikan SP1 kepada pengelola SPPG. “Temuan ini tergolong
+serius. Kami minta pengelola segera melakukan perbaikan menyeluruh agar
+kejadian serupa tidak terulang,” tegas Ahmad Hikami saat itu. Sementara saat ini, Ketua Satgas MBG Lampung Barat, Ahmad
+Hikami saat di hubungi belum memberikan respon terkait hasil peninjauan Satgas
+Kecamatan terhadap dua kasus MBG yang tengah viral di tengah masyarakat
+tersebut. (*)
+
+
+### Artikel 564
+Judul: Viral Keroyok Pengendara Motor di Metro Lampung, Tiga Terduga Anggota Gengster Ditangkap Polisi - Kupas Tuntas
+Isi:
+ilustrasi pasar tradisional-Ai generated- RADARLAMPUNG.CO.ID— Dinas Perdagangan Kota Bandar Lampung terus menggencarkan kegiatan Sidang Tera dan Tera Ulang Alat Ukur, Takar, Timbang, dan Perlengkapannya (UTTP) di berbagai pusat perbelanjaan dan pasar tradisional. Langkah proaktif tersebut dilakukan guna memastikan setiap transaksi perdagangan di Kota Tapis Berseri berjalan jujur, adil, serta akurat demi melindungi hak-hak masyarakat sebagai konsumen. Kepala Dinas Perdagangan Kota Bandar Lampung, Erwin, menjelaskan bahwa kegiatan sidang tera merupakan komitmen nyata pemerintah kota dalam menghadirkan ekosistem perdagangan yang transparan dan akuntabel. Melalui sistem pelayanan jemput bola yang langsung menyambangi pasar-pasar, pihaknya ingin memastikan seluruh perangkat ukur yang digunakan pedagang tetap presisi sesuai standar metrologi legal. Sebagai salah satu wujud nyata dari komitmen tersebut, Dinas Perdagangan Kota Bandar Lampung melalui Bidang Metrologi sebelumnya telah berkolaborasi dengan UPT Pasar Tamin untuk melaksanakan kegiatan Sidang Tera/Tera Ulang di lingkungan UPT Pasar Tamin pada tanggal 15–17 September 2026. Kegiatan di pasar tersebut berjalan dengan lancar dan disambut baik oleh para pedagang. BACA JUGA: Kopertais XV Lampung Dorong Migrasi Total SISTER demi Akselerasi Karier Dosen PTKIS Erwin menyatakan bahwa dalam aktivitas perdagangan, prinsip utamanya adalah yang ditimbang harus pas, yang diukur harus tepat, dan yang dibayar harus sesuai. Melalui kegiatan seperti di UPT Pasar Tamin, pihaknya ingin memastikan hal tersebut benar-benar diterapkan di lapangan. Erwin memaparkan bahwa pelaksanaan sidang tera memberikan banyak manfaat strategis, baik dari sisi perlindungan konsumen maupun keuntungan bagi pelaku usaha. Berdasarkan Permendag Nomor 24 Tahun 2024 tentang Kegiatan Tera dan Tera Ulang UTTP, tera ulang dilakukan antara lain terhadap UTTP yang masa berlaku tanda sahnya telah berakhir dengan jangka waktu yang ditetapkan sesuai ketentuan. Bagi konsumen, kegiatan ini memberikan kepastian takaran sehingga mereka mendapatkan kuantitas barang baik berat, volume, maupun panjang yang sesuai dengan uang yang dibayarkan, sekaligus mencegah potensi kecurangan ukuran. Sementara itu, bagi para pedagang dan pelaku usaha, kepemilikan cap tera yang sah pada alat ukur menjadi bukti nyata bahwa mereka menjalankan usaha secara jujur dan terpercaya. Erwin menambahkan bahwa tera ulang secara berkala juga berfungsi menghindarkan pedagang dari kerugian akibat alat ukur atau timbangan eror yang justru keliru memberikan takaran berlebih. BACA JUGA: Resmi Tutup PKKMB 2026 'Brilliant Generation', Teknokrat Tumbuhkan Karakter Sang Juara Terlebih, dengan konsep pelayanan jemput bola langsung di lokasi strategis seperti pasar tradisional, para pedagang diuntungkan karena tidak perlu repot membawa perangkat timbang mereka ke kantor dinas, sehingga dapat menghemat waktu dan biaya operasional. Melalui pengawasan dan penertiban yang konsisten, Dinas Perdaga
+
+
+### Artikel 565
+Judul: Viral Kasus MBG Lambar, SPPG Sumber Jaya Kena Teguran BGN, Pasar Liwa Terancam SP2 - Kupas Tuntas
+Isi:
+Tangkapan layar video viral aksi pengeroyokan yang diduga dilakukan oleh kelompok gangster di Metro. Foto: Ist. Kupastuntas.co, Metro - Aksi sekelompok pemuda yang diduga ingin tampil bak gangster jalanan di Kota Metro, Lampung akhirnya ber ujung antiklimaks . Setelah sempat viral melalui tiga video amatir yang beredar di media sosial, tiga orang yang diduga terlibat dalam aksi pengeroyokan terhadap seorang pengendara motor kini berhasil diringkus Tim Tekab 308 Presisi Satreskrim Polres Metro. Jika sebelumnya mereka percaya diri menguasai jalanan, kini mereka harus menghadapi proses hukum. Kasus tersebut bermula dari peristiwa pengeroyokan yang terjadi pada Jumat, 26 Juni 2026 sekitar pukul 02.30 WIB di Jalan Imam Bonjol, Kelurahan Hadimulyo Barat, Metro Pusat. Korban yang sedang melintas bersama rekannya tiba-tiba dihadang oleh sekitar lima sepeda motor yang ditumpangi belasan orang. Tak hanya menghadang, kelompok tersebut diduga langsung melontarkan kata-kata kasar sebelum melakukan pemukulan secara bersama-sama. Korban tak mampu melawan hingga akhirnya tak sadarkan diri dan harus dilarikan ke RS Azizah Metro untuk mendapatkan perawatan akibat luka memar di kepala, lecet di punggung, serta luka robek di bagian kaki. Peristiwa itu kemudian dilaporkan ke Polres Metro. Laporan korban menjadi dasar penyelidikan yang dilakukan Satreskrim Polres Metro. Di sisi lain, beredarnya video pengeroyokan di media sosial semakin memudahkan aparat mengidentifikasi para pelaku. Kasat Reskrim Polres Metro AKP Rizky Dwi Cahyo mengatakan Tim Tekab 308 Presisi terus melakukan penyelidikan hingga akhirnya memperoleh informasi keberadaan salah seorang pelaku pada Jumat, 3 Juli 2026 sekitar pukul 18.30 WIB di kawasan Pasar Shopping Metro. "Petugas kemudian bergerak cepat dan berhasil mengamankan tersangka berinisial DK beserta barang bukti berupa sebuah helm berwarna abu-abu. Dari hasil pemeriksaan awal, polisi melakukan pengembangan hingga akhirnya dua tersangka lainnya, yakni NM dan AS, berhasil diamankan di lokasi berbeda," terang Kasat saat dikonfirmasi awak media, Sabtu (4/7/2026). Selain menangkap ketiga tersangka, polisi turut mengamankan barang bukti berupa satu bilah senjata tajam jenis senjer yang diduga digunakan dalam aksi tersebut. Seluruh tersangka berikut barang bukti langsung dibawa ke Mapolres Metro untuk menjalani pemeriksaan lebih lanjut. Dari hasil penyelidikan, ketiga tersangka diduga merupakan bagian dari kelompok yang menamakan diri Ultras Perintis, yang disebut berasal dari salah satu sekolah kejuruan di Kota Metro. Polisi pun masih terus mendalami kemungkinan keterlibatan pelaku lain yang ikut berada di lokasi saat kejadian. "Atas perbuatannya, para tersangka dijerat dengan dugaan tindak pidana pengeroyokan sebagaimana diatur dalam Pasal 262 Undang-Undang Nomor 1 Tahun 2023 tentang KUHP. Penyidik juga masih melengkapi alat bukti, memeriksa saksi-saksi, serta menyempurnakan berkas perkara untuk proses hukum selanjutnya," beber Kasat. Fenomena ke
+
+
+### Artikel 566
+Judul: 5 Event Lampung Bulan April 2026 yang Wajib Masuk Wishlist - IDN Times Lampung
+Isi:
+Kupastuntas.co, Lampung Barat - Buntut viralnya sejumlah
+temuan dalam pelaksanaan program Makan Bergizi Gratis (MBG) di Kabupaten
+Lampung Barat, Satuan Pelayanan Pemenuhan Gizi (SPPG) Sumber Jaya resmi
+mendapat sanksi teguran dari Badan Gizi Nasional (BGN). Sementara itu, SPPG
+Pasar Liwa terancam menerima sanksi lanjutan berupa Surat Peringatan 2 (SP2)
+apabila terbukti kembali melakukan pelanggaran serupa. Ketua Satgas MBG Lampung Barat, Ahmad Hikami, mengungkapkan
+bahwa pihaknya telah bergerak cepat menindaklanjuti persoalan tersebut dengan
+menginstruksikan Satgas di tingkat kecamatan untuk turun langsung ke lapangan
+melakukan pengecekan dan klarifikasi. Menurut Hikami, langkah ini dilakukan guna memastikan
+kebenaran informasi yang beredar sekaligus sebagai bentuk pengawasan terhadap
+kualitas pelaksanaan program MBG di daerah tersebut. Terkait kasus di Kecamatan Sumber Jaya, Hikami menjelaskan
+bahwa pihak pengelola SPPG telah mendapatkan teguran langsung dari BGN. Teguran
+tersebut diberikan setelah adanya laporan dari masyarakat melalui kanal
+pengaduan resmi yang disediakan pemerintah. “Untuk Sumber Jaya, mereka sudah mendapat teguran langsung
+dari BGN karena ada laporan masyarakat yang masuk melalui kanal pengaduan,”
+kata Ahmad Hikami saat dimintai keterangan, Kamis (23/4/2026). Meski demikian, Hikami mengaku hingga saat ini pihaknya belum
+menerima salinan resmi dari teguran yang diberikan oleh BGN tersebut. Namun, ia
+memastikan bahwa informasi tersebut telah dikonfirmasi secara internal. Di sisi lain, kasus serupa juga terjadi di wilayah Pasar
+Liwa, Kecamatan Balik Bukit, yang sebelumnya sempat menjadi sorotan akibat
+temuan ulat pada menu MBG yang disajikan kepada penerima manfaat. Hikami menegaskan bahwa pihaknya telah menginstruksikan
+Satgas Kecamatan untuk segera melakukan penelusuran dan klarifikasi terhadap
+temuan tersebut sebelum mengambil langkah lanjutan termasuk pemberian sanksi
+SP2. “Dengan adanya pemberitaan terkait temuan ulat di menu MBG,
+Satgas akan melakukan klarifikasi terlebih dahulu. Jadi masih berpotensi
+diberikan SP2, jika hasilnya terbukti nanti pasti SP2, karena nanti sanksinya
+bisa sampai SP3,” ujarnya. Ia menambahkan, keputusan pemberian sanksi akan didasarkan
+pada hasil pemeriksaan di lapangan, termasuk sejauh mana tingkat kelalaian yang
+terjadi serta apakah pelanggaran tersebut merupakan kesalahan berulang. Diketahui, SPPG Pasar Liwa sebelumnya telah menerima Surat
+Peringatan 1 (SP1) akibat kasus serupa, yakni ditemukannya ulat pada bahan
+makanan yang disajikan kepada penerima program MBG. Dalam temuan sebelumnya, Satgas MBG Lampung Barat
+mengidentifikasi adanya proses pencucian bahan makanan yang tidak higienis,
+sehingga memicu munculnya kontaminasi pada menu yang disajikan. Atas kejadian tersebut, Satgas telah memberikan peringatan
+keras kepada pengelola SPPG Pasar Liwa agar segera melakukan perbaikan menyeluruh
+terhadap standar operasional, khususnya dalam hal kebersihan dan pengola
+
+
+### Artikel 567
+Judul: Daftar Event Seru Lampung Mei 2026, Jangan Sampai Ketinggalan - IDN Times Lampung
+Isi:
+Bandar Lampung, IDN Times - Event-event seru di Lampung kembali menggeliat dan siap meramaikan bulan April 2026. Setelah melewati bulan Ramadan dan merayakan Idul Fitri, kini berbagai festival, konser, hingga ajang olahraga kembali hadir dengan konsep lebih fresh dan menarik. Gak heran kalau bulan ini jadi momen pas buat kamu jika ingin healing sekaligus cari hiburan seru di akhir pekan.Di bulan April ini, ada banyak event seru dan sayang banget untuk dilewatkan, mulai dari kulineran sampai nonton penampilan musisi. Penasaran apa saja daftar event seru di Lampung selama bulan April ini? Berikut IDN Times rangkum 5 rekomendasi event seru bulan April di Lampung. Buat kamu pecinta kuliner, Rodshow Kuliner Viral Indonesia wajib banget masuk list kunjungan. Event festival kuliner ini digelar di Lampung City Mall mulai 2 hingga 12 April 2026, setiap hari pukul 10.00 WIB sampai 23.00 WIB.Event ini sudah sukses digelar di lebih dari 38 kota di seluruh Indonesia, lho! Di sini, kamu bisa menemukan beragam tenant makanan dan minuman viral dan sedang hits di media sosial. Mulai dari jajanan kekinian, street food, hingga minuman unik menggoda selera, semuanya ada dalam satu tempat. Cocok banget buat kamu jika ingin wisata kuliner tanpa harus jauh-jauh. Expo Tanggamus hadir sebagai salah satu event paling meriah dan berlangsung di Lapangan Tangsi Talang Padang pada 6 hingga 10 April 2026. Event ini menghadirkan beragam kegiatan menarik bisa dinikmati semua kalangan.Mulai dari festival kuliner, bazar UMKM, hingga launching kain Tappan yang menjadi salah satu kekayaan budaya daerah. Pengunjung juga bisa menikmati minum kopi gratis, mencicipi pangan balak, serta berbagai aktivitas seru lainnya. Tak hanya itu, Expo ini juga akan dimeriahkan oleh kehadiran artis nasional dan doorprize menarik siap menambah keseruan acara. Kalau kamu ingin menikmati suasana pantai sambil party, Pesta Lyric bisa jadi pilihan tepat. Event ini akan digelar di Rio By The Beach pada 11 April 2026.Dengan harga tiket mulai dari Rp149 ribu, kamu sudah bisa menikmati penampilan DJ performance dari nama-nama seperti Beynedic, MC De, El Miza, dan masih banyak lagi. Suasana pantai santai dipadukan dengan musik elektronik energik bakal bikin pengalaman kamu makin seru dan berkesan. Wrap Town Market hadir sebagai event yang cocok buat kamu pecinta fashion dan lifestyle. Event ini akan berlangsung di Pasar Raya Lebak Budi pada 15 hingga 19 April 2026.Di sini, kamu bisa menemukan berbagai brand fashion lokal, sneakers keren, hingga berbagai produk hobi dan aksesoris unik. Selain itu, event ini juga menghadirkan berbagai aktivitas seru bikin pengalaman belanja jadi lebih menyenangkan. Dengan tiket masuk mulai dari Rp149 ribu, kamu bisa menikmati suasana market trendy dan kekinian. Buat kamu jika suka olahraga, Gunung Madu Half Marathon bisa jadi pilihan tepat untuk mengisi akhir bulan. Event lari ini akan digelar di Stadion Pahoman pada 26 April 2026. Dengan harga tiket mulai dari Rp175 ribu, pesert

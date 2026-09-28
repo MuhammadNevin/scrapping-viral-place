@@ -1,0 +1,74 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "lokasi_text": "lokasi mentah apa adanya sesuai artikel (kelurahan/kecamatan/kota/kabupaten/provinsi jika disebut)",
+          "alasan_viral": "ringkasan alasan/daya tarik",
+          "indikasi_waktu": "tanggal/bulan/periode eksplisit terkait mulai viral, atau null jika tidak disebut",
+          "is_explicitly_viral": true atau false (true HANYA jika artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet, bukan sekadar direkomendasikan),
+          "confidence": angka 0-1
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 1672
+Judul: 5 Restoran Manado di Jakarta Utara, Pernah Coba? - Popmama.com
+Isi:
+Selebriti bertemu dengan orang-orang yang camping di Pulau Kodingare Keke. Mereka bernyanyi bersama di sini. Sangat seru liburan mereka di pulau ini. Dok : Celebrity on Vacation Trans TV (Diki)
+
+
+### Artikel 1673
+Judul: 5 Rekomendasi Tempat Makan Rahang Tuna Enak di Bandung, Kuliner Seafood 2026 - Liputan6.com
+Isi:
+RRI.CO.ID, Makassar - Perkembangan sektor pariwisata di suatu daerah sangat dipengaruhi oleh penguatan citra destinasi wisata di ruang digital. Oleh karena itu, penguatan citra tersebut memerlukan dukungan serta kolaborasi erat dari berbagai pemangku kepentingan. Konsep kolaborasi tersebut mengemuka dalam Focus Group Discussion (FGD) kajian akademis tentang desain collaborative governance dalam smart tourism branding di Makassar Kamis siang 23 Juli 2026. Forum ini membahas strategi pembentukan bingkai narasi media digital secara seragam guna mendongkrak reputasi pariwisata daerah. Usai diskusi, Kepala Bidang Pengembangan Destinasi Pariwisata Dispar Kota Makassar, Safaruddin, mengakui perlunya kerja sama lintas sektor. Menurutnya, media massa dan kreator konten digital memiliki peran vital dalam menyebarkan promosi destinasi secara luas. "Ini hal yang sangat penting, bagaimana kemudian semua stakeholder melakukan kolaborasi, baik dari pemerintah, akademisi, kelompok masyarakat, industri, bahkan yang paling penting adalah media. Karena framing ini akan membentuk Makassar sebagai destinasi wisata yang inklusif, berkelanjutan, sesuai dengan visi-misi Pemerintah Kota Makassar," Ujar Safaruddin "Kolaborasi ini sangat penting karena mereka punya peran masing-masing. Misalnya di akademisi, mereka punya peran untuk membuat kajian bagaimana kemudian karakteristik pengunjung atau wisatawan yang akan berkunjung ke Kota Makassar," jelasnya. Ia menjelaskan pemkot Makassar pun berkomitmen untuk terus merangkul seluruh pemangku kepentingan agar potensi pariwisata tergarap maksimal. Keterlibatan publik dan pelaku industri dinilai menjadi kunci utama dalam menjaga daya tarik daerah. "Pemerintah Kota Makassar sangat terbuka berkolaborasi dengan berbagai pihak termasuk dengan media dan konten kreator. Kemitraan ini bertujuan untuk memberi framing positif terhadap destinasi wisata Kota Makassar," pungkasnya. Memuat berita terbaru.....
+
+
+### Artikel 1674
+Judul: 3 Wisata Pantai Favorit di Sulawesi Utara, dari Manado hingga Likupang - IDN Times Sulsel
+Isi:
+Setelah puas berjoget bersama warga lokal Pulau Liukang Loe, Selebriti melanjutkan perjalanan menuju Kota Makassar. Selebriti berkunjung ke penginapan nyaman yang ada di tengah kota Makassar. Dok : Celebrity On VacationTrans TV (Ade)
+
+
+### Artikel 1675
+Judul: Wagub Giri Prasta Ajak Sulawesi Utara Perkuat Kolaborasi Majukan Pariwisata Nasional - Balipuspanews.com
+Isi:
+Tanggal merah hadir lagi! Saatnya reward diri sendiri dengan liburan seru dan berbeda dari biasanya. Untuk kamu yang di Makassar, Trans Snow World Makassar hadir dengan Promo Amayzing Deals yang bikin liburan makin terjangkau tanpa harus keluar kota. Trans Snow World Makassar adalah destinasi wisata salju indoor yang berlokasi di Trans Studio Mall Makassar, Jl. Metro Tanjung Bunga, Makassar, Sulawesi Selatan. Di sini, kamu bisa menikmati berbagai aktivitas seru seperti bermain salju, berseluncur, hingga merasakan suasana musim dingin yang autentik, tanpa perlu terbang ke luar negeri. Cocok untuk semua kalangan, mulai dari anak-anak, remaja, hingga orang dewasa yang ingin merasakan pengalaman berbeda di akhir pekan. SCROLL TO CONTINUE WITH CONTENT Selama periode Senin, 18 Mei 2026 hingga Minggu, 24 Mei 2026, tersedia berbagai pilihan tiket promo dengan harga spesial, baik untuk kunjungan individu maupun paket grup. Ada juga pilihan paket berdua yang pas untuk quality time bersama pasangan atau sahabat. Jam operasional Trans Snow World Makassar adalah pukul 11.00 hingga 19.00 WITA di hari weekday (last entry pukul 17.00 WITA), dan pukul 11.00 hingga 20.00 WITA di akhir pekan (last entry pukul 18.00 WITA). Tiket bisa dibeli langsung secara online melalui detikevent. Jangan tunggu sampai sold out karena kuota tiket promo terbatas! Segera manfaatkan Promo Amayzing Deals Trans Snow World Makassar sebelum periode berakhir. Beli tiketnya sekarang di detikevent ! Anda menyukai artikel ini
+
+
+### Artikel 1676
+Judul: Momen Kocak Pria Tertidur di Etalase Museum Bikin Gubernur Sulut Kaget - detikNews
+Isi:
+SinPo.tv - Pelaku ekshibisionis terhadap dua anak perempuan di bawah umur di Kota Makassar, Sulawesi Selatan, ditangkap petugas kepolisian setelah aksinya viral di media sosial. Petugas juga mengamankan pakaian yang digunakan pelaku saat beraksi, sepeda motor, serta rekaman CCTV sebagai barang bukti. 27 September 2026 | 05:00 WIB NASIONAL | 1 hari yang lalu INTERNASIONAL | 5 hari yang lalu NASIONAL | 4 hari yang lalu INTERNASIONAL | 5 hari yang lalu NASIONAL | 6 hari yang lalu
+
+
+### Artikel 1677
+Judul: Menbud Dorong Museum Negeri Sulut Jadi Infrastruktur Kebudayaan & Ekonomi - detikNews
+Isi:
+Belum punya akun? Daftar Akun Download TribunX untuk Android & iOS TRIBUN-TIMUR.COM, MAKASSAR - Pemerintah Kota Makassar menyambut baik surat edaran Kementerian Dalam Negeri (Kemendagri) tentang dukungan pemerintah daerah terhadap kegiatan nonton bareng (nobar) Piala Dunia 2026. Surat edaran itu diterbitkan Menteri Dalam Negeri Muhammad Tito Karnavian sebagai dasar bagi pemerintah daerah memfasilitasi nobar di ruang publik. Melalui surat bernomor 400.2.7/4657/SJ, kepala daerah diimbau menyiapkan lokasi strategis agar masyarakat dapat menyaksikan pertandingan secara bersama. Pemerintah pusat juga berharap kegiatan itu mampu menggerakkan perekonomian, terutama bagi pelaku usaha mikro, kecil, dan menengah (UMKM). Wali Kota Makassar Munafri Arifuddin mengatakan Pemkot Makassar mendukung pelaksanaan nobar yang digelar masyarakat maupun komunitas. Ia menyebut sejumlah ruang publik di Makassar telah dimanfaatkan warga untuk menonton pertandingan sepak bola bersama. Salah satunya Museum Kota Makassar di Jalan Balaikota. Masyarakat juga dipersilakan menggelar nobar selama mematuhi aturan yang berlaku, termasuk ketentuan hak siar. "Silakan, silakan. Kan kita sudah bikin juga kayak di museum, itu ada. Di beberapa tempat disilakan," kata Munafri usai diwawancarai di Baruga Anging Mammiri, Jalan H I Saleh Dg Tompo, Kecamatan Ujung Pandang, Rabu (17/6/2026). Pria yang akrab disapa Appi itu mengingatkan penyelenggara memahami seluruh ketentuan, terutama penggunaan siaran resmi yang memiliki hak komersial. Ia tidak ingin kegiatan yang bertujuan menghibur masyarakat justru menimbulkan persoalan hukum. Appi juga memberi perhatian khusus kepada aparatur sipil negara (ASN). Sebab, sebagian pertandingan Piala Dunia berlangsung hingga dini hari dan berpotensi mengganggu kedisiplinan pegawai. Karena itu, ASN diminta tetap mengutamakan tugas dan tanggung jawab. "Saya memastikan kepada seluruh ASN, silakan mau nonton bareng apa semuanya, tapi semua harus tahu hak dan kewajibannya. Masa iya Piala Dunia lebih penting daripada pekerjaan? Jangan dong," tegasnya. Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
+
+
+### Artikel 1678
+Judul: Dahsyatnya Guncangan Gempa di Manado, Bikin Pria Paruh Baya Ini Ngacir dari Kamar Mandi Meski Badan Penuh Sabun - Edisi - edisi.co.id
+Isi:
+RRI.CO.ID, Makassar - Keburutalan komplotan geng motor di Kota Makasar menyerang warga, kembali terjadi di jalan Pongtiku Kecamatan Bontoala dini hari. Sekelompok pemuda yang diduga geng motor terekam CCTV memburu seorang warga hingga masuk ke dalam salah datu toko kelontong terjadi sekitar pukul 3.00 WITA. Dalam rekaman CCTV yang beredar di media sosial terlihat seorang pria berpakaian baju putih, mengenakan masker lari ketakutan masuk ke dalam toko kelontong yang sedang dijaga seorang wanita. Kemudian beberapa pria juga datang berlari masuk ke dalam toko kelontong tersebut membentangkan ketapel panah, terlihat mencari pria berbaju putih yang sedang bersembunyi di dalam toko. Pria yang diburu tersebut keluar dari dalam toko dengan kondisi ditarik oleh kelompok pria yang mengejarnya. Kasi Humas Polrestabes Makassar Kompol Wahiduddin mengungkapkan pihaknya telah menerima laporan adanya komplotan diduga geng motor terekam CCTV memburu salah seorang warga sambil membentangkan panah busur hingga masuk ke dalam toko kelontong. "Pria yang terlihat diburuh sekelompok orang diduga geng motor hingga masuk ke dalam toko kelontong adalah anak di bawah umur dan telah melapor ke Polrestabes Makassar," Ujar Kompol Wahiduddin, Sabtu 18 April 2026. Peristiwa tersebut sedang dalam penyelidikan Polrestabes Makassar dan Polsek Bontoala untuk melakukan penyelidikan terhadap para pelaku termasuk keterangan saksi di tempat kejadian perkara dan memeriksa rekaman CCTV untuk mengidentifikasi para pelakunya yang diduga komplotan geng motor dan dilakukan pengejaran. Menurut Kompol Wahiduddin pada saat terjadi Pengejaran seorang remaja hingga masuk ke dalam toko kelontong ketakutan, belum diketahui motifnya karena para pelaku belum tertangkap. "Penjaga toko seorang wanita yang juga diambil kererangannya tidak mengetahui persis apakah para pelaku menggunakan motor dan kurang memperhatikan para pelaku masuk ke dalam toko mengejar korban," kata Kompol Wahidudin, Bagi warga yang beraktifitas hingga larut malam agar selalu waspada terhadap pelaku kejahatan terutama premanisme geng motor," Ucap Kompol Wahiduddin. Memuat berita terbaru.....
+
+
+### Artikel 1679
+Judul: Museum Daerah Sulut Jadi Tempat Liburan Gen Z dan Milenial, Rela Antre Demi Lihat Artefak Sejarah - Tribunmanado.co.id
+Isi:
+RRI.CO.ID, Makassar - Komisi B bersama Komisi A DPRD Kota Makassar melakukan inspeksi mendadak (sidak) di gudang Toko Sumber Plastik di Jalan Masjid Raya, Rabu, 29 April 2026. Sidak ini merupakan tindak lanjut atas aduan masyarakat terkait aktivitas bongkar muat yang menyebabkan kemacetan. Sidak dipimpin Ketua Komisi B DPRD Makassar, Ismail, didampingi anggota Komisi B Andi Tenri Uji, Hj Umiyati, Basdir, serta anggota Komisi A Rahmat Taqwa Quraisy. Turut hadir perwakilan Dinas Perdagangan, Satpol PP, dan Perumda Parkir Makassar. Ketua Komisi B, Ismail, mengatakan pihaknya turun langsung untuk memastikan kondisi di lapangan dan mencocokkan dengan laporan warga yang sempat viral di media sosial. “Hari ini kita melihat langsung aktivitas di lokasi. Dari hasil peninjauan, tempat ini sudah mengarah pada kategori gudang,” ujarnya. Ia menegaskan, DPRD akan segera menjadwalkan rapat dengar pendapat (RDP) dengan memanggil pemilik usaha guna memperjelas status perizinan. “Hasil RDP nanti akan menjadi dasar apakah ada rekomendasi penutupan atau kebijakan lain dari dinas terkait,” tambahnya. Anggota Komisi A, Rahmat Taqwa Quraisy, menegaskan DPRD tidak menghambat investasi, namun seluruh pelaku usaha wajib taat aturan. “Kita tidak menghalangi pengusaha berinvestasi. Tapi harus jelas, apakah ini toko atau gudang. Itu yang akan kita pastikan dalam RDP,” katanya. Sekretaris Komisi B, Andi Tenri Uji, berharap persoalan tersebut dapat diselesaikan secara bijak tanpa merugikan masyarakat maupun pelaku usaha. “Kita ingin ada solusi terbaik, tetapi pengusaha juga harus jujur dan tertib dalam hal perizinan,” tegasnya. Sementara itu, Kepala Bidang Usaha Perdagangan Disperin Makassar, Riyanto, menjelaskan pihaknya telah mengamati aktivitas di lokasi tersebut, termasuk luas bangunan dan jenis usaha yang tercantum dalam Nomor Induk Berusaha (NIB). “Kalau berdasarkan NIB pedagang eceran, maka aturannya berbeda dengan gudang. Namun dari pengamatan, luasnya kemungkinan di atas 100 meter dan bisa masuk kategori gudang,” jelasnya. Ia menambahkan, sesuai peraturan wali kota, aktivitas bongkar muat di kawasan tersebut seharusnya dilakukan pada malam hari, mulai pukul 22.00 hingga subuh, guna menghindari kemacetan. DPRD Makassar memastikan akan segera menggelar RDP untuk memperjelas status usaha sekaligus menentukan langkah lanjutan agar ketertiban dan kepatuhan terhadap regulasi tetap terjaga.(*) Memuat berita terbaru.....

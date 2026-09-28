@@ -1,0 +1,74 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "lokasi_text": "lokasi mentah apa adanya sesuai artikel (kelurahan/kecamatan/kota/kabupaten/provinsi jika disebut)",
+          "alasan_viral": "ringkasan alasan/daya tarik",
+          "indikasi_waktu": "tanggal/bulan/periode eksplisit terkait mulai viral, atau null jika tidak disebut",
+          "is_explicitly_viral": true atau false (true HANYA jika artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet, bukan sekadar direkomendasikan),
+          "confidence": angka 0-1
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 504
+Judul: Beta Agrowisata Curup viral, tawarkan hamparan bunga estetik bernuansa pegunungan - ANTARA News Bengkulu
+Isi:
+BENGKULU – Dalam rangka memberikan rasa aman dan nyaman kepada masyarakat yang beraktivitas di akhir pekan, Subdit Wisata Direktorat Pengamanan Objek Vital (Ditpamobvit) Polda Bengkulu melaksanakan patroli dialogis di kawasan wisata Pantai Panjang Bengkulu, Sabtu (19/09/2026). Kegiatan patroli yang berlangsung dari pukul 07.00 WIB hingga 18.00 WIB ini dipimpin oleh Padal AKP Desri Zaldi dengan melibatkan 5 personel yakni AIPTU Herdiansyah, AIPTU Aris Afrianto, Bripka Aprianto Subangsa, Brigpol Yogi Pramana, dan Brigpol Ferdy Ahmad Fajri. Patroli dialogis tersebut menyasar beberapa titik keramaian di kawasan wisata, meliputi pengunjung Pantai Panjang, Bengkulu Indah Mall (BIM), serta perhotelan di seputaran Pantai Panjang. Adapun rangkaian kegiatan yang dilaksanakan antara lain berdialog dengan masyarakat yang berkunjung ke BIM guna menciptakan Kamtibmas yang kondusif sekaligus menjalin komunikasi agar Polri semakin dekat dan dicintai masyarakat. Selanjutnya personel juga memberikan pesan-pesan Kamtibmas kepada para pedagang dan petugas security BIM untuk turut serta menjaga keamanan lingkungan. Tidak hanya itu, personel juga memberikan himbauan kepada para pengunjung pantai agar selalu mengutamakan keselamatan saat berwisata guna terhindar dari hal-hal yang tidak diinginkan, serta patroli di seputaran pantai untuk mengantisipasi gangguan Kamtibmas. "Kami hadir di tengah-tengah masyarakat untuk memberikan rasa aman, khususnya di kawasan wisata yang ramai dikunjungi saat akhir pekan. Kami himbau kepada pengunjung agar selalu waspada dan mengutamakan keselamatan, serta kepada pihak pengelola hotel dan mall agar bersama-sama menjaga situasi Kamtibmas," ujar AKP Desri Zaldi. Selain di pusat keramaian, patroli juga menyasar sejumlah hotel di kawasan Pantai Panjang. Personel berdialog dengan pihak resepsionis hotel untuk memantau situasi dan mengajak bersama-sama menjaga keamanan tamu. Hingga kegiatan berakhir, situasi di kawasan wisata Pantai Panjang terpantau aman, kondusif, dan tidak ditemukan adanya gangguan Kamtibmas.
+
+
+### Artikel 505
+Judul: Subdit Wisata Dit Pamobvit Polda Bengkulu Gelar Patroli Dialogis di Kawasan Pantai Panjang - Viral Publik
+Isi:
+Kota Bengkulu (ANTARA) - Sebuah destinasi wisata baru di wilayah Curup, Kabupaten Rejang Lebong, Bengkulu, tengah menjadi perbincangan di media sosial pada beberapa waktu terakhir. Tempat tersebut adalah Beta Agrowisata yang viral berkat hamparan bunga berwarna ungu-pink yang memanjakan mata dan menjadi latar favorit pengunjung untuk berfoto. Popularitas destinasi ini meningkat setelah sejumlah akun media sosial membagikan video yang menampilkan keindahan taman bunga tersebut, salah satunya akun TikTok @suciharumyzt. Baca juga: Pemkot catat pengunjung wisata di Bengkulu capai 80 ribu orang Baca juga: Intip destinasi baru di Pesisir Kaur yang wajib kamu kunjungi! Dalam video yang beredar, terlihat jalur setapak di tengah kebun bunga yang tertata rapi, menciptakan suasana estetik menyerupai taman di luar negeri. Beta Agrowisata memiliki rating 4,3 dari lebih dari 100 ulasan pengunjung. Sejumlah wisatawan mengaku terkesan dengan keindahan taman bunga serta suasana sejuk khas daerah pegunungan. Selain itu, harga tiket masuk yang relatif terjangkau menjadi daya tarik bagi masyarakat dari berbagai kalangan. Tidak hanya menawarkan hamparan bunga, kawasan ini juga dikelilingi pemandangan perbukitan dengan udara yang masih asri, sehingga memberikan pengalaman wisata yang menyegarkan. Waktu terbaik untuk berkunjung adalah pagi hingga siang hari saat bunga mekar sempurna dan pencahayaan alami mendukung hasil foto. Namun, berdasarkan informasi dari pengunjung, masa mekarnya bunga di Beta Agrowisata diperkirakan hanya berlangsung sekitar tiga minggu. Kondisi ini membuat periode terbaik untuk menikmati panorama taman bunga relatif singkat. Baca juga: Belungguk Point Bengkulu tuai pro kontra warganet. Begini ceritanya! Baca juga: Pemkot Bengkulu revitalisasi kawasan wisata Taman Berkas Wisatawan disarankan untuk segera berkunjung sebelum bunga mulai layu. Dengan viralnya Beta Agrowisata di media sosial, destinasi ini diprediksi akan terus ramai dikunjungi, terutama pada akhir pekan dan musim liburan dalam beberapa pekan ke depan. Pewarta: Vonza Nabilla Suryawan Editor  : Anom Prihantoro COPYRIGHT © ANTARA 2026 Dilarang keras mengambil konten, melakukan crawling atau pengindeksan otomatis untuk AI di situs web ini tanpa izin tertulis dari Kantor Berita ANTARA.
+
+
+### Artikel 506
+Judul: Subdit Wisata Ditpamobvit Polda Bengkulu Gelar Patroli Dialogis di Pantai Panjang, Pantai Pasir Putih dan BIM - Viral Publik
+Isi:
+BENGKULU – Subdit Wisata Direktorat Pengamanan Objek Vital Polda Bengkulu melaksanakan kegiatan Patroli Dialogis di Kawasan Wisata Pantai Panjang, Sabtu 12 September 2026, pukul 07.00 WIB s.d 18.00 WIB. Patroli dipimpin oleh AKP Desrizal Zaldi selaku Padal, bersama Aiptu Fefen Sujarso, Aipda Herly Yawanto, SH, Bripka Y I Situmorang, Brigpol Merryansyah, dan Brigpol Nanda Juliaampera. Sasaran patroli meliputi Pengunjung Pantai Panjang, Pengunjung Pantai Pasir Putih, Bengkulu Indah Mall (BIM), dan para pedagang di seputaran Pantai Panjang. Dalam pelaksanaannya, personel Subdit Wisata melakukan pendekatan secara humanis kepada masyarakat. Di Bengkulu Indah Mall, petugas melaksanakan patroli dan berdialog dengan pengunjung guna menciptakan situasi Kamtibmas yang kondusif, serta menjalin komunikasi agar Polri semakin dekat dan dicintai masyarakat. Kepada pedagang dan pihak security BIM, petugas memberikan pesan-pesan Kamtibmas dan mengajak untuk bersama-sama menjaga keamanan di lingkungan mall. Sementara itu kepada pengunjung Pantai Panjang dan Pantai Pasir Putih, personel memberikan imbauan agar tetap mengutamakan keselamatan selama berwisata dan waspada terhadap barang bawaan, guna terhindar dari hal-hal yang tidak diinginkan. "Kehadiran Polisi di tengah masyarakat bertujuan untuk memberikan rasa aman dan mengantisipasi gangguan Kamtibmas. Kami juga mengimbau kepada seluruh pengunjung dan pedagang agar bersama-sama menjaga ketertiban selama beraktivitas di kawasan wisata," ujar AKP Desrizal Zaldi. Sepanjang kegiatan, situasi di Kawasan Wisata Pantai Panjang terpantau aman, tertib, dan kondusif. Tidak ditemukan adanya gangguan Kamtibmas. Kegiatan patroli dialogis ini merupakan bentuk pelayanan Polda Bengkulu kepada masyarakat, khususnya di objek-objek wisata, untuk memberikan rasa aman dan nyaman kepada wisatawan lokal maupun luar daerah.
+
+
+### Artikel 507
+Judul: Pemprov Bengkulu minta ASN lengkapi data untuk manajemen talenta - ANTARA News Bengkulu
+Isi:
+BENGKULU – Subdit Wisata Direktorat Pengamanan Objek Vital (Ditpamobvit) Polda Bengkulu melaksanakan Patroli Dialogis di sejumlah kawasan wisata dan pusat perbelanjaan Kota Bengkulu, Sabtu (11/7/2026) mulai pukul 06.30 WIB hingga 18.00 WIB. Patroli dipimpin AKP Desri Zaldi dan diikuti oleh Aiptu Erwin Firmansyah, S.Sos, Aipda Fahrizal A, S.Ikom, Bripka Salamrrijal, Bripka Y.I Situmorang, dan Brigpol Yogi Pramana. Sasaran patroli meliputi kawasan Pantai Pasir Putih, Pantai Panjang, Hotel Nala Sea Side, dan Bengkulu Indah Mall (BIM). Kegiatan ini merupakan upaya Polri dalam memberikan rasa aman kepada wisatawan dan masyarakat, sekaligus menjalin komunikasi secara langsung. Dalam patroli di kawasan Pantai Pasir Putih dan Pantai Panjang, personel memberikan pesan-pesan kamtibmas kepada para pengunjung. Masyarakat diimbau agar selalu mengawasi anak-anaknya dan tidak mandi di pinggir pantai untuk menghindari hal-hal yang tidak diinginkan seperti terseret ombak. Selanjutnya, personel juga menyambangi pengunjung Bengkulu Indah Mall untuk menciptakan situasi kamtibmas yang kondusif. Selain itu, patroli juga dilakukan kepada para pedagang dan petugas security BIM. Mereka diberikan pesan kamtibmas agar turut serta menjaga keamanan dan ketertiban di lingkungan pusat perbelanjaan. Melalui patroli dialogis ini,Kehadiran  personel Subdit Wisata Ditpamobvit Polda Bengkulu di tengah masyarakat juga diharapkan dapat mencegah potensi gangguan keamanan serta memberikan rasa nyaman bagi wisatawan yang berkunjung ke Kota Bengkulu.
+
+
+### Artikel 508
+Judul: Heboh 3 Anjing Peliharaan Serang Pemotor di Bengkulu, Satpol PP Turun Tangan - detikcom
+Isi:
+Bengkulu (ANTARA) - Pemerintah Provinsi Bengkulu meminta aparatur sipil negara (ASN) melengkapi data dan rekam jejak karier untuk mendukung proses pemetaan dalam manajemen talenta ASN. "Kami menjelaskan agar ASN melengkapi datanya untuk manajemen talenta. Kalau tidak memasukkan berkas diklat, sertifikat, dan lain sebagainya, tentu akan mempengaruhi proses pemetaan dan pengembangan karier mereka,” kata Kepala Badan Kepegawaian Daerah (BKD) Provinsi Bengkulu Rusmayadi di Bengkulu, Selasa. Dia menjelaskan, manajemen talenta ASN merupakan sistem manajemen karier yang mencakup tahapan akuisisi, pengembangan, retensi, hingga penempatan talenta untuk menduduki jabatan target berdasarkan potensi dan kinerja. Rusmayadi mengatakan kelengkapan data menjadi bagian penting dalam proses pemetaan talenta karena setiap ASN memiliki potensi dan rekam jejak kinerja yang perlu tercatat dalam sistem. Data yang perlu dilengkapi ASN antara lain pengalaman kerja, pendidikan dan pelatihan (diklat), sertifikat pelatihan, serta penghargaan yang pernah diterima. Menurutnya, data tersebut diperlukan untuk memberikan gambaran mengenai potensi, kompetensi, dan rekam jejak karier ASN dalam proses manajemen talenta. Rusmayadi menyebutkan, ASN perlu memastikan seluruh data dan dokumen pendukung telah tercatat agar proses pemetaan talenta dapat dilakukan berdasarkan potensi dan kinerja masing-masing. Kelengkapan data tersebut juga dapat mendukung pengembangan karier ASN sesuai dengan potensi dan kinerja yang dimiliki. Pemerintah Provinsi Bengkulu pun telah menggelar rapat koordinasi penyampaian manajemen talenta ASN bersama para pihak untuk memastikan kesiapan data ASN dalam mendukung proses pemetaan talenta. Pewarta: Boyke Ledy Watra Uploader : Musriadi COPYRIGHT © ANTARA 2026 Dilarang keras mengambil konten, melakukan crawling atau pengindeksan otomatis untuk AI di situs web ini tanpa izin tertulis dari Kantor Berita ANTARA.
+
+
+### Artikel 509
+Judul: Viral Toko Es Krim Pakai Daun Pisang Akibat Harga Plastik Melonjak, Hasilnya Lebih Estetik - Suara.com
+Isi:
+Video yang memperlihatkan tiga ekor anjing peliharaan menyerang pengendara motor di Jalan Museum, Kelurahan Tanah Patah, Kecamatan Ratu Agung, Kota Bengkulu, viral di media sosial. Insiden tersebut membuat pengendara terjatuh dan memicu keresahan warga yang kerap melintas di kawasan tersebut. Menindaklanjuti kejadian itu, Satpol PP Kota Bengkulu bersama Dinas Peternakan Provinsi Bengkulu, Lurah Tanah Patah, Ketua RT 09 dan RT 06 mendatangi lokasi. Tim juga menemui pemilik anjing untuk mencari solusi agar kejadian serupa tidak kembali terulang. Kepala Satpol PP Kota Bengkulu, Sahat M. Situmorang, mengatakan pihaknya memilih langkah persuasif dengan memanggil dan memberikan pembinaan kepada pemilik hewan peliharaan. Menurutnya, pemilik memiliki tanggung jawab untuk memastikan hewan peliharaan tidak mengganggu keselamatan maupun kenyamanan masyarakat. SCROLL TO CONTINUE WITH CONTENT "Peristiwa ini menjadi perhatian kami karena telah mengganggu ketertiban umum dan membahayakan pengguna jalan. Kami bersama pemerintah kelurahan serta Dinas Peternakan sudah menemui pemilik anjing dan meminta agar hewan peliharaannya dikendalikan dengan baik sehingga tidak lagi berkeliaran dan menyerang warga," kata Sahat, Rabu (15/7/2026). Sahat menegaskan, apabila kejadian serupa kembali terjadi dan pemilik tidak mengindahkan pembinaan yang telah diberikan, Satpol PP akan mengambil langkah sesuai ketentuan yang berlaku. "Kami mengimbau seluruh masyarakat yang memelihara hewan, khususnya anjing, agar menjaga dan mengawasi peliharaannya. Jangan sampai membahayakan orang lain karena keselamatan masyarakat merupakan prioritas," tegas Sahat. Sementara itu, warga sekitar mengaku sempat khawatir melintas di Jalan Museum karena anjing-anjing tersebut kerap berkeliaran di badan jalan. Mereka berharap pemilik lebih bertanggung jawab sehingga pengguna jalan dapat melintas dengan aman. Kasus ini pun menjadi perhatian publik setelah rekaman penyerangan terhadap pengendara motor beredar luas di media sosial. Pemerintah berharap persoalan dapat diselesaikan secara baik melalui kerja sama antara pemilik hewan, aparat, dan masyarakat sehingga ketertiban serta rasa aman di lingkungan tetap terjaga. Anda menyukai artikel ini
+
+
+### Artikel 510
+Judul: Sekda Tindak Video Amoral Pejabat Pemprov Bengkulu - Info Negeri
+Isi:
+Menghadapi lonjakan harga plastik hingga 100 persen, toko es krim ini viral karena menggunakan daun pisang sebagai pembungkus unik yang estetik dan ramah lingkungan.
+
+
+### Artikel 511
+Judul: VIRAL! Seorang Menantu Diduga Gelapkan Uang Penjualan Kopi Mertua Hingga Rp4,7 Miliar - radarkepahiang.disway.id - radarkepahiang.disway.id
+Isi:
+Infonegeri, BENGKULU – Dugaan perilaku amoral yang diduga melibatkan seorang oknum pejabat di lingkungan Pemerintah Provinsi (Pemprov) Bengkulu akhirnya mendapat respons resmi. Menyusul beredarnya video dan foto yang viral di media sosial, Pemprov memastikan telah memulai proses penelusuran melalui mekanisme pemeriksaan internal. Sekretaris Daerah (Sekda) Provinsi Bengkulu, Herwan Antoni, mengatakan Inspektorat dan Badan Kepegawaian Daerah […]

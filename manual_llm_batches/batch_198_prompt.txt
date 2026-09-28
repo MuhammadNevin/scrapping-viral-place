@@ -1,0 +1,74 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "lokasi_text": "lokasi mentah apa adanya sesuai artikel (kelurahan/kecamatan/kota/kabupaten/provinsi jika disebut)",
+          "alasan_viral": "ringkasan alasan/daya tarik",
+          "indikasi_waktu": "tanggal/bulan/periode eksplisit terkait mulai viral, atau null jika tidak disebut",
+          "is_explicitly_viral": true atau false (true HANYA jika artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet, bukan sekadar direkomendasikan),
+          "confidence": angka 0-1
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 1576
+Judul: Polisi ungkap toko obat ilegal berkedok warung sembako di Jagakarsa - ANTARA News
+Isi:
+Analisadaily.com, Medan – Kemeriahan luar biasa menutup akhir bulan Mei di Kota Medan. Delipark Mall sukses menyelenggarakan event tahunan bergengsi Summer Music Fest 2026 yang berlangsung selama 4 hari berturut-turut, mulai 28 hingga 31 Mei 2026. Analisadaily.com adalah media online yang berkantor pusat di Medan. Analisadaily dikelola oleh PT. Media Warta Digital dan merupakan bagian dari kelompok usaha Analisa Group (Harian Analisa) Analisadaily.com ©2026 • All rights reserved.
+
+
+### Artikel 1577
+Judul: Viral Emak-emak Diikat-Dianiaya Massa di Pasar Segiri Samarinda, Polisi Selidiki - detikcom
+Isi:
+Sebuah booth minuman di acara musik The Sound Project menjadi sorotan setelah diduga mengadakan challenge hafalan Surah Ad-Duha dengan hadiah berupa...
+
+
+### Artikel 1578
+Judul: Viral Video Dugaan Pelecehan di Warung Makan Mempawah, Publik Geram dan Desak Penegakan Hukum - suarakalbar.co.id
+Isi:
+Seorang ibu yang sebelumnya viral karena berani mendatangi lokasi yang diduga menjadi tempat peredaran narkoba di Aek Kanopan Timur, kembali menjadi...
+
+
+### Artikel 1579
+Judul: Selidiki Video Emak-emak Diamuk Massa, Polisi: Jangan Main Hakim Sendiri - detikcom
+Isi:
+Magnumotion Loudfest 2026 Medan menghadirkan deretan nama besar skena musik keras Tanah Air, mulai dari Feast., Superman Is Dead, For Revenge, Seringai, Stand Here Alone, Dispencer, hingga Sickobein . Line-up ini merangkum berbagai generasi musisi keras, jadi cocok buat kamu yang sudah lama ngikutin gigs lokal maupun yang baru mau kenal lebih dalam sama skena ini. Bukan sekadar nonton panggung, festival ini dirancang jadi ruang di mana komunitas, musisi, dan penikmat musik keras bisa saling terhubung dalam satu euforia yang sama. Magnumotion Loudfest 2026 Medan berlangsung pada : Hari : Minggu, 13 September 2026 Tempat : Parkiran Lotte Grosir, Jalan Gatot Subroto, Lalang, Medan. Tiket berlaku untuk peserta usia minimal 18 tahun, satu tiket untuk satu orang, dan wajib membawa identitas valid saat masuk venue. Buat komunitas musik keras di Sumatera Utara, event sekelas ini nggak datang setiap bulan. Selama ini, penggemar musik keras di Medan sering harus terbang ke Jawa demi menyaksikan line-up sekaliber ini tampil satu panggung. Sekarang, kesempatan itu datang langsung ke halaman rumah sendiri. Ini bukan cuma soal nonton band favorit, tapi juga soal merasakan atmosfer komunitas yang selama ini tumbuh lewat gigs-gigs mandiri di berbagai kota, akhirnya bersatu dalam satu perayaan besar. Kuota tiket terbatas dan biasanya festival musik keras seperti ini cepat penuh begitu line-up diumumkan resmi. Jangan sampai ketinggalan, segera amankan tiket Magnumotion Loudfest 2026 Medan kamu di detikevent . Anda menyukai artikel ini
+
+
+### Artikel 1580
+Judul: Viral Video Dugaan Pelecehan di Mempawah Berujung Laporan Polisi, Kasus Didalami Unit PPA - suaranusantara.co.id
+Isi:
+RRI.CO.ID, Yogyakarta - Liburan ke Yogyakarta bukan hanya tentang menikmati pesona budaya dan panorama pantainya, tetapi juga tentang perjalanan rasa yang bisa ditemukan di setiap sudut jalannya, terutama di jalan Parangtritis. Jalur sepanjang Kota Yogyakarta menuju Selatan ini memang terkenal sebagai poros utama wisatawan menuju pantai. Sepanjang perjalanan kita akan menemui warung tradisional hingga restoran yang menghadirkan menu yang memanjakan lidah. Di sepanjang jalur pantai kita juga akan mudah menjumpai warung-warung pedagang ikan segar yang langsung digoreng ditempat. Dinda, wisatawan lokal dari Magetan, Selasa, 7 April 2026 mengatakan, setiap ke Pantai Parangtritis, ia selalu menyempatkan membeli oleh-oleh ikan segar. “Ikannya bervariasi dan banyak pilihan, kita juga bisa minta digorengkan ditempat, anak saya paling suka udang goreng tepung, jadi setiap ke Parangtritis selalu beli," ujarnya. Warung ikan goreng dan bakar di sekitar Pantai Parangtritis dan Pantai Depok menawarkan seafood segar dengan harga terjangkau. Tempat populer meliputi Ikan Bakar Jimbaran Mas Aan, Warung Seafood Nunik 3 di Pantai Depok, dan Rumah Makan Arjuna Seafood yang menawarkan berbagai olahan laut, sering kali dengan opsi duduk lesehan. Berikut adalah beberapa rekomendasi tempat makan ikan goreng dan seafood di sekitar Pantai Parangtritis Memuat berita terbaru.....
+
+
+### Artikel 1581
+Judul: Bulog Kalbar Perkuat Stok Beras Premium Sesuai HET, Antisipasi Beras Oplosan - Kalbaronline
+Isi:
+Layanan ini merupakan sarana layanan online bagi pemohon informasi publik sebagai salah satu wujud pelaksanaan keterbukaan informasi publik di Badan Pemeriksa Keuangan RI. Untuk mengajukan permohonan informasi atau menyampaikan pengaduan silakan melakukan pendaftaran terlebih dahulu dengan klik tombol Daftar, atau jika sudah terdaftar, dapat langsung menuju ke halaman Login. 39 total views,  39 views today Pada Juli 2026, pendapatan retribusi yang berhasil dihimpun oleh Pemerintah Kalurahan (Pemkal) Parangtritis mencapai Rp2,4 miliar dengan jumlah kunjungan wisatawan sebanyak 165.956 orang. Koordinator Penarikan Retribusi Pemkal Parangtritis, Karjana, mengatakan pihaknya telah melakukan evaluasi setelah satu bulan menjalankan tugas pengelolaan retribusi yang diberikan oleh Pemkab Bantul. Salah satu perhatian utama berkaitan dengan ketelitian petugas saat memberikan tiket kepada wisatawan, dimana ada  keluhan wisatawan yang sempat viral di media sosial terkait nomor seri tiket yang dianggap tidak berurutan. Oleh sebab itu, Pemkal Parangtritis terus berkoordinasi dengan Dinas Pariwisata Bantul dan mengingatkan seluruh petugas agar lebih teliti dalam memberikan tiket kepada pengunjung. Selain itu, Pemkal Parangtritis masih menghadapi tantangan dalam menarik retribusi dari wisatawan yang masuk ke kawasan pantai dengan berjalan kaki.  Menurut Karjana, hingga kini belum ditemukan mekanisme yang tepat untuk menarik retribusi bagi wisatawan pejalan kaki tersebut. Sub Koordinator Kelompok Substansi Promosi Kepariwisataan Dinas Pariwisata Bantul, Markus Purnomo Adi, mengungkapkan, hingga akhir Juli 2026, total pendapatan asli daerah (PAD) sektor pariwisata Kabupaten Bantul telah mencapai Rp13,5 miliar. Angka tersebut hampir menyentuh setengah dari target PAD wisata tahun ini yang dipatok sebesar Rp29 miliar. selengkapnya : tautan Kunjungan Wisata Naik, Parangtritis Raup Rp2,4 Miliar dalam Sebulan 40 total views,  40 views today
+
+
+### Artikel 1582
+Judul: Kapolda Kalbar: AVC 2026 di Pontianak Bukti Daerah Mampu Selenggarakan Event Dunia - RRI.co.id
+Isi:
+MANTRIJERON — Wakil Wali Kota Yogyakarta Wawan Harmawan bersama Pelaksana Tugas (Plt) Asisten Pemerintahan dan Kesejahteraan Rakyat (Kesra) Agus Arif Nugroho, Kepala Satuan Polisi Pamong Praja (Satpol PP) Octo Noor Arafat, dan Kepala Badan Kesatuan Bangsa dan Politik (Kesbangpol) Kota Yogyakarta Nindyo Dewanto, melakukan pemantauan langsung di kawasan Alun-Alun Kidul (Alkid), Jumat (18/9). Pemantauan yang berlangsung sekitar pukul 19.30 WIB tersebut dilakukan untuk menindaklanjuti kasus yang viral di media sosial terkait adanya pelaku usaha yang mengaku merasa tidak nyaman saat menjalankan aktivitas usahanya di kawasan Alun-Alun Kidul. Dalam pemantauan tersebut, Wawan Harmawan didampingi pengelola parkir kawasan Alun-Alun Kidul sisi Timur Sasono Hinggil, Lilik Budi Santoso, serta Supriyo Dwihartanto. Keduanya memberikan penjelasan mengenai kondisi dan kronologi kejadian yang berlangsung di lapangan. Wawan mengatakan, kedatangannya ke Alun-Alun Kidul pada malam ini bukan untuk mencari pihak yang salah melainkan, memastikan kondisi sebenarnya di lapangan sekaligus melakukan klarifikasi terhadap informasi yang telah beredar di media sosial. "Jadi ini klarifikasi saja. Tadi sudah dijelaskan dan media juga sudah ikut merekam. Harapannya supaya sama-sama enak dan semuanya menjadi jelas," ungkapnya. Menurutnya, persoalan tersebut sebelumnya juga telah dikoordinasikan dengan sejumlah unsur terkait, mulai dari Polres, Polsek, Koramil hingga pihak Kemantren. Pemantauan malam ini dilakukan untuk melihat secara langsung situasi dan kondisi kawasan Alun-Alun Kidul. "Kami ingin melihat situasi dan kondisinya seperti apa. Kami juga berharap, ke depan semuanya bisa lebih baik," ujarnya. Pihaknya menegaskan, Kota Yogyakarta merupakan kota pariwisata sehingga aspek keamanan, ketertiban dan kenyamanan wisatawan harus menjadi perhatian bersama. "Jogja kota pariwisata. Tentu kita harus menjaga keamanan dan kenyamanan wisatawan. Jangan sampai wisatawan merasa terganggu karena kita sebagai tuan rumah harus selalu memberikan yang terbaik," imbuhnya. Wawan juga menjelaskan, kawasan Alun-Alun Kidul merupakan bagian dari kawasan Ndalem Keraton Ngayogyakarta. Karena itu, aktivitas masyarakat dan pelaku usaha di kawasan tersebut tetap harus memperhatikan ketentuan, kebersihan, ketertiban dan ketentraman. Menurut Wawan, masyarakat maupun pelaku UMKM memang diberikan ruang untuk beraktivitas dan berjualan di kawasan tersebut. Namun, ruang yang tersedia juga terbatas karena bagian lapangan tidak diperuntukkan sebagai lokasi berjualan. "Tempat-tempatnya juga sudah penuh. Di sini ada lapangan, dan lapangan tidak boleh digunakan untuk berjualan. Jadi berjualan hanya bida dilakukan di pinggiran," jelasnya. Terkait upaya agar kejadian serupa tidak kembali terjadi, Wawan mengatakan, Pemerintah Kota Yogyakarta akan melakukan koordinasi dengan pihak-pihak terkait. "Kami akan coba mengundang pihak-pihak semuanya. Ini tidak hanya berlaku di Alun-Alun Selatan, tetapi semuanya akan kita ko
+
+
+### Artikel 1583
+Judul: Pontianak Dragon Boat Race 2026 Siap jadi Magnet Sport Tourism dan Penggerak Ekonomi Kreatif Kalbar, Sporta Indonesia Rancang Event Spektakuler di Sungai Kapuas - suarapemredkalbar.com
+Isi:
+<strong>YOGYAKARTA,</strong> <em>Joglo News</em> — Dinas Perhubungan Daerah Istimewa Yogyakarta (Dishub DIY) turut berpartisipasi dalam kegiatan JELAJAH KOTABARU – Kotabaru Heritage Film Festival (KHFF) 2026 yang berlangsung di kawasan Kotabaru, Kota Yogyakarta, Kamis (17/9). Kegiatan itu menghadirkan pengalaman unik dengan memadukan sejarah, budaya, pariwisata, dan transportasi tradisional yang diperkuat teknologi listrik. Salah satu agenda yang menarik perhatian adalah pemutaran film Para Perasuk yang dapat dinikmati masyarakat secara gratis dari atas becak listrik. Rangkaian kegiatan diawali dengan peserta menaiki becak listrik untuk berkeliling kawasan Kotabaru. <strong>BACA JUGA: </strong><strong><a href="https://joglonews.com/2026/09/24/hari-pertama-pkm-mtsn-6-bantul-sabet-9-kejuaraan/">Hari Pertama PKM, MTsN 6 Bantul Sabet 9 Kejuaraan</a></strong> Perjalanan kemudian dilanjutkan dengan walking tour untuk mengenal sejarah serta berbagai cerita yang melekat pada kawasan Kotabaru. Peserta juga diajak menikmati pertunjukan tari sebagai bagian dari rangkaian kegiatan budaya. Selanjutnya, suasana semakin semarak dengan agenda nonton film Para Perasuk secara gratis dari atas becak listrik. Konsep tersebut menghadirkan pengalaman berbeda dalam menikmati film sekaligus memperkenalkan becak listrik sebagai bagian dari moda transportasi yang dapat mendukung kegiatan wisata dan budaya. Kepala Dinas Perhubungan DIY, Chrestina Erni Widyastuti, S.E., M.Si., dalam kegiatan tersebut diwakili oleh Kepala Bidang Angkutan Dishub DIY, Rizki Budi Utomo, S.T., M.T. Dalam sambutannya, Rizki menyampaikan bahwa JELAJAH KOTABARU bukan sekadar perjalanan dari satu tempat ke tempat lainnya, tetapi menjadi ruang untuk mengenal kembali sejarah, budaya, dan karakter kawasan Kotabaru melalui pengalaman yang lebih dekat dengan masyarakat. “Dalam konteks tersebut, transportasi memiliki peran penting. Hari ini kita melibatkan 38 pengemudi becak kayuh dengan penguat tenaga listrik,” ujar Rizki. Ia menjelaskan, keterlibatan para pengemudi becak tidak hanya mendukung mobilitas peserta, tetapi juga menjadi bagian dari upaya menjaga keberadaan becak sebagai salah satu identitas transportasi dan budaya Yogyakarta. Menurut Rizki, inovasi dan pelestarian budaya dapat berjalan beriringan. Teknologi dapat dimanfaatkan untuk memperkuat moda transportasi tradisional agar tetap relevan dengan kebutuhan masyarakat tanpa menghilangkan karakter dan identitasnya.<!--nextpage--> “Penguat tenaga listrik pada becak kayuh menjadi salah satu bentuk inovasi tersebut. Teknologi menjadi penguat, sementara budaya tetap menjadi pijakan,” jelasnya. Melalui Rute Toleransi dan Rute Perjuangan, peserta tidak hanya diajak menikmati kawasan Kotabaru, tetapi juga memahami berbagai nilai dan peristiwa yang menjadi bagian dari perjalanan Kota Yogyakarta. Dishub DIY berharap kolaborasi antara Pemerintah Daerah DIY dan Pemerintah Kota Yogyakarta dapat terus dikembangkan. Khususnya dalam memperkuat sinergi antara

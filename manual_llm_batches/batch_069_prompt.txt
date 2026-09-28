@@ -1,0 +1,97 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "lokasi_text": "lokasi mentah apa adanya sesuai artikel (kelurahan/kecamatan/kota/kabupaten/provinsi jika disebut)",
+          "alasan_viral": "ringkasan alasan/daya tarik",
+          "indikasi_waktu": "tanggal/bulan/periode eksplisit terkait mulai viral, atau null jika tidak disebut",
+          "is_explicitly_viral": true atau false (true HANYA jika artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet, bukan sekadar direkomendasikan),
+          "confidence": angka 0-1
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 544
+Judul: Viral Penggerebekan di Lampung Timur, Diduga Pelaku Penembak Bripka Arya Ditangkap - MetroTVNews.com
+Isi:
+Kapolda Lampung Irjen Pol Helfi Assegaf, saat diwawancarai di Mapolda Lampung, Selasa (12/5/2026). Foto: Yudi/kupastuntas.co Kupastuntas.co, Bandar Lampung - Kapolda Lampung Irjen Pol Helfi Assegaf menegaskan informasi terkait penangkapan pelaku penembakan anggota Polda Lampung, Bripka Anumerta Arya Supena, yang beredar melalui video viral masih belum dapat dipastikan kebenarannya. Irjen Helfi menyampaikan, hingga saat ini tim gabungan masih terus melakukan pengejaran terhadap para pelaku serta mendalami seluruh informasi yang beredar di masyarakat. "Sedang berlangsung pengejaran. Nanti kita press release resmi, kita ungkapkan semua,” kata Helfi Assegaf saat diwawancarai di Mapolda Lampung, Selasa (12/5/2026). Saat ditanya mengenai kabar bahwa pelaku telah ditangkap di wilayah Jabung, Lampung Timur, Kapolda meminta publik menunggu hasil resmi penyidikan. "Ini masih proses penyidikan ya, lagi proses penyidikan. Nanti setelah ada kepastian, kita akan baru konfirmasi ke sana, karena masih banyak yang harus kita klopkan informasinya,” ujarnya. Begitu juga saat dikonfirmasi terkait video viral yang disebut-sebut memperlihatkan proses penangkapan salah satu pelaku, Helfi belum membenarkan informasi tersebut. "Belum. Nanti kita informasikan setelah selesai,” tegasnya. Sebelumnya, kabar penangkapan salah satu pelaku begal penembak Bripka Anumerta Arya Supena ramai beredar melalui video di media sosial. Dalam rekaman itu tampak sejumlah aparat bersenjata mengepung sebuah rumah warga yang disebut berada di wilayah Kecamatan Jabung, Kabupaten Lampung Timur. Baca juga : Video Penggerebekan Viral, Diduga Pelaku Penembakan Polisi Berhasil Ditangkap Suasana di lokasi terlihat tegang. Warga sekitar memadati area penangkapan untuk menyaksikan penggerebekan. Dalam video juga terdengar beberapa kali suara letusan yang diduga berasal dari tembakan saat proses penyergapan berlangsung. Namun hingga kini, pihak kepolisian belum memberikan keterangan resmi terkait identitas terduga pelaku maupun jumlah orang yang diamankan. Untuk diketahui, Bripka Anumerta Arya Supena tewas ditembak pelaku curanmor pada Sabtu, 9 Mei 2026 sekitar pukul 05.30 WIB. Peristiwa itu terjadi di Jalan ZA Pagar Alam, tepatnya di depan toko Yussy Akmal, kawasan Kedaton, Bandar Lampung. Korban diketahui memergoki aksi pencurian sepeda motor dan berusaha menggagalkan pelaku. Namun komplotan pelaku yang diduga membawa senjata api langsung melepaskan tembakan ke arah korban hingga mengenai bagian kepala. Korban sempat dilarikan ke RS Bhayangkara Polda Lampung, namun nyawanya tidak tertolong. Kematian Bripka Anumerta Arya Supena memicu perhatian luas masyarakat Lampung dan menjadi sorotan atas maraknya aksi kriminal bersenjata di jalanan. Polda Lampung sendiri telah membentuk tim gabungan untuk memburu para pelaku yang masih buron. (*)
+
+
+### Artikel 545
+Judul: Video Penggerebekan Viral, Diduga Pelaku Penembakan Polisi Berhasil Ditangkap - Kupas Tuntas
+Isi:
+Bandar Lampung: Video penggerebekan yang diduga dilakukan tim khusus Polda Lampung viral di media sosial. Dalam video tersebut, aparat kepolisian dikabarkan berhasil menangkap salah satu pelaku pencurian kendaraan bermotor ( curanmor ) yang terlibat dalam penembakan terhadap Bripka anumerta Arya Supena. Peristiwa penggerebekan disebut terjadi di wilayah Kabupaten Lampung Timur. Dalam rekaman video amatir warga, terdengar beberapa kali suara letusan tembakan saat aparat kepolisian melakukan pengejaran dan penggerebekan terhadap terduga pelaku.
+
+
+### Artikel 546
+Judul: Aksi Pencuri Bawa Payung Pink Saat Bobol Toko Di Tanggamus Lampung - SinPo.id
+Isi:
+Video Penggerebekan Viral, Diduga Pelaku Penembakan Polisi Berhasil Ditangkap. Foto: Ist. Kupastuntas.co, Lampung Timur - Aparat kepolisian diduga berhasil menangkap salah satu pelaku begal yang terlibat dalam kasus penembakan anggota Polda Lampung, Bripka (Anumerta) Arya Supena, yang terjadi beberapa hari lalu di Bandar Lampung. Informasi penangkapan tersebut beredar luas melalui video yang memperlihatkan suasana penggerebekan di sebuah rumah warga yang dikabarkan berada di wilayah Kecamatan Jabung, Kabupaten Lampung Timur. Dalam video itu, terlihat sejumlah aparat kepolisian bersenjata melakukan pengepungan lokasi. Suasana di lokasi tampak tegang. Warga sekitar terlihat ramai menonton di area penangkapan untuk menyaksikan proses penggerebekan. Dalam rekaman video juga terdengar beberapa kali suara letusan yang diduga merupakan tembakan saat aparat melakukan upaya penangkapan terhadap terduga pelaku. Meski demikian, hingga kini pihak kepolisian belum memberikan keterangan resmi terkait detail operasi penangkapan tersebut, termasuk identitas pelaku maupun jumlah orang yang diamankan. Baca juga : Banyak Karangan Bunga di Lokasi Tewasnya Brigadir Arya Supena, Toko Baru Pasang CCTV Pascakejadian Sebelumnya, Bripka (Anumerta) Arya Supena, anggota Banit III Subdit IV Ditintelkam Polda Lampung, tewas ditembak pelaku Curanmor pada Sabtu, 9 Mei 2026 sekitar pukul 05.30 WIB. Peristiwa itu terjadi di Jalan ZA Pagar Alam, tepatnya di depan toko Yussy Akmal, kawasan Kedaton, Bandar Lampung, tidak jauh dari Mal Boemi Kedaton (MBK). Korban diketahui memergoki aksi pencurian sepeda motor dan berusaha menggagalkan pelaku. Namun pelaku yang diduga merupakan komplotan begal bersenjata api langsung melepaskan tembakan ke arah korban hingga mengenai bagian kepala. Bripka (Anumerta) Arya Supena sempat dilarikan ke RS Bhayangkara Polda Lampung untuk mendapatkan penanganan medis, namun nyawanya tidak tertolong. Kematian Bripka (Anumerta) Arya Supena memicu perhatian luas masyarakat Lampung dan menjadi sorotan terkait maraknya aksi kriminal bersenjata di jalanan. Polda Lampung sebelumnya telah membentuk tim gabungan untuk memburu para pelaku yang melarikan diri usai kejadian. (*)
+
+
+### Artikel 547
+Judul: Viral, Puluhan Babi Lepas dan Berkubang di Jalan Rusak Usai Truk Terguling di Lampung - MetroTVNews.com
+Isi:
+SinPo.tv - Sebuah rekaman CCTV yang memperlihatkan aksi pencurian dengan modus tak lazim viral di media sosial. Pelaku terekam membawa payung merah muda yang terus dibuka saat membobol toko material di Kabupaten Tanggamus, Lampung, diduga untuk menghalangi kamera merekam identitasnya. #sinpotv #sinpotvnews #Tanggamus #Kriminal 27 September 2026 | 05:00 WIB NASIONAL | 1 hari yang lalu INTERNASIONAL | 5 hari yang lalu NASIONAL | 4 hari yang lalu INTERNASIONAL | 5 hari yang lalu NASIONAL | 6 hari yang lalu
+
+
+### Artikel 548
+Judul: Dipergoki Kurir Paket, Empat Pencuri Gagal Gasak Motor di Sukarame Bandar Lampung - Kupas Tuntas
+Isi:
+Way Kanan: Sebuah video yang memperlihatkan puluhan ekor babi berkubang di jalan berlumpur di Kabupaten Way Kanan, Lampung, viral di media sosial. Setelah ditelusuri, hewan-hewan tersebut berasal dari sebuah truk pengangkut ternak yang terguling saat melintasi ruas jalan rusak di wilayah tersebut. Peristiwa itu terjadi di Kampung Bali Sadar Utara, Kecamatan Banjit, Kabupaten Way Kanan . Dalam video yang beredar, puluhan babi terlihat berkeliaran dan berkubang di jalan yang dipenuhi lumpur. Berdasarkan informasi yang dihimpun, truk tersebut mengangkut sekitar 100 ekor babi yang akan dikirim menuju Medan dan Kalimantan. Saat melintas di jalan yang dipenuhi lubang dan genangan air, kendaraan diduga kehilangan kendali hingga akhirnya terguling.
+
+
+### Artikel 549
+Judul: Viral Pengadaan Penghapus Pensil Rp30 Juta, Ini Kata Pemkab Lambar - IDN Times Lampung
+Isi:
+Rekaman CCTV menunjukkan keempat pelaku saat mencoba melancarkan aksinya di sebuah toko di Sukarame Bandar Lampung. Foto: Ist Kupastuntas.co, Bandar Lampung - Aksi percobaan pencurian sepeda motor
+(curanmor) di Jalan Pulau Pisang, Kecamatan Sukarame, Kota Bandar Lampung,
+gagal setelah dipergoki seorang kurir paket. Peristiwa tersebut pun viral di
+media sosial. Berdasarkan rekaman kamera pengawas (CCTV) yang diterima Kupas Tuntas,
+empat orang pelaku datang dengan mengendarai dua unit sepeda motor. Mereka sempat berhenti di depan toko sebelum turun dan langsung mengincar
+satu unit sepeda motor jenis Honda Beat yang terparkir di halaman dalam. Salah satu pelaku bahkan sudah sempat memundurkan sepeda motor tersebut dan
+diduga hendak merusak kunci kontak. Namun, aksi mereka mendadak terhenti saat seorang kurir datang untuk
+mengantarkan paket. Kedatangan kurir tersebut membuat situasi berubah. Saat salah satu karyawan
+keluar untuk menemui kurir, kondisi di luar toko sudah mencurigakan, bahkan
+motor milik korban sudah dalam posisi dimundurkan. Mengetahui aksinya dipergoki, para pelaku langsung panik dan melarikan diri
+tanpa berhasil membawa kabur kendaraan yang menjadi target. Dari rekaman CCTV, para pelaku terlihat didominasi berusia remaja. Wajah
+salah satu pelaku terekam jelas, sementara dua lainnya mengenakan masker dan
+satu pelaku memakai helm. Salah satu saksi mata sekaligus karyawan toko, Nikma, mengatakan kejadian
+tersebut terjadi pada Sabtu, 11 April 2025 sekitar pukul 15.39 WIB, saat
+dirinya bersama rekan kerja berada di dalam toko. “Kemarin kami masih di dalam, terus ada kurir manggil. Pas salah satu
+keluar, ternyata di luar sudah ramai. Kata kurir, motor kok sudah dimundurin,”
+kata Nikma saat ditemui Senin (13/4/25). Ia menambahkan, kurir sempat menanyakan maksud kedatangan para pelaku
+sebelum akhirnya diketahui sebagai upaya pencurian. “Sempat ditanya sama kurir mereka mau ambil paket atau tidak, tapi dijawab
+tidak. Motor sudah posisi dimundurin, lalu kurir minta cek CCTV, ternyata
+mereka mau maling motor milik owner tempat kami bekerja,” jelasnya. Nikma pun berharap pihak kepolisian segera menangkap para pelaku yang dinilai
+sudah meresahkan. “Kami berharap pelaku bisa segera ditangkap, apalagi mereka masih terlihat
+muda,” ujarnya. Peristiwa ini menjadi pengingat pentingnya kewaspadaan, sekaligus
+menunjukkan peran tak terduga seorang kurir paket yang berhasil menggagalkan
+aksi kejahatan. (*)
+
+
+### Artikel 550
+Judul: Sekolah Rakyat: Anggaran 'tidak wajar' memunculkan kecurigaan - BBC
+Isi:
+Lampung Barat, IDN Times - Temuan data anggaran pengadaan barang berupa penghapus pensil yang mencapai puluhan juta rupiah di lingkungan Pemerintah Kabupaten (Pemkab) Lampung Barat (Lambar) viral di media sosial (Medsos).Berdasarkan tangkapan layar yang beredar di media sosial (Medsos), paket pengadaan dengan kode RUP 66039458 tercatat memiliki nama paket Belanja ATK (DPMPTSP LB) pada Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu (DPMPTSP) Kabupaten Lampung Barat Tahun Anggaran 2026.Dalam rincian paket tersebut, volume pekerjaan tertulis sembilan buah dengan uraian pekerjaan berupa penghapus pensil. Namun, perhatian publik ialah nilai total pagu anggaran mencapai Rp30.042.000. Dalam data yang diterima IDN Times tersebut, spesifikasi barang tertulis sebagai penghapus pensil dengan ukuran minimal 100 x 150 x 300 milimeter berwarna putih atau menyesuaikan dengan kebutuhan.Selain itu, paket tersebut menggunakan metode pemilihan penyedia melalui e-purchasing dengan jenis pengadaan barang. Jadwal pelaksanaan dan pemilihan penyedia tercantum berlangsung pada Maret 2026. Menanggapi ramainya informasi tersebut, Kepala DPMPTSP Lampung Barat, Robert Putra, menjelaskan paket pengadaan dengan nama "Belanja ATK (DPMPTSP LB)" senilai Rp30.042.000 bukan diperuntukkan untuk membeli sembilan buah penghapus pensil saja.Menurutnya, paket tersebut merupakan paket konsolidasi kebutuhan Alat Tulis Kantor (ATK) yang menggabungkan sebanyak 108 Rencana Umum Pengadaan (RUP) dari berbagai subkegiatan di lingkungan DPMPTSP selama satu tahun anggaran."Ini paket konsolidasi kebutuhan Alat Tulis Kantor (ATK) yang menggabungkan 108 RUP ATK dari beberapa subkegiatan dalam satu tahun anggaran," katanya, saat dikonfirmasi, Jumat (19/6/2026). Robert menegaskan, penyusunan paket konsolidasi tersebut mengacu pada amanat Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah, beserta perubahannya yang terakhir diatur melalui Peraturan Presiden Nomor 45 Tahun 2026.Melalui mekanisme konsolidasi, pemerintah daerah dapat menggabungkan paket-paket pengadaan sejenis dalam satu proses pengadaan sehingga administrasi menjadi lebih sederhana dan pelaksanaannya lebih efisien.Selain itu, langkah tersebut juga disebut bertujuan mewujudkan tata kelola pengadaan yang lebih efektif, transparan, dan akuntabel sesuai prinsip-prinsip pengadaan barang dan jasa pemerintah. "Penyusunan RUP konsolidasi paket tersebut dilakukan melalui Sistem Informasi Rencana Umum Pengadaan (SiRUP)," imbuh Robert.
+
+
+### Artikel 551
+Judul: Respon Cepat, Polisi Cek TKP Pencurian Rokok di Sukoharjo Pringsewu - Tribratanews Polda Lampung
+Isi:
+Sumber gambar, ANTARA FOTO Dugaan penggelembungan anggaran pada program Sekolah Rakyat ramai diperbincangkan di media sosial, setelah terungkap bahwa ada perbedaan signifikan antara harga berbagai barang yang dianggarkan dan harga wajar barang-barang tersebut di pasar. BBC News Indonesia dan sejumlah lembaga antikorupsi menemukan ketidakwajaran harga sejumlah barang yang ditawarkan penyedia di e-katalog Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah (LKPP), yakni Inaproc. Menteri Sosial, Saifullah Yusuf, menyebut harga sepatu yang ramai dibicarakan tersebut merupakan perkiraan pada tahap perencanaan yang berkisar Rp500.000 sampai Rp700.000. Akan tetapi, harga realisasi pembeliannya sekitar Rp250.000 hingga Rp640.000, dan sudah termasuk kaos kaki. Dia mengklaim hal ini sudah sejalan dengan aturan pengadaan. Ia pun menambahkan pengadaan sepatu untuk program sekolah rakyat tidak sepenuhnya dilakukan secara terpusat oleh kementerian. Untuk tahap awal, pembelian diserahkan kepada masing-masing sekolah. "Anggaran dikasihkan ke sekolah, sekolah beli sendiri-sendiri," ujar Saifullah. Akan tetapi, Program Officer Divisi Tata kelola Partisipasi dan Demokrasi Transparency International Indonesia (TII), Agus Sarwono, mewanti-wanti harga yang tidak wajar dalam pengadaan bukan sekadar isu teknis, tapi indikasi serius adanya potensi penggelembungan harga. "Ketika negara justru membeli dengan harga yang sangat jauh diatas kewajaran, publik berhak curiga bahwa ada persoalan dalam proses perencanaan, penentuan spesifikasi teknis, hingga dalam proses penentuan penyedia," ujar Agus. "Masalahnya tidak lagi sekadar inefisiensi anggaran, melainkan pergeseran berbahaya menuju praktik korupsi yang terselubung dalam prosedur yang tampak sah secara administratif," tambahnya. Akhir dari Paling banyak dibaca Liputan mendalam BBC News Indonesia langsung di WhatsApp Anda. Upaya penggelembungan anggaran atau mark-up bukan modus baru dalam tindak pidana korupsi. Hal ini juga diduga terjadi pada program prioritas pemerintah karena ada ketidakwajaran harga pada sejumlah barang yang masuk dalam rencana pengadaan atau telah direalisasikan. "Masalahnya, seringkali penyedia menawarkan harga di e-katalog yang nilainya sangat besar dibandingkan e-commerce. Ketika ada kementerian/lembaga/pemerintah daerah yang membeli harga tinggi dibandingkan dengan e-commerce, upaya penindakan atau pengawasannya cenderung tidak ada," ujar Kepala Divisi Hukum dan Investigasi ICW, Wana Alamsyah. Komisi Pemberantasan Korupsi (KPK) menyatakan telah melakukan kajian terkait program ini. "Kajian ini guna memotret proses bisnis dan penerapannya di lapangan, apa saja dan di mana saja yang masih rentan dan berpotensi terjadinya tindak pidana korupsi," ujar Juru Bicara KPK, Budi Prasetyo, di Jakarta, Rabu (06/05). Pada Jumat (08/05) ini, Saifullah telah menemui pimpinan KPK untuk menjelaskan prosedur pengadaan barang dan jasa di Kementerian Sosial. Kepala Pusat Penerangan Hukum Kejaksaan Agung, Anang Supriat

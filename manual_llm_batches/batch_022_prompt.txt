@@ -1,0 +1,76 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "lokasi_text": "lokasi mentah apa adanya sesuai artikel (kelurahan/kecamatan/kota/kabupaten/provinsi jika disebut)",
+          "alasan_viral": "ringkasan alasan/daya tarik",
+          "indikasi_waktu": "tanggal/bulan/periode eksplisit terkait mulai viral, atau null jika tidak disebut",
+          "is_explicitly_viral": true atau false (true HANYA jika artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet, bukan sekadar direkomendasikan),
+          "confidence": angka 0-1
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 168
+Judul: Viral Pemuda Tiba-tiba Diserang OTK Saat Event Lari di Jogja - detikcom
+Isi:
+Sebuah insiden penyeranga terjadi di Jogja saat event lari berlangsung. Salah satu peserta lari diserang orang tak dikenal (OTK) saat mengambil minum di water station. Akibatnya pemuda itu mengalami luka meski masih bisa menyelesaikan perlombaan. Insiden itu terekam kamera netizen dan videonya tersebar luas di media sosial. Dalam video yang diunggah akun Instagram @folkjog itu terlihat, seorang pria tinggi besar tengah cekcok dengan seseorang di dekat para pelari yang sedang mengikuti lomba. Pria tersebut berteriak-teriak hingga memancing perhatian orang sekitar termasuk pelari. Setelahnya, pria tersebut tiba-tiba menyerang water station (WS) dan pelari yang pada saat bersamaan sedang mengambil minum. SCROLL TO CONTINUE WITH CONTENT " Situasi mulai memanas saat salah satu pelari berteriak menyinggung kejadian itu. Pria tersebut kemudian tersulut emosi, mengamuk, dan melempar helm ke arah tenda water station. Meski sempat ditenangkan, pelaku tetap bersikap agresif. Dalam kondisi tersebut, seorang pelari lain yang kebetulan melintas menjadi korban pukulan ," tulis keterangan dalam unggahan itu, dilihat detikJogja, Senin (4/5/2026). "Petugas dari kepolisian lalu lintas dan dinas perhubungan sempat datang ke lokasi untuk meredam situasi. Namun, pelaku masih menunjukkan sikap emosional dan bahkan sempat mencoba menyerang petugas. Akhirnya, pasangan tersebut diminta untuk meninggalkan lokasi karena dinilai mengganggu jalannya acara," sambungnya. Dimintai konfirmasi mengenai kejadian ini, Ps Kasihumas Polresta Jogja, Iptu Dani Hasan pun membenarkan. Menurutnya, insiden ini terjadi Minggu (3/5) pukul 06.30 WIB di Jalan Mataram Kota Jogja. "Kejadian bermula saat korban YG (21) mengikuti lomba lari one Run Jogja 10K, dan pada saat korban berhenti untuk mengambil air minum di lokasi kejadian tiba-tiba korban dianiaya oleh orang tidak dikenal menggunakan tangan kosong," jelas Dani saat dihubungi, Senin (4/5/2026). "Mengakibatkan korban mengalami rasa sakit nyeri di bagian kepala, leher dan pundak. Selanjutnya korban mendatangi team medis untuk dikompres selanjutnya korban melanjutkan lomba lari sampai selesai," sambungnya. Polisi yang mendapat laporan tersebut kemudian bergerak cepat melakukan penyelidikan. Pria yang menyerang pelari itu pun berhasil diamankan. Namun, menurut Dani, insiden ini diselesaikan secara kekeluargaan. "(Pelaku diamankan) Kemarin mas. Siang ini pihak korban dan pelaku sepakat untuk diselesaikan secara kekeluargaan," pungkasnya. Anda menyukai artikel ini
+
+
+### Artikel 169
+Judul: Foto : Viral Dugaan Diskriminasi WNI di Event Lari Canggu Bali, Satpol PP Soroti Rekomendasi Halaman 1 - Kompas.com
+Isi:
+Kompas.com - Berita Indonesia dan Dunia Terkini Hari Ini, Kabar Harian Terbaru Terpercaya Terlengkap Seputar Politik, Ekonomi, Travel, Teknologi, Otomotif, Bola
+
+
+### Artikel 170
+Judul: Viral! WNA di Bali Bikin Event Lari, Tertutup untuk WNI - women.okezone.com
+Isi:
+JAKARTA - Viral di media sosial ajang olahraga lari yang digelar oleh komunitas warga negara asing (WNA) di daerah Canggu, Kuta Utara, Badung, Bali. Event ini bikin warganet geram, karena adanya dugaan diskriminasi, yakni warga negara Indonesia (WNI) malah dilarang ikutan, padahal larinya juga di jalanan umum yang notabene fasilitas publik. Usut punya usut, kabar ini makin panas setelah beredar bocoran screenshot chat penyaringan peserta. Dalam tangkapan layar tersebut terlihat beda perlakuan, peserta dari Indonesia ditolak mentah-mentah, sedangkan warga asing (salah satunya dari Jerman) langsung di-acc untuk bergabung. Tak hanya soal diskriminasi, kelayakan acaranya juga dipertanyakan. Acara ini jelas menggunakan jalan raya dan fasilitas umum, di mana harus mendapatkan izin resmi. Kasatpol PP Kabupaten Badung I Gusti Agung Ketut Suryanegara mengaku pihaknya sama sekali belum pernah dihubungi atau terima permohonan izin dari penyelenggara. Saat ini Satpol PP sedang konfirmasi lebih lanjut dan koordinasi bersama tim hukum untuk menindak lanjut dugaan pelanggaran aturan daerah/bupati setempat. (Agustina Wulandari ) Women Okezone menyajikan berita terbaru dan terpercaya seputar dunia perempuan. Dapatkan informasi terkini tentang gaya hidup, kesehatan, karier, dan inspirasi wanita di Indonesia.
+
+
+### Artikel 171
+Judul: Viral! Netizen Bagikan Momen Hujan Abu Vulkanik saat Festival Musik, Diduga Akibat Erupsi Gunung Marapi - women.okezone.com
+Isi:
+JAKARTA - Viral di media sosial netizen membagikan momen diduga hujan abu vulkanik yang terjadi di wilayah Bukittinggi saat sebuah festival musik yang saat itu diisi oleh band Kotak pada Sabtu, 26 September 2026. Hal tersebut diduga akibat erupsi letusan Gunung Marapi di Sumatera Barat pada hari yang sama. Hal tersebut dibagikan oleh seorang netizen di akun instagramnya @qoycahayuyb. Dalam unggahan video itu, nampak butiran kecil yang terlihat jelas seperti abu vulkanik yang berjatuhan saat konser digelar. Terdengar dari lagu yang dimainkan band Kotak tengah tampil saat itu. “Hujan abu vulkanik di konser Highland Fest Bukittinggi,” tulis netizen tersebut dalam keterangan videonya, dikutip Minggu (27/9/2026). Dalam takarir unggahannya, ia menceritakan bahwa dirinya sempat melihat abu tersebut menempel di baju bagian bahu serta rambut penonton lain saat konser. Namun ia tak langsung mengira bahwa itu adalah abu vulkanik. “Ngeliat d bahu n rambut orang lain saat konser, udah suudzon tipis kirain ketombe, tapi kok hitam?!,” ungkapnya.
+
+
+### Artikel 172
+Judul: Ketua WHDI Badung Dukung Lomba Tradisional di Festival Kapal - baliviralnews.com
+Isi:
+RANGKAIAN FESTIVAL – Ketua WHDI Kabupaten Badung Nyonya Yunita Alit Sucipta menghadiri Rangkaian Festival Kelurahan Kapal 2026, Sabtu (26/9). MANGUPURA (BALIVIRALNEWS) – Rangkaian Festival Kelurahan Kapal 2026 kembali dimeriahkan oleh berbagai kegiatan pelestarian seni dan adat Bali pada Sabtu (26/9). Ketua Wanita Hindu Dharma Indonesia (WHDI) Kabupaten Badung, Nyonya Yunita Alit Sucipta hadir meninjau sekaligus menyerahkan dukungan nyata pada pelaksanaan Lomba Penjor Mini, Lomba Cane antar-Sekeha Teruna, serta Lomba Ngulat Tipat tingkat SD/SMP se-Kelurahan Kapal. Acara yang terintegrasi dengan Tradisi Siat Tipat Tabuh Rah, Aci Pengangon, dan Jong Fest ini bertujuan mempererat kebersamaan dan menjaga eksistensi kearifan lokal di kalangan generasi muda. “Saya memberikan apresiasi yang sebesar-besarnya kepada seluruh panitia, prajuru, serta adik-adik yowana yang turut menyukseskan rangkaian Jong Festival sekaligus Tabuh Rah Aci Pengangon dan Ngulat Tipat, yang merupakan tradisi luhur dari Desa Adat Kapal,” ungkap Ny. Yunita Alit Sucipta. Jero Bendesa Adat Kapal I Ketut Sudarsana menyampaikan rasa terima kasih atas sokongan dana yang diberikan pemerintah daerah demi kelancaran ruang kreatif edukatif ini. “Kami mengucapkan terima kasih banyak atas bantuan dana hibah dari Kabupaten Badung Rp 500 juta, serta tambahan dana pribadi dari Ibu Wakil Bupati sekaligus Ketua WHDI Kabupaten Badung Rp 3 juta yang diserahkan untuk para pemenang lomba,” ujarnya. Peninjauan lomba tradisional yang berlangsung kompetitif ini turut dihadiri Camat Mengwi I Nyoman Suhartana, Lurah Kapal I Nyoman Adi Setiawan, Ketua TP PKK Kecamatan Mengwi, Ketua TP PKK Kelurahan Kapal, serta jajaran prajuru adat se-Desa Adat Kapal. (dev/hmbad)
+
+
+### Artikel 173
+Judul: Mahasiswa UNAJA Sulap Tugas Kuliah Jadi ‘Savoria Festival 2026’, Hadirkan 22 Tenant Viral - jektvnews.disway.id - Disway
+Isi:
+JAMBI – Kabar gembira buat kamu pencinta kuliner dan seni di Jambi! Universitas Adiwangsa Jambi ( UNAJA ) siap menggelar salah satu festival kampus paling seru tahun ini, Savoria Festival 2026 . Catat tanggalnya, acara ini bakal meramaikan kampus UNAJA pada Jumat, 25 September 2026, mulai pukul 08.30 WIB sampai 15.00 WIB. Bukan sekadar festival biasa, acara keren ini ternyata diinisiasi langsung oleh mahasiswa sebagai bentuk nyata dari implementasi visi-misi UNAJA. Kampus tercinta ini berkomitmen penuh memberikan ruang bagi mahasiswa untuk mengekspresikan kreativitas mereka lewat penerapan Sosiotechnopreneurship. Kolaborasi Apik Mahasiswa Farmasi & Kesmas Di balik kemegahan acara ini, ada kolaborasi solid antar-jurusan yang patut diacungi jempol. Seluruh rangkaian event di-manajeri dan di-handle langsung oleh mahasiswa Kesehatan Masyarakat. Sementara itu, area festival bakal diramaikan oleh 22 kelompok dari Program Studi Farmasi yang siap unjuk gigi. Festival ini lahir di bawah bimbingan langsung Elvaro Islami Muryadi, SKM., M.Si., MKM., Ph.D., selaku dosen pengampu mata kuliah Sosiotechnopreneurship dan Kewirausahaan. Melalui event ini, mahasiswa diharapkan mampu mandiri, menelurkan ide kreatif dalam berwirausaha, sekaligus membuat kegiatan yang berdampak positif berbasis sosial, seni, dan bisnis. Banjir Kuliner Viral dan Kompetisi Seru Lalu, ada apa aja sih di Savoria Festival 2026? Ini dia bocoran daya tarik utama yang wajib kamu tahu: • 22 Tenant Makanan Viral: Pengin jajan yang lagi hit? Gak perlu keliling Jambi! Di sini bakal ada 22 tenant makanan dan seni yang menyajikan hampir semua menu yang lagi viral di Indonesia saat ini. • Talkshow Bisnis Era Digital: Buat kamu yang mau melek bisnis, bakal ada sesi sharing bareng pembicara kece yang mengupas tuntas tantangan bisnis di era digital. • Presentasi Bisnis & Kompetisi Stand: Masing-masing kelompok mahasiswa bakal mempresentasikan ide bisnis mereka. Biar makin kompetitif, ada juga lomba Stand Terbaik dan Terunik! • Ajang Unjuk Bakat Internal: Kemeriahan seni makin berasa dengan adanya Lomba Vokal Solo dan Lomba Fashion Show (tema Batik Kreasi Nusantara × Modern Global) yang dikhususkan bagi mahasiswa UNAJA, lengkap dengan penampilan dari pengisi acara utama. Harapan besar dari Savoria Festival 2026 ini adalah tertanamnya jiwa sosiotechnopreneurship yang kuat di dalam diri setiap mahasiswa UNAJA, sehingga setelah lulus nanti mereka gak cuma siap kerja, tapi juga siap membuka lapangan kerja kreatif. Yuk, jangan sampai ketinggalan! Langsung kepoin update terbarunya di Instagram @savoriafest2026 dan @unaja_official. Enjoy the moment, feel the vibe!
+
+
+### Artikel 174
+Judul: Video Viral Karnaval di Pekalongan Berbau Ritual Kontroversi - 20detik
+Isi:
+Scroll atau gunakan tombol
+                                        [ ]
+                                        [ ] serta klik panah di sisi kanan untuk menjelajahi feed video. Niatnya ngerayain Maulid Nabi dan khitanan massal, ajang Simbang Kulon Night Carnival 2026 di Pekalongan yang diadakan pada Kamis (10/9/2026) malam ini malah panen kecaman netizen! Bagaimana tidak, karnaval ini menyuguhkan atraksi dengan pembawaan visual gelap menyerupai ritual pemujaan setan, lengkap dengan penyembelihan kambing di tempat. Nggak habis pikir deh!!! Komen pendapat kalian di bawah ya soal karnaval ini?
+
+
+### Artikel 175
+Judul: Viral Kostum Satanik Festival di Pekalongan, Panitia Minta Maaf - MetroTVNews.com
+Isi:
+Bagian penampilan dalam Night Carnival atau SKNC 2026 di Kabupaten Pekalongan. MI/Ist. Supardji Rasban • 14 September 2026 22:01 Pekalongan: Panitia Simbangkulon Night Carnival ( SKNC ) 2026 di Kabupaten Pekalongan, Jawa Tengah, menyampaikan permintaan maaf atas kontroversi penampilan peserta yang disebut publik memiliki nuansa ritual satanik. Panitia mengakui tidak memahami makna kostum dan referensi penampilan yang digunakan dalam parade tersebut. Kontroversi mencuat setelah penampilan salah satu peserta dalam SKNC 2026 menjadi sorotan publik. Aksi tersebut kemudian ramai diperbincangkan lantaran dinilai menampilkan unsur yang dikaitkan dengan ritual satanik. Panitia bersama pihak keamanan dan pemerintah setempat kemudian menggelar pertemuan di Kantor Lurah Simbangkulon, Kecamatan Buaran, Kabupaten Pekalongan , untuk membahas persoalan tersebut. Salah satu perwakilan panitia, Ziyad Azisi, mengaku tidak mengetahui secara rinci konsep penampilan yang dibawakan tim kreatif Simbangkulon Gang 1 atau Sim One. "Kami mohon maaf atas kontroversi yang muncul dan membuat tidak nyaman berbagai pihak atas aksi tersebut apalagi ditonton juga oleh Plt Bupati Pekalongan dan jajarannya," ujar Ziyad, Selasa, 14 September 2026. Permintaan maaf juga disampaikan tim kreatif yang terlibat dalam penampilan tersebut. Ketua tim kreatif, M Akhid, mengakui adanya kekurangan pemahaman terhadap referensi yang digunakan dalam menyusun konsep pertunjukan. "Ide penampilan bermula saat mereka melihat kostum yang dianggap unik. Kostum tersebut kemudian disewa dari pihak di Malang, sementara gerakan dan koreografi disiapkan bersama anggota tim," terang Akhid. Akhid menjelaskan tim memperoleh referensi penampilan dari sejumlah video di YouTube. Materi tersebut kemudian dipelajari dan dilatih selama kurang lebih satu pekan. Tim kreatif juga membantah adegan penyembelihan kambing dalam pertunjukan tersebut ditujukan sebagai ritual satanik. "Kambing tersebut memang telah direncanakan untuk disembelih setelah acara untuk kegiatan rahatan. Saat membuat konsep tidak mengetahui bahwa referensi kostum dan penampilan tersebut dapat dikaitkan dengan ritual satanik," jelas Akhid. Lurah Simbangkulon, Franky Irawan, mengakui pemerintah setempat tidak mengetahui secara mendetail materi penampilan peserta sebelum acara berlangsung. Pemerintah kelurahan akan melakukan evaluasi terhadap pelaksanaan kegiatan. Panitia juga diminta lebih dahulu memahami setiap konsep penampilan peserta sebelum ditampilkan di hadapan masyarakat. "Kami dari pihak Kelurahaman juga minta maaf kepada masyarakat yang merasa tersinggung dengan penampilan tersebut," ujar Franky. Sementara itu, kepolisian masih menyelidiki penampilan yang viral di media sosial tersebut. Kasat Reskrim Polres Pekalongan Kota AKP Setiyanto mengatakan hingga kini belum ada laporan resmi dari masyarakat terkait aksi tersebut. Meski belum menerima laporan, polisi tetap mengumpulkan keterangan dan informasi dari sejumlah saksi. Langkah tersebut dil

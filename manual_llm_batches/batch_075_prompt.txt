@@ -1,0 +1,74 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "lokasi_text": "lokasi mentah apa adanya sesuai artikel (kelurahan/kecamatan/kota/kabupaten/provinsi jika disebut)",
+          "alasan_viral": "ringkasan alasan/daya tarik",
+          "indikasi_waktu": "tanggal/bulan/periode eksplisit terkait mulai viral, atau null jika tidak disebut",
+          "is_explicitly_viral": true atau false (true HANYA jika artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet, bukan sekadar direkomendasikan),
+          "confidence": angka 0-1
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 592
+Judul: Rasakan Sensasi Terbang Dengan Flying Board di Jakarta - 20detik
+Isi:
+Pemerintah Provinsi DKI Jakarta berambisi menjadikan Jakarta sebagai kota destinasi event dunia yang berkualitas. Mengutip data Global City Index (GCI), Jakarta menduduki posisi ke-74 sebagai kota yang paling berpengaruh secara global. Peringkat itu kemudian naik menjadi 71 pada tahun 2025. Salah satu hal yang menurutnya menaikkan peringkat tersebut yakni sektor pariwisata dan ekonomi kreatif telah mendorong komponen pengalaman budaya dalam dimensi peringkat kota global. SCROLL TO CONTINUE WITH CONTENT Pemprov DKI Jakarta berupaya terus menggenjot posisi tersebut dan berbenah diri guna menghadirkan Jakarta sebagai destinasi yang menarik sekaligus nyaman dikunjungi oleh wisatawan. "Kami berharap banyak kolaborasi antara mitra dengan kami, akan terjadi (karena sebentar lagi) 500 tahun Jakarta. Jadi mestinya event-nya akan banyak sekali," kata Kepala Bidang Industri Pariwisata Disparekraf DKI Jakarta Iffan dalam sesi diskusi IPOS X di Jakarta seperti dikutip dari Antara, Rabu (29/4/2026). Sejumlah upaya pun dilakukan untuk meningkatkan kesiapan ekosistem event di Jakarta. Misalnya mempermudah perizinan dengan digitalisasi melalui integrasi sistem perizinan event satu pintu, mempersiapkan tenaga kerja yang kreatif dan promotor lokal yang tersertifikasi, serta meningkatkan integrasi transportasi publik menuju ke pusat-pusat acara. Pemprov DKI Jakarta juga berkomitmen mengoptimalkan aset dan venue yang mereka miliki. Beberapa contohnya yaitu Jakarta International Stadium (JIS) sebagai tempat yang cocok untuk sportainment berskala masif dan Taman Ismail Marzuki (TIM) sebagai pusat kesenian modern dan edukasi. Ada juga Lapangan Banteng dan Monumen Nasional (Monas) sebagai ruang terbuka untuk festival publik dan budaya, hingga Jakarta International Velodrome yang diperkenalkan sebagai venue multifungsi kelas dunia. Di samping itu, Pemprov DKI Jakarta juga sedang aktif merevitalisasi ruang publik sebagai venue kreatif. Pemanfaatan ruang terbuka hijau dan kawasan pedestrian banyak dilakukan di sekitar kawasan Sudirman-Thamrin untuk pop-up events. Kalender event strategis menuju Jakarta 500 tahun pun sudah disiapkan Event-event yang sudah dikurasi diharapkan bisa diselenggarakan secara tahunan dan berkelanjutan seperti Jakarta Fair, Jakarta Film Week, Jakarta Fashion Week, event olahraga internasional dan tur musik global, hingga The Golfen Jubilee Festival sebagai peringatan 500 tahun Jakarta. Dalam acara IPOS X itu, turut hadir Wakil Menteri Pariwisata Ni Luh Puspa yang menyebut Indonesia punya momentum untuk memperkuat daya saing global di industri event, sekaligus mendorong pertumbuhan ekonomi berbasis MICE. "IPOS bukan sekadar sebuah event, tetapi gerakan bersama untuk memajukan, meningkatkan profesionalitas, dan mengangkat martabat industri MICE di panggung nasional dan global," kata Ni Luh. Mengusung tema A Decade of Impact: Independent, Resilient, Progressive, IPOS-X menandai 10 tahun perjalanan sebagai forum B2B paling strategis di Indonesia. Tahun 
+
+
+### Artikel 593
+Judul: Bosan ke Mal Terus? Cobain 17 Spot Jalan-jalan Seru di Jakarta Ini Buat Weekend! - detikTravel
+Isi:
+Setelah seru-seruan main wake boarding, sselanjutnya selebriti mau bermain Flying Boarding. Mereka akan tandem dengan intruktur permainan Flying Board ini. Mereka senang bisa merasakan sensasi terbang di atas ancol seperti ini. Dok : Celebrity On VacationTrans TV (Diki)
+
+
+### Artikel 594
+Judul: Menemukan Fashion Terbaru di Mall Grand Indonesia, Jakarta - 20detik
+Isi:
+Menjelajahi Jakarta di akhir pekan kini tidak lagi melulu soal pusat perbelanjaan yang padat. Ada banyak tempat yang bisa kamu jelajahi di akhir pekan. Sebagai kota yang terus bersolek, Jakarta tahun 2026 menawarkan wajah baru melalui revitalisasi ruang publik yang mengedepankan konsep terbuka, hijau, dan ramah pejalan kaki. Dari taman-taman ekosistem yang asri hingga kawasan bersejarah yang telah ditata ulang, ibu kota menyediakan berbagai alternatif wisata yang menyegarkan pikiran tanpa harus terjebak di dalam gedung mal. Keberagaman destinasi wisata ini hadir untuk memenuhi setiap selera, mulai dari pencinta seni kontemporer hingga keluarga yang mencari hiburan edukatif. Dengan akses transportasi umum yang kini semakin terintegrasi, berpindah dari satu lokasi wisata ke lokasi lainnya menjadi pengalaman yang jauh lebih praktis dan efisien. SCROLL TO CONTINUE WITH CONTENT Menghabiskan akhir pekan dengan berkeliling hutan kota atau menikmati senja di pesisir utara Jakarta akan memberikan perspektif baru tentang kehidupan urban yang lebih seimbang. Jadi, siapkan sepatu ternyamanmu dan mulailah petualangan singkat di sudut-sudut tersembunyi Jakarta yang jauh dari kesan monoton. Bekas percetakan uang yang kini menjadi kiblat kultur anak muda. Di tahun 2026, areanya semakin luas dengan tambahan zona podcasting dan toko piringan hitam yang lebih lengkap. Lokasi: Jl. Panglima Polim No. 37, Melawai, Jakarta Selatan. Tiket: Gratis (Kecuali konser/event khusus). Jam Buka: 10.00 - 23.00 WIB. Gedung Filateli peninggalan Belanda yang disulap menjadi ruang kreatif. Sekarang menjadi pusat produk lokal (UMKM) paling estetik di Jakarta Pusat. Lokasi: Jl. Pos No. 2, Pasar Baru, Jakarta Pusat. Jam Buka: 10.00 - 21.00 WIB (Weekdays), 07.00 - 00.00 WIB (Weekend). Wajah baru TIM setelah revitalisasi besar-besaran menjadikannya pusat seni tercanggih di Asia Tenggara. Jangan lewatkan Planetarium dan Perpustakaan Jakarta yang sangat futuristik. Lokasi: Jl. Cikini Raya No. 73, Menteng, Jakarta Pusat. Tiket: Gratis (Masuk area), Tiket khusus untuk teater/planetarium. Jam Buka: 09.00 - 20.00 WIB. Kini sepenuhnya menjadi kawasan pejalan kaki yang nyaman. Di tahun 2026, konektivitas dengan MRT Jakarta membuat akses ke sini semakin mudah. Lokasi: Jl. Taman Fatahillah No. 1, Jakarta Barat. Tiket: Gratis (Masuk area), Museum Sejarah: Rp15.000. Jam Buka: 08.00 - 21.00 WIB. Simbol abadi Jakarta. Di tahun 2026, sistem pertunjukan air mancur menari dan video mapping pada dinding Monas semakin rutin digelar setiap akhir pekan. Lokasi: Lapangan Merdeka, Gambir, Jakarta Pusat. Tiket Pelataran Puncak: Dewasa Rp24.000, Mahasiswa Rp13.000, Anak Rp6.000. Tiket Museum: Dewasa Rp8.000, Mahasiswa Rp5.000, Anak Rp3.000. Jam Buka: 06.00 - 16.00 WIB (Kawasan luar buka hingga malam). Taman peraih penghargaan internasional ini tetap menjadi primadona berkat Infinity Link Bridge-nya. Pendaftaran masuk kini wajib menggunakan aplikasi "Jaki" untuk membatasi kuota pengunjung. Lokasi: Jl. Tebet Timur 
+
+
+### Artikel 595
+Judul: Rustic Market di Sentul Viral, Wisata Vibes Eropa yang Bisa Diakses Menggunakan Transjakarta - Jawa Pos Metropolitan
+Isi:
+Salain di Pasar Tanah Abang, selebriti juga mau beli pakaian Di Mall Grand Indonesia. Mereka akan mencari pakaian yang khas Indonesia Banget. Disini kita bisa memilih-milih aneka batik nusantara dan pernak-perniknya. Dok : Celebrity On VacationTrans TV (Ade)
+
+
+### Artikel 596
+Judul: HUT ke-499 Jakarta, Pramono Pertimbangkan Masuk Ancol dan Ragunan Gratis - merahputih.com
+Isi:
+Rustic Market, atau Valley Market, merupakan salah satu destinasi wisata yang ramai diperbincangkan di media sosial. Warganet banyak menyebutnya “vibes pedesaan Eropa yang ada di Bogor”.
+
+
+### Artikel 597
+Judul: Parkir Liar di Jakarta Masih Menjamur Meski Penertiban Terus Dilakukan - MetroTVNews.com
+Isi:
+MerahPutih.com - Kabar baik datang bagi warga Jakarta dan sekitarnya. Pemerintah Provinsi DKI Jakarta tengah mengkaji kemungkinan menggratiskan sejumlah destinasi wisata milik pemerintah daerah dalam rangka perayaan HUT ke-499 Jakarta. Beberapa lokasi yang masuk dalam pertimbangan antara lain Ancol, Taman Margasatwa Ragunan, museum, hingga perpustakaan daerah. Gubernur DKI Jakarta Pramono Anung, dikutip Sabtu (6/6), mengatakan kebijakan tersebut masih dalam tahap kajian sebagai bagian dari rangkaian perayaan ulang tahun Ibu Kota. Pemprov DKI Siapkan Akses Lebih Luas untuk Warga Pramono menegaskan, Pemerintah Provinsi DKI Jakarta tidak hanya menyiapkan agenda seremonial dalam perayaan HUT Jakarta. Menurutnya, pemerintah juga mempertimbangkan pemberian akses yang lebih luas bagi masyarakat untuk menikmati berbagai fasilitas publik dan destinasi wisata yang dikelola pemerintah daerah. Langkah tersebut diharapkan dapat membuat perayaan ulang tahun Jakarta lebih dirasakan langsung manfaatnya oleh warga. Transportasi Umum Gratis Juga Disiapkan Selain membuka peluang tiket gratis ke sejumlah destinasi wisata, Pramono memastikan Pemprov DKI Jakarta juga akan memberikan layanan transportasi umum gratis pada momen tertentu menjelang HUT Jakarta. Ia menyebut kebijakan tersebut telah dipersiapkan dan tinggal menunggu pengumuman resmi kepada masyarakat. &ldquo;Nanti (transportasi umum gratis) akan kami adakan, tepat sebelum tanggal 22, pasti akan kami umumkan,&rdquo; jelas politikus senior PDIP tersebut. Meski demikian, Pramono belum merinci skema maupun waktu pelaksanaan kebijakan wisata gratis dan transportasi umum gratis tersebut. Menurutnya, keputusan final masih dalam tahap pembahasan di lingkungan Pemerintah Provinsi DKI Jakarta. Jika terealisasi, kebijakan ini akan menjadi salah satu program yang dapat dinikmati masyarakat dalam rangka menyambut HUT ke-499 Jakarta yang diperingati pada 22 Juni mendatang. (Knu)
+
+
+### Artikel 598
+Judul: 54 Ton Sampah Viral di Cakung Dibersihkan, DLH DKI Evaluasi Jadwal Angkut - Media Indonesia
+Isi:
+Parkir liar. Foto: Metro TV/Muhammad Iqbal Sidiq. Muhammad Iqbal Sidiq •  3 May 2026 17:22 Jakarta: Pemerintah Provinsi ( Pemprov ) DKI Jakarta tengah gencar memberantas praktik parkir liar. Namun, pantauan di sejumlah titik krusial di Jakarta Selatan dan Jakarta Pusat pada Sabtu, 2 Mei 2026, menunjukkan kendaraan masih memadati bahu jalan dan trotoar secara ilegal. "Kemarin siang Dishub (Dinas Perhubungan) sempat angkut beberapa motor karena video pemilik toko viral kan. Tapi ya sekarang sudah pada berani parkir lagi," ujar Ketut Made, juru parkir resmi berizin Dishub di daerah Melawai, Jakarta Selatan, dikutip Minggu, 3 Mei 2026.
+
+
+### Artikel 599
+Judul: Blok M Versi Melambat Halaman 1 - Kompasiana.com
+Isi:
+Terungkap, dari 16 unit rumah temuan Ombudsman RI, cuma tiga unit berstatus barang milik negara. PEMERINTAH Provinsi DKI Jakarta memastikan tumpukan sampah yang sempat menggunung di Gang Swadaya Albo , Kelurahan Cakung Barat, Kecamatan Cakung, Jakarta Timur, telah tuntas ditangani. Sebanyak 54 ton sampah diangkut setelah Dinas Lingkungan Hidup (DLH) DKI Jakarta menerjunkan alat berat dan armada pengangkut ke lokasi tersebut. Kepala Dinas Lingkungan Hidup DKI Jakarta, Dudi Gardesi Asikin , menjelaskan bahwa tindakan cepat ini diambil merespons laporan masyarakat dan video viral di media sosial. Suku Dinas Lingkungan Hidup Jakarta Timur langsung dikerahkan untuk melakukan pengecekan dan pembersihan pada Kamis (2/7). “Begitu kami menerima laporan dan melihat video yang beredar terkait tumpukan sampah di Gang Swadaya Albo, Cakung Barat, jajaran kami langsung bergerak untuk melakukan penanganan,” ujar Dudi. Baca juga : Pegawai Toko Roti di Jaktim Diduga Dianiaya Anak Bosnya, Polisi Selidiki Dalam operasi pembersihan tersebut, DLH DKI Jakarta mengerahkan satu unit shovel loader , tiga truk tipper besar, serta lima truk tipper kecil. Selain mengangkut 54 ton sampah, petugas juga merapikan area sekitar dan membilas jalan menggunakan road sweeper serta truk tangki air guna memastikan lingkungan kembali steril dan nyaman. Berdasarkan evaluasi lapangan, Dudi mengungkapkan bahwa penumpukan sampah dipicu oleh ketidaksesuaian jadwal antara petugas gerobak sampah dengan waktu kedatangan truk pengangkut. Hal ini menyebabkan sampah di titik penampungan sementara meluber hingga ke badan jalan. “Prinsip kami jelas, setiap keluhan warga harus direspons cepat, apalagi jika sudah menyangkut kebersihan dan kelancaran aktivitas masyarakat,” tegasnya. Sebagai langkah antisipasi agar kejadian tidak terulang, DLH DKI Jakarta akan membenahi sistem pengangkutan di lokasi tersebut. Jadwal armada akan ditata ulang dan koordinasi dengan petugas gerobak diperkuat agar sampah dapat langsung dimuat ke truk tanpa harus menumpuk lama di pool gerobak. “Kami tidak hanya menyelesaikan persoalan di lapangan, tetapi juga memperbaiki sistemnya. Seluruh pihak diminta berkomitmen agar sampah langsung dimuat ke truk sesuai jadwal,” pungkas Dudi. (Z-10) Polsek Cakung berhasil menangkap perampok yang menyekap seorang lansia berinisial H (61) saat bersiap salat Dzuhur di rumahnya kawasan Penggilingan, Jakarta Timur. Pihak kepolisian mengimbau masyarakat agar selalu mengedepankan komunikasi dalam menyelesaikan masalah keluarga dan menghindari tindakan kekerasan yang berujung pada ranah pidana. Ratusan rumah warga di Kampung Sawah, Kecamatan Cakung, Jakarta Timur, terendam banjir pada Kamis (29/1) pagi akibat luapan Kali Cakung. Jasad korban ditemukan oleh petugas gabungan di Kali Cilincing, Jakarta Utara, pada Minggu (18/1) sore. Budi menjelaskan, pelaku diamankan saat akan kabur ke Lampung. Pelaku ditangkap saat menyeberang di Pelabuhan Penyeberangan Bakauheni, Lampung Selatan. Dinas Lingkungan
