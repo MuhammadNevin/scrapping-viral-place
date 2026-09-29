@@ -1,0 +1,440 @@
+{
+  "results": [
+    {
+      "article_id": 690,
+      "places": [
+        {
+          "nama_tempat": "Malioboro",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Yogyakarta",
+          "alasan_viral": "Ikon pariwisata destinasi wajib anak muda",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 691,
+      "places": [
+        {
+          "nama_tempat": "Museum Terumbu Karang Indonesia",
+          "kategori": "Museum",
+          "lokasi_text": "Demangan, Kota Yogyakarta",
+          "alasan_viral": "Wisata edukasi gratis keindahan bawah laut yang viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 692,
+      "places": [
+        {
+          "nama_tempat": "Pantai Sepanjang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Gunungkidul",
+          "alasan_viral": "Penataan kawasan, kunjungan naik di atas 100 persen",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Pantai Drini Park",
+          "kategori": "Wahana",
+          "lokasi_text": "Gunungkidul",
+          "alasan_viral": "Destinasi baru ramai dikunjungi, bagian destinasi baru yang viral",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Jungwok",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Gunungkidul",
+          "alasan_viral": "Destinasi baru ramai dikunjungi",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "On the Rock",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Gunungkidul",
+          "alasan_viral": "Destinasi baru ramai dikunjungi",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 693,
+      "places": [
+        {
+          "nama_tempat": "HeHa Ocean View",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Gunungkidul",
+          "alasan_viral": "Panorama Samudra Hindia dari tebing, spot foto baru",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Obelix Sea View",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Gunungkidul",
+          "alasan_viral": "Konsep Santorini Instagramable menghadap laut",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Pantai Wediombo",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Gunungkidul",
+          "alasan_viral": "Pantai dengan kolam alami di bebatuan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 694,
+      "places": [
+        {
+          "nama_tempat": "K'Ville Kaliurang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kaliurang, lereng Gunung Merapi, Sleman",
+          "alasan_viral": "Destinasi viral bernuansa Eropa",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 695,
+      "places": [
+        {
+          "nama_tempat": "Malioboro",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Yogyakarta",
+          "alasan_viral": "Destinasi favorit saat long weekend",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 696,
+      "places": []
+    },
+    {
+      "article_id": 697,
+      "places": [
+        {
+          "nama_tempat": "Wisata Batu Alien Merapi",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Dusun Jambu, Desa Kepuharjo, Kecamatan Cangkringan, Sleman",
+          "alasan_viral": "Batu erupsi 2010 berbentuk wajah alien jadi destinasi viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 698,
+      "places": []
+    },
+    {
+      "article_id": 699,
+      "places": [
+        {
+          "nama_tempat": "ARTJOG",
+          "kategori": "Pameran",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Ajang pameran karya seni",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 700,
+      "places": []
+    },
+    {
+      "article_id": 701,
+      "places": [
+        {
+          "nama_tempat": "Pasar Ngasem",
+          "kategori": "lainnya",
+          "lokasi_text": "Kompleks Taman Budaya, Kota Yogyakarta",
+          "alasan_viral": "Pasar legendaris, kuliner dan barang antik",
+          "indikasi_waktu": "April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 702,
+      "places": [
+        {
+          "nama_tempat": "Toko Hamzah Batik",
+          "kategori": "lainnya",
+          "lokasi_text": "Malioboro, Yogyakarta",
+          "alasan_viral": "Viral kebakaran toko di Malioboro (isu negatif)",
+          "indikasi_waktu": "28 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 703,
+      "places": []
+    },
+    {
+      "article_id": 704,
+      "places": [
+        {
+          "nama_tempat": "Bake to Salt",
+          "kategori": "Kafe",
+          "lokasi_text": "Welcome to Pleasure, Jl. Surokarsan No.19, Wirogunan, Mergangsan, Jogja",
+          "alasan_viral": "Salt bread viral paling happening, reopening",
+          "indikasi_waktu": "22 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Hikaru Bakehouse",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Palagan No.202, Sariharjo, Ngaglik, Sleman",
+          "alasan_viral": "Salt bread premium",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Butterhalf",
+          "kategori": "Kafe",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Cabang cafe hits Semarang, salt bread",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 705,
+      "places": [
+        {
+          "nama_tempat": "Pasar Beringharjo",
+          "kategori": "lainnya",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Pusat belanja batik dan kebaya",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 706,
+      "places": [
+        {
+          "nama_tempat": "Bhumi Bhuvana",
+          "kategori": "Kafe",
+          "lokasi_text": "Prawirotaman, Yogyakarta",
+          "alasan_viral": "Kafe unik yang lagi viral dengan kelas memasak",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Ayam Goreng Pratunam",
+          "kategori": "Restoran",
+          "lokasi_text": "Gowongan, Yogyakarta",
+          "alasan_viral": "Restoran ayam khas Thailand lagi hits dan viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Kano Maritim Baros",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Tirtohargo, Bantul",
+          "alasan_viral": "Kano yang jadi olahraga favorit anak muda",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 707,
+      "places": [
+        {
+          "nama_tempat": "Kotagede",
+          "kategori": "lainnya",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Pusat kerajinan perak",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Hamzah Batik",
+          "kategori": "lainnya",
+          "lokasi_text": "Depan Pasar Beringharjo, Yogyakarta",
+          "alasan_viral": "Toko batik favorit wisatawan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Desa Wisata Kasongan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bantul",
+          "alasan_viral": "Gerabah dan keramik estetik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 708,
+      "places": [
+        {
+          "nama_tempat": "Jenang Yu Jumilah",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Ngasem, Yogyakarta",
+          "alasan_viral": "Ramai dikunjungi setelah viral direkomendasikan di TikTok",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 709,
+      "places": [
+        {
+          "nama_tempat": "Nasi Kuning Muna Cung",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Pathuk, Jalan Beskalan No.27, Ngupasan, Gondomanan, Kota Yogyakarta",
+          "alasan_viral": "Sering masuk konten food vlogger dan mendadak viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 710,
+      "places": [
+        {
+          "nama_tempat": "Pasar Ngasem",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Polowijan, Patehan, Kraton, Yogyakarta",
+          "alasan_viral": "Jajanan tradisional yang kembali viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 711,
+      "places": []
+    },
+    {
+      "article_id": 712,
+      "places": [
+        {
+          "nama_tempat": "Pasar Ngasem",
+          "kategori": "lainnya",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Surga wisata kuliner yang lagi viral dan hits",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Jenang Yu Jumilah",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Ngasem, Yogyakarta",
+          "alasan_viral": "Jenang warna-warni dengan antrean mengular",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Warung Yu Ngademi",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Ngasem, Yogyakarta",
+          "alasan_viral": "Nasi rames sejak 1983",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Carabikang Bu Kristi",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Ngasem, Yogyakarta",
+          "alasan_viral": "Kue carabikang yang selalu ramai diburu",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 713,
+      "places": []
+    },
+    {
+      "article_id": 714,
+      "places": []
+    },
+    {
+      "article_id": 715,
+      "places": []
+    },
+    {
+      "article_id": 716,
+      "places": []
+    },
+    {
+      "article_id": 717,
+      "places": [
+        {
+          "nama_tempat": "Taman Budaya Yogyakarta",
+          "kategori": "Museum",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Lokasi Yogyakarta Urban Teater Festival",
+          "indikasi_waktu": "6 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 718,
+      "places": []
+    },
+    {
+      "article_id": 719,
+      "places": []
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "results": [
+    {
+      "article_id": 810,
+      "places": []
+    },
+    {
+      "article_id": 811,
+      "places": []
+    },
+    {
+      "article_id": 812,
+      "places": []
+    },
+    {
+      "article_id": 813,
+      "places": []
+    },
+    {
+      "article_id": 814,
+      "places": [
+        {
+          "nama_tempat": "Pasar Rakyat \"Berbelanja dan Berbagi\"",
+          "kategori": "Pameran",
+          "lokasi_text": "Taman Budaya Kapten A.A. Made Karang Candra Buana, Karangasem",
+          "alasan_viral": "Pasar rakyat UMKM TP PKK Bali",
+          "indikasi_waktu": "4 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 815,
+      "places": []
+    },
+    {
+      "article_id": 816,
+      "places": []
+    },
+    {
+      "article_id": 817,
+      "places": []
+    },
+    {
+      "article_id": 818,
+      "places": []
+    },
+    {
+      "article_id": 819,
+      "places": []
+    },
+    {
+      "article_id": 820,
+      "places": []
+    },
+    {
+      "article_id": 821,
+      "places": []
+    },
+    {
+      "article_id": 822,
+      "places": []
+    },
+    {
+      "article_id": 823,
+      "places": []
+    },
+    {
+      "article_id": 824,
+      "places": []
+    },
+    {
+      "article_id": 825,
+      "places": []
+    },
+    {
+      "article_id": 826,
+      "places": []
+    },
+    {
+      "article_id": 827,
+      "places": []
+    },
+    {
+      "article_id": 828,
+      "places": [
+        {
+          "nama_tempat": "Kawasan kuliner Masjid Agung dan Lapangan Muhajirin Praya",
+          "kategori": "Restoran",
+          "lokasi_text": "Praya, Lombok Tengah, NTB",
+          "alasan_viral": "Pusat kuliner kaki lima favorit warga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Cilok Pak De",
+          "kategori": "Restoran",
+          "lokasi_text": "Sekitar Masjid Agung Praya, Lombok Tengah",
+          "alasan_viral": "Cilok sejuta umat, pembeli antre hingga kehabisan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Nasi Suzuki",
+          "kategori": "Restoran",
+          "lokasi_text": "Samping Toko Matahari Praya, Lombok Tengah",
+          "alasan_viral": "Angkringan legend nasi super pedas",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 829,
+      "places": [
+        {
+          "nama_tempat": "Saffron (nasi briyani)",
+          "kategori": "Restoran",
+          "lokasi_text": "Simpang empat Jalan Sriwijaya, Cilinaya, Kota Mataram",
+          "alasan_viral": "Nasi briyani viral di medsos, antre 1,5 jam, 300 porsi ludes tiap hari",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "article_id": 830,
+      "places": [
+        {
+          "nama_tempat": "Villa Aman D'Sini",
+          "kategori": "Restoran",
+          "lokasi_text": "Sentul, Bogor",
+          "alasan_viral": "\"Little Ubud\" Sentul bernuansa Bali di hutan pinus",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Pancar Garden",
+          "kategori": "Restoran",
+          "lokasi_text": "Kaki Gunung Pancar, Sentul",
+          "alasan_viral": "Kafe-restoran outdoor populer",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Kampoeng Koneng",
+          "kategori": "Restoran",
+          "lokasi_text": "Sentul, Bogor",
+          "alasan_viral": "Restoran keluarga konsep pedesaan Sunda",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Coffee Contentner",
+          "kategori": "Kafe",
+          "lokasi_text": "Taman Budaya Sentul",
+          "alasan_viral": "Kafe unik dari kontainer",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 831,
+      "places": [
+        {
+          "nama_tempat": "Taman Wisata Labuhan Haji",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Lombok Timur, NTB",
+          "alasan_viral": "Viral tiket masuk Rp20 ribu tidak sesuai aturan (isu negatif)",
+          "indikasi_waktu": "24 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 832,
+      "places": [
+        {
+          "nama_tempat": "Taman Wisata Labuhan Haji",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Lombok Timur, NTB",
+          "alasan_viral": "Pengelola turunkan tiket jadi Rp15 ribu setelah viral (isu negatif)",
+          "indikasi_waktu": "24 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 833,
+      "places": [
+        {
+          "nama_tempat": "Kawasan Mandalika",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kuta Mandalika, Lombok Tengah, NTB",
+          "alasan_viral": "Viral video cekcok sopir taksi dan travel lokal berebut penumpang (isu negatif)",
+          "indikasi_waktu": "September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 834,
+      "places": [
+        {
+          "nama_tempat": "Pantai Viral Bagek Kembar",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kelurahan Tanjung Karang Permai, Kecamatan Sekarbela, Kota Mataram",
+          "alasan_viral": "Kawasan wisata yang populer disebut Pantai Viral",
+          "indikasi_waktu": "12 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 835,
+      "places": []
+    },
+    {
+      "article_id": 836,
+      "places": []
+    },
+    {
+      "article_id": 837,
+      "places": []
+    },
+    {
+      "article_id": 838,
+      "places": []
+    },
+    {
+      "article_id": 839,
+      "places": []
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "results": [
+    {
+      "article_id": 1710,
+      "places": [
+        {
+          "nama_tempat": "Matahari Department Store IP Mall",
+          "kategori": "lainnya",
+          "lokasi_text": "Internasional Plaza (IP Mall), Palembang",
+          "alasan_viral": "Gerai legendaris resmi tutup, diskon besar-besaran, video suasana chaos penuh haru viral di media sosial",
+          "indikasi_waktu": "27 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1711,
+      "places": []
+    },
+    {
+      "article_id": 1712,
+      "places": []
+    },
+    {
+      "article_id": 1713,
+      "places": []
+    },
+    {
+      "article_id": 1714,
+      "places": []
+    },
+    {
+      "article_id": 1715,
+      "places": []
+    },
+    {
+      "article_id": 1716,
+      "places": [
+        {
+          "nama_tempat": "Pasar 26 Ilir",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Palembang",
+          "alasan_viral": "Sentra pempek dan kuliner khas yang viral sebagai destinasi kuliner unggulan, disiapkan jadi wisata kuliner modern",
+          "indikasi_waktu": "23 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1717,
+      "places": []
+    },
+    {
+      "article_id": 1718,
+      "places": [
+        {
+          "nama_tempat": "Festival Jajanan Viral Jakarta",
+          "kategori": "Pameran",
+          "lokasi_text": "The Echo, Palembang Indah Mall, Palembang",
+          "alasan_viral": "Festival 300 lebih menu jajanan viral khas Jakarta tanpa biaya masuk",
+          "indikasi_waktu": "3-12 April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1719,
+      "places": [
+        {
+          "nama_tempat": "Bakso Condong Raos",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Gede, Depok Timur, Depok",
+          "alasan_viral": "Bakso populer selalu ramai pembeli dengan kuah kaldu gurih",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Bakso Malang Citra",
+          "kategori": "Restoran",
+          "lokasi_text": "Margonda Raya, Depok",
+          "alasan_viral": "Bakso Malang dengan pangsit goreng renyah dekat Stasiun UI",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Pondok Bakso Pak Parjo",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Proklamasi Abadijaya, Depok II Timur, Sukmajaya, Depok",
+          "alasan_viral": "Bakso sederhana yang bikin pelanggan kembali",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Bakso Kraton Depok",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Siliwangi No. 4, Pancoran Mas, Depok",
+          "alasan_viral": "Tempat makan bakso populer bertekstur lembut dan kenyal",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Pondok Bakso dan Mie Ayam Merdeka",
+          "kategori": "Restoran",
+          "lokasi_text": "Depok II Tengah, Depok",
+          "alasan_viral": "Bakso halus dan bakso urat harga terjangkau",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1720,
+      "places": []
+    },
+    {
+      "article_id": 1721,
+      "places": [
+        {
+          "nama_tempat": "Kopi Kotak Margonda",
+          "kategori": "Kafe",
+          "lokasi_text": "Margonda Raya, Depok",
+          "alasan_viral": "Kafe tematik di kawasan Margonda untuk nongkrong anak muda",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1722,
+      "places": [
+        {
+          "nama_tempat": "The Milk Crate",
+          "kategori": "Kafe",
+          "lokasi_text": "Depok",
+          "alasan_viral": "Tengah viral lewat kreasi salt bread 8 varian rasa, ramai direkomendasikan netizen Threads",
+          "indikasi_waktu": "Juli-Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1723,
+      "places": [
+        {
+          "nama_tempat": "Alun-alun Kota Depok",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Grand Depok City, Depok",
+          "alasan_viral": "Ruang publik primadona warga dengan fasilitas olahraga dan area bermain anak",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Taman Alun-alun dan Hutan Kota Wilayah Barat (Albar)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Depok",
+          "alasan_viral": "Ruang terbuka hijau dengan jembatan ikonik Juara Situ Tujuh Muara",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "D'Kandang Amazing Farm",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Depok",
+          "alasan_viral": "Destinasi wisata keluarga hits saat libur sekolah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1724,
+      "places": [
+        {
+          "nama_tempat": "Danau Shila Sawangan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bojongsari, Sawangan, Depok",
+          "alasan_viral": "Spot viral beberapa bulan terakhir, danau 26 hektare di kawasan perumahan eco town, tak pernah sepi pengunjung",
+          "indikasi_waktu": "Sejak akhir 2025",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 1725,
+      "places": []
+    },
+    {
+      "article_id": 1726,
+      "places": [
+        {
+          "nama_tempat": "D'Kandang Amazing Farm",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jl. Penarikan, Pasir Putih, Sawangan, Depok",
+          "alasan_viral": "Agrowisata interaksi sapi, domba, kuda, memerah susu dan outbound",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Nara Kupu Village",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jl. Batu Ampar Kekupu, Pasir Putih, Sawangan, Depok",
+          "alasan_viral": "Agro lifestyle dengan rusa tutul, rumah lebah dan kebun organik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Pondok Zidane",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Depok",
+          "alasan_viral": "Wisata alam dengan mini outbound, berkuda, kolam renang dan area berkemah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1727,
+      "places": []
+    },
+    {
+      "article_id": 1728,
+      "places": []
+    },
+    {
+      "article_id": 1729,
+      "places": []
+    },
+    {
+      "article_id": 1730,
+      "places": []
+    },
+    {
+      "article_id": 1731,
+      "places": []
+    },
+    {
+      "article_id": 1732,
+      "places": []
+    },
+    {
+      "article_id": 1733,
+      "places": []
+    },
+    {
+      "article_id": 1734,
+      "places": [
+        {
+          "nama_tempat": "Bandar Djakarta Summarecon Bekasi",
+          "kategori": "Restoran",
+          "lokasi_text": "Summarecon Bekasi, Bekasi",
+          "alasan_viral": "Masuk daftar wisata kuliner viral, restoran seafood pilih sendiri",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Raja Sunda Bekasi",
+          "kategori": "Restoran",
+          "lokasi_text": "Bekasi",
+          "alasan_viral": "Masuk daftar wisata kuliner viral, masakan Sunda dengan saung tradisional",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1735,
+      "places": [
+        {
+          "nama_tempat": "Martabak Sinar Senayan",
+          "kategori": "Restoran",
+          "lokasi_text": "Bekasi",
+          "alasan_viral": "Martabak manis dan telur enak dengan beberapa cabang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1736,
+      "places": [
+        {
+          "nama_tempat": "Nasi Uduk Bang Bule",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Mayor Oking No.1, Margahayu, Bekasi",
+          "alasan_viral": "Nasi uduk legendaris sejak 1970-an dengan sate kikil favorit",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1737,
+      "places": [
+        {
+          "nama_tempat": "Bear and Butter",
+          "kategori": "Kafe",
+          "lokasi_text": "SPBU BP Grand Wisata, Jl. Western Boulevard No. 22, Mustikajaya, Bekasi",
+          "alasan_viral": "Salt bread enak yang mencuri perhatian pecinta kuliner",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Momolin Bakery",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Cemara Permai Blok A-159, Harapan Jaya, Bekasi Utara, Bekasi",
+          "alasan_viral": "Bakery ikut tren salt bread dengan varian unik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Kolibrew",
+          "kategori": "Kafe",
+          "lokasi_text": "Bekasi",
+          "alasan_viral": "Kafe family friendly dengan salt bread hasil riset setahun",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1738,
+      "places": []
+    },
+    {
+      "article_id": 1739,
+      "places": [
+        {
+          "nama_tempat": "Seblak Prasmanan Bekasi",
+          "kategori": "Restoran",
+          "lokasi_text": "Cimuning, Mustika Jaya, Bekasi",
+          "alasan_viral": "Seblak konsep prasmanan harga murah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Nangkring Seblak",
+          "kategori": "Restoran",
+          "lokasi_text": "Bekasi",
+          "alasan_viral": "Seblak prasmanan dengan beragam pilihan kuah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Super Seblak",
+          "kategori": "Restoran",
+          "lokasi_text": "Bekasi Timur, Bekasi",
+          "alasan_viral": "Seblak prasmanan dengan puluhan topping",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    }
+  ]
+}

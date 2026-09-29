@@ -1,0 +1,335 @@
+{
+  "results": [
+    {
+      "article_id": 1050,
+      "places": [
+        {
+          "nama_tempat": "Pulau Cinta",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Teluk Tomini, Gorontalo",
+          "alasan_viral": "Ikon wisata dengan jembatan kayu berbentuk hati",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Taman Laut Olele",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Gorontalo",
+          "alasan_viral": "Surga bawah laut untuk diving",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Benteng Otanaha",
+          "kategori": "Museum",
+          "lokasi_text": "Gorontalo",
+          "alasan_viral": "Benteng abad ke-16 dengan panorama Danau Limboto",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Desa Botubarani (hiu paus)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Botubarani, Bone Bolango, Gorontalo",
+          "alasan_viral": "Snorkeling bersama hiu paus",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Pulau Saronde",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Gorontalo Utara",
+          "alasan_viral": "Pasir putih",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1051,
+      "places": []
+    },
+    {
+      "article_id": 1052,
+      "places": [
+        {
+          "nama_tempat": "Pentadio Resort",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Limboto, Kabupaten Gorontalo",
+          "alasan_viral": "Ikon baru replika kucing raksasa interaktif jadi perhatian masyarakat",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1053,
+      "places": []
+    },
+    {
+      "article_id": 1054,
+      "places": [
+        {
+          "nama_tempat": "UPTD Museum Purbakala Gorontalo",
+          "kategori": "Museum",
+          "lokasi_text": "Kota Gorontalo",
+          "alasan_viral": "Program Belajar Bersama di Museum tari klasik",
+          "indikasi_waktu": "14 April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1055,
+      "places": []
+    },
+    {
+      "article_id": 1056,
+      "places": []
+    },
+    {
+      "article_id": 1057,
+      "places": []
+    },
+    {
+      "article_id": 1058,
+      "places": []
+    },
+    {
+      "article_id": 1059,
+      "places": []
+    },
+    {
+      "article_id": 1060,
+      "places": []
+    },
+    {
+      "article_id": 1061,
+      "places": []
+    },
+    {
+      "article_id": 1062,
+      "places": []
+    },
+    {
+      "article_id": 1063,
+      "places": [
+        {
+          "nama_tempat": "Hulonthalo Art & Craft Festival (HARFEST) 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Grand Palace Convention Center (GPCC), Kota Gorontalo",
+          "alasan_viral": "Festival kuliner dan kriya dengan 75 UMKM kuliner dan 165 UMKM binaan BI",
+          "indikasi_waktu": "11-13 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1064,
+      "places": []
+    },
+    {
+      "article_id": 1065,
+      "places": []
+    },
+    {
+      "article_id": 1066,
+      "places": []
+    },
+    {
+      "article_id": 1067,
+      "places": []
+    },
+    {
+      "article_id": 1068,
+      "places": []
+    },
+    {
+      "article_id": 1069,
+      "places": [
+        {
+          "nama_tempat": "Street Coffee Blok Plan Marisa",
+          "kategori": "Kafe",
+          "lokasi_text": "Marisa, Gorontalo",
+          "alasan_viral": "Ruang publik kuliner lokasi Perbasi Fest 2026",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1070,
+      "places": []
+    },
+    {
+      "article_id": 1071,
+      "places": [
+        {
+          "nama_tempat": "Sate Klopo Ondomohen Bu Asih",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Walikota Mustajab, Surabaya",
+          "alasan_viral": "Sate klopo legendaris sejak 1945 selalu ramai",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1072,
+      "places": [
+        {
+          "nama_tempat": "Ayu Shop",
+          "kategori": "Restoran",
+          "lokasi_text": "Desa Hungayonaa, Tilamuta, Kabupaten Boalemo",
+          "alasan_viral": "Rumah makan persinggahan jalur Trans Sulawesi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1073,
+      "places": [
+        {
+          "nama_tempat": "Nusa Laut",
+          "kategori": "Restoran",
+          "lokasi_text": "Tiban Indah, Sekupang, Batam",
+          "alasan_viral": "Seafood dengan pemandangan sunset",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Picolla Stella",
+          "kategori": "Kafe",
+          "lokasi_text": "Ruko Dermaga Sukajadi, Batam Kota",
+          "alasan_viral": "Kafe Instagramable tema dunia peri",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Marutai Ramen",
+          "kategori": "Restoran",
+          "lokasi_text": "Mega Mall Batam Center",
+          "alasan_viral": "Ramen halal",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Roemah Pohon",
+          "kategori": "Kafe",
+          "lokasi_text": "Batu Besar, Nongsa, Batam",
+          "alasan_viral": "Kafe konsep alam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Warung Pasta Eden Park",
+          "kategori": "Restoran",
+          "lokasi_text": "Perumahan Eden Park, Batam",
+          "alasan_viral": "Pasta populer lokal",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1074,
+      "places": [
+        {
+          "nama_tempat": "Danau Paisu Pok",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Banggai Kepulauan, Sulawesi Tengah",
+          "alasan_viral": "Danau yang sempat viral di media sosial karena air jernih",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1075,
+      "places": [
+        {
+          "nama_tempat": "Pantai Katayan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Laulalang, Kecamatan Tolitoli Utara, Kabupaten Tolitoli",
+          "alasan_viral": "Objek wisata yang sedang viral dengan batu karang dan sunset",
+          "indikasi_waktu": "25 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 1076,
+      "places": [
+        {
+          "nama_tempat": "Pulau Sombori",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Morowali, Sulawesi Tengah",
+          "alasan_viral": "\"Raja Ampat-nya Sulawesi Tengah\" dengan tebing karst",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Goa Berlian",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Pulau Sombori, Morowali",
+          "alasan_viral": "Goa dengan kristal berkilau",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1077,
+      "places": [
+        {
+          "nama_tempat": "Padang Kuda Danau Lindu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Danau Lindu, Kabupaten Sigi, Sulawesi Tengah",
+          "alasan_viral": "Viral di TikTok dan Instagram, padang rumput dengan kuda bebas",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 1078,
+      "places": []
+    },
+    {
+      "article_id": 1079,
+      "places": [
+        {
+          "nama_tempat": "Toko Daging Nusantara",
+          "kategori": "lainnya",
+          "lokasi_text": "DKI Jakarta, Jawa Barat, Banten, Jawa Tengah, Sulawesi Selatan",
+          "alasan_viral": "Membuka gerai ke-40",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.3
+        }
+      ]
+    }
+  ]
+}

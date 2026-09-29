@@ -1,0 +1,212 @@
+{
+  "results": [
+    {
+      "article_id": 1560,
+      "places": []
+    },
+    {
+      "article_id": 1561,
+      "places": []
+    },
+    {
+      "article_id": 1562,
+      "places": []
+    },
+    {
+      "article_id": 1563,
+      "places": []
+    },
+    {
+      "article_id": 1564,
+      "places": []
+    },
+    {
+      "article_id": 1565,
+      "places": []
+    },
+    {
+      "article_id": 1566,
+      "places": []
+    },
+    {
+      "article_id": 1567,
+      "places": []
+    },
+    {
+      "article_id": 1568,
+      "places": []
+    },
+    {
+      "article_id": 1569,
+      "places": []
+    },
+    {
+      "article_id": 1570,
+      "places": []
+    },
+    {
+      "article_id": 1571,
+      "places": []
+    },
+    {
+      "article_id": 1572,
+      "places": []
+    },
+    {
+      "article_id": 1573,
+      "places": []
+    },
+    {
+      "article_id": 1574,
+      "places": []
+    },
+    {
+      "article_id": 1575,
+      "places": []
+    },
+    {
+      "article_id": 1576,
+      "places": []
+    },
+    {
+      "article_id": 1577,
+      "places": []
+    },
+    {
+      "article_id": 1578,
+      "places": []
+    },
+    {
+      "article_id": 1579,
+      "places": []
+    },
+    {
+      "article_id": 1580,
+      "places": [
+        {
+          "nama_tempat": "Ikan Bakar Jimbaran Mas Aan",
+          "kategori": "Restoran",
+          "lokasi_text": "Sekitar Pantai Parangtritis, Bantul, Yogyakarta",
+          "alasan_viral": "Warung seafood segar populer di jalur Parangtritis",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Warung Seafood Nunik 3",
+          "kategori": "Restoran",
+          "lokasi_text": "Pantai Depok, Bantul, Yogyakarta",
+          "alasan_viral": "Seafood segar harga terjangkau dengan lesehan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Rumah Makan Arjuna Seafood",
+          "kategori": "Restoran",
+          "lokasi_text": "Sekitar Pantai Parangtritis, Bantul, Yogyakarta",
+          "alasan_viral": "Berbagai olahan laut dengan opsi lesehan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1581,
+      "places": [
+        {
+          "nama_tempat": "Pantai Parangtritis",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kalurahan Parangtritis, Bantul, Yogyakarta",
+          "alasan_viral": "165.956 kunjungan wisatawan pada Juli 2026, sempat viral keluhan nomor seri tiket tidak berurutan (isu negatif)",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1582,
+      "places": [
+        {
+          "nama_tempat": "Alun-Alun Kidul",
+          "kategori": "lainnya",
+          "lokasi_text": "Mantrijeron, Yogyakarta",
+          "alasan_viral": "Kasus viral pelaku usaha merasa tidak nyaman berjualan, Wawali lakukan pemantauan (isu negatif)",
+          "indikasi_waktu": "18 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1583,
+      "places": [
+        {
+          "nama_tempat": "Jelajah Kotabaru - Kotabaru Heritage Film Festival 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Kotabaru, Yogyakarta",
+          "alasan_viral": "Walking tour heritage dan nonton film gratis dari atas becak listrik",
+          "indikasi_waktu": "17 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1584,
+      "places": []
+    },
+    {
+      "article_id": 1585,
+      "places": [
+        {
+          "nama_tempat": "Kebaya Bu Pur",
+          "kategori": "lainnya",
+          "lokasi_text": "Lantai 3 Pasar Beringharjo, Yogyakarta",
+          "alasan_viral": "Toko thrifting kebaya yang viral di media sosial hingga dikunjungi selebriti",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1586,
+      "places": [
+        {
+          "nama_tempat": "Pasar Ngasem",
+          "kategori": "Restoran",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Spot sarapan kuliner legendaris paling kalcer, ramai tiap musim liburan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1587,
+      "places": []
+    },
+    {
+      "article_id": 1588,
+      "places": [
+        {
+          "nama_tempat": "Jogja International Kite Festival 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Festival layang-layang ke-11 dengan delegasi dari 17 negara",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1589,
+      "places": []
+    }
+  ]
+}

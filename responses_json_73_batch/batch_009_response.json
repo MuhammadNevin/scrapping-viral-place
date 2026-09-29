@@ -1,0 +1,462 @@
+{
+  "results": [
+    {
+      "article_id": 240,
+      "places": []
+    },
+    {
+      "article_id": 241,
+      "places": []
+    },
+    {
+      "article_id": 242,
+      "places": []
+    },
+    {
+      "article_id": 243,
+      "places": [
+        {
+          "nama_tempat": "Bali",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bali",
+          "alasan_viral": "Dinobatkan destinasi terbaik dunia 2026 versi TripAdvisor",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Karimunjawa",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Karimunjawa, Jawa Tengah",
+          "alasan_viral": "Lokasi viral di TikTok dan Instagram, perairan bening",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Blue fire Banyuwangi (Kawah Ijen)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Banyuwangi, Jawa Timur",
+          "alasan_viral": "Fenomena blue fire yang viral di media sosial",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Wisata Perahu Kalimas",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Surabaya",
+          "alasan_viral": "Wajah baru wisata perahu, Venice of Java",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 244,
+      "places": [
+        {
+          "nama_tempat": "Museum Kebangkitan Nasional (gedung STOVIA)",
+          "kategori": "Museum",
+          "lokasi_text": "Jl. Abdul Rahman Saleh No.26, Senen, Jakarta Pusat",
+          "alasan_viral": "Museum hidden gem di bekas gedung STOVIA, tempat lahir Boedi Oetomo",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Museum Perumusan Naskah Proklamasi (rumah Laksamana Maeda)",
+          "kategori": "Museum",
+          "lokasi_text": "Menteng, Jakarta Pusat",
+          "alasan_viral": "Museum hidden gem tempat penyusunan naskah Proklamasi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 245,
+      "places": [
+        {
+          "nama_tempat": "Pulau Bair",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Tual, Kepulauan Kei, Maluku",
+          "alasan_viral": "Hidden gem wisata bahari, tebing karang dan laguna jernih",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 246,
+      "places": [
+        {
+          "nama_tempat": "Rujak Cingur Bu Is",
+          "kategori": "Restoran",
+          "lokasi_text": "Gang di Kelurahan Sidomoro, Kecamatan Kebomas, Kabupaten Gresik, Jawa Timur",
+          "alasan_viral": "Hidden gem kuliner rujak cingur legendaris sejak 2003",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 247,
+      "places": [
+        {
+          "nama_tempat": "Basement Blok M Square",
+          "kategori": "lainnya",
+          "lokasi_text": "Blok M Square, Jakarta Selatan",
+          "alasan_viral": "Hidden gem Blok M: kaset, CD, vinyl, dan buku bekas",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 248,
+      "places": []
+    },
+    {
+      "article_id": 249,
+      "places": []
+    },
+    {
+      "article_id": 250,
+      "places": [
+        {
+          "nama_tempat": "Mie Aceh Seulawah",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Bendungan Hilir Raya No. 41, Bendungan Hilir, Tanah Abang, Jakarta Pusat",
+          "alasan_viral": "Restoran mie Aceh tertua di Jakarta sejak 1996",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Warung Aceh Bang Ari",
+          "kategori": "Restoran",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Suasana mirip Aceh, Mie Aceh Udang dan Sate Matang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Waroeng Aceh Kemang",
+          "kategori": "Restoran",
+          "lokasi_text": "Kemang, Jakarta Selatan",
+          "alasan_viral": "Warung Aceh di Jakarta",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 251,
+      "places": [
+        {
+          "nama_tempat": "Mie Aceh Kring-kring",
+          "kategori": "Restoran",
+          "lokasi_text": "Kawasan Saharjo, Tebet, Jakarta Selatan",
+          "alasan_viral": "Konsep mobil toko, tempat nongkrong sejak 2020",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Mie Aceh Seulawah",
+          "kategori": "Restoran",
+          "lokasi_text": "Sekitar Mampang Prapatan, Jakarta Selatan",
+          "alasan_viral": "Kedai mie Aceh legendaris sejak 1996",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 252,
+      "places": [
+        {
+          "nama_tempat": "Jalan Sabang (Jalan H. Agus Salim)",
+          "kategori": "lainnya",
+          "lokasi_text": "Jakarta Pusat",
+          "alasan_viral": "Kawasan wisata kuliner malam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Kopi Oey",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. H. Agus Salim No.20, Kb. Sirih, Kec. Menteng, Jakarta Pusat",
+          "alasan_viral": "Kedai kopi didirikan Bondan Winarno, buka 24 jam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Arab Hadramot Jakarta",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. H. Agus Salim No.46, Kb. Sirih, Kec. Menteng, Jakarta Pusat",
+          "alasan_viral": "Menu khas Yaman, nasi mandi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Restoran Garuda",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Sabang, Jakarta Pusat",
+          "alasan_viral": "Disebut dalam daftar kuliner malam Jalan Sabang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 253,
+      "places": [
+        {
+          "nama_tempat": "Mie Aceh Pondok",
+          "kategori": "Restoran",
+          "lokasi_text": "Dekat Stasiun Pasar Minggu, Jakarta Selatan",
+          "alasan_viral": "Mie Aceh dengan bumbu kaya rempah, rasa mendekati asli",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Pempek Palembang Musi Raya",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Raya Ragunan No 91, Pasar Minggu, Jakarta Selatan",
+          "alasan_viral": "Pempek dengan rasa konsisten sejak dulu",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 254,
+      "places": [
+        {
+          "nama_tempat": "ANAT Fair 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Suzuya Mall Banda Aceh",
+          "alasan_viral": "Pameran travel 12 agen perjalanan dari tiga negara",
+          "indikasi_waktu": "25-27 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 255,
+      "places": [
+        {
+          "nama_tempat": "Pameran 250 foto wisata Aceh",
+          "kategori": "Pameran",
+          "lokasi_text": "Aula FISIP Universitas Malikussaleh, Aceh Utara",
+          "alasan_viral": "Pameran foto wisata Aceh untuk promosi pascabanjir",
+          "indikasi_waktu": "22 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 256,
+      "places": [
+        {
+          "nama_tempat": "Wisata Alam Seulawah RG (Villa Pink Love)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Peurumping, Kecamatan Montasik, Aceh Besar",
+          "alasan_viral": "Villa pink berbentuk love ramai diperbincangkan di media sosial",
+          "indikasi_waktu": "Dibuka 14 Maret 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 257,
+      "places": [
+        {
+          "nama_tempat": "Pante Biram",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Gampong Blang Pante, Kecamatan Paya Bakong, Aceh Utara",
+          "alasan_viral": "Wisata sungai jernih, video dan foto pengunjung viral di media sosial",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 258,
+      "places": [
+        {
+          "nama_tempat": "Pantai Lampuuk",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Aceh Besar",
+          "alasan_viral": "Lokasi pengunjung tenggelam, diusulkan jadi percontohan wisata selamat",
+          "indikasi_waktu": "13 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 259,
+      "places": [
+        {
+          "nama_tempat": "Jiva Takengon",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Danau Lut Tawar, Takengon, Aceh Tengah",
+          "alasan_viral": "Destinasi camping dan glamping; sempat viral berkat konsep private boat",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 260,
+      "places": [
+        {
+          "nama_tempat": "Bukit Lamreh",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Lamreh, Kecamatan Mesjid Raya, Aceh Besar",
+          "alasan_viral": "Sempat ditutup setelah viral pungli, dibuka kembali (isu negatif)",
+          "indikasi_waktu": "Ditutup akhir Juni, dibuka 24 Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 261,
+      "places": [
+        {
+          "nama_tempat": "Bukit Lamreh",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kecamatan Mesjid Raya, Aceh Besar",
+          "alasan_viral": "Gangguan ketertiban di kawasan wisata (isu negatif)",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 262,
+      "places": []
+    },
+    {
+      "article_id": 263,
+      "places": [
+        {
+          "nama_tempat": "Air Terjun Blang Kolam",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Sidomulyo, Kecamatan Kuta Makmur, Kabupaten Aceh Utara",
+          "alasan_viral": "Wisata canyoneering 70 meter yang viral",
+          "indikasi_waktu": "Mulai November 2025",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 264,
+      "places": [
+        {
+          "nama_tempat": "Bukit Lamreh",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kecamatan Mesjid Raya, Kabupaten Aceh Besar",
+          "alasan_viral": "Viral unggahan dugaan pungli dan pemerasan pengunjung (isu negatif)",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 265,
+      "places": []
+    },
+    {
+      "article_id": 266,
+      "places": [
+        {
+          "nama_tempat": "Wisata Alam Seulawah RG (Villa Pink Love)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Peurumping, Kecamatan Montasik, Aceh Besar",
+          "alasan_viral": "Viral, villa pink berbentuk love ramai diperbincangkan di medsos",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 267,
+      "places": [
+        {
+          "nama_tempat": "Jalan Lintas Aceh Jaya-Meulaboh",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Krueng Sabee dan Calang, Aceh Jaya",
+          "alasan_viral": "Jalan pesisir mulus dengan view laut viral di TikTok dan Instagram, dijuluki jalan tol-nya Aceh",
+          "indikasi_waktu": "26 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 268,
+      "places": [
+        {
+          "nama_tempat": "Danau Lut Tawar",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Aceh Tengah",
+          "alasan_viral": "Destinasi unggulan Aceh Tengah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 269,
+      "places": [
+        {
+          "nama_tempat": "Pulau Banyak",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Aceh Singkil",
+          "alasan_viral": "Memikat kreator konten Shella Saukia",
+          "indikasi_waktu": "11 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Pulau Panjang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Pulau Banyak, Aceh Singkil",
+          "alasan_viral": "Dikunjungi Shella Saukia",
+          "indikasi_waktu": "11 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    }
+  ]
+}

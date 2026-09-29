@@ -1,0 +1,556 @@
+{
+  "results": [
+    {
+      "article_id": 360,
+      "places": [
+        {
+          "nama_tempat": "Desa Lebong Tandai (Batavia Kecil)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kecamatan Napal Putih, Kabupaten Bengkulu Utara",
+          "alasan_viral": "Kawasan bersejarah bekas tambang emas, lokasi event trail BerASA #2",
+          "indikasi_waktu": "19-20 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 361,
+      "places": [
+        {
+          "nama_tempat": "Festival Minangkabau di Istano Basa Pagaruyuang",
+          "kategori": "Pameran",
+          "lokasi_text": "Istano Basa Pagaruyuang, Tanah Datar, Sumatera Barat",
+          "alasan_viral": "Festival budaya Kharisma Event Nusantara, pawai budaya dan tarian kolosal",
+          "indikasi_waktu": "25 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 362,
+      "places": [
+        {
+          "nama_tempat": "Festival Pacu Jalur Tepian Narosa",
+          "kategori": "Pameran",
+          "lokasi_text": "Tepian Narosa, Batang Kuantan, Teluk Kuantan, Kuantan Singingi, Riau",
+          "alasan_viral": "Festival yang menggemparkan dunia lewat tren aura farming",
+          "indikasi_waktu": "19-23 Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 363,
+      "places": [
+        {
+          "nama_tempat": "Love Seafood",
+          "kategori": "Restoran",
+          "lokasi_text": "Batam Centre, Nagoya, dan Piayu, Batam",
+          "alasan_viral": "Gonggong segar setiap hari",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Golden Prawn Restaurant",
+          "kategori": "Restoran",
+          "lokasi_text": "Bengkong Laut, Batam",
+          "alasan_viral": "Gonggong ukuran besar dengan saus sambal khas",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Seafood Anak Nelayan",
+          "kategori": "Restoran",
+          "lokasi_text": "Kampung Terih, Kecamatan Nongsa, Batam",
+          "alasan_viral": "Gonggong segar dengan panorama laut",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Riverside Restaurant",
+          "kategori": "Restoran",
+          "lokasi_text": "Kabil, Nongsa, Batam",
+          "alasan_viral": "Seafood ramai saat jam makan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Kopak Jaya 007 Kelong Seafood Batam",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Kampung Tua Tiangwangkang, Tembesi, Kecamatan Sagulung, Batam",
+          "alasan_viral": "Restoran seafood legendaris",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 364,
+      "places": [
+        {
+          "nama_tempat": "Kedai Melayu Sarapan Pagi",
+          "kategori": "Restoran",
+          "lokasi_text": "Batu Besar, Kecamatan Nongsa, Kota Batam",
+          "alasan_viral": "Menu khas Melayu harga ramah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Tenang Coffee & Resto Cabang Batu Besar",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Hang Jebat, Batu Besar, Kecamatan Nongsa, Kota Batam",
+          "alasan_viral": "Sarapan suasana kafe",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "3N Coffee & Bakery",
+          "kategori": "Kafe",
+          "lokasi_text": "Komplek Ruko Citra Nusa Niaga Blok A5 No. 1-2, Kabil, Kecamatan Nongsa, Kota Batam",
+          "alasan_viral": "Roti, pastry, dan kopi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 365,
+      "places": [
+        {
+          "nama_tempat": "Blok M Square (area bawah tanah)",
+          "kategori": "lainnya",
+          "lokasi_text": "Blok M Square, Jakarta Selatan",
+          "alasan_viral": "Pusat makanan viral 2026, antre panjang",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Thai Baby",
+          "kategori": "Kafe",
+          "lokasi_text": "Blok M Square, Jakarta Selatan",
+          "alasan_viral": "Mango sticky rice, makanan Blok M Square yang viral",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 366,
+      "places": [
+        {
+          "nama_tempat": "RM Pondok Gurih",
+          "kategori": "Restoran",
+          "lokasi_text": "Pekanbaru",
+          "alasan_viral": "Tempat makan keluarga langganan, gulai kepala ikan kakap",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Tudung Saji Bunda Viera",
+          "kategori": "Restoran",
+          "lokasi_text": "Pekanbaru",
+          "alasan_viral": "Masakan Nusantara dengan sentuhan Medan, interior estetik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 367,
+      "places": [
+        {
+          "nama_tempat": "Bakso dan Mie Ayam Cumi Bunting Rantau Tiga Saudara AB",
+          "kategori": "Restoran",
+          "lokasi_text": "Simpang 4 Nato Dapur 12, area Ziomart, Batuaji, Kota Batam",
+          "alasan_viral": "Tempat makan viral, menu cumi bunting sering ludes",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Misoa (Golden City Residence)",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Golden City Residence Blok Salmon 3 No.07, Tanjung Buntung, Bengkong, Batam",
+          "alasan_viral": "Misoa carbonara menu viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Mama Adam Kitchen",
+          "kategori": "Restoran",
+          "lokasi_text": "Batam",
+          "alasan_viral": "Cumi pedas dan mie laut pedas, tempat makan viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Nasi Kapau H. Amrizal",
+          "kategori": "Restoran",
+          "lokasi_text": "Tanjung Buntung, Bengkong, Batam",
+          "alasan_viral": "Masakan Minang prasmanan, tempat makan viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Angetin - Wedang & Minuman Rempah Tradisional",
+          "kategori": "Kafe",
+          "lokasi_text": "Batam Centre Mall, Teluk Tering, Batam Kota",
+          "alasan_viral": "Kafe minuman rempah, tempat makan viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 368,
+      "places": []
+    },
+    {
+      "article_id": 369,
+      "places": [
+        {
+          "nama_tempat": "Rumah Tuan Kadi",
+          "kategori": "Museum",
+          "lokasi_text": "Senapelan (Kampung Bandar), Pekanbaru",
+          "alasan_viral": "Destinasi budaya yang dikunjungi peserta RTM 6",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Kopi Kimteng",
+          "kategori": "Kafe",
+          "lokasi_text": "Pekanbaru",
+          "alasan_viral": "Kuliner khas yang dikenalkan ke peserta RTM",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 370,
+      "places": []
+    },
+    {
+      "article_id": 371,
+      "places": [
+        {
+          "nama_tempat": "Museum Bank Indonesia (MuBI)",
+          "kategori": "Museum",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Museum sejarah mata uang yang menjadi ruang literasi dan pameran temporer",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 372,
+      "places": []
+    },
+    {
+      "article_id": 373,
+      "places": []
+    },
+    {
+      "article_id": 374,
+      "places": []
+    },
+    {
+      "article_id": 375,
+      "places": []
+    },
+    {
+      "article_id": 376,
+      "places": [
+        {
+          "nama_tempat": "KKV",
+          "kategori": "lainnya",
+          "lokasi_text": "Indonesia",
+          "alasan_viral": "Retail lifestyle baru yang langsung viral sejak pembukaan, toko fotogenik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 377,
+      "places": [
+        {
+          "nama_tempat": "Osu Shopping District",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Nagoya, Prefektur Aichi, Jepang",
+          "alasan_viral": "Pusat belanja dan kuliner yang tak pernah sepi, 1.200 toko",
+          "indikasi_waktu": "September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 378,
+      "places": []
+    },
+    {
+      "article_id": 379,
+      "places": []
+    },
+    {
+      "article_id": 380,
+      "places": []
+    },
+    {
+      "article_id": 381,
+      "places": []
+    },
+    {
+      "article_id": 382,
+      "places": [
+        {
+          "nama_tempat": "Festival Kue Talam Durian",
+          "kategori": "Pameran",
+          "lokasi_text": "Jalan Jenderal Sudirman (MPP hingga Tugu Zapin), Pekanbaru",
+          "alasan_viral": "Festival talam durian 1 km jadi perbincangan hangat dan dikritik di medsos",
+          "indikasi_waktu": "21 Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 383,
+      "places": [
+        {
+          "nama_tempat": "Gebyar Kuliner Jakarta Halal Viral Vol. 3",
+          "kategori": "Pameran",
+          "lokasi_text": "Living World Pekanbaru",
+          "alasan_viral": "Festival kuliner 45 tenant dan 300+ menu halal viral",
+          "indikasi_waktu": "24 April - 3 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Nasi Pedas Ibu Andika Bali",
+          "kategori": "Restoran",
+          "lokasi_text": "Tenant Gebyar Kuliner, Living World Pekanbaru",
+          "alasan_viral": "Sajian pedas khas Bali",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "PekingDuckLovers",
+          "kategori": "Restoran",
+          "lokasi_text": "Tenant Gebyar Kuliner, Living World Pekanbaru",
+          "alasan_viral": "Bebek peking halal",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Rujak Bang Shultan",
+          "kategori": "lainnya",
+          "lokasi_text": "Tenant Gebyar Kuliner, Living World Pekanbaru",
+          "alasan_viral": "Rujak yang viral di berbagai platform digital",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Bittersweet by Najla",
+          "kategori": "Kafe",
+          "lokasi_text": "Tenant Gebyar Kuliner, Living World Pekanbaru",
+          "alasan_viral": "Dessert yang disambut antusias",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "LOAFJKT",
+          "kategori": "Kafe",
+          "lokasi_text": "Tenant Gebyar Kuliner, Living World Pekanbaru",
+          "alasan_viral": "Patisserie",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 384,
+      "places": []
+    },
+    {
+      "article_id": 385,
+      "places": [
+        {
+          "nama_tempat": "Roti prata Pujasera Tiban Centre",
+          "kategori": "Restoran",
+          "lokasi_text": "Pujasera Tiban Centre, Jalan Gajah Mada, Tiban Indah, Kecamatan Sekupang, Kota Batam",
+          "alasan_viral": "Roti prata favorit warga Batam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Mie Tarempa Tiban Center",
+          "kategori": "Restoran",
+          "lokasi_text": "Tiban Center, Jalan Gajah Mada Blok L, Tiban Indah, Kecamatan Sekupang, Kota Batam",
+          "alasan_viral": "Mie khas Kepulauan Riau",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Morning Bakery Tiban",
+          "kategori": "Kafe",
+          "lokasi_text": "Sungai Harapan, Kecamatan Sekupang, Kota Batam",
+          "alasan_viral": "Roti, kopi, nasi lemak",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Sarapan Pagi Bu Sri",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Natuna, Tiban Indah, Kecamatan Sekupang, Kota Batam",
+          "alasan_viral": "Menu rumahan harga terjangkau",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 386,
+      "places": [
+        {
+          "nama_tempat": "Morning Bakery",
+          "kategori": "Kafe",
+          "lokasi_text": "Greenland, Batam Center",
+          "alasan_viral": "Ikon sarapan di Batam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Tempat Makan Kopitiam",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Raja H. Fisabilillah Nomor 8, Teluk Tering, Batam Kota",
+          "alasan_viral": "Kopitiam klasik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Kedai Melayu Sarapan Pagi",
+          "kategori": "Restoran",
+          "lokasi_text": "Batu Besar, Kecamatan Nongsa, Kota Batam",
+          "alasan_viral": "Cita rasa Melayu autentik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Kez's Bakery & Restaurant",
+          "kategori": "Kafe",
+          "lokasi_text": "Ruko Kara Junction, Jalan Ahmad Yani Blok A No 7-9, Taman Baloi, Batam Kota",
+          "alasan_viral": "Roti, pastry, menu sarapan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "La Kopi Cafe & Resto",
+          "kategori": "Kafe",
+          "lokasi_text": "Batam",
+          "alasan_viral": "Menu lokal dan suasana modern",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 387,
+      "places": [
+        {
+          "nama_tempat": "Lontong sayur Jalan Bengkong Baru",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Bengkong Baru No. 40, Bengkong Indah, Kecamatan Bengkong, Batam",
+          "alasan_viral": "Lontong sayur favorit warga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Mentari Kopitiam Pasir Putih",
+          "kategori": "Kafe",
+          "lokasi_text": "Pasar Pasir Putih C No. 10-12, Sadai, Kecamatan Bengkong, Batam",
+          "alasan_viral": "Menu sarapan roti bakar dan kopi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Mie Tarempa Bengkong",
+          "kategori": "Restoran",
+          "lokasi_text": "Tanjung Buntung, Kecamatan Bengkong, Batam",
+          "alasan_viral": "Mie khas Kepulauan Riau",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Rumah Makan Bawean",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Laksamana Bintan No. 5 Blok F, Bengkong Indah, Batam",
+          "alasan_viral": "Masakan Indonesia harga ramah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 388,
+      "places": []
+    },
+    {
+      "article_id": 389,
+      "places": [
+        {
+          "nama_tempat": "Lagoi Bay, Bintan Resorts",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Bintan, Kepulauan Riau",
+          "alasan_viral": "Lokasi Tour de Bintan 2026",
+          "indikasi_waktu": "21-23 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    }
+  ]
+}

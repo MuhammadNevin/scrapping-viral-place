@@ -1,0 +1,521 @@
+{
+  "results": [
+    {
+      "article_id": 90,
+      "places": []
+    },
+    {
+      "article_id": 91,
+      "places": [
+        {
+          "nama_tempat": "TikTok Food Fest 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Festival dua hari dengan 40+ tenant jajanan viral dan konser musik",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "RM Lokiin",
+          "kategori": "Restoran",
+          "lokasi_text": "Blok M, Jakarta",
+          "alasan_viral": "Populer di Blok M, Nasi Lidah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Chuchat",
+          "kategori": "Kafe",
+          "lokasi_text": "Tenant TikTok Food Fest, Jakarta",
+          "alasan_viral": "Milk tea creamy Sea Salt Iced Tea",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 92,
+      "places": [
+        {
+          "nama_tempat": "Lintas Rasa Es Krim Goreng Malang",
+          "kategori": "Kafe",
+          "lokasi_text": "Malang",
+          "alasan_viral": "Menjual es gabin, jajanan jadul yang viral di Malang lewat media sosial",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 93,
+      "places": []
+    },
+    {
+      "article_id": 94,
+      "places": [
+        {
+          "nama_tempat": "Chicken Crunchy Roll",
+          "kategori": "lainnya",
+          "lokasi_text": "Sawangan, Depok",
+          "alasan_viral": "Jajanan Rp10 ribu, antrean panjang hingga macet, ulasan influencer viral",
+          "indikasi_waktu": "Akhir pekan lalu (sebelum tanggal artikel)",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 95,
+      "places": [
+        {
+          "nama_tempat": "Kibow Corner",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Swadaya Raya, Larangan, Kota Tangerang (cabang di Komplek DKI Joglo, Petukangan, Taman Asri Lama, Pondok Kacang, Karang Tengah)",
+          "alasan_viral": "Lapak jajanan viral: mochi daifuku, risol warna-warni, donat kentang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 96,
+      "places": [
+        {
+          "nama_tempat": "Kayutangan Heritage",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kayutangan, Kota Malang",
+          "alasan_viral": "Kawasan wisata sejarah dengan jajanan viral dan unik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Kantine Nyi Aisyah",
+          "kategori": "Kafe",
+          "lokasi_text": "Gang 4 dekat Es Podjok Serut, Kayutangan Heritage, Malang",
+          "alasan_viral": "Soft cookies homemade, Cookies Boom dengan es krim",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Es Podjok Serut",
+          "kategori": "Kafe",
+          "lokasi_text": "Gang 4, Kayutangan Heritage, Malang",
+          "alasan_viral": "Disebut sebagai penanda lokasi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Donat Kenangan",
+          "kategori": "Kafe",
+          "lokasi_text": "Gang 6 dekat Langgar Muttaqin, Kayutangan Heritage, Malang",
+          "alasan_viral": "Donat kentang homemade dengan topping es krim",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Es Krim Lepen",
+          "kategori": "Kafe",
+          "lokasi_text": "Pinggir kanal sungai Kayutangan, Malang",
+          "alasan_viral": "Makan es krim di tepi sungai kecil yang teduh",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Toko Bu Chamim",
+          "kategori": "lainnya",
+          "lokasi_text": "Kampoeng Heritage Kajoetangan, Malang",
+          "alasan_viral": "Toko legendaris mainan dan jajanan jadul",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 97,
+      "places": []
+    },
+    {
+      "article_id": 98,
+      "places": []
+    },
+    {
+      "article_id": 99,
+      "places": [
+        {
+          "nama_tempat": "Pasar Kue Subuh Senen",
+          "kategori": "lainnya",
+          "lokasi_text": "Senen, Jakarta Pusat",
+          "alasan_viral": "Pasar kue tradisional yang kini menjual Dubai chewy cookies yang viral, ramai anak muda",
+          "indikasi_waktu": "16 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Laris Manis Bakery",
+          "kategori": "Kafe",
+          "lokasi_text": "Pasar Kue Subuh Senen, Jakarta Pusat",
+          "alasan_viral": "Lapak penjual Dubai chewy cookies yang viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 100,
+      "places": [
+        {
+          "nama_tempat": "Handak Ubi",
+          "kategori": "lainnya",
+          "lokasi_text": "Polder Air Hitam Juanda, Samarinda",
+          "alasan_viral": "Menjual Ubi Cream Brulee, jajanan khas Jepang yang viral",
+          "indikasi_waktu": "September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 101,
+      "places": []
+    },
+    {
+      "article_id": 102,
+      "places": []
+    },
+    {
+      "article_id": 103,
+      "places": []
+    },
+    {
+      "article_id": 104,
+      "places": []
+    },
+    {
+      "article_id": 105,
+      "places": []
+    },
+    {
+      "article_id": 106,
+      "places": [
+        {
+          "nama_tempat": "FIX Dessert Chocolatier",
+          "kategori": "Kafe",
+          "lokasi_text": "Dubai",
+          "alasan_viral": "Asal inspirasi cokelat Dubai yang viral via TikTok",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 107,
+      "places": []
+    },
+    {
+      "article_id": 108,
+      "places": [
+        {
+          "nama_tempat": "Jalan Lengkong Kecil",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Lengkong Kecil, Kota Bandung",
+          "alasan_viral": "Kawasan kuliner malam paling viral 2026, dipadati ribuan pengunjung",
+          "indikasi_waktu": "Pertengahan 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Kepak Madu Mael",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Lengkong Kecil, Kota Bandung",
+          "alasan_viral": "Primadona sayap ayam panggang madu",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Gyoza 234",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Lengkong Kecil, Kota Bandung",
+          "alasan_viral": "Pangsit ala Jepang pan-seared",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Jawara Basmut",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Lengkong Kecil, Kota Bandung",
+          "alasan_viral": "Bakso mulut goreng bumbu kacang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Steak Simantan",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Lengkong Kecil, Kota Bandung",
+          "alasan_viral": "Steak ramah kantong",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Kenhotbar",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Lengkong Kecil, Kota Bandung",
+          "alasan_viral": "Pilihan pecinta daging ramah kantong",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Jalan Braga",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Braga, Kota Bandung",
+          "alasan_viral": "Spot street food viral dengan arsitektur heritage, car-free Sabtu malam",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 109,
+      "places": []
+    },
+    {
+      "article_id": 110,
+      "places": [
+        {
+          "nama_tempat": "FOMO Land",
+          "kategori": "Pameran",
+          "lokasi_text": "Area Outdoor Icon Mall Gresik",
+          "alasan_viral": "Event kuliner viral bernuansa street food Tokyo dengan 50+ tenant, photobooth dan wahana",
+          "indikasi_waktu": "1-17 Mei",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 111,
+      "places": [
+        {
+          "nama_tempat": "Kawasan Ampel",
+          "kategori": "lainnya",
+          "lokasi_text": "Sekitar Masjid Sunan Ampel, Surabaya",
+          "alasan_viral": "Magnet street food viral bernuansa Timur Tengah, selalu ramai antrean",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 112,
+      "places": [
+        {
+          "nama_tempat": "Kawasan Wonokromo",
+          "kategori": "lainnya",
+          "lokasi_text": "Wonokromo, Surabaya",
+          "alasan_viral": "Pusat street food legendaris yang viral, mie ayam murah dan martabak usus",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 113,
+      "places": [
+        {
+          "nama_tempat": "Alun-alun Kidul (Alkid)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Alun-alun Kidul, Yogyakarta",
+          "alasan_viral": "Disorot karena viral dugaan pungli terhadap food truck (isu negatif)",
+          "indikasi_waktu": "September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Bolosego (food truck)",
+          "kategori": "Restoran",
+          "lokasi_text": "Alun-alun Kidul, Yogyakarta",
+          "alasan_viral": "Pemilik mengunggah dugaan pungli parkir Rp1 juta per hari, viral (isu negatif)",
+          "indikasi_waktu": "September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 114,
+      "places": [
+        {
+          "nama_tempat": "Pantai Jagu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Lhokseumawe, Aceh",
+          "alasan_viral": "Lokasi wisata yang pengamanannya ditingkatkan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Pantai Ujong Blang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Lhokseumawe, Aceh",
+          "alasan_viral": "Lokasi wisata yang pengamanannya ditingkatkan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 115,
+      "places": [
+        {
+          "nama_tempat": "Nusa Penida",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Nusa Penida, Bali",
+          "alasan_viral": "Kawasan yang viral setelah Canggu dan Ubud",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Canggu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Canggu, Bali",
+          "alasan_viral": "Kawasan wisata yang sempat viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Ubud",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Ubud, Bali",
+          "alasan_viral": "Kawasan wisata yang sempat viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 116,
+      "places": [
+        {
+          "nama_tempat": "Pantai Glagah",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kapanewon Temon, Kulon Progo",
+          "alasan_viral": "Destinasi viral dengan kafe-kafe baru, pengunjung Mei 467.081",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Pantai Congot",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kapanewon Temon, Kulon Progo",
+          "alasan_viral": "Kafe-kafe baru di jalur Glagah-Congot yang viral",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 117,
+      "places": [
+        {
+          "nama_tempat": "Pictniq Land (Pictniq Jogja)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Patuk, Gunungkidul, Yogyakarta",
+          "alasan_viral": "Wisata viral replika landmark dunia, urban picnic estetik, jeep offroad",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 118,
+      "places": [
+        {
+          "nama_tempat": "Enchanting Valley",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kawasan Taman Safari Indonesia, Puncak, Bogor",
+          "alasan_viral": "Tempat wisata di Puncak yang lagi viral, tengah menarik perhatian",
+          "indikasi_waktu": "September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Agrowisata Gunung Mas",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Puncak, Bogor",
+          "alasan_viral": "Perkebunan teh dengan panorama pegunungan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Talaga Saat",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Puncak, Bogor",
+          "alasan_viral": "Panorama telaga dan lanskap alam asri",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Wonderful Citamiang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Puncak, Bogor",
+          "alasan_viral": "Wisata alam bernuansa perkemahan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Melrimba Garden",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Puncak, Bogor",
+          "alasan_viral": "Taman bunga untuk bersantai dan berfoto",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 119,
+      "places": [
+        {
+          "nama_tempat": "Telaga Sarangan (spot foto bugenvil)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Telaga Sarangan, Kabupaten Magetan, Jawa Timur",
+          "alasan_viral": "Spot foto bunga bugenvil mirip Danau Como Italia viral, kunjungan naik hingga 9.000 orang per hari",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    }
+  ]
+}

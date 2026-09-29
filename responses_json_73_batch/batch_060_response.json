@@ -1,0 +1,389 @@
+{
+  "results": [
+    {
+      "article_id": 1770,
+      "places": []
+    },
+    {
+      "article_id": 1771,
+      "places": []
+    },
+    {
+      "article_id": 1772,
+      "places": [
+        {
+          "nama_tempat": "Jhon Book Store N Art",
+          "kategori": "lainnya",
+          "lokasi_text": "Pintu masuk Perumahan Puri Pamulang, Pamulang, Tangerang Selatan",
+          "alasan_viral": "Toko buku bekas dan barang antik mendadak ramai setelah viral di TikTok dan Instagram",
+          "indikasi_waktu": "11 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1773,
+      "places": []
+    },
+    {
+      "article_id": 1774,
+      "places": [
+        {
+          "nama_tempat": "Jhon Book Store N Art",
+          "kategori": "lainnya",
+          "lokasi_text": "Pamulang, Tangerang Selatan",
+          "alasan_viral": "Toko buku lawas estetik penuh nostalgia ramai diperbincangkan dan viral di TikTok, banyak anak muda datang",
+          "indikasi_waktu": "22 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1775,
+      "places": [
+        {
+          "nama_tempat": "Pasar Anyar Tangerang",
+          "kategori": "lainnya",
+          "lokasi_text": "Pusat Kota Tangerang",
+          "alasan_viral": "Pasar tiga lantai dengan area kuliner, ada sudut kulineran berlatar jalur KRL",
+          "indikasi_waktu": "21 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1776,
+      "places": [
+        {
+          "nama_tempat": "Pasar Kue Subuh Sitanala",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Dr. Sitanala, Kecamatan Neglasari, Kota Tangerang",
+          "alasan_viral": "Sentra lebih dari 50 jenis kue basah tradisional, dipadati pembeli sore hingga pagi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1777,
+      "places": []
+    },
+    {
+      "article_id": 1778,
+      "places": []
+    },
+    {
+      "article_id": 1779,
+      "places": []
+    },
+    {
+      "article_id": 1780,
+      "places": []
+    },
+    {
+      "article_id": 1781,
+      "places": []
+    },
+    {
+      "article_id": 1782,
+      "places": []
+    },
+    {
+      "article_id": 1783,
+      "places": []
+    },
+    {
+      "article_id": 1784,
+      "places": []
+    },
+    {
+      "article_id": 1785,
+      "places": []
+    },
+    {
+      "article_id": 1786,
+      "places": []
+    },
+    {
+      "article_id": 1787,
+      "places": []
+    },
+    {
+      "article_id": 1788,
+      "places": []
+    },
+    {
+      "article_id": 1789,
+      "places": []
+    },
+    {
+      "article_id": 1790,
+      "places": [
+        {
+          "nama_tempat": "Tilu Geulis Cijeruk",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Kolonel Bustomi No. 36, Warung Menteng, Bogor",
+          "alasan_viral": "Restoran Sunda modern dengan bangunan estetik dan instagramable",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Mojang Pasundan Restoran",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Raya Sukabumi Km 15 Ciawi, Cimande Hilir, Bogor",
+          "alasan_viral": "Masakan Pasundan otentik dengan sambal dadak, dekat Cibalung Happy Land",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Cibalung Happy Land",
+          "kategori": "Wahana",
+          "lokasi_text": "Bogor",
+          "alasan_viral": "Destinasi wisata yang menjadi acuan kuliner sekitar",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1791,
+      "places": [
+        {
+          "nama_tempat": "Warung Kondang",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Pesona Florence Raya Blok H1, Ciangsana, Gunung Putri, Kabupaten Bogor",
+          "alasan_viral": "Beragam menu bebek, ayam bakar, sop buntut dan es di Kota Wisata",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Titik Desa",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Pesona Taman Florence J2 No. 10, Ciangsana, Gunung Putri, Kabupaten Bogor",
+          "alasan_viral": "Tempat makan dengan pisang goreng andalan dan kopi susu",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1792,
+      "places": []
+    },
+    {
+      "article_id": 1793,
+      "places": [
+        {
+          "nama_tempat": "Toge Goreng H. Gebro",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Pengadilan, kawasan Pasar Anyar, Kota Bogor",
+          "alasan_viral": "Ikon kuliner Bogor sejak 1940-an, toge goreng bumbu tauco",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Mi Kocok Mawar",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Dr Sumeru No. 2, Kebon Kelapa, Kota Bogor",
+          "alasan_viral": "Mi kocok legendaris sejak 1970-an dekat Stasiun Bogor",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Doclang 405",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Veteran, Kota Bogor",
+          "alasan_viral": "Warung doclang khas Bogor buka 24 jam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1794,
+      "places": [
+        {
+          "nama_tempat": "Bakso Gunung Kidul Taichan Bu Iwan Teplan",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Kolonel Enjo M No. 37, Kedung Badak, Tanah Sareal, Kota Bogor",
+          "alasan_viral": "Kedai bakso kuah taichan pedas ramai dikunjungi sejak buka",
+          "indikasi_waktu": "Sejak Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1795,
+      "places": [
+        {
+          "nama_tempat": "Bakso Terbang",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Kol Ahmad Syam, Katulampa, Bogor Timur, Kota Bogor",
+          "alasan_viral": "Cabang baru bakso urat jumbo",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Titik Seduh",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Sholeh Iskandar No.1, Kedungbadak, Tanah Sareal, Kota Bogor",
+          "alasan_viral": "Coffee shop populer buka outlet baru yang luas dan nyaman",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Halaman Baru",
+          "kategori": "Restoran",
+          "lokasi_text": "Kota Bogor",
+          "alasan_viral": "Restoran baru dengan area dine-in luas indoor dan outdoor",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1796,
+      "places": [
+        {
+          "nama_tempat": "Bubur Kabita",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Raya Gn. Batu No.67, Kota Bogor",
+          "alasan_viral": "Bubur ayam legendaris sejak 1971",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Bubur Ayam Tirza",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Raya Pajajaran, Sukasari, Bogor",
+          "alasan_viral": "Bubur ayam oriental legendaris sejak 1980-an",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Bubur Ayam Mang Eloy",
+          "kategori": "Restoran",
+          "lokasi_text": "Bogor",
+          "alasan_viral": "Bubur ayam gerobakan yang menarik perhatian",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1797,
+      "places": [
+        {
+          "nama_tempat": "Macaroni Panggang Bogor",
+          "kategori": "Restoran",
+          "lokasi_text": "Kota Bogor",
+          "alasan_viral": "Makaroni panggang keju mozzarella khas Bogor",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Bogor Permai Bakery & Restaurant",
+          "kategori": "Restoran",
+          "lokasi_text": "Pusat Kota Bogor",
+          "alasan_viral": "Tempat legendaris roti klasik dan hidangan rumahan sejak 1980-an",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Death by Chocolate & Spaghettini",
+          "kategori": "Kafe",
+          "lokasi_text": "Kota Bogor",
+          "alasan_viral": "Kafe tematik olahan cokelat dan pasta",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "MomMilk",
+          "kategori": "Kafe",
+          "lokasi_text": "Kota Bogor",
+          "alasan_viral": "Kafe susu segar kekinian aneka rasa",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "De' Leuit",
+          "kategori": "Restoran",
+          "lokasi_text": "Kota Bogor",
+          "alasan_viral": "Restoran Sunda luas dengan nasi liwet komplit",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1798,
+      "places": [
+        {
+          "nama_tempat": "Arirang Korean BBQ",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Raya Pajajaran No.262, Bantarjati, Bogor Utara, Kota Bogor",
+          "alasan_viral": "Korean BBQ otentik bersertifikat halal",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Daebagyu Korean BBQ",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Raya Pajajaran, Kota Bogor",
+          "alasan_viral": "Korean BBQ dengan interior tradisional Korea",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1799,
+      "places": [
+        {
+          "nama_tempat": "Padre",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Pajajaran Indah V No. 37, Bogor Timur, Bogor",
+          "alasan_viral": "Restoran Italia berarsitektur estetik dan instagramable",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "T-Bene Social Kitchen",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Dadali, Tanah Sareal, Bogor",
+          "alasan_viral": "Restoran steak ala Italia bernuansa elegan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    }
+  ]
+}

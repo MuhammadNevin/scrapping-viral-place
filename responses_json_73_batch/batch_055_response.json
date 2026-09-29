@@ -1,0 +1,489 @@
+{
+  "results": [
+    {
+      "article_id": 1620,
+      "places": [
+        {
+          "nama_tempat": "Desa Wisata Krabat (Kranggan Hebat) Pecinan",
+          "kategori": "lainnya",
+          "lokasi_text": "Kelurahan Kranggan, Semarang Tengah, Semarang",
+          "alasan_viral": "Resmi jadi desa wisata ke-14 Kota Semarang dengan wisata sejarah dan budaya Pecinan",
+          "indikasi_waktu": "20 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1621,
+      "places": []
+    },
+    {
+      "article_id": 1622,
+      "places": [
+        {
+          "nama_tempat": "Kota Lama Semarang",
+          "kategori": "lainnya",
+          "lokasi_text": "Semarang",
+          "alasan_viral": "Little Netherland dengan gedung kolonial dan Taman Srigunting, gratis",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Lawang Sewu",
+          "kategori": "Museum",
+          "lokasi_text": "Semarang",
+          "alasan_viral": "Ikon wisata sejarah peninggalan Hindia Belanda dengan banyak pintu",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Klenteng Sam Poo Kong",
+          "kategori": "lainnya",
+          "lokasi_text": "Semarang",
+          "alasan_viral": "Situs sejarah persinggahan Laksamana Cheng Ho, spot foto instagramable",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Saloka Theme Park",
+          "kategori": "Wahana",
+          "lokasi_text": "Kabupaten Semarang",
+          "alasan_viral": "Taman rekreasi tematik terbesar di Jawa Tengah bertema legenda Nusantara",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Dusun Semilir Eco Park",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bawen, Kabupaten Semarang",
+          "alasan_viral": "Tempat wisata viral karena arsitektur menyerupai stupa raksasa",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1623,
+      "places": [
+        {
+          "nama_tempat": "Kampung Pelangi",
+          "kategori": "lainnya",
+          "lokasi_text": "Jl. DR. Sutomo No. 89, Randusari, Semarang Selatan, Semarang",
+          "alasan_viral": "Kampung kumuh disulap warna-warni, gratis",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Kampung Batik Gedong Semarang",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Batik No. 698A, Rejomulyo, Semarang Timur, Semarang",
+          "alasan_viral": "Wisata edukasi produksi batik khas Semarang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Lawang Sewu",
+          "kategori": "Museum",
+          "lokasi_text": "Jalan Pemuda No. 160, Sekayu, Semarang Tengah, Semarang",
+          "alasan_viral": "Objek wisata sejarah populer",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1624,
+      "places": []
+    },
+    {
+      "article_id": 1625,
+      "places": [
+        {
+          "nama_tempat": "Eduwisata Mangrove Tapak",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kelurahan Tugurejo, Kecamatan Tugu, Semarang",
+          "alasan_viral": "Satu-satunya wisata edukasi hutan mangrove tersisa di Semarang, paket perahu dan tanam mangrove",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1626,
+      "places": [
+        {
+          "nama_tempat": "Soto & Rawon Om Go",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Kemantren II No. 3, Wonosari, Ngaliyan, Semarang",
+          "alasan_viral": "Soto dan rawon dekat Semarang Zoo",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Soto Deeprock Mas Ayyib",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Beringin Raya, Tambakaji, Ngaliyan, Semarang",
+          "alasan_viral": "Soto porsi kecil dan besar mulai Rp 6.000",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Soto Sapi Sodaqoh",
+          "kategori": "Restoran",
+          "lokasi_text": "Semarang",
+          "alasan_viral": "Soto sapi kuah bening dekat Semarang Zoo",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1627,
+      "places": [
+        {
+          "nama_tempat": "Masjid Agung Jawa Tengah",
+          "kategori": "lainnya",
+          "lokasi_text": "Semarang",
+          "alasan_viral": "Ikon wisata religi dengan payung hidrolik raksasa dan menara pandang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Sam Poo Kong",
+          "kategori": "lainnya",
+          "lokasi_text": "Semarang",
+          "alasan_viral": "Klenteng bersejarah Laksamana Cheng Ho, simbol akulturasi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Gereja Blenduk",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Lama, Semarang",
+          "alasan_viral": "Gereja Protestan tertua di Jawa Tengah berarsitektur Eropa",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Pura Agung Giri Natha",
+          "kategori": "lainnya",
+          "lokasi_text": "Semarang",
+          "alasan_viral": "Pusat kegiatan umat Hindu dan wisata religi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1628,
+      "places": []
+    },
+    {
+      "article_id": 1629,
+      "places": []
+    },
+    {
+      "article_id": 1630,
+      "places": []
+    },
+    {
+      "article_id": 1631,
+      "places": [
+        {
+          "nama_tempat": "Kota Lama Semarang",
+          "kategori": "lainnya",
+          "lokasi_text": "Semarang",
+          "alasan_viral": "Destinasi paling favorit di Jateng saat libur sekolah, hampir 236 ribu kunjungan",
+          "indikasi_waktu": "Libur sekolah Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Candi Prambanan",
+          "kategori": "lainnya",
+          "lokasi_text": "Kabupaten Klaten",
+          "alasan_viral": "Destinasi kedua terbanyak dikunjungi saat libur sekolah, 251.475 wisatawan",
+          "indikasi_waktu": "Libur sekolah Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Makam Aulia Syeh Maulana Maghribi",
+          "kategori": "lainnya",
+          "lokasi_text": "Kabupaten Batang",
+          "alasan_viral": "Wisata religi dengan 175.722 kunjungan saat libur sekolah",
+          "indikasi_waktu": "Libur sekolah Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Kawasan Dataran Tinggi Dieng",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Banjarnegara",
+          "alasan_viral": "116.828 pengunjung saat libur sekolah",
+          "indikasi_waktu": "Libur sekolah Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Rowo Jombor",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Klaten",
+          "alasan_viral": "77.400 wisatawan saat libur sekolah",
+          "indikasi_waktu": "Libur sekolah Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1632,
+      "places": [
+        {
+          "nama_tempat": "Museum Ronggowarsito",
+          "kategori": "Museum",
+          "lokasi_text": "Semarang",
+          "alasan_viral": "Siswa SD meninggal tertimpa patung dekorasi di taman museum saat rombongan wisata (isu negatif)",
+          "indikasi_waktu": "12 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1633,
+      "places": [
+        {
+          "nama_tempat": "Museum Fotografi Indonesia",
+          "kategori": "Museum",
+          "lokasi_text": "Eks Gedung Jiwasraya, Kota Lama, Semarang",
+          "alasan_viral": "Rencana revitalisasi gedung bersejarah jadi museum fotografi nasional",
+          "indikasi_waktu": "21 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1634,
+      "places": [
+        {
+          "nama_tempat": "Museum Ronggowarsito",
+          "kategori": "Museum",
+          "lokasi_text": "Semarang",
+          "alasan_viral": "Bocah SD tertimpa patung 40 kg setelah bergelantungan, museum sterilisasi area (isu negatif)",
+          "indikasi_waktu": "12 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1635,
+      "places": [
+        {
+          "nama_tempat": "Museum Ronggowarsito",
+          "kategori": "Museum",
+          "lokasi_text": "Semarang",
+          "alasan_viral": "Kronologi anak SD meninggal tertimpa patung, Pemprov evaluasi keselamatan museum (isu negatif)",
+          "indikasi_waktu": "12 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1636,
+      "places": [
+        {
+          "nama_tempat": "Toko Roti Gambang",
+          "kategori": "Kafe",
+          "lokasi_text": "Pasar Johar Utara, Semarang",
+          "alasan_viral": "Jadi perbincangan warganet karena diisukan milik anak Wali Kota dan pembongkaran pagar (isu negatif)",
+          "indikasi_waktu": "2 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1637,
+      "places": [
+        {
+          "nama_tempat": "Toko Kue Gambang",
+          "kategori": "Kafe",
+          "lokasi_text": "Sisi utara Pasar Johar, Semarang",
+          "alasan_viral": "Toko baru yang viral, diterpa isu miring namun diserbu pembeli dari luar kota lewat TikTok",
+          "indikasi_waktu": "April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1638,
+      "places": [
+        {
+          "nama_tempat": "Toko Roti Rapi",
+          "kategori": "Kafe",
+          "lokasi_text": "Semarang",
+          "alasan_viral": "Toko roti jadul sejak 1958 dengan roti tradisional dan jajanan pasar",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1639,
+      "places": [
+        {
+          "nama_tempat": "Toko Roti Gambang",
+          "kategori": "Kafe",
+          "lokasi_text": "Pasar Johar, Semarang",
+          "alasan_viral": "Isu pembongkaran pagar cagar budaya viral di media sosial, dibantah pemilik (isu negatif)",
+          "indikasi_waktu": "April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1640,
+      "places": [
+        {
+          "nama_tempat": "Toko Kue Gambang",
+          "kategori": "Kafe",
+          "lokasi_text": "Pasar Johar, Semarang",
+          "alasan_viral": "Narasi viral pembongkaran pagar pasar demi akses toko dibantah Disdag (isu negatif)",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1641,
+      "places": [
+        {
+          "nama_tempat": "Toko Kue Gambang",
+          "kategori": "Kafe",
+          "lokasi_text": "Pasar Johar, Semarang",
+          "alasan_viral": "Isu kepemilikan anak Wali Kota viral di media sosial, diklarifikasi pemilik (isu negatif)",
+          "indikasi_waktu": "3 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1642,
+      "places": []
+    },
+    {
+      "article_id": 1643,
+      "places": [
+        {
+          "nama_tempat": "Toko Kue Gambang",
+          "kategori": "Kafe",
+          "lokasi_text": "Pasar Johar Utara, Semarang",
+          "alasan_viral": "Jadi sorotan publik, diserbu ulasan bintang satu hingga rating Google turun ke 2,8 (isu negatif)",
+          "indikasi_waktu": "3 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1644,
+      "places": [
+        {
+          "nama_tempat": "Toko Kue Gambang",
+          "kategori": "Kafe",
+          "lokasi_text": "Pasar Johar Utara, Semarang",
+          "alasan_viral": "Ramai polemik dugaan penjebolan tembok demi perluasan toko (isu negatif)",
+          "indikasi_waktu": "2 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1645,
+      "places": [
+        {
+          "nama_tempat": "Toko Kue Gambang",
+          "kategori": "Kafe",
+          "lokasi_text": "Pasar Johar, Semarang",
+          "alasan_viral": "Diserbu antrean pembeli penasaran setelah polemik viral di TikTok dan Instagram",
+          "indikasi_waktu": "4 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1646,
+      "places": [
+        {
+          "nama_tempat": "Toko Kue Gambang",
+          "kategori": "Kafe",
+          "lokasi_text": "Pasar Johar, Semarang",
+          "alasan_viral": "Isu pemanfaatan bangunan viral, Pemkot pastikan sesuai prosedur (isu negatif)",
+          "indikasi_waktu": "3 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1647,
+      "places": [
+        {
+          "nama_tempat": "Toko Kue Gambang",
+          "kategori": "Kafe",
+          "lokasi_text": "Sisi utara Pasar Johar, Semarang",
+          "alasan_viral": "Polemik isu penjebolan tembok dan pelanggaran cagar budaya di media sosial (isu negatif)",
+          "indikasi_waktu": "2 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1648,
+      "places": []
+    },
+    {
+      "article_id": 1649,
+      "places": [
+        {
+          "nama_tempat": "Tansurri (Ketan Susu RRI)",
+          "kategori": "Kafe",
+          "lokasi_text": "Ruko Pasar Johar, Semarang",
+          "alasan_viral": "Lapak ketan susu viral di media sosial meski baru buka tiga minggu, diserbu wisatawan",
+          "indikasi_waktu": "17 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

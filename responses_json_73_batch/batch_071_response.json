@@ -1,0 +1,451 @@
+{
+  "results": [
+    {
+      "article_id": 2100,
+      "places": []
+    },
+    {
+      "article_id": 2101,
+      "places": []
+    },
+    {
+      "article_id": 2102,
+      "places": []
+    },
+    {
+      "article_id": 2103,
+      "places": [
+        {
+          "nama_tempat": "Cafe Bukuku Lawas",
+          "kategori": "Kafe",
+          "lokasi_text": "Solo",
+          "alasan_viral": "Kedai kopi sekaligus toko buku bekas bernuansa vintage, favorit mahasiswa untuk foto estetik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 2104,
+      "places": [
+        {
+          "nama_tempat": "Serabi Notosuman",
+          "kategori": "Kafe",
+          "lokasi_text": "Solo",
+          "alasan_viral": "Ikon oleh-oleh Solo, ditetapkan Warisan Budaya Takbenda dengan konsep open kitchen",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Abon Mesran",
+          "kategori": "lainnya",
+          "lokasi_text": "Solo",
+          "alasan_viral": "Oleh-oleh abon sapi legendaris sejak 1987",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "Abon Sapi KL Noeria",
+          "kategori": "lainnya",
+          "lokasi_text": "Jagalan, Solo",
+          "alasan_viral": "Abon sapi langganan keluarga Presiden Joko Widodo",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "Toko Roti Orion",
+          "kategori": "Kafe",
+          "lokasi_text": "Solo",
+          "alasan_viral": "Toko roti legendaris sejak 1932 dengan Roti Mandarijn",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Toko Solo Floss Roll",
+          "kategori": "Kafe",
+          "lokasi_text": "Solo",
+          "alasan_viral": "Oleh-oleh kekinian roti gulung abon sapi melimpah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "Solo Pluffy",
+          "kategori": "Kafe",
+          "lokasi_text": "Solo",
+          "alasan_viral": "Oleh-oleh cheesecake lembut aneka varian",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "Kampung Batik Laweyan",
+          "kategori": "lainnya",
+          "lokasi_text": "Laweyan, Solo",
+          "alasan_viral": "Kampung batik tempat melihat proses produksi batik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Kampung Batik Kauman",
+          "kategori": "lainnya",
+          "lokasi_text": "Kauman, Solo",
+          "alasan_viral": "Kampung batik tempat melihat proses produksi batik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 2105,
+      "places": []
+    },
+    {
+      "article_id": 2106,
+      "places": []
+    },
+    {
+      "article_id": 2107,
+      "places": []
+    },
+    {
+      "article_id": 2108,
+      "places": []
+    },
+    {
+      "article_id": 2109,
+      "places": []
+    },
+    {
+      "article_id": 2110,
+      "places": [
+        {
+          "nama_tempat": "Uleg Bazar Kuliner 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Pamedan Pura Mangkunegaran, Surakarta",
+          "alasan_viral": "Bazar makanan pedas terbesar dengan puluhan tenant kuliner nusantara dan kuliner viral",
+          "indikasi_waktu": "14-17 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 2111,
+      "places": [
+        {
+          "nama_tempat": "Uleg Bazar Kuliner 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Pamedan Pura Mangkunegaran, Surakarta",
+          "alasan_viral": "Bazar kuliner pedas semarak dengan tenant populer Jakarta, Bandung, Surabaya",
+          "indikasi_waktu": "14-17 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 2112,
+      "places": [
+        {
+          "nama_tempat": "RASAFORIA",
+          "kategori": "Pameran",
+          "lokasi_text": "Main Atrium The Park Mall Solo",
+          "alasan_viral": "Festival kuliner beragam cita rasa Nusantara, jajanan kekinian dan minuman viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 2113,
+      "places": [
+        {
+          "nama_tempat": "Uleg Bazar Kuliner 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Pamedan Pura Mangkunegaran, Surakarta",
+          "alasan_viral": "Event kuliner nusantara, pedas, dan viral dari UMKM Solo Raya plus konser",
+          "indikasi_waktu": "14-17 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 2114,
+      "places": [
+        {
+          "nama_tempat": "Meeting of Styles 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Rumah Tahanan Negara Kelas I Solo",
+          "alasan_viral": "Festival grafiti internasional 50 seniman dari 19 negara",
+          "indikasi_waktu": "15 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 2115,
+      "places": []
+    },
+    {
+      "article_id": 2116,
+      "places": [
+        {
+          "nama_tempat": "Teras Sarapan Pagi",
+          "kategori": "Restoran",
+          "lokasi_text": "Cirebon",
+          "alasan_viral": "Tempat sarapan ketan bumbu dan soto hangat",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 2117,
+      "places": [
+        {
+          "nama_tempat": "GTC Cirebon",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Cirebon",
+          "alasan_viral": "Video keributan pengunjung tempat makan dengan pengamen hingga adu jotos viral (isu negatif)",
+          "indikasi_waktu": "4 Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 2118,
+      "places": [
+        {
+          "nama_tempat": "Empal Gentong H. Irwan Ciperna",
+          "kategori": "Restoran",
+          "lokasi_text": "Dekat Gerbang Tol Ciperna, Cirebon",
+          "alasan_viral": "Empal gentong legendaris dan sate maranggi di akses tol",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 2119,
+      "places": [
+        {
+          "nama_tempat": "GTC Cirebon",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Cirebon",
+          "alasan_viral": "Polisi tangkap pengamen yang ribut dengan pengunjung (isu negatif)",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 2120,
+      "places": [
+        {
+          "nama_tempat": "Empal Gentong H. Apud",
+          "kategori": "Restoran",
+          "lokasi_text": "Cirebon",
+          "alasan_viral": "Empal gentong legendaris yang selalu ramai hingga antre panjang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 2121,
+      "places": [
+        {
+          "nama_tempat": "GTC Cirebon",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Cirebon",
+          "alasan_viral": "Keributan pengunjung dan pengamen berujung baku hantam viral (isu negatif)",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 2122,
+      "places": [
+        {
+          "nama_tempat": "Kopi Montong",
+          "kategori": "Kafe",
+          "lokasi_text": "Cirebon",
+          "alasan_viral": "Tempat ngopi bernuansa alam di tengah rimbun pepohonan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 2123,
+      "places": [
+        {
+          "nama_tempat": "GTC Kota Cirebon",
+          "kategori": "lainnya",
+          "lokasi_text": "Area parkir GTC, Kota Cirebon",
+          "alasan_viral": "Dua pengamen ditangkap usai video adu jotos dengan pengunjung tempat makan viral (isu negatif)",
+          "indikasi_waktu": "Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 2124,
+      "places": [
+        {
+          "nama_tempat": "Nasi Jamblang Mang Dul",
+          "kategori": "Restoran",
+          "lokasi_text": "Cirebon",
+          "alasan_viral": "Rumah makan nasi jamblang yang dipadati pelanggan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Nasi Jamblang Ibu Nur",
+          "kategori": "Restoran",
+          "lokasi_text": "Cirebon",
+          "alasan_viral": "Nasi jamblang legendaris nyaris tak pernah sepi dengan lauk lengkap",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 2125,
+      "places": [
+        {
+          "nama_tempat": "Cita Rasa Amak",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Sukasari No. 49/07, Kelurahan Sukapura, Kecamatan Kejaksan, Kota Cirebon",
+          "alasan_viral": "Kedai Padang konsep kalcer baru dibuka dengan soto Padang",
+          "indikasi_waktu": "10 April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 2126,
+      "places": [
+        {
+          "nama_tempat": "Festival Kuliner dan Budaya Kenduri Kue Bulan 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Kawasan Pecinan, Kota Cirebon",
+          "alasan_viral": "Festival kuliner dan budaya Tionghoa bersamaan peresmian Gapura Pecinan",
+          "indikasi_waktu": "26 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Gapura Pecinan",
+          "kategori": "lainnya",
+          "lokasi_text": "Kawasan Pecinan, Kota Cirebon",
+          "alasan_viral": "Gapura baru diresmikan sebagai penanda kawasan wisata sejarah dan budaya",
+          "indikasi_waktu": "26 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 2127,
+      "places": [
+        {
+          "nama_tempat": "Embung Wanakaya",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kecamatan Tengah Tani, Kabupaten Cirebon",
+          "alasan_viral": "Embung mengering jadi hamparan rumput, viral di media sosial dan jadi wisata dadakan",
+          "indikasi_waktu": "September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 2128,
+      "places": [
+        {
+          "nama_tempat": "Pantai Kejawanan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Cirebon",
+          "alasan_viral": "Wisata Cirebon yang lagi hits",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "Keraton Kasepuhan",
+          "kategori": "Museum",
+          "lokasi_text": "Cirebon",
+          "alasan_viral": "Wisata sejarah Cirebon yang lagi hits",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Goa Sunyaragi",
+          "kategori": "lainnya",
+          "lokasi_text": "Cirebon",
+          "alasan_viral": "Wisata sejarah Cirebon yang lagi hits",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Batik Trusmi",
+          "kategori": "lainnya",
+          "lokasi_text": "Trusmi, Cirebon",
+          "alasan_viral": "Wisata belanja batik Cirebon yang lagi hits",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 2129,
+      "places": [
+        {
+          "nama_tempat": "Taman Air Goa Sunyaragi",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Cirebon",
+          "alasan_viral": "Kompleks bersejarah berarsitektur unik menyerupai gua, destinasi favorit wisatawan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Kampung Batik Trusmi",
+          "kategori": "lainnya",
+          "lokasi_text": "Trusmi, Cirebon",
+          "alasan_viral": "Kawasan pusat batik khas Cirebon dekat stasiun",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    }
+  ]
+}

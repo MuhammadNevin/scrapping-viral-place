@@ -1,0 +1,422 @@
+{
+  "results": [
+    {
+      "article_id": 510,
+      "places": []
+    },
+    {
+      "article_id": 511,
+      "places": []
+    },
+    {
+      "article_id": 512,
+      "places": []
+    },
+    {
+      "article_id": 513,
+      "places": []
+    },
+    {
+      "article_id": 514,
+      "places": []
+    },
+    {
+      "article_id": 515,
+      "places": [
+        {
+          "nama_tempat": "Jembatan Air Martan",
+          "kategori": "lainnya",
+          "lokasi_text": "Desa Pasar Seluma, Kecamatan Seluma Selatan, Bengkulu",
+          "alasan_viral": "Viral jembatan Rp16 miliar amblas dua bulan setelah diresmikan (isu negatif)",
+          "indikasi_waktu": "April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 516,
+      "places": [
+        {
+          "nama_tempat": "Pasar Baru Koto",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Bengkulu",
+          "alasan_viral": "Pasar hasil revitalisasi dikeluhkan kumuh dan bau (isu negatif)",
+          "indikasi_waktu": "April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 517,
+      "places": []
+    },
+    {
+      "article_id": 518,
+      "places": [
+        {
+          "nama_tempat": "Festival Riang & Ceria (Lapangan Sport Center Bengkulu)",
+          "kategori": "Pameran",
+          "lokasi_text": "Lapangan Sport Center, Kota Bengkulu",
+          "alasan_viral": "Festival musik satu hari",
+          "indikasi_waktu": "15 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 519,
+      "places": [
+        {
+          "nama_tempat": "Festival Tabut 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Lapangan Sport Centre, Kota Bengkulu",
+          "alasan_viral": "Festival budaya tahunan Karisma Event Nusantara",
+          "indikasi_waktu": "16-25 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 520,
+      "places": [
+        {
+          "nama_tempat": "Festival Tabot 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Kota Bengkulu",
+          "alasan_viral": "Festival budaya tahunan yang diamankan polisi",
+          "indikasi_waktu": "15 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 521,
+      "places": [
+        {
+          "nama_tempat": "Festival Tabut 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Kota Bengkulu",
+          "alasan_viral": "Festival budaya dan pariwisata kebanggaan Bengkulu",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 522,
+      "places": []
+    },
+    {
+      "article_id": 523,
+      "places": [
+        {
+          "nama_tempat": "Festival Tabut 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Lapangan Sport Centre, Kota Bengkulu",
+          "alasan_viral": "Agenda budaya unggulan, tahun keenam masuk Karisma Event Nusantara",
+          "indikasi_waktu": "16-25 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 524,
+      "places": [
+        {
+          "nama_tempat": "Festival Tabut 2026 (Sport Center Pantai Panjang)",
+          "kategori": "Pameran",
+          "lokasi_text": "Sport Center Pantai Panjang, Kota Bengkulu",
+          "alasan_viral": "Festival budaya terbesar di Bengkulu",
+          "indikasi_waktu": "15 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 525,
+      "places": []
+    },
+    {
+      "article_id": 526,
+      "places": [
+        {
+          "nama_tempat": "Festival Tabut 2026 (Lapangan Merdeka / Tugu Dhol)",
+          "kategori": "Pameran",
+          "lokasi_text": "Lapangan Merdeka, kawasan Tugu Dhol, Kota Bengkulu",
+          "alasan_viral": "Perayaan budaya tahunan Tabut",
+          "indikasi_waktu": "15-25 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 527,
+      "places": []
+    },
+    {
+      "article_id": 528,
+      "places": [
+        {
+          "nama_tempat": "Taman Santap Rumah Kayu",
+          "kategori": "Restoran",
+          "lokasi_text": "Bandar Lampung",
+          "alasan_viral": "Restoran keluarga hijau dengan kabin pesawat Boeing 737-400",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Kampoeng Bamboe",
+          "kategori": "Restoran",
+          "lokasi_text": "Bandar Lampung",
+          "alasan_viral": "Garden restaurant bernuansa alam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 529,
+      "places": [
+        {
+          "nama_tempat": "BLehong Durian",
+          "kategori": "Restoran",
+          "lokasi_text": "Korpri, Jalan Imam Bonjol Kemiling, dan Teluk Betung Selatan, Bandar Lampung",
+          "alasan_viral": "Tempat makan durian dengan es teler durian yang viral, rooftop",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Saburai Durian & Resto",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Majapahit Nomor 8, Enggal, Bandar Lampung",
+          "alasan_viral": "Durian lokal dan impor, olahan durian",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Sama Durian Lampung",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Urip, Bandar Lampung",
+          "alasan_viral": "Durian impor fresh, buka 24 jam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 530,
+      "places": [
+        {
+          "nama_tempat": "Pulau Pahawang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Pesawaran, Lampung",
+          "alasan_viral": "Wisata hits dengan air jernih untuk snorkeling",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Pantai Kyokko (Kyokko Beach)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Lampung Selatan",
+          "alasan_viral": "Destinasi pantai populer pasir putih",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 531,
+      "places": [
+        {
+          "nama_tempat": "Ceker Kerang Pedas Nona",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Pahlawan Nomor 119, Surabaya, Kedaton, Bandar Lampung",
+          "alasan_viral": "Pendatang baru yang viral di media sosial, menu pedas Rp16 ribuan",
+          "indikasi_waktu": "Belum lama beroperasi",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 532,
+      "places": [
+        {
+          "nama_tempat": "Lembah Hijau",
+          "kategori": "Wahana",
+          "lokasi_text": "Sukadana Ham, Bandar Lampung",
+          "alasan_viral": "Taman wisata dengan taman satwa dan waterpark",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Bukit Aslan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Way Gubak, Bandar Lampung",
+          "alasan_viral": "Panorama bukit dan laut, citylight, Magic Forest",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 533,
+      "places": [
+        {
+          "nama_tempat": "Pantai Rio by The Beach",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Lampung Selatan",
+          "alasan_viral": "Pantai viral konsep beach club kekinian",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Pantai Teluk Hantu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Pagar Jaya, Pesawaran, Lampung",
+          "alasan_viral": "Pantai viral pasir putih dan air biru jernih",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Pulau Wayang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Lampung",
+          "alasan_viral": "Pantai viral liburan tropis",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 534,
+      "places": [
+        {
+          "nama_tempat": "Puncak Mas",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bandar Lampung",
+          "alasan_viral": "Panorama kota dari ketinggian",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Wira Garden",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bandar Lampung",
+          "alasan_viral": "Aliran sungai jernih, piknik dan kemping",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Lembah Hijau",
+          "kategori": "Wahana",
+          "lokasi_text": "Bandar Lampung",
+          "alasan_viral": "Wisata keluarga dengan wahana dan satwa",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Bukit AsLan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bandar Lampung",
+          "alasan_viral": "Spot foto instagramable di perbukitan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 535,
+      "places": [
+        {
+          "nama_tempat": "Pantai Rio By The Beach",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bulok, Kecamatan Kalianda, Kabupaten Lampung Selatan",
+          "alasan_viral": "Destinasi pantai populer dengan fasilitas lengkap",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Pulau Pahawang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kecamatan Punduh Pidada, Kabupaten Pesawaran, Lampung",
+          "alasan_viral": "Destinasi bahari populer untuk snorkeling",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Taman Nasional Way Kambas",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Lampung Timur",
+          "alasan_viral": "Habitat gajah dan badak Sumatera",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 536,
+      "places": []
+    },
+    {
+      "article_id": 537,
+      "places": [
+        {
+          "nama_tempat": "Pantai Gigi Hiu (Pantai Batu Layar)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Lampung",
+          "alasan_viral": "Batu karang raksasa menyerupai gigi hiu, destinasi tersembunyi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 538,
+      "places": [
+        {
+          "nama_tempat": "Museum Kedatun Keagungan Lampung",
+          "kategori": "Museum",
+          "lokasi_text": "Lampung",
+          "alasan_viral": "Pembukaan museum adat",
+          "indikasi_waktu": "27 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 539,
+      "places": []
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "results": [
+    {
+      "article_id": 1140,
+      "places": []
+    },
+    {
+      "article_id": 1141,
+      "places": []
+    },
+    {
+      "article_id": 1142,
+      "places": [
+        {
+          "nama_tempat": "Tuli-Tuli Viral",
+          "kategori": "Restoran",
+          "lokasi_text": "Kendari, Sulawesi Tenggara",
+          "alasan_viral": "Usaha kuliner tradisional Tuli-Tuli yang viral lewat media sosial",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1143,
+      "places": [
+        {
+          "nama_tempat": "Pasar Baruga",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Kendari",
+          "alasan_viral": "Viral video temuan uang palsu di pasar (isu negatif)",
+          "indikasi_waktu": "April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 1144,
+      "places": []
+    },
+    {
+      "article_id": 1145,
+      "places": []
+    },
+    {
+      "article_id": 1146,
+      "places": []
+    },
+    {
+      "article_id": 1147,
+      "places": []
+    },
+    {
+      "article_id": 1148,
+      "places": [
+        {
+          "nama_tempat": "Wakatobi Dive Resort",
+          "kategori": "lainnya",
+          "lokasi_text": "Pulau Onemobaa, Tomia, Kabupaten Wakatobi",
+          "alasan_viral": "Viral video pencegatan kapal wisatawan Prancis oleh resort (isu negatif)",
+          "indikasi_waktu": "6 Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Taman Nasional Wakatobi",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Perairan Tomia, Kabupaten Wakatobi",
+          "alasan_viral": "Zona pemanfaatan lokasi insiden viral penyelaman",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1149,
+      "places": [
+        {
+          "nama_tempat": "Mata Air Ninivala",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Indonesia Timur",
+          "alasan_viral": "Mata air indah dalam tayangan Tanah Air Beta",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1150,
+      "places": [
+        {
+          "nama_tempat": "Pantai Ora",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Teluk Sawai, Seram Utara, Maluku Tengah",
+          "alasan_viral": "Pasir putih dan laut jernih disandingkan dengan Maladewa",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Ora Beach Resort",
+          "kategori": "lainnya",
+          "lokasi_text": "Pantai Ora, Seram Utara, Maluku Tengah",
+          "alasan_viral": "Cottage di atas perairan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1151,
+      "places": []
+    },
+    {
+      "article_id": 1152,
+      "places": [
+        {
+          "nama_tempat": "Kepulauan Wakatobi",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Sulawesi Tenggara",
+          "alasan_viral": "Destinasi impian ketenangan dan bawah laut",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Banda Neira",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Maluku",
+          "alasan_viral": "Kawasan bersejarah dengan wisata selam",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Pulau Hatta",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Banda, Maluku",
+          "alasan_viral": "Lokasi ikonik untuk selam bebas",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "Pulau Syahrir",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Banda, Maluku",
+          "alasan_viral": "Lokasi ikonik untuk selam bebas",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1153,
+      "places": []
+    },
+    {
+      "article_id": 1154,
+      "places": [
+        {
+          "nama_tempat": "Indomaret Ambon",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Ambon, Maluku",
+          "alasan_viral": "Viral video karyawan bakar kaki bocah tidur di teras toko (isu negatif)",
+          "indikasi_waktu": "26 Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 1155,
+      "places": []
+    },
+    {
+      "article_id": 1156,
+      "places": []
+    },
+    {
+      "article_id": 1157,
+      "places": []
+    },
+    {
+      "article_id": 1158,
+      "places": [
+        {
+          "nama_tempat": "Proyek Pasar Apung Batumerah",
+          "kategori": "lainnya",
+          "lokasi_text": "Desa Batu Merah, Kecamatan Sirimau, Kota Ambon",
+          "alasan_viral": "Sengketa lahan dan rencana pembongkaran masjid viral (isu negatif)",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 1159,
+      "places": []
+    },
+    {
+      "article_id": 1160,
+      "places": [
+        {
+          "nama_tempat": "Benteng Oranje",
+          "kategori": "Museum",
+          "lokasi_text": "Kota Ternate, Maluku Utara",
+          "alasan_viral": "Viral pembubaran pemutaran film dokumenter oleh aparat (isu negatif)",
+          "indikasi_waktu": "8 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1161,
+      "places": [
+        {
+          "nama_tempat": "Festival Gema Buru 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Namlea, Pulau Buru, Maluku",
+          "alasan_viral": "Festival budaya kearifan lokal",
+          "indikasi_waktu": "2 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1162,
+      "places": []
+    },
+    {
+      "article_id": 1163,
+      "places": []
+    },
+    {
+      "article_id": 1164,
+      "places": []
+    },
+    {
+      "article_id": 1165,
+      "places": [
+        {
+          "nama_tempat": "Pulau Meti Cottage",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Pulau Meti, Kecamatan Tobelo, Halmahera Utara",
+          "alasan_viral": "Destinasi bahari dengan sekitar 100 kunjungan per hari",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1166,
+      "places": [
+        {
+          "nama_tempat": "Meti Cottage",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Pulau Meti, Halmahera Utara",
+          "alasan_viral": "Ecotourism resort destinasi unggulan Maluku Utara",
+          "indikasi_waktu": "29 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1167,
+      "places": [
+        {
+          "nama_tempat": "Armydock Morotai",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Pulau Morotai, Maluku Utara",
+          "alasan_viral": "Wisata pesisir bersejarah dengan gazebo, satu-satunya wisata dalam kota",
+          "indikasi_waktu": "April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1168,
+      "places": [
+        {
+          "nama_tempat": "Toko Kue Gambang",
+          "kategori": "Kafe",
+          "lokasi_text": "Pasar Johar Utara, Semarang",
+          "alasan_viral": "\"Dirujak\" warganet hingga rating Google Maps anjlok (isu negatif)",
+          "indikasi_waktu": "3 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1169,
+      "places": [
+        {
+          "nama_tempat": "Gunung Dukono",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Halmahera Utara, Maluku Utara",
+          "alasan_viral": "Video erupsi viral, pendaki terjebak dan tewas (isu negatif)",
+          "indikasi_waktu": "8-9 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        }
+      ]
+    }
+  ]
+}

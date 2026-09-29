@@ -1,0 +1,559 @@
+{
+  "results": [
+    {
+      "article_id": 570,
+      "places": [
+        {
+          "nama_tempat": "Festival UMKM dan Pasar 1001 Malam",
+          "kategori": "Pameran",
+          "lokasi_text": "Lapangan Bandar Sribhawono, Lampung Timur",
+          "alasan_viral": "Festival 1.500 pelaku UMKM dalam HUT ke-27 Lampung Timur",
+          "indikasi_waktu": "17 April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 571,
+      "places": [
+        {
+          "nama_tempat": "Festival Krakatau 2026 (Festival Tapis)",
+          "kategori": "Pameran",
+          "lokasi_text": "Lampung",
+          "alasan_viral": "Festival budaya dengan Festival Tapis",
+          "indikasi_waktu": "25-30 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 572,
+      "places": []
+    },
+    {
+      "article_id": 573,
+      "places": []
+    },
+    {
+      "article_id": 574,
+      "places": [
+        {
+          "nama_tempat": "Taman Wisata Randu Mas",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Pugung Raharjo, Kecamatan Sekampung Udik, Kabupaten Lampung Timur",
+          "alasan_viral": "Viral video warga kecewa Jokowi batal hadir di Festival Budaya",
+          "indikasi_waktu": "28 Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 575,
+      "places": []
+    },
+    {
+      "article_id": 576,
+      "places": [
+        {
+          "nama_tempat": "Pekan Raya Jakarta (PRJ)",
+          "kategori": "Pameran",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Hadir kembali dalam HUT Jakarta ke-499",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Chatime",
+          "kategori": "Kafe",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Promo B1G1 HUT Jakarta",
+          "indikasi_waktu": "22-24 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Gindaco",
+          "kategori": "Restoran",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Promo B1G1 takoyaki HUT Jakarta",
+          "indikasi_waktu": "22-24 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        },
+        {
+          "nama_tempat": "Wingstop",
+          "kategori": "Restoran",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Promo HUT Jakarta ke-499",
+          "indikasi_waktu": "22-23 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        },
+        {
+          "nama_tempat": "The People's Cafe",
+          "kategori": "Restoran",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Promo Nasi Goreng Gila Rp499",
+          "indikasi_waktu": "22-24 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 577,
+      "places": [
+        {
+          "nama_tempat": "Wonderful Indonesia Tourism Fair (WITF) 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "JIExpo Kemayoran, Jakarta",
+          "alasan_viral": "Pameran pariwisata B2B dengan 300+ buyers",
+          "indikasi_waktu": "15-17 Oktober 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 578,
+      "places": [
+        {
+          "nama_tempat": "Pulau Tidung",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Administrasi Kepulauan Seribu, DKI Jakarta",
+          "alasan_viral": "Pengembangan wisata, mural Wall of Jakarta 2026, pasar kreatif",
+          "indikasi_waktu": "25 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 579,
+      "places": [
+        {
+          "nama_tempat": "Wonderful Indonesia Tourism Fair (WITF) 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Grand Ballroom JIExpo Kemayoran, Jakarta",
+          "alasan_viral": "Pameran pariwisata B2B tahun ketiga",
+          "indikasi_waktu": "15-17 Oktober 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 580,
+      "places": [
+        {
+          "nama_tempat": "Wonderful Indonesia Tourism Fair (WITF) 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Pameran pariwisata B2B target 300 buyers dari 35 negara",
+          "indikasi_waktu": "15-17 Oktober 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 581,
+      "places": []
+    },
+    {
+      "article_id": 582,
+      "places": [
+        {
+          "nama_tempat": "Ancol",
+          "kategori": "Wahana",
+          "lokasi_text": "Jakarta Utara",
+          "alasan_viral": "Tiket masuk kawasan gratis HUT Jakarta ke-499",
+          "indikasi_waktu": "22, 27, 28 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Taman Margasatwa Ragunan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jakarta Selatan",
+          "alasan_viral": "Masuk gratis HUT Jakarta ke-499",
+          "indikasi_waktu": "22, 27, 28 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Museum Sejarah Jakarta",
+          "kategori": "Museum",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Gratis HUT Jakarta ke-499",
+          "indikasi_waktu": "22, 27, 28 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Museum Taman Prasasti",
+          "kategori": "Museum",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Gratis HUT Jakarta ke-499",
+          "indikasi_waktu": "22, 27, 28 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Museum Seni Rupa dan Keramik",
+          "kategori": "Museum",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Gratis HUT Jakarta ke-499",
+          "indikasi_waktu": "22, 27, 28 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Museum Arkeologi Onrust",
+          "kategori": "Museum",
+          "lokasi_text": "Kepulauan Seribu, Jakarta",
+          "alasan_viral": "Gratis HUT Jakarta ke-499",
+          "indikasi_waktu": "22, 27, 28 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Rumah Si Pitung",
+          "kategori": "Museum",
+          "lokasi_text": "Jakarta Utara",
+          "alasan_viral": "Gratis HUT Jakarta ke-499",
+          "indikasi_waktu": "22, 27, 28 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Taman Mini Indonesia Indah (TMII)",
+          "kategori": "Wahana",
+          "lokasi_text": "Jakarta Timur",
+          "alasan_viral": "Diskon 49,9% tiket masuk dan kereta gantung, konser gratis",
+          "indikasi_waktu": "22-28 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 583,
+      "places": [
+        {
+          "nama_tempat": "Kawasan Kota Tua Jakarta",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jakarta Barat",
+          "alasan_viral": "Dikaji pengoperasian trem wisata keliling Kota Tua",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 584,
+      "places": [
+        {
+          "nama_tempat": "Monumen Nasional (Monas)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jakarta Pusat",
+          "alasan_viral": "Gratis HUT Jakarta ke-499",
+          "indikasi_waktu": "22, 27, 28 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Ancol",
+          "kategori": "Wahana",
+          "lokasi_text": "Jakarta Utara",
+          "alasan_viral": "Gratis masuk kawasan HUT Jakarta ke-499",
+          "indikasi_waktu": "22, 27, 28 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Taman Margasatwa Ragunan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jakarta Selatan",
+          "alasan_viral": "Gratis HUT Jakarta ke-499, Ragunan Night Zoo",
+          "indikasi_waktu": "22, 27, 28 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Museum Wayang",
+          "kategori": "Museum",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Gratis HUT Jakarta ke-499",
+          "indikasi_waktu": "22, 27, 28 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Museum Bahari",
+          "kategori": "Museum",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Gratis HUT Jakarta ke-499",
+          "indikasi_waktu": "22, 27, 28 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 585,
+      "places": [
+        {
+          "nama_tempat": "Blok M",
+          "kategori": "lainnya",
+          "lokasi_text": "Jakarta Selatan",
+          "alasan_viral": "Kawasan perdagangan dan hiburan yang viral di media sosial",
+          "indikasi_waktu": "April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Gultik (Gulai Tikungan)",
+          "kategori": "Restoran",
+          "lokasi_text": "Blok M, Jakarta Selatan",
+          "alasan_viral": "Kuliner yang ramai jadi perbincangan di dunia maya",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Taman Mini Indonesia Indah (TMII)",
+          "kategori": "Wahana",
+          "lokasi_text": "Jakarta Timur",
+          "alasan_viral": "Wisata ramah anak ikonik Jakarta Timur",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Museum Fatahillah",
+          "kategori": "Museum",
+          "lokasi_text": "Kota Tua, Jakarta Barat",
+          "alasan_viral": "Magnet wisatawan di Jakarta Barat",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 586,
+      "places": [
+        {
+          "nama_tempat": "Gorong-gorong Jokowi",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jalan MH Thamrin depan Hotel Mandarin Oriental, Menteng, Jakarta Pusat",
+          "alasan_viral": "Viral muncul di Google Maps, disebut destinasi wisata horor Jakarta",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 587,
+      "places": [
+        {
+          "nama_tempat": "Monumen Nasional (Monas)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jakarta Pusat",
+          "alasan_viral": "Akan gratis saat HUT ke-500 Jakarta",
+          "indikasi_waktu": "2027",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Taman Margasatwa Ragunan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jakarta Selatan",
+          "alasan_viral": "Pengunjung melonjak 135.500 saat gratis HUT ke-499",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Ancol",
+          "kategori": "Wahana",
+          "lokasi_text": "Jakarta Utara",
+          "alasan_viral": "Pengunjung melonjak ke 80 ribu saat gratis",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 588,
+      "places": [
+        {
+          "nama_tempat": "Wonderful Indonesia Tourism Fair (WITF) 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Pameran pariwisata dengan 250-300 buyers dari 35 negara",
+          "indikasi_waktu": "15-17 Oktober 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 589,
+      "places": []
+    },
+    {
+      "article_id": 590,
+      "places": []
+    },
+    {
+      "article_id": 591,
+      "places": []
+    },
+    {
+      "article_id": 592,
+      "places": [
+        {
+          "nama_tempat": "Jakarta International Stadium (JIS)",
+          "kategori": "lainnya",
+          "lokasi_text": "Jakarta Utara",
+          "alasan_viral": "Venue sportainment berskala masif",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        },
+        {
+          "nama_tempat": "Taman Ismail Marzuki (TIM)",
+          "kategori": "Museum",
+          "lokasi_text": "Cikini, Jakarta Pusat",
+          "alasan_viral": "Pusat kesenian modern dan edukasi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Lapangan Banteng",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jakarta Pusat",
+          "alasan_viral": "Ruang terbuka untuk festival publik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 593,
+      "places": [
+        {
+          "nama_tempat": "Ancol (Flying Board)",
+          "kategori": "Wahana",
+          "lokasi_text": "Ancol, Jakarta Utara",
+          "alasan_viral": "Wahana flying board di atas laut",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 594,
+      "places": [
+        {
+          "nama_tempat": "M Bloc Space",
+          "kategori": "lainnya",
+          "lokasi_text": "Jl. Panglima Polim No. 37, Melawai, Jakarta Selatan",
+          "alasan_viral": "Bekas percetakan uang jadi kiblat kultur anak muda",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Pos Bloc",
+          "kategori": "lainnya",
+          "lokasi_text": "Jl. Pos No. 2, Pasar Baru, Jakarta Pusat",
+          "alasan_viral": "Gedung Filateli jadi pusat produk lokal estetik",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Taman Ismail Marzuki (TIM)",
+          "kategori": "Museum",
+          "lokasi_text": "Jl. Cikini Raya No. 73, Menteng, Jakarta Pusat",
+          "alasan_viral": "Pusat seni dengan Planetarium dan Perpustakaan Jakarta",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 595,
+      "places": [
+        {
+          "nama_tempat": "Mall Grand Indonesia",
+          "kategori": "lainnya",
+          "lokasi_text": "Jakarta Pusat",
+          "alasan_viral": "Belanja batik nusantara",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 596,
+      "places": [
+        {
+          "nama_tempat": "Rustic Market (Valley Market)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Sentul, Bogor",
+          "alasan_viral": "Destinasi viral bernuansa pedesaan Eropa",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 597,
+      "places": [
+        {
+          "nama_tempat": "Ancol",
+          "kategori": "Wahana",
+          "lokasi_text": "Jakarta Utara",
+          "alasan_viral": "Dikaji gratis masuk untuk HUT ke-499 Jakarta",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "Taman Margasatwa Ragunan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jakarta Selatan",
+          "alasan_viral": "Dikaji gratis masuk untuk HUT ke-499 Jakarta",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 598,
+      "places": []
+    },
+    {
+      "article_id": 599,
+      "places": []
+    }
+  ]
+}

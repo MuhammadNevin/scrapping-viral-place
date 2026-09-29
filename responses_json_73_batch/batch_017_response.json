@@ -1,0 +1,354 @@
+{
+  "results": [
+    {
+      "article_id": 480,
+      "places": [
+        {
+          "nama_tempat": "Pantai Tanjung Tinggi (Pantai Laskar Pelangi)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Ciput, Kecamatan Sijuk, Kabupaten Belitung, Kepulauan Bangka Belitung",
+          "alasan_viral": "Pasir putih, air tosca, batu granit raksasa, lokasi film Laskar Pelangi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 481,
+      "places": []
+    },
+    {
+      "article_id": 482,
+      "places": []
+    },
+    {
+      "article_id": 483,
+      "places": []
+    },
+    {
+      "article_id": 484,
+      "places": [
+        {
+          "nama_tempat": "Kebun durian Desa Teruk",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Teruk, Kecamatan Sungaiselan, Kabupaten Bangka Tengah",
+          "alasan_viral": "Musim durian jadi magnet wisata, durian mulai Rp3.000",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 485,
+      "places": [
+        {
+          "nama_tempat": "Pantai Tanjung Tinggi",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kecamatan Sijuk, Kabupaten Belitung",
+          "alasan_viral": "Ikon wisata Belitung, batu granit raksasa, lokasi Laskar Pelangi",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Pantai Tanjung Kelayang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kecamatan Sijuk, Kabupaten Belitung",
+          "alasan_viral": "Bagian Geopark Belitong UNESCO, pintu utama island hopping",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 486,
+      "places": [
+        {
+          "nama_tempat": "Festival Memasak Lempah Kuning / Rekor MURI terasi",
+          "kategori": "Pameran",
+          "lokasi_text": "Toboali, Bangka Selatan",
+          "alasan_viral": "Event kuliner pembuatan 300 kg terasi raih rekor MURI",
+          "indikasi_waktu": "26 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 487,
+      "places": []
+    },
+    {
+      "article_id": 488,
+      "places": []
+    },
+    {
+      "article_id": 489,
+      "places": []
+    },
+    {
+      "article_id": 490,
+      "places": []
+    },
+    {
+      "article_id": 491,
+      "places": [
+        {
+          "nama_tempat": "Belitung Expo 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Pantai Wisata Tanjung Pendam, Belitung",
+          "alasan_viral": "Pameran dengan stan layanan dan UMKM",
+          "indikasi_waktu": "1-5 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Pantai Wisata Tanjung Pendam",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Tanjungpandan, Belitung",
+          "alasan_viral": "Lokasi Belitung Expo 2026",
+          "indikasi_waktu": "1-5 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 492,
+      "places": []
+    },
+    {
+      "article_id": 493,
+      "places": []
+    },
+    {
+      "article_id": 494,
+      "places": []
+    },
+    {
+      "article_id": 495,
+      "places": []
+    },
+    {
+      "article_id": 496,
+      "places": []
+    },
+    {
+      "article_id": 497,
+      "places": []
+    },
+    {
+      "article_id": 498,
+      "places": []
+    },
+    {
+      "article_id": 499,
+      "places": [
+        {
+          "nama_tempat": "Pantai Panjang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Bengkulu",
+          "alasan_viral": "Mendapat bantuan lima gazebo gratis untuk wisatawan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 500,
+      "places": [
+        {
+          "nama_tempat": "Gazebo gratis Pantai Panjang (depan Hotel Nala Seaside)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Pantai Panjang, Kota Bengkulu",
+          "alasan_viral": "Viral dugaan pungli parkir oleh oknum di area gazebo gratis (isu negatif)",
+          "indikasi_waktu": "1 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 501,
+      "places": [
+        {
+          "nama_tempat": "Pantai Panjang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Bengkulu",
+          "alasan_viral": "Kawasan wisata yang dipatroli untuk keamanan wisatawan",
+          "indikasi_waktu": "21 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Bengkulu Indah Mall (BIM)",
+          "kategori": "lainnya",
+          "lokasi_text": "Kawasan Pantai Panjang, Kota Bengkulu",
+          "alasan_viral": "Sasaran patroli dialogis",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 502,
+      "places": [
+        {
+          "nama_tempat": "Pantai Panjang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Bengkulu",
+          "alasan_viral": "Ikon wisata Bengkulu, pasir putih 7 km dan sunset",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Pantai Sungai Suci",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bengkulu Tengah",
+          "alasan_viral": "Pulau kecil yang diakses lewat jembatan gantung",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Bukit Kandis",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bengkulu",
+          "alasan_viral": "Panorama perbukitan hijau, lokasi fotografi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Benteng Marlborough",
+          "kategori": "Museum",
+          "lokasi_text": "Kota Bengkulu",
+          "alasan_viral": "Benteng peninggalan Inggris, salah satu terbesar di Asia",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 503,
+      "places": [
+        {
+          "nama_tempat": "Danau Hijau Kepahiang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jalan Ring Road, Desa Taba Tebelet, Kecamatan Kepahiang, Kabupaten Kepahiang, Bengkulu",
+          "alasan_viral": "Viral di media sosial dengan air hijau toska, kunjungan meningkat",
+          "indikasi_waktu": "Beberapa pekan sebelum 9 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 504,
+      "places": [
+        {
+          "nama_tempat": "Pantai Panjang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Bengkulu",
+          "alasan_viral": "Kawasan wisata ramai akhir pekan, dipatroli polisi",
+          "indikasi_waktu": "19 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 505,
+      "places": [
+        {
+          "nama_tempat": "Beta Agrowisata",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Curup, Kabupaten Rejang Lebong, Bengkulu",
+          "alasan_viral": "Viral di medsos berkat hamparan bunga ungu-pink bernuansa pegunungan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        },
+        {
+          "nama_tempat": "Belungguk Point Bengkulu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Bengkulu",
+          "alasan_viral": "Tuai pro kontra warganet",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.45
+        },
+        {
+          "nama_tempat": "Taman Berkas",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Bengkulu",
+          "alasan_viral": "Kawasan wisata yang direvitalisasi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 506,
+      "places": [
+        {
+          "nama_tempat": "Pantai Panjang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Bengkulu",
+          "alasan_viral": "Kawasan wisata yang dipatroli",
+          "indikasi_waktu": "12 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "Pantai Pasir Putih Bengkulu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Bengkulu",
+          "alasan_viral": "Kawasan wisata yang dipatroli",
+          "indikasi_waktu": "12 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 507,
+      "places": [
+        {
+          "nama_tempat": "Pantai Pasir Putih Bengkulu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Bengkulu",
+          "alasan_viral": "Kawasan wisata yang dipatroli",
+          "indikasi_waktu": "11 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Pantai Panjang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Bengkulu",
+          "alasan_viral": "Kawasan wisata yang dipatroli",
+          "indikasi_waktu": "11 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 508,
+      "places": []
+    },
+    {
+      "article_id": 509,
+      "places": []
+    }
+  ]
+}

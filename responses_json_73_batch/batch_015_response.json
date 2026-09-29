@@ -1,0 +1,365 @@
+{
+  "results": [
+    {
+      "article_id": 420,
+      "places": [
+        {
+          "nama_tempat": "Bazar dan Expo MTQ XII Kepri 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Gedung Dekranasda Provinsi Kepri, Jalan Hang Tuah, Tepi Laut (Taman Gurindam 12), Tanjungpinang",
+          "alasan_viral": "Bazar produk unggulan kabupaten/kota se-Kepri",
+          "indikasi_waktu": "4-5 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 421,
+      "places": []
+    },
+    {
+      "article_id": 422,
+      "places": [
+        {
+          "nama_tempat": "Pasar Tos 3000 Batam",
+          "kategori": "lainnya",
+          "lokasi_text": "Batam",
+          "alasan_viral": "Lokasi kasus copet yang viral di media sosial (isu negatif)",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 423,
+      "places": [
+        {
+          "nama_tempat": "Pelantar 3 Tanjungpinang (Dragon Boat Race 2026)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Pelantar 3, Kota Tanjungpinang",
+          "alasan_viral": "Lomba perahu naga tahunan, daya tarik wisata",
+          "indikasi_waktu": "26-28 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 424,
+      "places": [
+        {
+          "nama_tempat": "Festival Kopi Merdeka 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Jalan Merdeka, Kawasan Kota Lama, Tanjungpinang",
+          "alasan_viral": "Festival kopi dihadiri puluhan ribu warga, event based tourism",
+          "indikasi_waktu": "20-24 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 425,
+      "places": []
+    },
+    {
+      "article_id": 426,
+      "places": [
+        {
+          "nama_tempat": "Festival Kopi Merdeka 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Jalan Merdeka, Kota Lama, Tanjungpinang",
+          "alasan_viral": "Festival dengan 241 stan UMKM dan atraksi budaya",
+          "indikasi_waktu": "20-24 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 427,
+      "places": []
+    },
+    {
+      "article_id": 428,
+      "places": []
+    },
+    {
+      "article_id": 429,
+      "places": []
+    },
+    {
+      "article_id": 430,
+      "places": [
+        {
+          "nama_tempat": "Teras Nyai",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Layang-Layang Nomor 67, dekat Tugu Tari Sekapur Sirih The Hok, Kota Jambi",
+          "alasan_viral": "Rumah makan hidden gem khas Melayu Jambi yang tengah jadi perhatian pecinta kuliner, olahan tempoyak",
+          "indikasi_waktu": "First anniversary 1 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 431,
+      "places": [
+        {
+          "nama_tempat": "Wisata Kuliner Kota Tua Jambi",
+          "kategori": "lainnya",
+          "lokasi_text": "Area depan Hotel Duta Jambi, Jl. Sultan Thaha, Kecamatan Pasar, Kota Jambi",
+          "alasan_viral": "Pusat kuliner malam baru yang diluncurkan Pemkot",
+          "indikasi_waktu": "2 April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 432,
+      "places": []
+    },
+    {
+      "article_id": 433,
+      "places": [
+        {
+          "nama_tempat": "Masjid Agung Al-Falah (Masjid Seribu Tiang)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Jambi",
+          "alasan_viral": "Ikon wisata religi dengan arsitektur unik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Candi Muaro Jambi",
+          "kategori": "Museum",
+          "lokasi_text": "Muaro Jambi",
+          "alasan_viral": "Kompleks percandian Buddha terbesar di Asia Tenggara",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Makam Sultan Thaha Syaifuddin",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jambi",
+          "alasan_viral": "Tujuan ziarah pahlawan nasional",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Menara Gentala Arasy",
+          "kategori": "Museum",
+          "lokasi_text": "Kota Jambi",
+          "alasan_viral": "Menara dengan museum perkembangan Islam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 434,
+      "places": [
+        {
+          "nama_tempat": "Candi Muaro Jambi",
+          "kategori": "Museum",
+          "lokasi_text": "Muaro Jambi",
+          "alasan_viral": "Kompleks candi Buddha terbesar di Asia Tenggara",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Danau Kaco",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Taman Nasional Kerinci Seblat, Jambi",
+          "alasan_viral": "Air biru kristal yang tampak bercahaya",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Danau Gunung Tujuh",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kerinci, Jambi",
+          "alasan_viral": "Danau vulkanik tertinggi di Asia Tenggara",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Geopark Merangin",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Merangin, Jambi",
+          "alasan_viral": "Fosil tumbuhan purba, arung jeram",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 435,
+      "places": [
+        {
+          "nama_tempat": "Kampung Batik Ulu Gedong",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kelurahan Ulu Gedong, Kecamatan Danau Teluk, Kota Jambi",
+          "alasan_viral": "Diproyeksikan jadi ikon wisata budaya Melayu",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 436,
+      "places": [
+        {
+          "nama_tempat": "Kawasan Wisata Kota Tua Jambi",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kecamatan Pasar, Kota Jambi",
+          "alasan_viral": "Grand opening kawasan wisata sejarah, kuliner, dan UMKM",
+          "indikasi_waktu": "3 April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Masjid Margasari",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Tua, Kota Jambi",
+          "alasan_viral": "Pusat area wisata religi Kota Tua",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 437,
+      "places": [
+        {
+          "nama_tempat": "Museum Sriwijaya Dharmakirti",
+          "kategori": "Museum",
+          "lokasi_text": "Kawasan Cagar Budaya Nasional (KCBN) Muaro Jambi",
+          "alasan_viral": "Museum baru dengan wahana imersif, resmi dibuka untuk umum",
+          "indikasi_waktu": "29 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 438,
+      "places": [
+        {
+          "nama_tempat": "Museum Sriwijaya Dharmakirti",
+          "kategori": "Museum",
+          "lokasi_text": "Kawasan Cagar Budaya Nasional Muaro Jambi",
+          "alasan_viral": "Diresmikan Menteri Kebudayaan Fadli Zon",
+          "indikasi_waktu": "31 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 439,
+      "places": []
+    },
+    {
+      "article_id": 440,
+      "places": [
+        {
+          "nama_tempat": "Candi Muaro Jambi",
+          "kategori": "Museum",
+          "lokasi_text": "Muaro Jambi",
+          "alasan_viral": "Kawasan cagar budaya tercemar debu stockpile batu bara (isu negatif)",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Museum Bioskop Tempoa",
+          "kategori": "Museum",
+          "lokasi_text": "Jambi",
+          "alasan_viral": "Dikunjungi Menteri Kebudayaan",
+          "indikasi_waktu": "31 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Museum Sriwijaya Dharmakirti",
+          "kategori": "Museum",
+          "lokasi_text": "Kawasan Candi Muaro Jambi",
+          "alasan_viral": "Diresmikan Menteri Kebudayaan",
+          "indikasi_waktu": "31 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 441,
+      "places": [
+        {
+          "nama_tempat": "Museum Sriwijaya Dharmakirti",
+          "kategori": "Museum",
+          "lokasi_text": "Kabupaten Muaro Jambi",
+          "alasan_viral": "Lokasi High Level Meeting TP2DD, dinilai setara Borobudur",
+          "indikasi_waktu": "4 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 442,
+      "places": []
+    },
+    {
+      "article_id": 443,
+      "places": []
+    },
+    {
+      "article_id": 444,
+      "places": []
+    },
+    {
+      "article_id": 445,
+      "places": []
+    },
+    {
+      "article_id": 446,
+      "places": []
+    },
+    {
+      "article_id": 447,
+      "places": []
+    },
+    {
+      "article_id": 448,
+      "places": []
+    },
+    {
+      "article_id": 449,
+      "places": [
+        {
+          "nama_tempat": "Festival Budaya Baselang Ka Umo 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "RT 10, Kelurahan Olak Kemang, Kecamatan Danau Teluk, Kota Jambi",
+          "alasan_viral": "Festival budaya pertanian tradisional",
+          "indikasi_waktu": "30 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    }
+  ]
+}

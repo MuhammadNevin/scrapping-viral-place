@@ -1,0 +1,221 @@
+{
+  "results": [
+    {
+      "article_id": 540,
+      "places": []
+    },
+    {
+      "article_id": 541,
+      "places": []
+    },
+    {
+      "article_id": 542,
+      "places": [
+        {
+          "nama_tempat": "Plaza Bandar Jaya",
+          "kategori": "lainnya",
+          "lokasi_text": "Kabupaten Lampung Tengah",
+          "alasan_viral": "Viral CCTV wanita BAB di depan ruko (isu negatif)",
+          "indikasi_waktu": "4 Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 543,
+      "places": []
+    },
+    {
+      "article_id": 544,
+      "places": []
+    },
+    {
+      "article_id": 545,
+      "places": []
+    },
+    {
+      "article_id": 546,
+      "places": []
+    },
+    {
+      "article_id": 547,
+      "places": []
+    },
+    {
+      "article_id": 548,
+      "places": []
+    },
+    {
+      "article_id": 549,
+      "places": []
+    },
+    {
+      "article_id": 550,
+      "places": []
+    },
+    {
+      "article_id": 551,
+      "places": []
+    },
+    {
+      "article_id": 552,
+      "places": []
+    },
+    {
+      "article_id": 553,
+      "places": []
+    },
+    {
+      "article_id": 554,
+      "places": []
+    },
+    {
+      "article_id": 555,
+      "places": []
+    },
+    {
+      "article_id": 556,
+      "places": []
+    },
+    {
+      "article_id": 557,
+      "places": [
+        {
+          "nama_tempat": "Pasar Lama Kotabumi",
+          "kategori": "lainnya",
+          "lokasi_text": "Kelurahan Kotabumi Pasar, Lampung Utara",
+          "alasan_viral": "Lokasi aksi curanmor yang viral karena melepaskan tembakan (isu negatif)",
+          "indikasi_waktu": "13 Maret 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.3
+        }
+      ]
+    },
+    {
+      "article_id": 558,
+      "places": []
+    },
+    {
+      "article_id": 559,
+      "places": [
+        {
+          "nama_tempat": "Tanggamus Expo 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Lapangan Tangsi, Talang Padang, Tanggamus",
+          "alasan_viral": "Expo promosi UMKM; jalan rusak di Pasar Talang Padang disindir warganet",
+          "indikasi_waktu": "6-10 April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 560,
+      "places": [
+        {
+          "nama_tempat": "Bazar dan Pasar Rakyat Hari Bhayangkara ke-80",
+          "kategori": "Pameran",
+          "lokasi_text": "Lapangan Polda Lampung",
+          "alasan_viral": "Bazar UMKM, pasar rakyat, dan bakti sosial",
+          "indikasi_waktu": "19 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 561,
+      "places": []
+    },
+    {
+      "article_id": 562,
+      "places": []
+    },
+    {
+      "article_id": 563,
+      "places": []
+    },
+    {
+      "article_id": 564,
+      "places": []
+    },
+    {
+      "article_id": 565,
+      "places": []
+    },
+    {
+      "article_id": 566,
+      "places": []
+    },
+    {
+      "article_id": 567,
+      "places": [
+        {
+          "nama_tempat": "Roadshow Kuliner Viral Indonesia",
+          "kategori": "Pameran",
+          "lokasi_text": "Lampung City Mall, Bandar Lampung",
+          "alasan_viral": "Festival kuliner tenant makanan dan minuman viral",
+          "indikasi_waktu": "2-12 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Expo Tanggamus",
+          "kategori": "Pameran",
+          "lokasi_text": "Lapangan Tangsi Talang Padang, Tanggamus",
+          "alasan_viral": "Festival kuliner, bazar UMKM, launching kain Tappan",
+          "indikasi_waktu": "6-10 April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Rio By The Beach",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Lampung Selatan",
+          "alasan_viral": "Lokasi event Pesta Lyric",
+          "indikasi_waktu": "11 April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 568,
+      "places": [
+        {
+          "nama_tempat": "Blok M Dessert Week",
+          "kategori": "Pameran",
+          "lokasi_text": "Lampung",
+          "alasan_viral": "Event 300+ dessert dan jajanan viral khas Blok M",
+          "indikasi_waktu": "24 April - 10 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 569,
+      "places": [
+        {
+          "nama_tempat": "Festival Krakatau XXXV",
+          "kategori": "Pameran",
+          "lokasi_text": "Lampung",
+          "alasan_viral": "Festival pariwisata Lampung",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "El's Coffee Roastery",
+          "kategori": "Kafe",
+          "lokasi_text": "Bandar Lampung",
+          "alasan_viral": "Lokasi press conference Festival Krakatau",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        }
+      ]
+    }
+  ]
+}

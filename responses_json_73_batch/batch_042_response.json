@@ -1,0 +1,204 @@
+{
+  "results": [
+    {
+      "article_id": 1230,
+      "places": []
+    },
+    {
+      "article_id": 1231,
+      "places": [
+        {
+          "nama_tempat": "Festival Samosir Music International (SMI) 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Kabupaten Samosir, Danau Toba",
+          "alasan_viral": "Festival musik, budaya, dan pemberdayaan masyarakat masuk Karisma Event Nusantara",
+          "indikasi_waktu": "2-4 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1232,
+      "places": []
+    },
+    {
+      "article_id": 1233,
+      "places": []
+    },
+    {
+      "article_id": 1234,
+      "places": []
+    },
+    {
+      "article_id": 1235,
+      "places": []
+    },
+    {
+      "article_id": 1236,
+      "places": []
+    },
+    {
+      "article_id": 1237,
+      "places": []
+    },
+    {
+      "article_id": 1238,
+      "places": []
+    },
+    {
+      "article_id": 1239,
+      "places": []
+    },
+    {
+      "article_id": 1240,
+      "places": []
+    },
+    {
+      "article_id": 1241,
+      "places": [
+        {
+          "nama_tempat": "AZKO Timika",
+          "kategori": "lainnya",
+          "lokasi_text": "Kabupaten Mimika, Papua Tengah",
+          "alasan_viral": "Grand opening toko ritel perlengkapan rumah pertama di Mimika",
+          "indikasi_waktu": "28 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1242,
+      "places": []
+    },
+    {
+      "article_id": 1243,
+      "places": []
+    },
+    {
+      "article_id": 1244,
+      "places": [
+        {
+          "nama_tempat": "Kawasan pertokoan Pasar Baru",
+          "kategori": "lainnya",
+          "lokasi_text": "Sawah Besar, Jakarta Pusat",
+          "alasan_viral": "Viral video asap hitam keluar dari tanah akibat gardu listrik korslet (isu negatif)",
+          "indikasi_waktu": "6 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1245,
+      "places": []
+    },
+    {
+      "article_id": 1246,
+      "places": []
+    },
+    {
+      "article_id": 1247,
+      "places": [
+        {
+          "nama_tempat": "Pasar Lama Sentani",
+          "kategori": "lainnya",
+          "lokasi_text": "Sentani, Kabupaten Jayapura",
+          "alasan_viral": "Pedagang protes hamburkan sampah ke jalan karena tak diangkut (isu negatif)",
+          "indikasi_waktu": "16 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 1248,
+      "places": []
+    },
+    {
+      "article_id": 1249,
+      "places": []
+    },
+    {
+      "article_id": 1250,
+      "places": []
+    },
+    {
+      "article_id": 1251,
+      "places": []
+    },
+    {
+      "article_id": 1252,
+      "places": []
+    },
+    {
+      "article_id": 1253,
+      "places": []
+    },
+    {
+      "article_id": 1254,
+      "places": [
+        {
+          "nama_tempat": "Kafe Mulo",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Budi Utomo, Timika",
+          "alasan_viral": "Menggelar kompetisi Manual Brew Throw Down Battle 3",
+          "indikasi_waktu": "28 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1255,
+      "places": [
+        {
+          "nama_tempat": "Stone Garden",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Gunungmasigit, Kecamatan Cipatat, Bandung Barat",
+          "alasan_viral": "Area parkir objek wisata jadi lokasi Koperasi Merah Putih yang viral",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1256,
+      "places": []
+    },
+    {
+      "article_id": 1257,
+      "places": [
+        {
+          "nama_tempat": "Gunung Ungaran",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Semarang, Jawa Tengah",
+          "alasan_viral": "Viral balita hipotermia saat dibawa mendaki ke Puncak Bondolan (isu negatif)",
+          "indikasi_waktu": "11 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1258,
+      "places": [
+        {
+          "nama_tempat": "Timika Inside Festival of Art (TIFA) VI 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Pelataran Gedung Eme Neme Yauware, Mimika",
+          "alasan_viral": "Festival seni budaya dan UMKM dengan ribuan pengunjung",
+          "indikasi_waktu": "2-4 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1259,
+      "places": []
+    }
+  ]
+}

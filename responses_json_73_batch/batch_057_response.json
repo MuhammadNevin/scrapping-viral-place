@@ -1,0 +1,317 @@
+{
+  "results": [
+    {
+      "article_id": 1680,
+      "places": []
+    },
+    {
+      "article_id": 1681,
+      "places": []
+    },
+    {
+      "article_id": 1682,
+      "places": []
+    },
+    {
+      "article_id": 1683,
+      "places": []
+    },
+    {
+      "article_id": 1684,
+      "places": []
+    },
+    {
+      "article_id": 1685,
+      "places": [
+        {
+          "nama_tempat": "Festival Warisan Rasa Asia",
+          "kategori": "Pameran",
+          "lokasi_text": "Phinisi Point Mall (PIPO), Makassar",
+          "alasan_viral": "Festival kuliner legendaris dan sajian viral Nusantara dan Asia, dimeriahkan SMASH",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1686,
+      "places": []
+    },
+    {
+      "article_id": 1687,
+      "places": [
+        {
+          "nama_tempat": "Bakso Bioskop Lamo",
+          "kategori": "Restoran",
+          "lokasi_text": "Kertapati, Palembang",
+          "alasan_viral": "Kembali dipadati pengunjung setelah viral di media sosial, bakso legendaris sejak 1987 harga terjangkau",
+          "indikasi_waktu": "12 Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 1688,
+      "places": [
+        {
+          "nama_tempat": "Rumah Makan Pagi Sore",
+          "kategori": "Restoran",
+          "lokasi_text": "Palembang",
+          "alasan_viral": "Viral diboikot turis Malaysia usai rombongan dituduh belum bayar tagihan (isu negatif)",
+          "indikasi_waktu": "20 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1689,
+      "places": [
+        {
+          "nama_tempat": "Jembatan Ampera",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Palembang",
+          "alasan_viral": "Ikon kota dengan panorama Sungai Musi, spot favorit berburu foto",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1690,
+      "places": [
+        {
+          "nama_tempat": "Jembatan Ampera",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Palembang",
+          "alasan_viral": "Tren London Bridge Palembang ramai diperbincangkan di media sosial, jadi latar konten malam anak muda",
+          "indikasi_waktu": "9 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 1691,
+      "places": [
+        {
+          "nama_tempat": "Jembatan Ampera",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Palembang",
+          "alasan_viral": "Ikon kota, spot favorit menikmati panorama Sungai Musi saat sore hingga malam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Masjid Agung Sultan Mahmud Badaruddin I",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Palembang",
+          "alasan_viral": "Bangunan bersejarah perpaduan Melayu, Tionghoa dan Eropa untuk wisata edukasi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Kompleks Pemakaman Kawah Tekurep",
+          "kategori": "Museum",
+          "lokasi_text": "Kota Palembang",
+          "alasan_viral": "Wisata sejarah makam tokoh Kesultanan Palembang Darussalam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Kampung Kapitan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Palembang",
+          "alasan_viral": "Kampung wisata budaya jejak komunitas Tionghoa di tepi Sungai Musi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1692,
+      "places": []
+    },
+    {
+      "article_id": 1693,
+      "places": [
+        {
+          "nama_tempat": "Punti Kayu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jl. Kolonel Haji Burlian Km 6,5, Kecamatan Sukarami, Palembang",
+          "alasan_viral": "Hutan pinus 50 hektare di tengah kota untuk piknik keluarga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Bukit Siguntang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kelurahan Bukit Lama, Kecamatan Ilir Barat II, Kota Palembang",
+          "alasan_viral": "Titik tertinggi Palembang, wisata alam sekaligus situs sejarah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1694,
+      "places": [
+        {
+          "nama_tempat": "Benteng Kuto Besak",
+          "kategori": "Museum",
+          "lokasi_text": "Kota Palembang",
+          "alasan_viral": "Cagar budaya tepian Sungai Musi yang direvitalisasi, destinasi wisata sejarah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "Ampera Walk",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Palembang",
+          "alasan_viral": "Kawasan wisata tepi Sungai Musi yang fotogenik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1695,
+      "places": []
+    },
+    {
+      "article_id": 1696,
+      "places": [
+        {
+          "nama_tempat": "Kambang Iwak",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jalan Tasik, Talang Semut, Kecamatan Bukit Kecil, Palembang",
+          "alasan_viral": "Dipadati pengunjung saat libur sekolah, ada wahana anak memberi makan kelinci, playground dan kuliner UMKM",
+          "indikasi_waktu": "5 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1697,
+      "places": []
+    },
+    {
+      "article_id": 1698,
+      "places": [
+        {
+          "nama_tempat": "Kisah Baru Cabin",
+          "kategori": "Kafe",
+          "lokasi_text": "Jakabaring Sport City, Palembang",
+          "alasan_viral": "Kafe konsep rumah kabin di tepi Danau Jakabaring, pengunjung bertambah setelah viral di media sosial",
+          "indikasi_waktu": "Sejak April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 1699,
+      "places": []
+    },
+    {
+      "article_id": 1700,
+      "places": [
+        {
+          "nama_tempat": "Jembatan Ampera",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Palembang",
+          "alasan_viral": "Ditetapkan sebagai Cagar Budaya Peringkat Nasional",
+          "indikasi_waktu": "2 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Masjid Agung Sultan Mahmud Badaruddin Jayo Wikramo",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Palembang",
+          "alasan_viral": "Ditetapkan sebagai Cagar Budaya Peringkat Nasional",
+          "indikasi_waktu": "2 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Museum Sultan Mahmud Badaruddin II",
+          "kategori": "Museum",
+          "lokasi_text": "Kota Palembang",
+          "alasan_viral": "Ditetapkan sebagai Cagar Budaya Peringkat Nasional",
+          "indikasi_waktu": "2 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1701,
+      "places": [
+        {
+          "nama_tempat": "Museum Sultan Mahmud Badaruddin II",
+          "kategori": "Museum",
+          "lokasi_text": "Kota Palembang",
+          "alasan_viral": "Pelataran museum jadi panggung kolosal ribuan penari perayaan Hari Tari Sedunia",
+          "indikasi_waktu": "29 April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1702,
+      "places": []
+    },
+    {
+      "article_id": 1703,
+      "places": []
+    },
+    {
+      "article_id": 1704,
+      "places": []
+    },
+    {
+      "article_id": 1705,
+      "places": []
+    },
+    {
+      "article_id": 1706,
+      "places": []
+    },
+    {
+      "article_id": 1707,
+      "places": [
+        {
+          "nama_tempat": "Pasaraya Bandung",
+          "kategori": "lainnya",
+          "lokasi_text": "16 Ilir, Palembang",
+          "alasan_viral": "Video TikTok kondisi terkini eks Sumatera Shopping Center memancing nostalgia warganet, kini sepi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1708,
+      "places": []
+    },
+    {
+      "article_id": 1709,
+      "places": []
+    }
+  ]
+}

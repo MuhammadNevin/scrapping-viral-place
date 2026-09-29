@@ -1,0 +1,467 @@
+{
+  "results": [
+    {
+      "article_id": 630,
+      "places": []
+    },
+    {
+      "article_id": 631,
+      "places": []
+    },
+    {
+      "article_id": 632,
+      "places": []
+    },
+    {
+      "article_id": 633,
+      "places": []
+    },
+    {
+      "article_id": 634,
+      "places": []
+    },
+    {
+      "article_id": 635,
+      "places": []
+    },
+    {
+      "article_id": 636,
+      "places": [
+        {
+          "nama_tempat": "Pasar Ciputat",
+          "kategori": "lainnya",
+          "lokasi_text": "Ciputat, Tangerang Selatan",
+          "alasan_viral": "Kebakaran ruko pasar viral di media sosial (isu negatif)",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 637,
+      "places": []
+    },
+    {
+      "article_id": 638,
+      "places": [
+        {
+          "nama_tempat": "Jembatan Merah Putih Presisi",
+          "kategori": "lainnya",
+          "lokasi_text": "Kampung Ilat, Desa Pangadegan, Kecamatan Pasar Kemis, Kabupaten Tangerang",
+          "alasan_viral": "Jembatan yang robohnya sempat viral kini dibangun ulang Polda Banten",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.3
+        }
+      ]
+    },
+    {
+      "article_id": 639,
+      "places": [
+        {
+          "nama_tempat": "Shafara X Digiwara Festival 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Bintaro Jaya Xchange, Tangerang Selatan",
+          "alasan_viral": "Festival ekonomi syariah dan digital dengan booth UMKM",
+          "indikasi_waktu": "22-24 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 640,
+      "places": []
+    },
+    {
+      "article_id": 641,
+      "places": [
+        {
+          "nama_tempat": "Shafara X Digiwara Festival 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Bintaro Jaya XChange Mall, Kota Tangerang Selatan",
+          "alasan_viral": "Festival gabungan ekonomi syariah dan digital pertama kali",
+          "indikasi_waktu": "22 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 642,
+      "places": []
+    },
+    {
+      "article_id": 643,
+      "places": [
+        {
+          "nama_tempat": "Bengkel Koewe",
+          "kategori": "Kafe",
+          "lokasi_text": "Kencana Loka, BSD, Tangerang Selatan",
+          "alasan_viral": "Usaha rumahan ice cream cake slice yang viral menjelang Lebaran 2026",
+          "indikasi_waktu": "Menjelang Lebaran 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 644,
+      "places": [
+        {
+          "nama_tempat": "Ayam Goreng Kalibogor",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Yos Sudarso No.34, Rejasari, Purwokerto Barat, Banyumas",
+          "alasan_viral": "Rumah makan ayam goreng kampung legendaris",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Ayam Goreng Tantene",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Raya Beji Karangsalam, Kedungbanteng, Banyumas",
+          "alasan_viral": "Ayam goreng legendaris dengan view sawah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Ayam Goreng Kaliandra",
+          "kategori": "Restoran",
+          "lokasi_text": "Purwokerto, Banyumas",
+          "alasan_viral": "Rumah makan ayam goreng favorit warga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 645,
+      "places": [
+        {
+          "nama_tempat": "Toko Oen",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Pemuda Nomor 52, Semarang",
+          "alasan_viral": "Kuliner legendaris sejak 1936, es krim klasik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Lumpia Mbak Lien",
+          "kategori": "Restoran",
+          "lokasi_text": "Semarang",
+          "alasan_viral": "Lumpia legendaris sejak 1930-an",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 646,
+      "places": [
+        {
+          "nama_tempat": "Sate Bumbon H. Rochmad",
+          "kategori": "Restoran",
+          "lokasi_text": "Depan exit tol Kendal, Sureman, Margomulyo, Kec. Pegandon, Kabupaten Kendal",
+          "alasan_viral": "Pelopor sate bumbon sejak 1985",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Aldila Resto",
+          "kategori": "Restoran",
+          "lokasi_text": "Kabupaten Kendal",
+          "alasan_viral": "Tempat makan murah nyaman untuk keluarga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 647,
+      "places": [
+        {
+          "nama_tempat": "Selat Solo Mbak Lies",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Yudhistira No.9, Serengan, Kota Surakarta",
+          "alasan_viral": "Restoran selat Solo legendaris sejak 1987",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Soto Gading",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Brigjen Sudiarto No.75, Joyosuran, Pasar Kliwon, Kota Surakarta",
+          "alasan_viral": "Soto legendaris sejak 1974 langganan Jokowi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Es Dawet Telasih Bu Dermi",
+          "kategori": "Restoran",
+          "lokasi_text": "Solo",
+          "alasan_viral": "Dawet legendaris sejak 1930",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 648,
+      "places": []
+    },
+    {
+      "article_id": 649,
+      "places": [
+        {
+          "nama_tempat": "Nasi Babat Kampung Malang",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Kedungsari No.27, Wonorejo, Tegalsari, Surabaya",
+          "alasan_viral": "Kuliner malam legendaris yang selalu ramai",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Penyetan Bang Ali Simpang Darmo",
+          "kategori": "Restoran",
+          "lokasi_text": "Simpang Darmo, Surabaya",
+          "alasan_viral": "Penyetan dengan sambal pedas",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 650,
+      "places": [
+        {
+          "nama_tempat": "Mie Ayam Pangsit H. Batong",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan H. Batong I No.89, Cilandak Barat, Jakarta Selatan",
+          "alasan_viral": "Mie ayam sejak 1978",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 651,
+      "places": [
+        {
+          "nama_tempat": "Mie Ayam dan Bakso Worth It",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Awan, Jebres, Surakarta",
+          "alasan_viral": "Masuk rekomendasi mie ayam viral di Solo, topping mozzarella dan chili oil",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Mie Ayam Kita Solo",
+          "kategori": "Restoran",
+          "lokasi_text": "Solo",
+          "alasan_viral": "Viral karena kuahnya yang manis medok dan kental",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 652,
+      "places": [
+        {
+          "nama_tempat": "Truntum Gasblock Borobudur",
+          "kategori": "Restoran",
+          "lokasi_text": "Bumen Djelapan, Karangrejo, Kec. Borobudur, Kabupaten Magelang",
+          "alasan_viral": "Restoran di tengah hamparan jagung dan pepohonan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Puunee Borobudur",
+          "kategori": "Restoran",
+          "lokasi_text": "Sikepan, Mendut, Kec. Mungkid, Kabupaten Magelang",
+          "alasan_viral": "Restoran tepi sungai",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "FAy Garden (Saung Makan Bu Empat)",
+          "kategori": "Restoran",
+          "lokasi_text": "Ngrajek, Kec. Borobudur, Kabupaten Magelang",
+          "alasan_viral": "Restoran bernuansa alam dengan perahu",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 653,
+      "places": [
+        {
+          "nama_tempat": "Nasi Liwet Keprabon",
+          "kategori": "Restoran",
+          "lokasi_text": "Keprabon, Solo",
+          "alasan_viral": "Kuliner malam ikonik sejak 1950",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Timlo Sastro",
+          "kategori": "Restoran",
+          "lokasi_text": "Solo",
+          "alasan_viral": "Timlo khas Solo untuk sarapan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 654,
+      "places": [
+        {
+          "nama_tempat": "Warung Bali Pak Gede",
+          "kategori": "Restoran",
+          "lokasi_text": "Dekat stasiun MRT Haji Nawi, Jakarta Selatan",
+          "alasan_viral": "Nasi campur Bali halal yang ramai diburu",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Waroeng SS",
+          "kategori": "Restoran",
+          "lokasi_text": "Tanjung Duren Utara, Jakarta Barat",
+          "alasan_viral": "Warung dengan 31 pilihan sambal",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 655,
+      "places": [
+        {
+          "nama_tempat": "Kofi Djohar",
+          "kategori": "Kafe",
+          "lokasi_text": "Pasar Johar Baru (Kauman), Semarang Tengah, Kota Semarang",
+          "alasan_viral": "Kedai kopi populer di Pasar Johar",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Sate Kambing Bu Amini",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Johar Tengah lantai 2, Kauman, Semarang",
+          "alasan_viral": "Sate kambing legendaris",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Es Gempol Kencono",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Johar, Semarang",
+          "alasan_viral": "Minuman tradisional es gempol",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 656,
+      "places": [
+        {
+          "nama_tempat": "Warung Kondre",
+          "kategori": "Restoran",
+          "lokasi_text": "Ciputat, Tangerang Selatan",
+          "alasan_viral": "Warung nuansa rumah Jawa milik Andre Taulany",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Warung Tuman",
+          "kategori": "Restoran",
+          "lokasi_text": "BSD, Tangerang",
+          "alasan_viral": "Viral karena konsep tradisional tersembunyi dengan menu Minang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 657,
+      "places": [
+        {
+          "nama_tempat": "EloProgo",
+          "kategori": "Kafe",
+          "lokasi_text": "Dusun 1, Wanurejo, Kec. Borobudur, Kabupaten Magelang",
+          "alasan_viral": "Kafe populer dengan galeri seni di tepi sungai",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "FAy Garden (Saung Makan Bu Empat)",
+          "kategori": "Kafe",
+          "lokasi_text": "Ngrajek II, Ngrajek, Kec. Borobudur, Kabupaten Magelang",
+          "alasan_viral": "Kafe alam dengan wahana perahu",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Melek Huruf",
+          "kategori": "Kafe",
+          "lokasi_text": "Magelang",
+          "alasan_viral": "Library cafe",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 658,
+      "places": []
+    },
+    {
+      "article_id": 659,
+      "places": [
+        {
+          "nama_tempat": "Mie dan Babi Tepi Sawah",
+          "kategori": "Restoran",
+          "lokasi_text": "Sukoharjo, Jawa Tengah",
+          "alasan_viral": "Viral video akses jalan warung ditutup tumpukan tanah dan penolakan warga (isu negatif)",
+          "indikasi_waktu": "16 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,490 @@
+{
+  "results": [
+    {
+      "article_id": 1350,
+      "places": [
+        {
+          "nama_tempat": "Senju Omakase",
+          "kategori": "Restoran",
+          "lokasi_text": "Plaza Indonesia, Jakarta Pusat",
+          "alasan_viral": "Restoran omakase mewah dengan bahan laut musiman dan wagyu Miyazaki",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Asuka Japanese Dining",
+          "kategori": "Restoran",
+          "lokasi_text": "JW Marriott Mega Kuningan, Jakarta Selatan",
+          "alasan_viral": "Restoran sushi dan sashimi otentik dengan bahan dari Jepang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Tatemukai Signature",
+          "kategori": "Restoran",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Restoran fine dining Jepang mewah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1351,
+      "places": [
+        {
+          "nama_tempat": "Bubur Ayam Cikini H.R. Sulaiman",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Cisadane, dekat Stasiun Cikini, Jakarta Pusat",
+          "alasan_viral": "Bubur ayam legendaris sejak 1970-an",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Restoran Trio",
+          "kategori": "Restoran",
+          "lokasi_text": "Cikini, Jakarta Pusat",
+          "alasan_viral": "Rumah makan legendaris yang selalu ramai di jam makan siang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1352,
+      "places": [
+        {
+          "nama_tempat": "Restoran Trio",
+          "kategori": "Restoran",
+          "lokasi_text": "Menteng, Jakarta Pusat",
+          "alasan_viral": "Restoran China Kanton legendaris sejak 1947, langganan Ali Sadikin",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Restoran Eka Ria",
+          "kategori": "Restoran",
+          "lokasi_text": "Jakarta Pusat",
+          "alasan_viral": "Restoran China Kanton peranakan legendaris sejak 1925 dengan ruang dansa",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Wong Fu Kie",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Perniagaan Timur, Jakarta",
+          "alasan_viral": "Restoran Chinese food legendaris dalam gang yang selalu ramai",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1353,
+      "places": [
+        {
+          "nama_tempat": "RM Pondok Djaja",
+          "kategori": "Restoran",
+          "lokasi_text": "Gambir, Jakarta Pusat",
+          "alasan_viral": "Rumah makan Padang legendaris sejak 1969 dengan juru masak tak pernah berganti",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Minang Tempo Doeloe",
+          "kategori": "Restoran",
+          "lokasi_text": "PIK, Jakarta Utara",
+          "alasan_viral": "Rumah makan Minang modern yang jarang terekspos",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "RM Padang Telaga Sari",
+          "kategori": "Restoran",
+          "lokasi_text": "Depok",
+          "alasan_viral": "Rumah makan Padang favorit dengan lauk lengkap dan bumbu medok",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1354,
+      "places": [
+        {
+          "nama_tempat": "Natrabu Minang Restaurant",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. H. Agus Salim, Kebon Sirih, Menteng, Jakarta Pusat",
+          "alasan_viral": "Restoran Padang tertua sejak 1958 bergaya rumah gadang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "RM Surya",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Bendungan Hilir No. 5, Tanah Abang, Jakarta Pusat",
+          "alasan_viral": "Rumah makan Padang sejak 1960, pernah dicicipi Anthony Bourdain dan NCT Wish",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "RM Sepakat",
+          "kategori": "Restoran",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Rumah makan Padang legendaris sejak 1967 terkenal dengan gulai gajebo",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1355,
+      "places": [
+        {
+          "nama_tempat": "Gultik Pakde Lamandau",
+          "kategori": "Restoran",
+          "lokasi_text": "Lamandau III No. 23-25, Kramat Pela, Kebayoran Baru, Jakarta Selatan",
+          "alasan_viral": "Gultik kaki lima buka sejak pagi dengan harga mulai Rp12.000",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Gultik Koko",
+          "kategori": "Restoran",
+          "lokasi_text": "Kelapa Gading, Jakarta Utara",
+          "alasan_viral": "Gultik konsep modern dengan paket makan sepuasnya",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1356,
+      "places": [
+        {
+          "nama_tempat": "Rumah Makan Siang Malam",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Veteran, dekat Stasiun Gambir, Jakarta Pusat",
+          "alasan_viral": "Masuk daftar wisata kuliner viral murah dekat Stasiun Gambir, masakan Padang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Warung Sate Tongseng Sri Rejeki",
+          "kategori": "Restoran",
+          "lokasi_text": "Dekat Stasiun Gambir, Jakarta Pusat",
+          "alasan_viral": "Masuk daftar wisata kuliner viral murah dekat Stasiun Gambir",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1357,
+      "places": [
+        {
+          "nama_tempat": "Walking Tour BerKemana KompasTravel",
+          "kategori": "lainnya",
+          "lokasi_text": "Menteng hingga Jalan Sabang, Jakarta Pusat",
+          "alasan_viral": "Walking tour menyusuri toko kopi legendaris dan bangunan bersejarah",
+          "indikasi_waktu": "18 April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1358,
+      "places": [
+        {
+          "nama_tempat": "Toko Kelontong Adi Jaya",
+          "kategori": "lainnya",
+          "lokasi_text": "Sumur Batu, Kemayoran, Jakarta Pusat",
+          "alasan_viral": "Video toko kelontong diacak-acak viral di media sosial (isu negatif)",
+          "indikasi_waktu": "3 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1359,
+      "places": []
+    },
+    {
+      "article_id": 1360,
+      "places": []
+    },
+    {
+      "article_id": 1361,
+      "places": []
+    },
+    {
+      "article_id": 1362,
+      "places": []
+    },
+    {
+      "article_id": 1363,
+      "places": [
+        {
+          "nama_tempat": "Blok M Square",
+          "kategori": "lainnya",
+          "lokasi_text": "Lantai Dasar Blok M Square, Blok M, Jakarta Selatan",
+          "alasan_viral": "Surga buku bekas dengan sekitar 40 toko buku di pusat skena Blok M",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1364,
+      "places": [
+        {
+          "nama_tempat": "Pasar Baru",
+          "kategori": "lainnya",
+          "lokasi_text": "Kawasan pertokoan Pasar Baru, Sawah Besar, Jakarta Pusat",
+          "alasan_viral": "Kepulan asap hitam akibat korsleting gardu listrik viral dan bikin panik pedagang (isu negatif)",
+          "indikasi_waktu": "6 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1365,
+      "places": [
+        {
+          "nama_tempat": "Pasar Baru",
+          "kategori": "lainnya",
+          "lokasi_text": "Kawasan pertokoan Pasar Baru sisi utara, Sawah Besar, Jakarta Pusat",
+          "alasan_viral": "Kepulan asap hitam korsleting gardu listrik bawah tanah memicu kepanikan (isu negatif)",
+          "indikasi_waktu": "6 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1366,
+      "places": [
+        {
+          "nama_tempat": "Pasar Baru",
+          "kategori": "lainnya",
+          "lokasi_text": "Kawasan pertokoan Pasar Baru, Sawah Besar, Jakarta Pusat",
+          "alasan_viral": "Semburan asap hitam dari bawah tanah menggemparkan pengunjung (isu negatif)",
+          "indikasi_waktu": "6 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1367,
+      "places": [
+        {
+          "nama_tempat": "Pasar Baru",
+          "kategori": "lainnya",
+          "lokasi_text": "Pasar Baru, Jakarta Pusat",
+          "alasan_viral": "Video semburan asap hitam dari gorong-gorong viral di media sosial (isu negatif)",
+          "indikasi_waktu": "6 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1368,
+      "places": [
+        {
+          "nama_tempat": "Pasar Tanah Abang",
+          "kategori": "lainnya",
+          "lokasi_text": "Blok A Pasar Tanah Abang, Jalan KH Mas Mansyur, Kebon Kacang, Tanah Abang, Jakarta Pusat",
+          "alasan_viral": "Video viral pemalakan sopir bajaj (isu negatif)",
+          "indikasi_waktu": "12 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1369,
+      "places": [
+        {
+          "nama_tempat": "Padang Pagi Sore PIK",
+          "kategori": "Restoran",
+          "lokasi_text": "Pantai Indah Kapuk, Jakarta Utara",
+          "alasan_viral": "Masuk template kulineran turis Malaysia di Jakarta",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "By The Sea PIK",
+          "kategori": "lainnya",
+          "lokasi_text": "Pantai Indah Kapuk, Jakarta Utara",
+          "alasan_viral": "Tujuan belanja dan jajan turis Malaysia",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "Chikuro",
+          "kategori": "Kafe",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Jajanan ayam stick Chiro yang paling viral diburu turis Malaysia",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1370,
+      "places": [
+        {
+          "nama_tempat": "Pasar Tanah Abang",
+          "kategori": "lainnya",
+          "lokasi_text": "Blok A Pasar Tanah Abang, Jakarta Pusat",
+          "alasan_viral": "Aksi pemalakan sopir bajaj terekam video dan viral (isu negatif)",
+          "indikasi_waktu": "12 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1371,
+      "places": [
+        {
+          "nama_tempat": "Festival Sasa Bakso Vaganza 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Plaza Sudirman, Gelora Bung Karno, Jakarta Pusat",
+          "alasan_viral": "Festival bakso dengan 50 pedagang legendaris, nusantara dan viral",
+          "indikasi_waktu": "25-26 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1372,
+      "places": []
+    },
+    {
+      "article_id": 1373,
+      "places": []
+    },
+    {
+      "article_id": 1374,
+      "places": [
+        {
+          "nama_tempat": "Festival Sasa Bakso Vaganza 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Plaza Sudirman, Gelora Bung Karno, Jakarta Pusat",
+          "alasan_viral": "Festival bakso legendaris pertama di Indonesia dengan 50 pedagang",
+          "indikasi_waktu": "25-26 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1375,
+      "places": [
+        {
+          "nama_tempat": "Festival Sasa Bakso Vaganza 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Plaza Sudirman, Gelora Bung Karno, Jakarta Pusat",
+          "alasan_viral": "50 bakso legendaris dan viral berkumpul di GBK",
+          "indikasi_waktu": "25-26 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1376,
+      "places": [
+        {
+          "nama_tempat": "Festival Burger Dunia",
+          "kategori": "Pameran",
+          "lokasi_text": "Chillax, Sudirman, Jakarta Pusat",
+          "alasan_viral": "Festival kuliner burger gagasan Aldi Taher dengan 18 tenant burger lokal",
+          "indikasi_waktu": "5-7 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1377,
+      "places": [
+        {
+          "nama_tempat": "Gebyar Kuliner Jakarta Halal Viral Vol 3",
+          "kategori": "Pameran",
+          "lokasi_text": "Living World Pekanbaru, Riau",
+          "alasan_viral": "Festival kuliner nasional dengan 45 tenant halal pilihan",
+          "indikasi_waktu": "24 April - 3 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1378,
+      "places": [
+        {
+          "nama_tempat": "Festival Kali Pasir 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Kampus IKJ, Cikini, Jakarta Pusat",
+          "alasan_viral": "Festival seni budaya berpotensi jadi ikon menuju kota global",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1379,
+      "places": [
+        {
+          "nama_tempat": "Sulaiman Resto",
+          "kategori": "Restoran",
+          "lokasi_text": "Jakarta Barat",
+          "alasan_viral": "Chinese food halal dengan porsi besar dan harga terjangkau",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Three Uncles",
+          "kategori": "Restoran",
+          "lokasi_text": "Kebon Jeruk, Jakarta Barat",
+          "alasan_viral": "Terkenal dengan dimsum dan menu Cantonese serta mie mala",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    }
+  ]
+}

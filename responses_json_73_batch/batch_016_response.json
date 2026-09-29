@@ -1,0 +1,424 @@
+{
+  "results": [
+    {
+      "article_id": 450,
+      "places": [
+        {
+          "nama_tempat": "Pekan Kebudayaan Jambi Elok Nian Kota Jambi 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Anjungan Kota Jambi, Taman Mini Melayu Jambi (Arena Eks MTQ)",
+          "alasan_viral": "Pameran budaya, kuliner, batik, dan UMKM",
+          "indikasi_waktu": "23 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 451,
+      "places": []
+    },
+    {
+      "article_id": 452,
+      "places": []
+    },
+    {
+      "article_id": 453,
+      "places": [
+        {
+          "nama_tempat": "Taman Hutan Raya (Tahura) Sultan Thaha",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Batanghari, Jambi",
+          "alasan_viral": "Kawasan hutan terbakar karhutla meluas (isu negatif)",
+          "indikasi_waktu": "Juli-September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 454,
+      "places": [
+        {
+          "nama_tempat": "Mie Celor 26 Ilir H. M. Syafei Z",
+          "kategori": "Restoran",
+          "lokasi_text": "26 Ilir, Palembang",
+          "alasan_viral": "Mie celor paling terkenal, cita rasa tradisional puluhan tahun",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Martabak HAR",
+          "kategori": "Restoran",
+          "lokasi_text": "Palembang",
+          "alasan_viral": "Martabak kari legendaris",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 455,
+      "places": [
+        {
+          "nama_tempat": "Pempek & Es Kacang Vico",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Letkol Iskandar No. 541-542, 24 Ilir, Kecamatan Bukit Kecil, Palembang",
+          "alasan_viral": "Pempek dan rujak mie",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Pempek Kiki",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Perindustrian 2 No. 3, Kebun Bunga, Kecamatan Sukarami, Palembang",
+          "alasan_viral": "Pempek ikan gabus",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Pempek Cik Puan",
+          "kategori": "Restoran",
+          "lokasi_text": "Komplek Sarjana, Jl. Sukabangun 1, Palembang",
+          "alasan_viral": "Kuliner tradisional Palembang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 456,
+      "places": [
+        {
+          "nama_tempat": "Desa Wisata Gunung Dempo",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kaki Gunung Dempo, Kota Pagar Alam, Sumatera Selatan",
+          "alasan_viral": "Penutupan sempat viral dan menuai sorotan, kini dibuka kembali",
+          "indikasi_waktu": "13 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 457,
+      "places": [
+        {
+          "nama_tempat": "Sawah Namang Pelangi",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Namang, Kecamatan Namang, Kabupaten Bangka Tengah",
+          "alasan_viral": "Unggahan ngopi di tepi sawah viral di kalangan anak muda, ledakan kunjungan sejak 2025",
+          "indikasi_waktu": "Sejak 2025",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        },
+        {
+          "nama_tempat": "Tan Kopi",
+          "kategori": "Kafe",
+          "lokasi_text": "Sawah Namang, Bangka Tengah",
+          "alasan_viral": "UMKM kopi di area sawah viral",
+          "indikasi_waktu": "2025",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Zyla Coffee",
+          "kategori": "Kafe",
+          "lokasi_text": "Sawah Namang, Bangka Tengah",
+          "alasan_viral": "UMKM kopi di area sawah viral",
+          "indikasi_waktu": "2025",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 458,
+      "places": [
+        {
+          "nama_tempat": "Objek wisata Air Lintang Indah",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Muara Danau, Kabupaten Empat Lawang, Sumatera Selatan",
+          "alasan_viral": "Rusak parah akibat luapan Sungai Lintang (isu negatif)",
+          "indikasi_waktu": "21 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 459,
+      "places": []
+    },
+    {
+      "article_id": 460,
+      "places": []
+    },
+    {
+      "article_id": 461,
+      "places": [
+        {
+          "nama_tempat": "Toko Emas Zam-Zam",
+          "kategori": "lainnya",
+          "lokasi_text": "Pasar Baru, Kecamatan Baturaja Timur, Kabupaten OKU",
+          "alasan_viral": "Viral video penipuan tukar cincin perak dengan emas (isu negatif)",
+          "indikasi_waktu": "12 Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 462,
+      "places": []
+    },
+    {
+      "article_id": 463,
+      "places": []
+    },
+    {
+      "article_id": 464,
+      "places": [
+        {
+          "nama_tempat": "Pasar Jukung",
+          "kategori": "lainnya",
+          "lokasi_text": "Kecamatan Sungai Baung, Kabupaten Ogan Komering Ilir, Sumatera Selatan",
+          "alasan_viral": "Viral video dua gajah liar masuk pasar",
+          "indikasi_waktu": "19 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 465,
+      "places": [
+        {
+          "nama_tempat": "Pempek Tumpah Pasar 16 Ilir",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar 16 Ilir, Palembang",
+          "alasan_viral": "Kuliner legendaris jadi perbincangan hangat di medsos karena isu kebersihan (isu negatif)",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 466,
+      "places": [
+        {
+          "nama_tempat": "Pasar Jukung",
+          "kategori": "lainnya",
+          "lokasi_text": "Kecamatan Sungai Baung, Kabupaten OKI",
+          "alasan_viral": "Video dua gajah masuk pasar viral",
+          "indikasi_waktu": "19 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 467,
+      "places": [
+        {
+          "nama_tempat": "Pasar Jukung",
+          "kategori": "lainnya",
+          "lokasi_text": "Kecamatan Sungai Baung, Kabupaten OKI",
+          "alasan_viral": "Video dua gajah liar masuk pasar viral",
+          "indikasi_waktu": "19 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 468,
+      "places": [
+        {
+          "nama_tempat": "Pempek Tumpah Pasar 16 Ilir",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar 16 Ilir, Kota Palembang",
+          "alasan_viral": "Sepi pembeli setelah isu kebersihan viral di medsos (isu negatif)",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 469,
+      "places": [
+        {
+          "nama_tempat": "Pempek Tumpah Pasar 16 Ilir",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar 16 Ilir, Palembang",
+          "alasan_viral": "Viral di medsos, Pemkot siapkan penataan kawasan kuliner",
+          "indikasi_waktu": "Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 470,
+      "places": [
+        {
+          "nama_tempat": "Pasar Buah Induk Jakabaring",
+          "kategori": "lainnya",
+          "lokasi_text": "Jakabaring, Palembang",
+          "alasan_viral": "Viral kondisi jalan pasar rusak dan becek (isu negatif)",
+          "indikasi_waktu": "April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 471,
+      "places": [
+        {
+          "nama_tempat": "Pasar 26 Ilir",
+          "kategori": "lainnya",
+          "lokasi_text": "Palembang",
+          "alasan_viral": "Dikenal luas dan viral sebagai destinasi kuliner unggulan, akan jadi destinasi kuliner modern",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 472,
+      "places": []
+    },
+    {
+      "article_id": 473,
+      "places": []
+    },
+    {
+      "article_id": 474,
+      "places": [
+        {
+          "nama_tempat": "Pasar 26 Ilir (Pasar Sentral Kampung Pempek)",
+          "kategori": "lainnya",
+          "lokasi_text": "Palembang",
+          "alasan_viral": "Kerap viral sebagai tujuan wisata kuliner, direvitalisasi",
+          "indikasi_waktu": "April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 475,
+      "places": [
+        {
+          "nama_tempat": "Festival Sriwijaya 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Kompleks Dekranasda Palembang",
+          "alasan_viral": "Festival budaya Sriwijaya",
+          "indikasi_waktu": "15 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 476,
+      "places": [
+        {
+          "nama_tempat": "Festival Jajanan Viral Jakarta",
+          "kategori": "Pameran",
+          "lokasi_text": "The Echo, Palembang Indah Mall (PIM), Palembang",
+          "alasan_viral": "Festival kuliner hits pertama di Palembang dengan ratusan menu",
+          "indikasi_waktu": "3-12 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 477,
+      "places": []
+    },
+    {
+      "article_id": 478,
+      "places": [
+        {
+          "nama_tempat": "Festival Jajanan Viral Jakarta",
+          "kategori": "Pameran",
+          "lokasi_text": "The Echo, Palembang Indah Mall, Palembang",
+          "alasan_viral": "Festival kuliner terbesar dengan 300+ menu hits",
+          "indikasi_waktu": "3-12 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Boim Chicken by Harry De Prestes",
+          "kategori": "Restoran",
+          "lokasi_text": "Tenant Festival Jajanan Viral Jakarta, PIM Palembang",
+          "alasan_viral": "Tenant hits",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Falala Chocolate X Myfoodies",
+          "kategori": "Kafe",
+          "lokasi_text": "Tenant Festival Jajanan Viral Jakarta, PIM Palembang",
+          "alasan_viral": "Tenant hits",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Cakwe Medan Ancol",
+          "kategori": "lainnya",
+          "lokasi_text": "Tenant Festival Jajanan Viral Jakarta, PIM Palembang",
+          "alasan_viral": "Tenant hits",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Susu Segar Paman Kota",
+          "kategori": "Kafe",
+          "lokasi_text": "Tenant Festival Jajanan Viral Jakarta, PIM Palembang",
+          "alasan_viral": "Tenant hits",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Lumpia Semarang Gang 9",
+          "kategori": "lainnya",
+          "lokasi_text": "Tenant Festival Jajanan Viral Jakarta, PIM Palembang",
+          "alasan_viral": "Tenant hits",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 479,
+      "places": [
+        {
+          "nama_tempat": "Jakabaring Sport City (JSC)",
+          "kategori": "lainnya",
+          "lokasi_text": "Palembang",
+          "alasan_viral": "Lokasi Sumsel Bhayangkara Run 2026",
+          "indikasi_waktu": "12 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.35
+        }
+      ]
+    }
+  ]
+}

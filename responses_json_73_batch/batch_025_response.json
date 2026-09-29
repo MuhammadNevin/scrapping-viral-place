@@ -1,0 +1,440 @@
+{
+  "results": [
+    {
+      "article_id": 720,
+      "places": []
+    },
+    {
+      "article_id": 721,
+      "places": []
+    },
+    {
+      "article_id": 722,
+      "places": []
+    },
+    {
+      "article_id": 723,
+      "places": [
+        {
+          "nama_tempat": "ARTJOG",
+          "kategori": "Pameran",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Event seni yang diperkuat dalam strategi kota festival",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Jogja Great Sale",
+          "kategori": "Pameran",
+          "lokasi_text": "Kota Yogyakarta",
+          "alasan_viral": "Event belanja besar",
+          "indikasi_waktu": "Oktober 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 724,
+      "places": []
+    },
+    {
+      "article_id": 725,
+      "places": [
+        {
+          "nama_tempat": "Jogja International Kite Festival (JIKF) 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Pantai Parangkusumo, Parangtritis, Bantul",
+          "alasan_viral": "Festival layang-layang internasional ke-11 dengan 17 negara",
+          "indikasi_waktu": "11 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 726,
+      "places": []
+    },
+    {
+      "article_id": 727,
+      "places": []
+    },
+    {
+      "article_id": 728,
+      "places": [
+        {
+          "nama_tempat": "Bakso Malang Tanjung Duren 18",
+          "kategori": "Restoran",
+          "lokasi_text": "Tanjung Duren, Jakarta Barat",
+          "alasan_viral": "Bakso Malang isian komplet",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Istana Bakwan Malang Arema Jaya",
+          "kategori": "Restoran",
+          "lokasi_text": "Kebayoran Lama, Jakarta Selatan",
+          "alasan_viral": "Bakso Malang sejak 1980-an",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Bakso Malang Bang Dewo",
+          "kategori": "Restoran",
+          "lokasi_text": "Jatinegara, Jakarta Timur",
+          "alasan_viral": "Bakso Malang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 729,
+      "places": [
+        {
+          "nama_tempat": "Depot Nasi Pecel 99",
+          "kategori": "Restoran",
+          "lokasi_text": "Kota Madiun",
+          "alasan_viral": "Nasi pecel khas Madiun",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Warung Pecel Bu Djarjo",
+          "kategori": "Restoran",
+          "lokasi_text": "Madiun",
+          "alasan_viral": "Nasi pecel khas Madiun",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Depot Nasi Pecel 3 Putri",
+          "kategori": "Restoran",
+          "lokasi_text": "Madiun",
+          "alasan_viral": "Nasi pecel khas Madiun",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 730,
+      "places": [
+        {
+          "nama_tempat": "Sate Kelapa Suramadu",
+          "kategori": "Restoran",
+          "lokasi_text": "Tebet, Jakarta Selatan",
+          "alasan_viral": "Langganan Maia Estianty",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Tahu Campur Subari",
+          "kategori": "Restoran",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Tahu campur khas Surabaya langganan Maia Estianty",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 731,
+      "places": [
+        {
+          "nama_tempat": "Es Krim Baltic",
+          "kategori": "Restoran",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Kedai es krim legendaris 87 tahun tutup permanen, kabar penutupannya viral (isu negatif)",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 732,
+      "places": [
+        {
+          "nama_tempat": "Gandarichi",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Kelapa Puan Raya Blok FU1 No.6, Kelapa Gading Timur, Jakarta Utara",
+          "alasan_viral": "Warung tenda Jepang dengan antrean panjang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 733,
+      "places": [
+        {
+          "nama_tempat": "Warung Sabar Subur",
+          "kategori": "Restoran",
+          "lokasi_text": "Malang",
+          "alasan_viral": "Hidden gem rawon murah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Ayam Tulang Lunak Mbok Surip",
+          "kategori": "Restoran",
+          "lokasi_text": "Malang",
+          "alasan_viral": "Tempat makan murah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 734,
+      "places": [
+        {
+          "nama_tempat": "Bebek Sinjay",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Raya Ketengan No.45, Junok, Tanjung Burneh, Bangkalan",
+          "alasan_viral": "Restoran bebek yang selalu ramai",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Rumah Makan Tera' Bulan",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Raya Ketengan No.69, Bangkalan",
+          "alasan_viral": "Menu khas Madura",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Bebek Songkem Pak Salim",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Raya Ketengan No.85, Burneh, Bangkalan",
+          "alasan_viral": "Bebek songkem",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Rumah Makan Budi Luhur",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Panglima Sudirman No.114, Bangkalan",
+          "alasan_viral": "Nasi campur dan rawon",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 735,
+      "places": [
+        {
+          "nama_tempat": "Resto Keboen Rodjo Kediri",
+          "kategori": "Restoran",
+          "lokasi_text": "Kediri",
+          "alasan_viral": "Resto keluarga bernuansa joglo",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Pondok Kampoeng Nelayan",
+          "kategori": "Restoran",
+          "lokasi_text": "Kediri",
+          "alasan_viral": "Resto seafood keluarga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 736,
+      "places": [
+        {
+          "nama_tempat": "Mikutopia",
+          "kategori": "Wahana",
+          "lokasi_text": "Malang",
+          "alasan_viral": "Wahana dan spot foto Instagramable",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Rawon Nguling",
+          "kategori": "Restoran",
+          "lokasi_text": "Pusat Kota Malang",
+          "alasan_viral": "Rawon legendaris selalu ramai",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Depot Hok Lay",
+          "kategori": "Restoran",
+          "lokasi_text": "Malang",
+          "alasan_viral": "Cwie mie dan Fosco legendaris",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 737,
+      "places": [
+        {
+          "nama_tempat": "Nasi Goreng Lumintu Cak Kin",
+          "kategori": "Restoran",
+          "lokasi_text": "Sidoarjo",
+          "alasan_viral": "Nasi goreng kaki lima porsi banyak",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 738,
+      "places": [
+        {
+          "nama_tempat": "Nasi Mandhi Bosgil Ampel",
+          "kategori": "Restoran",
+          "lokasi_text": "Kawasan Ampel, Surabaya",
+          "alasan_viral": "Nasi mandhi dekat Kota Lama Surabaya",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Nasi Bebek Tugu Pahlawan Asli",
+          "kategori": "Restoran",
+          "lokasi_text": "Surabaya",
+          "alasan_viral": "Nasi bebek dekat Kota Lama",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 739,
+      "places": []
+    },
+    {
+      "article_id": 740,
+      "places": [
+        {
+          "nama_tempat": "Batu Secret Zoo (Jatim Park 2)",
+          "kategori": "Wahana",
+          "lokasi_text": "Kota Batu",
+          "alasan_viral": "Viral foto singa kurus di media sosial (isu negatif)",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 741,
+      "places": []
+    },
+    {
+      "article_id": 742,
+      "places": [
+        {
+          "nama_tempat": "Bukit Premium",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Dusun Kandang Sari, Desa Mororejo, Kecamatan Tosari, Kabupaten Pasuruan",
+          "alasan_viral": "Viral di TikTok karena sabana mirip Sumba",
+          "indikasi_waktu": "2025-2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 743,
+      "places": [
+        {
+          "nama_tempat": "Telaga Sarangan (spot bugenvil)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Magetan, Jawa Timur",
+          "alasan_viral": "Spot foto bunga bugenvil viral mirip Danau Como Italia",
+          "indikasi_waktu": "September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "article_id": 744,
+      "places": [
+        {
+          "nama_tempat": "Kawasan Pacet",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kecamatan Pacet, Kabupaten Mojokerto",
+          "alasan_viral": "Destinasi wisata lagi hype 2026",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 745,
+      "places": [
+        {
+          "nama_tempat": "Pesarean Gunung Kawi",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Wonosari, Kecamatan Wonosari, Kabupaten Malang",
+          "alasan_viral": "Viral lewat meme \"in this economy\", destinasi wisata religi",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 746,
+      "places": [
+        {
+          "nama_tempat": "Jembatan Cangar",
+          "kategori": "lainnya",
+          "lokasi_text": "Tahura Raden Soerjo, perbatasan Mojokerto-Kota Batu",
+          "alasan_viral": "Ramai didatangi karena konten viral usai tragedi (isu negatif, dark tourism)",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 747,
+      "places": []
+    },
+    {
+      "article_id": 748,
+      "places": []
+    },
+    {
+      "article_id": 749,
+      "places": []
+    }
+  ]
+}

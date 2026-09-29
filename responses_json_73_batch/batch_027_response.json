@@ -1,0 +1,345 @@
+{
+  "results": [
+    {
+      "article_id": 780,
+      "places": [
+        {
+          "nama_tempat": "Kirana Garden Resto",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Raya Kutuh, Samsam, Kerambitan, Tabanan",
+          "alasan_viral": "Restoran baru di tengah sawah",
+          "indikasi_waktu": "April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Bambu Kuliner Bali (Bakul Bali)",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Raya Saba Blangsinga, Blahbatuh, Gianyar",
+          "alasan_viral": "Restoran baru babi guling",
+          "indikasi_waktu": "April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Kaizen Renon",
+          "kategori": "Restoran",
+          "lokasi_text": "Renon, Denpasar",
+          "alasan_viral": "AYCE halal gerai kedua di Bali",
+          "indikasi_waktu": "April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 781,
+      "places": [
+        {
+          "nama_tempat": "KAJA by Numa",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Raya Pengosekan Ubud, Mas, Ubud, Gianyar",
+          "alasan_viral": "Restoran baru berarsitektur goa",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Luca Bali",
+          "kategori": "Restoran",
+          "lokasi_text": "Sanur, Bali",
+          "alasan_viral": "Steakhouse baru dari tim Boy'N'Cow",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 782,
+      "places": [
+        {
+          "nama_tempat": "Warung Torotoro",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Pantai Kelan, Tuban, Kuta, Badung",
+          "alasan_viral": "Seafood sunset dekat bandara",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 783,
+      "places": [
+        {
+          "nama_tempat": "Aruma",
+          "kategori": "Restoran",
+          "lokasi_text": "Ampera Raya, Jakarta Selatan",
+          "alasan_viral": "Restoran Nusantara modern",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Hachi Garden Ampera",
+          "kategori": "Restoran",
+          "lokasi_text": "Ampera Raya, Jakarta Selatan",
+          "alasan_viral": "Ayam bakar dan jajanan pasar",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Little Bali",
+          "kategori": "Restoran",
+          "lokasi_text": "Ampera Raya, Jakarta Selatan",
+          "alasan_viral": "Nasi jinggo Bali",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 784,
+      "places": [
+        {
+          "nama_tempat": "Dapur Ibuk Nyoman",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Walet III No.12, Jurang Mangu Barat, Tangerang Selatan",
+          "alasan_viral": "Viral rumah makan nasi jinggo Bali di area perumahan",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 785,
+      "places": []
+    },
+    {
+      "article_id": 786,
+      "places": []
+    },
+    {
+      "article_id": 787,
+      "places": []
+    },
+    {
+      "article_id": 788,
+      "places": []
+    },
+    {
+      "article_id": 789,
+      "places": []
+    },
+    {
+      "article_id": 790,
+      "places": []
+    },
+    {
+      "article_id": 791,
+      "places": []
+    },
+    {
+      "article_id": 792,
+      "places": [
+        {
+          "nama_tempat": "Raja Ampat",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Papua Barat Daya",
+          "alasan_viral": "Destinasi bahari favorit selebriti dunia",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "Labuan Bajo (Taman Nasional Komodo)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Manggarai Barat, NTT",
+          "alasan_viral": "Destinasi favorit selebriti dunia",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 793,
+      "places": []
+    },
+    {
+      "article_id": 794,
+      "places": []
+    },
+    {
+      "article_id": 795,
+      "places": []
+    },
+    {
+      "article_id": 796,
+      "places": [
+        {
+          "nama_tempat": "Prasasti Blanjong",
+          "kategori": "Museum",
+          "lokasi_text": "Sanur, Denpasar",
+          "alasan_viral": "Prasasti tertua di Bali dalam tur Jalan-Jalan Sejarah",
+          "indikasi_waktu": "26 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 797,
+      "places": [
+        {
+          "nama_tempat": "Restoran Chez Gado-Gado",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Camplung Tanduk, Seminyak, Kuta, Badung",
+          "alasan_viral": "Kebakaran hebat restoran beratap ilalang (isu negatif)",
+          "indikasi_waktu": "Akhir Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 798,
+      "places": []
+    },
+    {
+      "article_id": 799,
+      "places": []
+    },
+    {
+      "article_id": 800,
+      "places": [
+        {
+          "nama_tempat": "Pasar Minggu Palimanan",
+          "kategori": "lainnya",
+          "lokasi_text": "Kabupaten Cirebon",
+          "alasan_viral": "Viral sampah menumpuk meluber ke jalan (isu negatif)",
+          "indikasi_waktu": "3 Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 801,
+      "places": [
+        {
+          "nama_tempat": "Pasar Baleendah",
+          "kategori": "lainnya",
+          "lokasi_text": "Kabupaten Bandung",
+          "alasan_viral": "Viral dugaan pungli terhadap pedagang (isu negatif)",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 802,
+      "places": [
+        {
+          "nama_tempat": "Batukaras Surf Festival",
+          "kategori": "Pameran",
+          "lokasi_text": "Batukaras, Kabupaten Pangandaran",
+          "alasan_viral": "Festival selancar",
+          "indikasi_waktu": "6-9 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 803,
+      "places": [
+        {
+          "nama_tempat": "Indonesia HijabFest",
+          "kategori": "Pameran",
+          "lokasi_text": "Jawa Barat",
+          "alasan_viral": "Event dengan transaksi Rp50 miliar",
+          "indikasi_waktu": "Maret 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "Jagat Aroma",
+          "kategori": "Pameran",
+          "lokasi_text": "Jawa Barat",
+          "alasan_viral": "Event dengan transaksi Rp50 miliar",
+          "indikasi_waktu": "Maret 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "TradeMark Market",
+          "kategori": "Pameran",
+          "lokasi_text": "Bandung",
+          "alasan_viral": "Event dengan transaksi Rp27,6 miliar",
+          "indikasi_waktu": "Maret 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Roadshow Kuliner Viral Indonesia 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Jawa Barat",
+          "alasan_viral": "Roadshow kuliner viral dengan transaksi Rp12 miliar",
+          "indikasi_waktu": "Maret 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 804,
+      "places": []
+    },
+    {
+      "article_id": 805,
+      "places": []
+    },
+    {
+      "article_id": 806,
+      "places": [
+        {
+          "nama_tempat": "Pasar Desa Mengwi",
+          "kategori": "lainnya",
+          "lokasi_text": "Kecamatan Mengwi, Badung, Bali",
+          "alasan_viral": "Viral video penangkapan pengguna uang palsu (isu negatif)",
+          "indikasi_waktu": "26 Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 807,
+      "places": [
+        {
+          "nama_tempat": "Minimarket Air Sanih",
+          "kategori": "lainnya",
+          "lokasi_text": "Air Sanih, Buleleng, Bali",
+          "alasan_viral": "Minimarket viral karena pemandangan laut di belakang toko",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 808,
+      "places": []
+    },
+    {
+      "article_id": 809,
+      "places": []
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "results": [
+    {
+      "article_id": 330,
+      "places": [
+        {
+          "nama_tempat": "Stadion Teladan Medan",
+          "kategori": "lainnya",
+          "lokasi_text": "Medan",
+          "alasan_viral": "Viral video orang berlari di rumput stadion jelang ASEAN U-19 (isu negatif)",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 331,
+      "places": [
+        {
+          "nama_tempat": "Skate Plaza Lapangan Merdeka Medan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Lapangan Merdeka, Medan",
+          "alasan_viral": "Skatepark ikonik, lokasi Go Skateboarding Day",
+          "indikasi_waktu": "21 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 332,
+      "places": [
+        {
+          "nama_tempat": "Pekan Raya Sumatera Utara (PRSU) ke-50",
+          "kategori": "Pameran",
+          "lokasi_text": "Jalan Gatot Subroto, Medan",
+          "alasan_viral": "Pameran budaya dan ekonomi kreatif, didorong masuk kalender event nasional",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 333,
+      "places": []
+    },
+    {
+      "article_id": 334,
+      "places": [
+        {
+          "nama_tempat": "REGALE International Convention Centre Medan",
+          "kategori": "Pameran",
+          "lokasi_text": "Medan",
+          "alasan_viral": "Lokasi konser Candlelight",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 335,
+      "places": [
+        {
+          "nama_tempat": "Pasar Tebet Barat",
+          "kategori": "lainnya",
+          "lokasi_text": "Tebet, Jakarta Selatan",
+          "alasan_viral": "Kawasan kuliner legendaris langganan warga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Kantin Uni Linda",
+          "kategori": "Restoran",
+          "lokasi_text": "Dalam Pasar Tebet Barat, Jakarta Selatan",
+          "alasan_viral": "Ketupat sayur khas Padang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Warung Nasi Bu Aris",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Tebet Barat, Jakarta Selatan",
+          "alasan_viral": "Warung nasi dengan 30+ lauk setiap hari",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Kantin Bu Inem",
+          "kategori": "Restoran",
+          "lokasi_text": "Lantai dasar Pasar Tebet Barat, Jakarta Selatan",
+          "alasan_viral": "Jajanan pasar lengkap",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 336,
+      "places": [
+        {
+          "nama_tempat": "Baba's Rice",
+          "kategori": "Restoran",
+          "lokasi_text": "Komplek Windsor Central Blok E7, Lubuk Baja, Batam",
+          "alasan_viral": "Tempat nongkrong baru yang lagi hits, kopitiam modern peranakan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Pagi Sore",
+          "kategori": "Restoran",
+          "lokasi_text": "Komplek Dermaga Sukajadi, Jalan Jenderal Sudirman, Baloi Permai, Batam Kota",
+          "alasan_viral": "Rumah makan Padang premium hadir di Batam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "D'Sambelin & Coffee",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Bida Asri II, Belian, Batam Kota",
+          "alasan_viral": "Penyetan dengan sambal segar dan kopi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Sancha",
+          "kategori": "Kafe",
+          "lokasi_text": "Batam",
+          "alasan_viral": "Milk tea kekinian",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 337,
+      "places": [
+        {
+          "nama_tempat": "Rumah Makan Fuja",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Samudera Purus II, pinggir Pantai Padang",
+          "alasan_viral": "Seafood favorit dengan pemandangan senja",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Ikan Bakar Djoni/Kun",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Pulau Air no.1A, Chinatown, Padang",
+          "alasan_viral": "Seafood sejak 2000",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 338,
+      "places": [
+        {
+          "nama_tempat": "Truntum Padang",
+          "kategori": "lainnya",
+          "lokasi_text": "Jl. Bandar Gereja No. 5A, Padang Barat",
+          "alasan_viral": "Lokasi nobar resmi Piala Dunia 2026",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        },
+        {
+          "nama_tempat": "The Atmosfer Skylounge Santika Premiere",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Jend. Ahmad Yani No. 20, Olo, Padang Barat",
+          "alasan_viral": "Lokasi nobar resmi Piala Dunia 2026",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        },
+        {
+          "nama_tempat": "Sikuai Lounge",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Ir. H. Juanda, Flamboyan Baru, Padang Barat",
+          "alasan_viral": "Lokasi nobar resmi Piala Dunia 2026",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        },
+        {
+          "nama_tempat": "McDonald's Padang Ahmad Yani",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Bandar Damar No. 18A, Olo, Padang Barat",
+          "alasan_viral": "Lokasi nobar resmi Piala Dunia 2026",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        },
+        {
+          "nama_tempat": "J. Chicken Simpang Kinol Padang",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Pondok No. 155, Padang Barat",
+          "alasan_viral": "Lokasi nobar resmi Piala Dunia 2026",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 339,
+      "places": [
+        {
+          "nama_tempat": "Warung Anisah",
+          "kategori": "Restoran",
+          "lokasi_text": "Belanda",
+          "alasan_viral": "Restoran nasi Padang autentik populer di Belanda",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Pondok Buyung",
+          "kategori": "Restoran",
+          "lokasi_text": "Sydney, Australia",
+          "alasan_viral": "Restoran Padang populer dengan bumbu medok",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "RM Padang Amanah Mande",
+          "kategori": "Restoran",
+          "lokasi_text": "Atsugi, Kanagawa, Jepang",
+          "alasan_viral": "Bangunan beratap gonjong, rendang dan sate wagyu",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 340,
+      "places": [
+        {
+          "nama_tempat": "Masakan Padang Doa Mande",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Sukodono Gedangan, Magersari, Kecamatan Gedangan, Kabupaten Sidoarjo",
+          "alasan_viral": "Masakan Padang autentik, ramai pengunjung",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "RM Padang Prasmanan Murah",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Imam Bonjol No. 89A, Dusun Legok, Geluran, Kecamatan Taman, Kabupaten Sidoarjo",
+          "alasan_viral": "Prasmanan nasi sepuasnya, murah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Surya Minang",
+          "kategori": "Restoran",
+          "lokasi_text": "Ruko Taman Pondok Jati Blok A No. 1, Geluran, Kabupaten Sidoarjo",
+          "alasan_viral": "Warung nasi Padang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 341,
+      "places": [
+        {
+          "nama_tempat": "Masjid Raya Sumatera Barat (Masjid Syekh Khatib Al Minangkabawi)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Padang, Sumatera Barat",
+          "alasan_viral": "Viral potongan video Menpar disebut memakai sepatu di masjid (hoaks)",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 342,
+      "places": [
+        {
+          "nama_tempat": "Aquarium Ikan Raksasa TMSBK",
+          "kategori": "Wahana",
+          "lokasi_text": "Taman Margasatwa dan Budaya Kinantan, Kota Bukittinggi",
+          "alasan_viral": "Viral dua wisatawan terkunci di akuarium saat petugas salat (isu negatif)",
+          "indikasi_waktu": "9 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 343,
+      "places": [
+        {
+          "nama_tempat": "Masjid Raya Sumatera Barat (Masjid Syekh Khatib Al Minangkabawi)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Padang, Sumatera Barat",
+          "alasan_viral": "Viral video Menpar disebut memakai sepatu di masjid (hoaks)",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 344,
+      "places": [
+        {
+          "nama_tempat": "Pantai Padang (Taplau)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Pusat Kota Padang",
+          "alasan_viral": "Pantai tertata rapi dengan pedestrian luas dan kuliner laut",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Masjid Raya Sumatera Barat",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Padang",
+          "alasan_viral": "Masjid beratap bagonjong peraih penghargaan arsitektur",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Museum Adityawarman",
+          "kategori": "Museum",
+          "lokasi_text": "Padang",
+          "alasan_viral": "Museum berbentuk rumah gadang, koleksi budaya Minangkabau",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Pulau Sirandah",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Lepas pantai Padang",
+          "alasan_viral": "Pulau landai berpasir putih",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Jembatan Siti Nurbaya",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Padang",
+          "alasan_viral": "Ikon wisata kota Padang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 345,
+      "places": [
+        {
+          "nama_tempat": "Taman Margasatwa dan Budaya Kinantan (TMSBK) / Kebun Binatang Bukittinggi",
+          "kategori": "Wahana",
+          "lokasi_text": "Kota Bukittinggi, Sumatera Barat",
+          "alasan_viral": "Viral dua pengunjung terkunci di area akuarium raksasa (isu negatif)",
+          "indikasi_waktu": "9 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 346,
+      "places": [
+        {
+          "nama_tempat": "Museum MACAN",
+          "kategori": "Museum",
+          "lokasi_text": "Kebon Jeruk, Jakarta Barat",
+          "alasan_viral": "Pameran Period Piece karya Riar Rizaldi, instalasi Bioskop Asymptotic",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 347,
+      "places": []
+    },
+    {
+      "article_id": 348,
+      "places": []
+    },
+    {
+      "article_id": 349,
+      "places": []
+    },
+    {
+      "article_id": 350,
+      "places": []
+    },
+    {
+      "article_id": 351,
+      "places": []
+    },
+    {
+      "article_id": 352,
+      "places": []
+    },
+    {
+      "article_id": 353,
+      "places": []
+    },
+    {
+      "article_id": 354,
+      "places": []
+    },
+    {
+      "article_id": 355,
+      "places": [
+        {
+          "nama_tempat": "Sumatera Barat Creative Economy Festival (SCEF) 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Hotel Pangeran Padang",
+          "alasan_viral": "Festival ekonomi kreatif oleh Bank Indonesia",
+          "indikasi_waktu": "28 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 356,
+      "places": []
+    },
+    {
+      "article_id": 357,
+      "places": []
+    },
+    {
+      "article_id": 358,
+      "places": [
+        {
+          "nama_tempat": "Festival Minangkabau 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Istano Basa Pagaruyung dan Lapangan Cindua Mato, Kabupaten Tanah Datar",
+          "alasan_viral": "Festival budaya dengan pameran benda pusaka, UMKM, desa wisata",
+          "indikasi_waktu": "25 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Istano Basa Pagaruyung",
+          "kategori": "Museum",
+          "lokasi_text": "Kabupaten Tanah Datar, Sumatera Barat",
+          "alasan_viral": "Lokasi Festival Minangkabau 2026",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 359,
+      "places": []
+    }
+  ]
+}

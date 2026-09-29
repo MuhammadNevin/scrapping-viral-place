@@ -1,0 +1,319 @@
+{
+  "results": [
+    {
+      "article_id": 600,
+      "places": [
+        {
+          "nama_tempat": "Blok M",
+          "kategori": "lainnya",
+          "lokasi_text": "Jakarta Selatan",
+          "alasan_viral": "Tempat FOMO dengan deretan tempat makan viral",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 601,
+      "places": [
+        {
+          "nama_tempat": "Mal Kota Kasablanka",
+          "kategori": "lainnya",
+          "lokasi_text": "Jakarta Selatan",
+          "alasan_viral": "Pagar tinggi mal ramai diperbincangkan warganet",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 602,
+      "places": []
+    },
+    {
+      "article_id": 603,
+      "places": []
+    },
+    {
+      "article_id": 604,
+      "places": []
+    },
+    {
+      "article_id": 605,
+      "places": []
+    },
+    {
+      "article_id": 606,
+      "places": []
+    },
+    {
+      "article_id": 607,
+      "places": []
+    },
+    {
+      "article_id": 608,
+      "places": []
+    },
+    {
+      "article_id": 609,
+      "places": [
+        {
+          "nama_tempat": "Dago Tea House",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Dago, Bandung",
+          "alasan_viral": "Lokasi rangkaian festival HAN",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 610,
+      "places": [
+        {
+          "nama_tempat": "Trans Studio Mall Bandung (Nailoong Summer Holiday)",
+          "kategori": "Pameran",
+          "lokasi_text": "Jl. Gatot Subroto No. 289, Bandung",
+          "alasan_viral": "Event karakter viral Nailoong",
+          "indikasi_waktu": "1-12 Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 611,
+      "places": []
+    },
+    {
+      "article_id": 612,
+      "places": [
+        {
+          "nama_tempat": "Rumah Makan Sunset",
+          "kategori": "Restoran",
+          "lokasi_text": "Desa Bulakan, Kecamatan Cinangka, Anyer, Serang",
+          "alasan_viral": "Rumah makan seafood di kawasan pantai Anyer",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Rumah Makan 195 Seafood",
+          "kategori": "Restoran",
+          "lokasi_text": "Anyer, Serang, Banten",
+          "alasan_viral": "Rumah makan seafood di kawasan Anyer",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 613,
+      "places": [
+        {
+          "nama_tempat": "Pawon Ma'inin",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Jenderal Sudirman No. 27, Penancangan, Cipocok Jaya, Kota Serang",
+          "alasan_viral": "Grand opening rumah makan baru",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 614,
+      "places": []
+    },
+    {
+      "article_id": 615,
+      "places": [
+        {
+          "nama_tempat": "Gunung Anak Krakatau",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Selat Sunda, Banten/Lampung",
+          "alasan_viral": "Aktivitas gunung dipantau terkait wisata",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.3
+        }
+      ]
+    },
+    {
+      "article_id": 616,
+      "places": [
+        {
+          "nama_tempat": "Kawasan Wisata Baduy",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Terminal Ciboleger, Desa Kanekes, Kabupaten Lebak",
+          "alasan_viral": "Promo tiket DAMRI Rp1 ke destinasi Baduy",
+          "indikasi_waktu": "26 April - 31 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Pantai Sawarna",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Lebak, Banten",
+          "alasan_viral": "Destinasi rute DAMRI wisata",
+          "indikasi_waktu": "26 April - 31 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 617,
+      "places": [
+        {
+          "nama_tempat": "Satu Asa Coffee",
+          "kategori": "Kafe",
+          "lokasi_text": "Kota Serang, Banten",
+          "alasan_viral": "Kedai kopi lokal Serang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 618,
+      "places": [
+        {
+          "nama_tempat": "Situ Gede",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Tangerang, Banten",
+          "alasan_viral": "Wisata danau",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "Situ Cikoncang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kecamatan Wanasalam, Kabupaten Lebak",
+          "alasan_viral": "Wisata danau",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 619,
+      "places": [
+        {
+          "nama_tempat": "Exciting Banten Festival 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Pantai Cibeureum, Anyer, Serang",
+          "alasan_viral": "Festival pariwisata Banten",
+          "indikasi_waktu": "27-28 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 620,
+      "places": []
+    },
+    {
+      "article_id": 621,
+      "places": [
+        {
+          "nama_tempat": "Festival Mustika Rasa",
+          "kategori": "Pameran",
+          "lokasi_text": "Museum Multatuli, Rangkasbitung, Lebak",
+          "alasan_viral": "Festival kuliner nusantara",
+          "indikasi_waktu": "16-20 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Museum Multatuli",
+          "kategori": "Museum",
+          "lokasi_text": "Rangkasbitung, Kabupaten Lebak",
+          "alasan_viral": "Lokasi Festival Mustika Rasa",
+          "indikasi_waktu": "16-20 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 622,
+      "places": []
+    },
+    {
+      "article_id": 623,
+      "places": [
+        {
+          "nama_tempat": "Pameran Nasional Pusaka Nusantara 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Museum Negeri Provinsi Banten, Kota Serang",
+          "alasan_viral": "Pameran pusaka nasional",
+          "indikasi_waktu": "27 Juli - 20 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 624,
+      "places": [
+        {
+          "nama_tempat": "Curug Cross",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Cibojong, Kecamatan Padarincang, Kabupaten Serang",
+          "alasan_viral": "Air terjun yang auto viral di media sosial",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Bukit Waruwangi",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Serang, Banten",
+          "alasan_viral": "Wisata perbukitan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 625,
+      "places": []
+    },
+    {
+      "article_id": 626,
+      "places": [
+        {
+          "nama_tempat": "Rustic Market Explore The Museum",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jalan Raya Bojong Koneng, Babakan Madang, Kabupaten Bogor",
+          "alasan_viral": "Viral sejak akhir 2025, nuansa pedesaan Eropa",
+          "indikasi_waktu": "Sejak akhir 2025",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 627,
+      "places": []
+    },
+    {
+      "article_id": 628,
+      "places": []
+    },
+    {
+      "article_id": 629,
+      "places": []
+    }
+  ]
+}

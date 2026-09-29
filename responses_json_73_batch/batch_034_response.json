@@ -1,0 +1,194 @@
+{
+  "results": [
+    {
+      "article_id": 990,
+      "places": []
+    },
+    {
+      "article_id": 991,
+      "places": []
+    },
+    {
+      "article_id": 992,
+      "places": [
+        {
+          "nama_tempat": "Pasar Pagi Samarinda",
+          "kategori": "lainnya",
+          "lokasi_text": "Samarinda, Kalimantan Timur",
+          "alasan_viral": "Viral video sekuriti umpat wartawati \"media busuk\" (isu negatif)",
+          "indikasi_waktu": "11 Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 993,
+      "places": []
+    },
+    {
+      "article_id": 994,
+      "places": []
+    },
+    {
+      "article_id": 995,
+      "places": []
+    },
+    {
+      "article_id": 996,
+      "places": []
+    },
+    {
+      "article_id": 997,
+      "places": []
+    },
+    {
+      "article_id": 998,
+      "places": []
+    },
+    {
+      "article_id": 999,
+      "places": [
+        {
+          "nama_tempat": "Pedas Puas Festival (PPF) 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Lapangan Parkir GOR Segiri, Samarinda",
+          "alasan_viral": "Festival kuliner pedas 7 hari 7 malam, 23.000 pengunjung, menu viral",
+          "indikasi_waktu": "1-7 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 1000,
+      "places": []
+    },
+    {
+      "article_id": 1001,
+      "places": [
+        {
+          "nama_tempat": "Festival Kuliner Viral dari Jakarta (Go Market)",
+          "kategori": "Pameran",
+          "lokasi_text": "Komplek My Home Sintang, Kabupaten Sintang",
+          "alasan_viral": "Festival kuliner viral yang membludak pengunjung",
+          "indikasi_waktu": "29 April - 10 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 1002,
+      "places": []
+    },
+    {
+      "article_id": 1003,
+      "places": []
+    },
+    {
+      "article_id": 1004,
+      "places": [
+        {
+          "nama_tempat": "Erau Adat Kutai 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Tenggarong, Kutai Kartanegara",
+          "alasan_viral": "Festival adat masuk 100 event adat terbaik nasional",
+          "indikasi_waktu": "Penutupan 27 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1005,
+      "places": []
+    },
+    {
+      "article_id": 1006,
+      "places": []
+    },
+    {
+      "article_id": 1007,
+      "places": [
+        {
+          "nama_tempat": "Festival Kemudahan dan Perlindungan Usaha Mikro",
+          "kategori": "Pameran",
+          "lokasi_text": "Balikpapan, Kalimantan Timur",
+          "alasan_viral": "Festival 1.000 pelaku usaha mikro",
+          "indikasi_waktu": "17 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1008,
+      "places": []
+    },
+    {
+      "article_id": 1009,
+      "places": []
+    },
+    {
+      "article_id": 1010,
+      "places": []
+    },
+    {
+      "article_id": 1011,
+      "places": []
+    },
+    {
+      "article_id": 1012,
+      "places": [
+        {
+          "nama_tempat": "Karya Kreatif Benuanta (KKB) 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Kebun Raya Bundayati, Kabupaten Bulungan",
+          "alasan_viral": "Pameran UMKM Kaltara tahun ketujuh",
+          "indikasi_waktu": "27-30 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1013,
+      "places": []
+    },
+    {
+      "article_id": 1014,
+      "places": []
+    },
+    {
+      "article_id": 1015,
+      "places": [
+        {
+          "nama_tempat": "Pasar Ikan Higienis Tengkayu II",
+          "kategori": "lainnya",
+          "lokasi_text": "Pelabuhan Perikanan Tengkayu II, Kota Tarakan",
+          "alasan_viral": "Pasar ikan higienis penggerak ekonomi perikanan",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1016,
+      "places": []
+    },
+    {
+      "article_id": 1017,
+      "places": []
+    },
+    {
+      "article_id": 1018,
+      "places": []
+    },
+    {
+      "article_id": 1019,
+      "places": []
+    }
+  ]
+}

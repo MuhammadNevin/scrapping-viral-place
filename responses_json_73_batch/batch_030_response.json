@@ -1,0 +1,231 @@
+{
+  "results": [
+    {
+      "article_id": 870,
+      "places": []
+    },
+    {
+      "article_id": 871,
+      "places": []
+    },
+    {
+      "article_id": 872,
+      "places": []
+    },
+    {
+      "article_id": 873,
+      "places": []
+    },
+    {
+      "article_id": 874,
+      "places": []
+    },
+    {
+      "article_id": 875,
+      "places": []
+    },
+    {
+      "article_id": 876,
+      "places": []
+    },
+    {
+      "article_id": 877,
+      "places": []
+    },
+    {
+      "article_id": 878,
+      "places": []
+    },
+    {
+      "article_id": 879,
+      "places": []
+    },
+    {
+      "article_id": 880,
+      "places": []
+    },
+    {
+      "article_id": 881,
+      "places": [
+        {
+          "nama_tempat": "Goa Rangko",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Manggarai Barat, NTT",
+          "alasan_viral": "Ditutup sementara pascagempa M7,7 Flores (isu negatif)",
+          "indikasi_waktu": "Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Kampung Adat Wae Rebo",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Manggarai, NTT",
+          "alasan_viral": "Ditutup sementara pascagempa (isu negatif)",
+          "indikasi_waktu": "Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Taman Nasional Kelimutu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Ende, NTT",
+          "alasan_viral": "Ditutup sementara pascagempa (isu negatif)",
+          "indikasi_waktu": "Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Taman Nasional Komodo",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Manggarai Barat, NTT",
+          "alasan_viral": "Tetap beroperasi normal pascagempa",
+          "indikasi_waktu": "Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 882,
+      "places": []
+    },
+    {
+      "article_id": 883,
+      "places": [
+        {
+          "nama_tempat": "Danau Kelimutu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Ende, NTT",
+          "alasan_viral": "Dibuka kembali dengan pembatasan jalur setelah gempa",
+          "indikasi_waktu": "25 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 884,
+      "places": []
+    },
+    {
+      "article_id": 885,
+      "places": [
+        {
+          "nama_tempat": "Pekan Wisma Raya II dan Festival Aladin 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Lapangan Mini Kalabahi, Kabupaten Alor",
+          "alasan_viral": "Festival promosi pariwisata, seni budaya, dan UMKM",
+          "indikasi_waktu": "9-14 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 886,
+      "places": [
+        {
+          "nama_tempat": "Pulau Padar",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Taman Nasional Komodo, Labuan Bajo, NTT",
+          "alasan_viral": "Liburan artis jadi sorotan karena pelayaran sedang dibatasi (isu negatif)",
+          "indikasi_waktu": "9 Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 887,
+      "places": []
+    },
+    {
+      "article_id": 888,
+      "places": [
+        {
+          "nama_tempat": "Pulau Padar",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Labuan Bajo, NTT",
+          "alasan_viral": "Viral video turis buang sampah sembarangan di Pos 4, ditonton 1,7 juta kali (isu negatif)",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 889,
+      "places": [
+        {
+          "nama_tempat": "Air Terjun Mataru",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "NTT",
+          "alasan_viral": "Air terjun indah dalam tayangan My Trip My Adventure",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 890,
+      "places": []
+    },
+    {
+      "article_id": 891,
+      "places": []
+    },
+    {
+      "article_id": 892,
+      "places": []
+    },
+    {
+      "article_id": 893,
+      "places": []
+    },
+    {
+      "article_id": 894,
+      "places": [
+        {
+          "nama_tempat": "Kebon Vintage Cars Bali",
+          "kategori": "Museum",
+          "lokasi_text": "Biaung, Denpasar Timur",
+          "alasan_viral": "Museum mobil klasik gelar konser amal korban gempa NTT",
+          "indikasi_waktu": "7 Oktober 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 895,
+      "places": []
+    },
+    {
+      "article_id": 896,
+      "places": []
+    },
+    {
+      "article_id": 897,
+      "places": []
+    },
+    {
+      "article_id": 898,
+      "places": [
+        {
+          "nama_tempat": "Toko Maci Mart Reo",
+          "kategori": "lainnya",
+          "lokasi_text": "Kecamatan Reok, Kabupaten Manggarai, NTT",
+          "alasan_viral": "Aksi pemilik toko tetap buka bantu korban gempa menarik perhatian netizen",
+          "indikasi_waktu": "17 Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 899,
+      "places": []
+    }
+  ]
+}

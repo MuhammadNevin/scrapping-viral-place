@@ -1,0 +1,232 @@
+{
+  "results": [
+    {
+      "article_id": 180,
+      "places": [
+        {
+          "nama_tempat": "Pasar Triwindu",
+          "kategori": "lainnya",
+          "lokasi_text": "Kecamatan Banjarsari, Kota Solo, Jawa Tengah",
+          "alasan_viral": "Viral karena oknum satpam menarik parkir ngepruk (isu negatif)",
+          "indikasi_waktu": "19-22 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 181,
+      "places": []
+    },
+    {
+      "article_id": 182,
+      "places": [
+        {
+          "nama_tempat": "Pusat Grosir Asemka",
+          "kategori": "lainnya",
+          "lokasi_text": "Asemka, Jakarta Barat",
+          "alasan_viral": "Tempat Gen Z berburu barang tren/viral untuk dijual ulang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 183,
+      "places": []
+    },
+    {
+      "article_id": 184,
+      "places": []
+    },
+    {
+      "article_id": 185,
+      "places": [
+        {
+          "nama_tempat": "Pasar Triwindu",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Solo, Jawa Tengah",
+          "alasan_viral": "Pusat oleh-oleh barang antik; viral karena tarif parkir ngepruk oleh oknum satpam (isu negatif)",
+          "indikasi_waktu": "September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Tahir Solo Museum",
+          "kategori": "Museum",
+          "lokasi_text": "Kota Solo",
+          "alasan_viral": "Pengunjung mengeluhkan tarif parkir mobil ngepruk",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 186,
+      "places": []
+    },
+    {
+      "article_id": 187,
+      "places": [
+        {
+          "nama_tempat": "Pasar Triwindu",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Solo, Jawa Tengah",
+          "alasan_viral": "Viral satpam tarik parkir ngepruk (isu negatif)",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 188,
+      "places": [
+        {
+          "nama_tempat": "Pasar Jambu Dua",
+          "kategori": "lainnya",
+          "lokasi_text": "Jl. A. Yani No.1, Bantarjati, Kota Bogor",
+          "alasan_viral": "Viral jadi tempat nongkrong kalcer Gen Z, dijuluki Blok M-nya Bogor, sentra kuliner kekinian lantai 2 dengan 184 tenant",
+          "indikasi_waktu": "Mulai Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        },
+        {
+          "nama_tempat": "Bakmi Posar",
+          "kategori": "Restoran",
+          "lokasi_text": "Lantai 2 Pasar Jambu Dua, Kota Bogor",
+          "alasan_viral": "Pelopor tenant kuliner di Pasar Jambu Dua",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 189,
+      "places": []
+    },
+    {
+      "article_id": 190,
+      "places": []
+    },
+    {
+      "article_id": 191,
+      "places": []
+    },
+    {
+      "article_id": 192,
+      "places": [
+        {
+          "nama_tempat": "Pasar Triwindu",
+          "kategori": "lainnya",
+          "lokasi_text": "Kecamatan Banjarsari, Kota Solo",
+          "alasan_viral": "Viral pemotor ditarik parkir ngepruk oleh satpam (isu negatif)",
+          "indikasi_waktu": "19 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 193,
+      "places": []
+    },
+    {
+      "article_id": 194,
+      "places": []
+    },
+    {
+      "article_id": 195,
+      "places": [
+        {
+          "nama_tempat": "Wahana Bianglala Pasar Malam Desa Laut Dendang",
+          "kategori": "Wahana",
+          "lokasi_text": "Desa Laut Dendang, Kecamatan Percut Sei Tuan, Kabupaten Deli Serdang",
+          "alasan_viral": "Viral karena bianglala rusak dan 30 pengunjung terjebak (isu negatif)",
+          "indikasi_waktu": "11 Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 196,
+      "places": []
+    },
+    {
+      "article_id": 197,
+      "places": [
+        {
+          "nama_tempat": "Pasar Malam Raohe (Raohe Street Night Market)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Taipei, Taiwan",
+          "alasan_viral": "Viral karena aksi Jensen Huang mentraktir antrean jagung bakar",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 198,
+      "places": []
+    },
+    {
+      "article_id": 199,
+      "places": []
+    },
+    {
+      "article_id": 200,
+      "places": []
+    },
+    {
+      "article_id": 201,
+      "places": []
+    },
+    {
+      "article_id": 202,
+      "places": []
+    },
+    {
+      "article_id": 203,
+      "places": []
+    },
+    {
+      "article_id": 204,
+      "places": [
+        {
+          "nama_tempat": "Toko buku di Kawasan Wisata Mianhua Tiankeng",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Mianhua, Kota Hechi, Guangxi, Tiongkok",
+          "alasan_viral": "Toko buku di tebing lubang runtuhan sedalam 326 meter menjadi viral dan tempat check-in populer",
+          "indikasi_waktu": "Dibuka Mei 2025",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 205,
+      "places": []
+    },
+    {
+      "article_id": 206,
+      "places": []
+    },
+    {
+      "article_id": 207,
+      "places": []
+    },
+    {
+      "article_id": 208,
+      "places": []
+    },
+    {
+      "article_id": 209,
+      "places": []
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "results": [
+    {
+      "article_id": 2070,
+      "places": []
+    },
+    {
+      "article_id": 2071,
+      "places": []
+    },
+    {
+      "article_id": 2072,
+      "places": []
+    },
+    {
+      "article_id": 2073,
+      "places": []
+    },
+    {
+      "article_id": 2074,
+      "places": []
+    },
+    {
+      "article_id": 2075,
+      "places": []
+    },
+    {
+      "article_id": 2076,
+      "places": [
+        {
+          "nama_tempat": "Festival Danau Sentani XV",
+          "kategori": "Pameran",
+          "lokasi_text": "Sentani, Kabupaten Jayapura",
+          "alasan_viral": "Festival budaya tahunan yang sedang dipersiapkan Pemkab Jayapura",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 2077,
+      "places": [
+        {
+          "nama_tempat": "Kampung Piala Dunia Dok IX Kali",
+          "kategori": "lainnya",
+          "lokasi_text": "RW 07 Dok IX Kali, Kelurahan Imbi, Kota Jayapura",
+          "alasan_viral": "Kampung dihias lukisan bintang sepak bola dan replika tribun stadion, jadi pusat perhatian pecinta bola",
+          "indikasi_waktu": "10 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 2078,
+      "places": [
+        {
+          "nama_tempat": "Soto Gading",
+          "kategori": "Restoran",
+          "lokasi_text": "Kawasan Gading, dekat Alun-Alun Kidul, Solo",
+          "alasan_viral": "Soto ayam kuah bening legendaris untuk sarapan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Soto Triwindu",
+          "kategori": "Restoran",
+          "lokasi_text": "Sekitar Pasar Triwindu, Solo",
+          "alasan_viral": "Soto daging sapi kuah bening legendaris",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Soto Kirana",
+          "kategori": "Restoran",
+          "lokasi_text": "Jayengan, Solo",
+          "alasan_viral": "Soto ayam khas Solo dengan kuah ringan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Soto Seger Hj. Fatimah",
+          "kategori": "Restoran",
+          "lokasi_text": "Tipes, Serengan, Solo",
+          "alasan_viral": "Soto kuah bening segar pilihan sarapan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Soto Sapi Bu Hadi",
+          "kategori": "Restoran",
+          "lokasi_text": "Solo",
+          "alasan_viral": "Soto daging sapi pilihan sarapan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 2079,
+      "places": []
+    },
+    {
+      "article_id": 2080,
+      "places": [
+        {
+          "nama_tempat": "Nasi Liwet Wongso Lemu",
+          "kategori": "Restoran",
+          "lokasi_text": "Solo",
+          "alasan_viral": "Nasi liwet legendaris sejak 1950, selalu ramai hingga antre",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 2081,
+      "places": [
+        {
+          "nama_tempat": "Tahir Solo Museum",
+          "kategori": "Museum",
+          "lokasi_text": "Jebres, Solo",
+          "alasan_viral": "Museum baru yang megah dan populer, ramai dikunjungi wisatawan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 2082,
+      "places": [
+        {
+          "nama_tempat": "Taman Sriwedari",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Sriwedari, Surakarta",
+          "alasan_viral": "Viral rusa koleksi mengais makanan dari tempat sampah, Pemkot turun tangan (isu negatif)",
+          "indikasi_waktu": "6 Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 2083,
+      "places": [
+        {
+          "nama_tempat": "Serabi Notosuman",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Mohammad Yamin No. 28, Solo",
+          "alasan_viral": "Jajanan serabi legendaris sejak 1923 dimasak di tungku",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Es Dawet Telasih Bu Dermi",
+          "kategori": "Kafe",
+          "lokasi_text": "Pasar Gede, Solo",
+          "alasan_viral": "Es dawet legendaris sejak 1930, pernah disambangi Presiden Jokowi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 2084,
+      "places": [
+        {
+          "nama_tempat": "Timlo Sastro 1",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Abdul Muis No.32A, Kepatihan Kulon, Jebres, Surakarta",
+          "alasan_viral": "Tempat sarapan timlo legendaris khas Solo",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Soto Gading 1",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Brigjen Sudiarto No.75, Joyosuran, Pasar Kliwon, Surakarta",
+          "alasan_viral": "Soto ayam kuah bening legendaris tujuan wisata kuliner",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Gudeg Ceker Margoyudan Bu Kasno",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Wolter Monginsidi No.41-43, Setabelan, Banjarsari, Solo",
+          "alasan_viral": "Gudeg dengan ceker ayam empuk untuk sarapan khas Solo",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 2085,
+      "places": []
+    },
+    {
+      "article_id": 2086,
+      "places": [
+        {
+          "nama_tempat": "Rumah Makan Pak Die Solo Balapan",
+          "kategori": "Restoran",
+          "lokasi_text": "Kestalan, Banjarsari, Solo",
+          "alasan_viral": "Masakan Jawa rumahan dekat Stasiun Solo Balapan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Sate Kambing-Buntel Pak H. Kasdi",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Walter Monginsidi, Solo",
+          "alasan_viral": "Sate kambing dan sate buntel favorit dekat Stasiun Solo Balapan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Selat Vien's Pusat",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Hasanudin, Punggawan, Solo",
+          "alasan_viral": "Menyajikan selat Solo khas yang menyegarkan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 2087,
+      "places": [
+        {
+          "nama_tempat": "Warung Makan Bu Las",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Demak II, Solo",
+          "alasan_viral": "Populer dengan ayam tulang lunak berbumbu rempah, harga ekonomis",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Ayam Geprek Kumlot",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Kartika 5, Solo",
+          "alasan_viral": "Ayam geprek crispy dengan level pedas bisa disesuaikan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 2088,
+      "places": [
+        {
+          "nama_tempat": "Selat Solo Mbak Lies",
+          "kategori": "Restoran",
+          "lokasi_text": "Solo",
+          "alasan_viral": "Warung selat Solo legendaris yang ikonik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 2089,
+      "places": [
+        {
+          "nama_tempat": "Taman Sriwedari",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Sriwedari, Solo",
+          "alasan_viral": "Viral rusa mengais makanan dari tempat sampah, Pemkot Solo turun tangan (isu negatif)",
+          "indikasi_waktu": "6 Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 2090,
+      "places": [
+        {
+          "nama_tempat": "Kereta Hantu Solo",
+          "kategori": "Wahana",
+          "lokasi_text": "Transmart Pabelan Solo lantai F1, Jalan A. Yani No. 234, Banaran, Pabelan, Kartasura, Sukoharjo",
+          "alasan_viral": "Wahana horor baru yang ramai diperbincangkan dan viral di kalangan pengunjung",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 2091,
+      "places": []
+    },
+    {
+      "article_id": 2092,
+      "places": [
+        {
+          "nama_tempat": "De Tjolomadoe",
+          "kategori": "Museum",
+          "lokasi_text": "Solo",
+          "alasan_viral": "Bekas pabrik gula Belanda jadi destinasi heritage modern yang instagramable",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Tumurun Private Museum",
+          "kategori": "Museum",
+          "lokasi_text": "Solo",
+          "alasan_viral": "Museum privat seni kontemporer dengan interior estetik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 2093,
+      "places": []
+    },
+    {
+      "article_id": 2094,
+      "places": [
+        {
+          "nama_tempat": "Solo Safari",
+          "kategori": "Wahana",
+          "lokasi_text": "Jalan Ir. Sutami No.109, Jebres, Kota Surakarta",
+          "alasan_viral": "Destinasi wisata keluarga viral berkat orang utan Didi dan singa Febri",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 2095,
+      "places": [
+        {
+          "nama_tempat": "Tahir Solo Museum",
+          "kategori": "Museum",
+          "lokasi_text": "Kota Solo",
+          "alasan_viral": "Museum menunggak PBB Rp600 juta dan dikeluhkan tarif parkir ngepruk (isu negatif)",
+          "indikasi_waktu": "8 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 2096,
+      "places": [
+        {
+          "nama_tempat": "Tahir Solo Museum",
+          "kategori": "Museum",
+          "lokasi_text": "Kota Solo",
+          "alasan_viral": "Destinasi budaya baru soft launching, keluhan tarif parkir di kawasannya viral di media sosial",
+          "indikasi_waktu": "25 Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 2097,
+      "places": [
+        {
+          "nama_tempat": "Tahir Solo Museum",
+          "kategori": "Museum",
+          "lokasi_text": "Dekat kampus UNS, Kota Solo",
+          "alasan_viral": "Museum modern baru dibuka dengan koleksi sains, dinosaurus, dan budaya Nusantara",
+          "indikasi_waktu": "25 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 2098,
+      "places": [
+        {
+          "nama_tempat": "Museum Tahir Solo",
+          "kategori": "Museum",
+          "lokasi_text": "Solo, Jawa Tengah",
+          "alasan_viral": "Memamerkan fosil dinosaurus asli Omeisaurus dari Sichuan, pertama di Indonesia",
+          "indikasi_waktu": "27 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 2099,
+      "places": []
+    }
+  ]
+}

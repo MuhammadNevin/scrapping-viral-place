@@ -1,0 +1,251 @@
+{
+  "results": [
+    {
+      "article_id": 1920,
+      "places": []
+    },
+    {
+      "article_id": 1921,
+      "places": []
+    },
+    {
+      "article_id": 1922,
+      "places": []
+    },
+    {
+      "article_id": 1923,
+      "places": [
+        {
+          "nama_tempat": "Bandar Lampung Expo 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Graha Mandala Alam Siger, Bandar Lampung",
+          "alasan_viral": "Rangkaian HUT ke-344 Kota Bandar Lampung dengan lomba masakan tradisional dan jajanan pasar",
+          "indikasi_waktu": "22 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1924,
+      "places": []
+    },
+    {
+      "article_id": 1925,
+      "places": []
+    },
+    {
+      "article_id": 1926,
+      "places": []
+    },
+    {
+      "article_id": 1927,
+      "places": []
+    },
+    {
+      "article_id": 1928,
+      "places": []
+    },
+    {
+      "article_id": 1929,
+      "places": []
+    },
+    {
+      "article_id": 1930,
+      "places": []
+    },
+    {
+      "article_id": 1931,
+      "places": [
+        {
+          "nama_tempat": "Soto Padang Mak Datuak",
+          "kategori": "Restoran",
+          "lokasi_text": "Pujasera Blok M Square, Jakarta Selatan",
+          "alasan_viral": "Soto Padang legendaris resep otentik Bukittinggi sejak 2010",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1932,
+      "places": [
+        {
+          "nama_tempat": "Soto Padang H. St. Mangkuto",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Pintu Air Raya No. 26, Pasar Baru, Jakarta Pusat",
+          "alasan_viral": "Soto Padang tertua di Jakarta, berdiri sejak 1942",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Soto Padang Pak Malin",
+          "kategori": "Restoran",
+          "lokasi_text": "Blok M Square Lantai Basement Blok J.72, Melawai, Jakarta Selatan",
+          "alasan_viral": "Sempat viral karena banyak konten review soto",
+          "indikasi_waktu": "Pertengahan 2025",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1933,
+      "places": [
+        {
+          "nama_tempat": "Sinar Surya",
+          "kategori": "Restoran",
+          "lokasi_text": "Dekat Pasar Benhil, Bendungan Hilir, Jakarta Pusat",
+          "alasan_viral": "Warung tenda ikan bakar khas Padang laris saat makan siang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1934,
+      "places": [
+        {
+          "nama_tempat": "Restoran Sederhana Singapura",
+          "kategori": "Restoran",
+          "lokasi_text": "Kampong Glam, Singapura",
+          "alasan_viral": "Restoran Padang baru buka mendadak viral, antrean panjang dan makanan ludes",
+          "indikasi_waktu": "29-30 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1935,
+      "places": [
+        {
+          "nama_tempat": "Wisata Dadakan Padang Ilalang Binturu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Binturu, Kecamatan Kelua, Kabupaten Tabalong",
+          "alasan_viral": "Hamparan ilalang viral di TikTok, dikunjungi ratusan orang per hari",
+          "indikasi_waktu": "26 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 1936,
+      "places": [
+        {
+          "nama_tempat": "Jembatan Siti Nurbaya",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Padang, Sumatera Barat",
+          "alasan_viral": "Ikon wisata Kota Padang dengan pemandangan instagramable",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1937,
+      "places": []
+    },
+    {
+      "article_id": 1938,
+      "places": []
+    },
+    {
+      "article_id": 1939,
+      "places": []
+    },
+    {
+      "article_id": 1940,
+      "places": []
+    },
+    {
+      "article_id": 1941,
+      "places": [
+        {
+          "nama_tempat": "Sate Padang Pariaman Merjosari",
+          "kategori": "Restoran",
+          "lokasi_text": "Merjosari, Kota Malang",
+          "alasan_viral": "Kuliner sate Padang di tengah tren kuliner murah Malang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1942,
+      "places": []
+    },
+    {
+      "article_id": 1943,
+      "places": []
+    },
+    {
+      "article_id": 1944,
+      "places": []
+    },
+    {
+      "article_id": 1945,
+      "places": []
+    },
+    {
+      "article_id": 1946,
+      "places": [
+        {
+          "nama_tempat": "Taman Pinggir Sungai Siak",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Pekanbaru",
+          "alasan_viral": "Ruang terbuka dengan pemandangan ikon Sungai Siak untuk liburan keluarga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "D'keboen Park",
+          "kategori": "Wahana",
+          "lokasi_text": "Jl. Beringin, Air Hitam, Payung Sekaki, Pekanbaru",
+          "alasan_viral": "Rekreasi keluarga dengan berbagai wahana permainan anak",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Taman Aerosport",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Dekat Bandara SSK II, Pekanbaru",
+          "alasan_viral": "Taman teduh dengan wahana perahu bebek",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1947,
+      "places": []
+    },
+    {
+      "article_id": 1948,
+      "places": []
+    },
+    {
+      "article_id": 1949,
+      "places": [
+        {
+          "nama_tempat": "Festival Kue Ketan Talam Durian",
+          "kategori": "Pameran",
+          "lokasi_text": "Jalan Jendral Sudirman, Pekanbaru",
+          "alasan_viral": "Tercatat MURI sebagai sajian terpanjang, dipadati jutaan warga saat HUT Pekanbaru ke-242",
+          "indikasi_waktu": "21 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    }
+  ]
+}

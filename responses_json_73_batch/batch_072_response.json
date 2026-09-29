@@ -1,0 +1,322 @@
+{
+  "results": [
+    {
+      "article_id": 2130,
+      "places": []
+    },
+    {
+      "article_id": 2131,
+      "places": []
+    },
+    {
+      "article_id": 2132,
+      "places": [
+        {
+          "nama_tempat": "Panggung Rakyat Taman Parkir Sumber",
+          "kategori": "lainnya",
+          "lokasi_text": "Sumber, Kabupaten Cirebon",
+          "alasan_viral": "Ruang publik dengan hiburan musik, kesenian tradisional dan stan kuliner UMKM tiap akhir pekan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 2133,
+      "places": [
+        {
+          "nama_tempat": "Taman Ade Irma Suryani",
+          "kategori": "Wahana",
+          "lokasi_text": "Jalan Yos Sudarso, pinggir pantai Kota Cirebon",
+          "alasan_viral": "Cirebon Waterland kembali ke nama lama dan dipercantik untuk dongkrak kunjungan yang lesu",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 2134,
+      "places": [
+        {
+          "nama_tempat": "Lembur Pakuan",
+          "kategori": "lainnya",
+          "lokasi_text": "Subang",
+          "alasan_viral": "Destinasi wisata edukatif yang dikunjungi rombongan anak yatim",
+          "indikasi_waktu": "27-28 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        },
+        {
+          "nama_tempat": "Museum Geologi Bandung",
+          "kategori": "Museum",
+          "lokasi_text": "Bandung",
+          "alasan_viral": "Destinasi wisata edukatif yang dikunjungi rombongan anak yatim",
+          "indikasi_waktu": "27-28 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 2135,
+      "places": [
+        {
+          "nama_tempat": "Museum Linggarjati",
+          "kategori": "Museum",
+          "lokasi_text": "Linggarjati, Kuningan",
+          "alasan_viral": "Pedagang museum berjuang di tengah sepinya pengunjung pasca COVID-19",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 2136,
+      "places": []
+    },
+    {
+      "article_id": 2137,
+      "places": []
+    },
+    {
+      "article_id": 2138,
+      "places": []
+    },
+    {
+      "article_id": 2139,
+      "places": [
+        {
+          "nama_tempat": "Pasar Rumput Plumbon",
+          "kategori": "lainnya",
+          "lokasi_text": "Desa Karangmulya, Kecamatan Plumbon, Kabupaten Cirebon",
+          "alasan_viral": "Tumpukan sampah setinggi dua meter di belakang pasar viral di media sosial (isu negatif)",
+          "indikasi_waktu": "31 Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 2140,
+      "places": [
+        {
+          "nama_tempat": "Gunungsari Trade Centre",
+          "kategori": "lainnya",
+          "lokasi_text": "Pasar Gunungsari, Kota Cirebon",
+          "alasan_viral": "Video keributan pengamen dan pengunjung di pusat kuliner malam viral di media sosial (isu negatif)",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 2141,
+      "places": [
+        {
+          "nama_tempat": "Pasar Jagasatru",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Cirebon",
+          "alasan_viral": "Aksi pencurian sayur berulang terekam CCTV viral dan jadi perbincangan warganet (isu negatif)",
+          "indikasi_waktu": "6 Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 2142,
+      "places": []
+    },
+    {
+      "article_id": 2143,
+      "places": []
+    },
+    {
+      "article_id": 2144,
+      "places": [
+        {
+          "nama_tempat": "Gunungsari Trade Centre",
+          "kategori": "lainnya",
+          "lokasi_text": "Pasar Gunungsari, Kota Cirebon",
+          "alasan_viral": "Keributan pengamen dan pengunjung kawasan kuliner malam viral dan jadi sorotan publik (isu negatif)",
+          "indikasi_waktu": "4 Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 2145,
+      "places": [
+        {
+          "nama_tempat": "Pasar Tumaritis",
+          "kategori": "Pameran",
+          "lokasi_text": "Jalan Sekarkemuning, Kelurahan Karya Mulya, Kecamatan Kesambi, Kota Cirebon",
+          "alasan_viral": "Pasar artisan pertama di Cirebon dengan kuliner, literasi dan karya warga binaan",
+          "indikasi_waktu": "14 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 2146,
+      "places": [
+        {
+          "nama_tempat": "Keraton Kanoman",
+          "kategori": "Museum",
+          "lokasi_text": "Kota Cirebon",
+          "alasan_viral": "Polemik rencana pasar darurat di depan keraton ditolak keluarga Kesultanan (isu negatif)",
+          "indikasi_waktu": "7 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 2147,
+      "places": []
+    },
+    {
+      "article_id": 2148,
+      "places": []
+    },
+    {
+      "article_id": 2149,
+      "places": []
+    },
+    {
+      "article_id": 2150,
+      "places": []
+    },
+    {
+      "article_id": 2151,
+      "places": [
+        {
+          "nama_tempat": "Trikarsa Fest 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Grage Mall Cirebon",
+          "alasan_viral": "Festival kreatif dan bazar UKM gelaran BI Cirebon dengan 37 program",
+          "indikasi_waktu": "14-17 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 2152,
+      "places": [
+        {
+          "nama_tempat": "Festival Kepatihan 2",
+          "kategori": "Pameran",
+          "lokasi_text": "Kecamatan Pekalipan, Kota Cirebon",
+          "alasan_viral": "Festival bernuansa spiritual dengan kuliner tradisional Nasi Bogana di Hari Jadi Cirebon",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Festival Serabi",
+          "kategori": "Pameran",
+          "lokasi_text": "Kota Cirebon",
+          "alasan_viral": "Festival serabi pertama di Kota Cirebon diikuti 20 UMKM",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 2153,
+      "places": [
+        {
+          "nama_tempat": "Trikarsa Fest 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Grage Mall Cirebon",
+          "alasan_viral": "Festival ekonomi, budaya dan kreativitas dengan UMKM, kompetisi dan hiburan",
+          "indikasi_waktu": "14-17 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 2154,
+      "places": []
+    },
+    {
+      "article_id": 2155,
+      "places": [
+        {
+          "nama_tempat": "Warung Sangu Alun-Alun",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Otto Iskandar Dinata, Kota Tasikmalaya",
+          "alasan_viral": "Rumah makan olahan ikan dan cumi goreng dadakan yang viral di media sosial, didatangi legenda Persib",
+          "indikasi_waktu": "27 Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 2156,
+      "places": [
+        {
+          "nama_tempat": "Tonjong Canyon",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Nagrog, Kecamatan Cipatujah, Kabupaten Tasikmalaya",
+          "alasan_viral": "Ngarai dengan sungai hijau toska dijuluki Green Canyon mini, viral di Instagram dan TikTok",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 2157,
+      "places": [
+        {
+          "nama_tempat": "Gua Safarwadi",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Panyalahan, Desa Pamijahan, Kecamatan Bantarkalong, Kabupaten Tasikmalaya",
+          "alasan_viral": "Wisata religi yang viral karena disebut punya jalan tembus ke Mekkah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 2158,
+      "places": [
+        {
+          "nama_tempat": "Citiis",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Padakembang, Tasikmalaya",
+          "alasan_viral": "Video preman mengaku penguasa kawasan wisata viral dan memicu kegeraman netizen (isu negatif)",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 2159,
+      "places": [
+        {
+          "nama_tempat": "Jembatan Cirahong",
+          "kategori": "lainnya",
+          "lokasi_text": "Perbatasan Kabupaten Ciamis dan Tasikmalaya",
+          "alasan_viral": "Jembatan heritage ditata Gubernur usai isu pungli, ramai pengunjung karena viral",
+          "indikasi_waktu": "12 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    }
+  ]
+}

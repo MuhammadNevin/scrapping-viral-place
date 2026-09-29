@@ -1,0 +1,298 @@
+{
+  "results": [
+    {
+      "article_id": 1740,
+      "places": [
+        {
+          "nama_tempat": "Bear and Butter",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Western Boulevard No.22, Grand Wisata, Mustikajaya, Bekasi",
+          "alasan_viral": "Bakery artisan ala Jepang langsung diserbu dan diantre pelanggan sejak pagi demi salt bread",
+          "indikasi_waktu": "Sejak awal Maret 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1741,
+      "places": []
+    },
+    {
+      "article_id": 1742,
+      "places": []
+    },
+    {
+      "article_id": 1743,
+      "places": [
+        {
+          "nama_tempat": "Museum Gedung Juang",
+          "kategori": "Museum",
+          "lokasi_text": "Desa Setiadarma, Kecamatan Tambun Selatan, Kabupaten Bekasi",
+          "alasan_viral": "Destinasi wisata sejarah kini dilengkapi Pojok Baca Digital gratis",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1744,
+      "places": []
+    },
+    {
+      "article_id": 1745,
+      "places": []
+    },
+    {
+      "article_id": 1746,
+      "places": []
+    },
+    {
+      "article_id": 1747,
+      "places": []
+    },
+    {
+      "article_id": 1748,
+      "places": []
+    },
+    {
+      "article_id": 1749,
+      "places": []
+    },
+    {
+      "article_id": 1750,
+      "places": []
+    },
+    {
+      "article_id": 1751,
+      "places": [
+        {
+          "nama_tempat": "Ikkudo Ichi",
+          "kategori": "Restoran",
+          "lokasi_text": "Lantai 2 Pakuwon Mall Bekasi, Pekayon Jaya, Bekasi Selatan",
+          "alasan_viral": "Restoran ramen Jepang dengan level pedas bisa dipilih",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "The Misoa Story",
+          "kategori": "Restoran",
+          "lokasi_text": "UG Floor Pakuwon Mall Bekasi, Pekayon Jaya, Bekasi Selatan",
+          "alasan_viral": "Kuliner viral dari Blok M kini buka cabang di Bekasi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Kitchenette",
+          "kategori": "Restoran",
+          "lokasi_text": "Pakuwon Mall Bekasi, Pekayon Jaya, Bekasi Selatan",
+          "alasan_viral": "Restoran bergaya Barat suasana rumahan untuk keluarga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1752,
+      "places": []
+    },
+    {
+      "article_id": 1753,
+      "places": []
+    },
+    {
+      "article_id": 1754,
+      "places": []
+    },
+    {
+      "article_id": 1755,
+      "places": []
+    },
+    {
+      "article_id": 1756,
+      "places": [
+        {
+          "nama_tempat": "Festival Balon Plaza Patriot Candrabhaga",
+          "kategori": "Pameran",
+          "lokasi_text": "Plaza Patriot Candrabhaga, Kota Bekasi",
+          "alasan_viral": "Ratusan warga padati festival balon terbang malam minggu dengan UMKM lokal",
+          "indikasi_waktu": "16 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1757,
+      "places": [
+        {
+          "nama_tempat": "Festival Balon Plaza Patriot Candrabhaga",
+          "kategori": "Pameran",
+          "lokasi_text": "Plaza Patriot Candrabhaga, Jalan Ahmad Yani, Kota Bekasi",
+          "alasan_viral": "Ribuan pengunjung membeludak, picu macet panjang dan keluhan harga balon mahal (isu negatif)",
+          "indikasi_waktu": "16 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1758,
+      "places": [
+        {
+          "nama_tempat": "Hungry Playground",
+          "kategori": "Pameran",
+          "lokasi_text": "Area Parkir Selatan Summarecon Mall Bekasi, Bekasi",
+          "alasan_viral": "Festival kuliner 110 tenant legendaris dan street food viral plus wahana permainan",
+          "indikasi_waktu": "14 Agustus - 20 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 1759,
+      "places": [
+        {
+          "nama_tempat": "Hungry Playground",
+          "kategori": "Pameran",
+          "lokasi_text": "Summarecon Mall Bekasi, Bekasi",
+          "alasan_viral": "Festival kuliner 110 tenant yang menghadirkan kuliner tradisional dari berbagai daerah",
+          "indikasi_waktu": "14 Agustus - 20 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Klepon Gianyar Sejak 1980",
+          "kategori": "Restoran",
+          "lokasi_text": "Gianyar, Bali (tenant Hungry Playground Summarecon Mall Bekasi)",
+          "alasan_viral": "Klepon legendaris yang mempertahankan resep lama, pernah disajikan di Istana Negara",
+          "indikasi_waktu": "15 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1760,
+      "places": []
+    },
+    {
+      "article_id": 1761,
+      "places": [
+        {
+          "nama_tempat": "Festival Balon Plaza Patriot Candrabhaga",
+          "kategori": "Pameran",
+          "lokasi_text": "Plaza Patriot Candrabhaga, Kota Bekasi",
+          "alasan_viral": "Ribuan warga padati festival balon warna-warni, hiburan alternatif akhir pekan",
+          "indikasi_waktu": "16 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1762,
+      "places": []
+    },
+    {
+      "article_id": 1763,
+      "places": []
+    },
+    {
+      "article_id": 1764,
+      "places": [
+        {
+          "nama_tempat": "Kawasan Kuliner Pasar Lama Tangerang",
+          "kategori": "lainnya",
+          "lokasi_text": "Sukasari, Kecamatan Tangerang, Kota Tangerang",
+          "alasan_viral": "Tujuan favorit berburu kuliner malam, ramai terutama malam hari",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Bebek Kaleyo Pasar Lama",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan A. Damyati No.11, Sukasari, Kecamatan Tangerang, Kota Tangerang",
+          "alasan_viral": "Bebek empuk porsi besar dengan sambal pedas pas",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Kepak Madu Mael",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Kisamaun No.38, Sukasari, Kecamatan Tangerang, Kota Tangerang",
+          "alasan_viral": "Sayap ayam bakar madu yang hampir tidak pernah sepi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1765,
+      "places": []
+    },
+    {
+      "article_id": 1766,
+      "places": [
+        {
+          "nama_tempat": "Pempek Kenari",
+          "kategori": "Restoran",
+          "lokasi_text": "Ruko Aniva Junction, Paramount Gading Serpong, Tangerang",
+          "alasan_viral": "Cabang baru pempek khas Palembang langsung ramai dikunjungi",
+          "indikasi_waktu": "20 April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1767,
+      "places": [
+        {
+          "nama_tempat": "Situ Cipondoh",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Tangerang",
+          "alasan_viral": "Pernah ramai pascapandemi kini mulai sepi pengunjung, pengelolaan belum maksimal",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1768,
+      "places": [
+        {
+          "nama_tempat": "Kawasan Kuliner Pasar Lama Tangerang",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Tangerang",
+          "alasan_viral": "Permata kuliner malam perpaduan budaya lokal dan Tionghoa, dipadati ribuan orang tiap akhir pekan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Sate Ayam H. Ishak",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Lama, Kota Tangerang",
+          "alasan_viral": "Sate ayam legenda Pasar Lama",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1769,
+      "places": []
+    }
+  ]
+}

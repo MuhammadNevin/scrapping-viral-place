@@ -1,0 +1,229 @@
+{
+  "results": [
+    {
+      "article_id": 1980,
+      "places": []
+    },
+    {
+      "article_id": 1981,
+      "places": []
+    },
+    {
+      "article_id": 1982,
+      "places": []
+    },
+    {
+      "article_id": 1983,
+      "places": []
+    },
+    {
+      "article_id": 1984,
+      "places": [
+        {
+          "nama_tempat": "Pasar Tumpah Pringgondani",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Gunung Binjai, Teritip, Balikpapan Timur",
+          "alasan_viral": "Pasar jajanan tradisional bernuansa Jawa dengan transaksi unik memakai uang kayu ulin",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1985,
+      "places": []
+    },
+    {
+      "article_id": 1986,
+      "places": []
+    },
+    {
+      "article_id": 1987,
+      "places": []
+    },
+    {
+      "article_id": 1988,
+      "places": [
+        {
+          "nama_tempat": "Festival Kemudahan dan Perlindungan Usaha Mikro 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Balikpapan Sport and Convention Center (BSCC/DOME), Balikpapan",
+          "alasan_viral": "Festival layanan perizinan gratis dan promosi 1.200 pelaku UMKM",
+          "indikasi_waktu": "17 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1989,
+      "places": []
+    },
+    {
+      "article_id": 1990,
+      "places": []
+    },
+    {
+      "article_id": 1991,
+      "places": []
+    },
+    {
+      "article_id": 1992,
+      "places": []
+    },
+    {
+      "article_id": 1993,
+      "places": [
+        {
+          "nama_tempat": "Gunung Steling",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Samarinda, Kalimantan Timur",
+          "alasan_viral": "Wisata puncak ciptaan warga yang jadi primadona anak muda",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "Bukit RCTI",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Samarinda Seberang, Samarinda",
+          "alasan_viral": "Wisata perbukitan ciptaan warga yang digemari generasi muda",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Teras Samarinda",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Samarinda, Kalimantan Timur",
+          "alasan_viral": "Destinasi ikonik Kota Samarinda",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Hutan Lindung Kebun Raya Samarinda",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Samarinda, Kalimantan Timur",
+          "alasan_viral": "Destinasi wisata alam yang redup dan perlu direvitalisasi (isu negatif)",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        },
+        {
+          "nama_tempat": "Air Terjun Tanah Merah",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Samarinda, Kalimantan Timur",
+          "alasan_viral": "Destinasi wisata alam yang redup dan perlu direvitalisasi (isu negatif)",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1994,
+      "places": [
+        {
+          "nama_tempat": "Gunung Steling",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Samarinda, Kalimantan Timur",
+          "alasan_viral": "Sempat viral dan ramai dikunjungi namun daya tarik menurun karena kurang pengembangan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1995,
+      "places": []
+    },
+    {
+      "article_id": 1996,
+      "places": []
+    },
+    {
+      "article_id": 1997,
+      "places": []
+    },
+    {
+      "article_id": 1998,
+      "places": []
+    },
+    {
+      "article_id": 1999,
+      "places": []
+    },
+    {
+      "article_id": 2000,
+      "places": []
+    },
+    {
+      "article_id": 2001,
+      "places": []
+    },
+    {
+      "article_id": 2002,
+      "places": []
+    },
+    {
+      "article_id": 2003,
+      "places": []
+    },
+    {
+      "article_id": 2004,
+      "places": []
+    },
+    {
+      "article_id": 2005,
+      "places": []
+    },
+    {
+      "article_id": 2006,
+      "places": []
+    },
+    {
+      "article_id": 2007,
+      "places": [
+        {
+          "nama_tempat": "Pasar Tungging",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Bung Tomo, Samarinda Seberang, Samarinda",
+          "alasan_viral": "Viral di media sosial, jadi destinasi wisata baru dengan panorama tepi Sungai Mahakam",
+          "indikasi_waktu": "5 Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Pasar Pagi Samarinda",
+          "kategori": "lainnya",
+          "lokasi_text": "Samarinda, Kalimantan Timur",
+          "alasan_viral": "Viral karena sudah direvitalisasi ratusan miliar tapi masih sepi penjual dan pembeli (isu negatif)",
+          "indikasi_waktu": "5 Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 2008,
+      "places": [
+        {
+          "nama_tempat": "Pasar Tungging",
+          "kategori": "lainnya",
+          "lokasi_text": "Samarinda Seberang, Samarinda",
+          "alasan_viral": "Foto dan video keramaian pasar tepi Sungai Mahakam viral di media sosial",
+          "indikasi_waktu": "1 Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 2009,
+      "places": []
+    }
+  ]
+}

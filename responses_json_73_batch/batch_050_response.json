@@ -1,0 +1,402 @@
+{
+  "results": [
+    {
+      "article_id": 1470,
+      "places": []
+    },
+    {
+      "article_id": 1471,
+      "places": [
+        {
+          "nama_tempat": "Jalan Tunjungan",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Tunjungan, Surabaya",
+          "alasan_viral": "Viral kucing berkostum dipakai open donasi di kawasan wisata, Pemkot larang (isu negatif)",
+          "indikasi_waktu": "25 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1472,
+      "places": [
+        {
+          "nama_tempat": "Taman Bungkul",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Surabaya",
+          "alasan_viral": "Titik kumpul paling sibuk tiap Minggu pagi, fasilitas olahraga dan jajanan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Taman Harmoni Keputih",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Keputih, Surabaya",
+          "alasan_viral": "Bekas TPA kini cantik dengan hamparan bunga warna-warni",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Hutan Bambu Keputih",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Keputih, Surabaya",
+          "alasan_viral": "Lorong pohon bambu estetik serupa suasana Jepang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Kebun Bibit Wonorejo",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Wonorejo, Surabaya",
+          "alasan_viral": "Hutan kota dengan danau buatan favorit keluarga piknik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Kenjeran Park",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kenjeran, Surabaya",
+          "alasan_viral": "Kawasan pesisir untuk menikmati matahari terbenam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Kelenteng Sanggar Agung",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kenjeran, Surabaya",
+          "alasan_viral": "Area pesisir menikmati sunset dan angin laut",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Surabaya North Quay",
+          "kategori": "lainnya",
+          "lokasi_text": "Tanjung Perak, Surabaya",
+          "alasan_viral": "Bersantai sambil memandangi kapal niaga dan kapal pesiar",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1473,
+      "places": [
+        {
+          "nama_tempat": "Surabaya North Quay",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Perak Utara, Kecamatan Pabean Cantian, Surabaya",
+          "alasan_viral": "Spot terbaik menikmati sunset dengan pemandangan kapal pesiar",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1474,
+      "places": []
+    },
+    {
+      "article_id": 1475,
+      "places": [
+        {
+          "nama_tempat": "THP Kenjeran",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kenjeran, Surabaya",
+          "alasan_viral": "Promo tiket Rp 733 dalam rangka HJKS ke-733",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Museum 10 November",
+          "kategori": "Museum",
+          "lokasi_text": "Surabaya",
+          "alasan_viral": "Promo tiket Rp 733 dalam rangka HJKS ke-733",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Wisata Perahu Kalimas",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Surabaya",
+          "alasan_viral": "Promo tiket Rp 733 dalam rangka HJKS ke-733",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Kebun Raya Mangrove Gunung Anyar",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Gunung Anyar, Surabaya",
+          "alasan_viral": "Promo tiket Rp 733 untuk 25 pengunjung pertama tiap akhir pekan",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1476,
+      "places": [
+        {
+          "nama_tempat": "Jalan Tunjungan",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Tunjungan, Surabaya",
+          "alasan_viral": "Magnet wisata malam saat libur sekolah, bangunan bersejarah, kuliner, musik jalanan, spot foto",
+          "indikasi_waktu": "Libur sekolah 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1477,
+      "places": [
+        {
+          "nama_tempat": "Kebun Binatang Surabaya",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Surabaya",
+          "alasan_viral": "Ditinjau DPRD di tengah dugaan korupsi PDTS dan isu foto satwa kurus yang ramai di medsos (isu negatif)",
+          "indikasi_waktu": "2 Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1478,
+      "places": [
+        {
+          "nama_tempat": "Artificial Beach The Trans Luxury Hotel Surabaya",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Ahmad Yani, Surabaya",
+          "alasan_viral": "Pantai buatan di rooftop lantai 28 dengan pasir impor dan pemandangan kota",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1479,
+      "places": []
+    },
+    {
+      "article_id": 1480,
+      "places": [
+        {
+          "nama_tempat": "Alun-Alun Bawah Tanah Surabaya",
+          "kategori": "lainnya",
+          "lokasi_text": "Genteng, Surabaya",
+          "alasan_viral": "Basement alun-alun sempat viral jadi spot nongkrong, foto, seni dan UMKM gratis",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Hutan Bambu Keputih",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jalan Marina Asri, Keputih, Sukolilo, Surabaya",
+          "alasan_viral": "Bekas TPA jadi taman bambu rindang dan instagramable, gratis",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1481,
+      "places": [
+        {
+          "nama_tempat": "28th Sky Beach Club",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Ahmad Yani 260, Surabaya",
+          "alasan_viral": "Beach club rooftop lantai 28 dengan pasir putih, infinity pool dan sunset",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1482,
+      "places": [
+        {
+          "nama_tempat": "KidZania Surabaya",
+          "kategori": "Wahana",
+          "lokasi_text": "Jalan KH Abdul Wahab Siamin, Dukuh Pakis, Surabaya",
+          "alasan_viral": "Kota mini untuk anak mencoba berbagai profesi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Trans Snow World Surabaya",
+          "kategori": "Wahana",
+          "lokasi_text": "Jalan Ahmad Yani 260, Siwalankerto, Wonocolo, Surabaya",
+          "alasan_viral": "Wahana salju di tengah kota",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Rabbits in Wonderland",
+          "kategori": "Wahana",
+          "lokasi_text": "Surabaya",
+          "alasan_viral": "Interaksi langsung memberi makan kelinci",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1483,
+      "places": [
+        {
+          "nama_tempat": "Pantai Wediawu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Tirtoyudo, Kabupaten Malang",
+          "alasan_viral": "Rombongan wisatawan Surabaya dikeroyok di vila setelah video chant viral (isu negatif)",
+          "indikasi_waktu": "5 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1484,
+      "places": [
+        {
+          "nama_tempat": "Pameran Aku Arek Suroboyo",
+          "kategori": "Pameran",
+          "lokasi_text": "Basement Alun-Alun Surabaya",
+          "alasan_viral": "Pameran sejarah Bung Karno sebagai Arek Suroboyo",
+          "indikasi_waktu": "6-19 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1485,
+      "places": [
+        {
+          "nama_tempat": "ARTSUBS 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Balai Pemuda, Surabaya",
+          "alasan_viral": "Pameran seni kontemporer lebih dari 300 karya dari 120 seniman",
+          "indikasi_waktu": "19 September - 8 November 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1486,
+      "places": []
+    },
+    {
+      "article_id": 1487,
+      "places": []
+    },
+    {
+      "article_id": 1488,
+      "places": []
+    },
+    {
+      "article_id": 1489,
+      "places": []
+    },
+    {
+      "article_id": 1490,
+      "places": []
+    },
+    {
+      "article_id": 1491,
+      "places": []
+    },
+    {
+      "article_id": 1492,
+      "places": []
+    },
+    {
+      "article_id": 1493,
+      "places": []
+    },
+    {
+      "article_id": 1494,
+      "places": []
+    },
+    {
+      "article_id": 1495,
+      "places": [
+        {
+          "nama_tempat": "Pasar Tugu Pahlawan",
+          "kategori": "lainnya",
+          "lokasi_text": "Surabaya",
+          "alasan_viral": "Video dugaan pungli oknum DLH di kawasan pasar viral (isu negatif)",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 1496,
+      "places": [
+        {
+          "nama_tempat": "Pasar Tembok Dukuh",
+          "kategori": "lainnya",
+          "lokasi_text": "Surabaya",
+          "alasan_viral": "Video adu mulut Satpol PP dan keamanan PD Pasar Surya viral (isu negatif)",
+          "indikasi_waktu": "30 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 1497,
+      "places": [
+        {
+          "nama_tempat": "Pasar Tunjungan",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Tunjungan, Surabaya",
+          "alasan_viral": "Pasar bersejarah direvitalisasi jadi pusat kuliner kekinian",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1498,
+      "places": [
+        {
+          "nama_tempat": "Pasar Karang Menjangan",
+          "kategori": "lainnya",
+          "lokasi_text": "Surabaya",
+          "alasan_viral": "Video pedagang keluhkan razia Satpol PP sita dagangan viral (isu negatif)",
+          "indikasi_waktu": "24 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 1499,
+      "places": []
+    }
+  ]
+}

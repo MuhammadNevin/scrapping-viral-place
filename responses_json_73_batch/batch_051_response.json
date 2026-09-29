@@ -1,0 +1,374 @@
+{
+  "results": [
+    {
+      "article_id": 1500,
+      "places": []
+    },
+    {
+      "article_id": 1501,
+      "places": [
+        {
+          "nama_tempat": "Pasar Karang Menjangan",
+          "kategori": "lainnya",
+          "lokasi_text": "Surabaya",
+          "alasan_viral": "Pengakuan pedagang soal dagangan disita Satpol PP viral, Satpol PP membantah (isu negatif)",
+          "indikasi_waktu": "27 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 1502,
+      "places": [
+        {
+          "nama_tempat": "Festival Rujak Uleg",
+          "kategori": "Pameran",
+          "lokasi_text": "Surabaya Expo Center, Surabaya",
+          "alasan_viral": "Agenda HJKS ke-733 masuk Kharisma Event Nusantara 2026",
+          "indikasi_waktu": "9 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Surabaya Vaganza",
+          "kategori": "Pameran",
+          "lokasi_text": "Jalan Pahlawan hingga Balai Kota, Surabaya",
+          "alasan_viral": "Festival of Lights HJKS ke-733 dengan instalasi bunga dan cahaya, masuk KEN 2026",
+          "indikasi_waktu": "16 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1503,
+      "places": []
+    },
+    {
+      "article_id": 1504,
+      "places": []
+    },
+    {
+      "article_id": 1505,
+      "places": [
+        {
+          "nama_tempat": "Zona Club Surabaya",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Kapasari, Genteng, Surabaya",
+          "alasan_viral": "Poster perempuan berseragam Polri heboh di media sosial, manajemen diperiksa polisi (isu negatif)",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1506,
+      "places": []
+    },
+    {
+      "article_id": 1507,
+      "places": [
+        {
+          "nama_tempat": "Ambrogio Patisserie",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Banda No. 26, Bandung",
+          "alasan_viral": "Kafe dan restoran halal family-friendly dengan pastry premium",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1508,
+      "places": [
+        {
+          "nama_tempat": "Sop Burtok",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Aceh No. 44, Babakan Ciamis, Sumur Bandung, Bandung",
+          "alasan_viral": "Kuliner sop daging sapi yang ramai diperbincangkan di Bandung",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1509,
+      "places": []
+    },
+    {
+      "article_id": 1510,
+      "places": [
+        {
+          "nama_tempat": "Braga Permai",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Braga No. 58, Sumur Bandung, Bandung",
+          "alasan_viral": "Restoran klasik sejak 1923 dengan kudapan kolonial dan live music",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Toko Roti Het Snoephuis",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Braga No. 20-22, Sumur Bandung, Bandung",
+          "alasan_viral": "Toko roti sejak 1929 dengan resep otentik Belanda dan es krim legendaris",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1511,
+      "places": []
+    },
+    {
+      "article_id": 1512,
+      "places": [
+        {
+          "nama_tempat": "The Square Room",
+          "kategori": "Kafe",
+          "lokasi_text": "Pajajaran, Cicendo, Bandung",
+          "alasan_viral": "Bakery dan kafe baru dengan interior serba kotak dan donat kotak sourdough, langsung ramai diantre",
+          "indikasi_waktu": "Awal April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1513,
+      "places": [
+        {
+          "nama_tempat": "BMB Canteen",
+          "kategori": "Restoran",
+          "lokasi_text": "Cipedes, Bandung",
+          "alasan_viral": "Restoran konsep industrial ala Inggris yang sedang ramai diperbincangkan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1514,
+      "places": []
+    },
+    {
+      "article_id": 1515,
+      "places": []
+    },
+    {
+      "article_id": 1516,
+      "places": [
+        {
+          "nama_tempat": "Golden Pine",
+          "kategori": "Kafe",
+          "lokasi_text": "Orchid Forest Cikole, Lembang, Bandung Barat",
+          "alasan_viral": "Tempat makan rumah kaca ala Eropa di tengah hutan pinus",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Maries Library",
+          "kategori": "Kafe",
+          "lokasi_text": "Bandung",
+          "alasan_viral": "Tempat cozy dan hening untuk me time dan WFC",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1517,
+      "places": []
+    },
+    {
+      "article_id": 1518,
+      "places": []
+    },
+    {
+      "article_id": 1519,
+      "places": [
+        {
+          "nama_tempat": "Alun-Alun Kota Bandung",
+          "kategori": "lainnya",
+          "lokasi_text": "Jl. Asia Afrika, Balonggede, Regol, Bandung",
+          "alasan_viral": "Ruang publik gratis dengan rumput sintetis luas",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Jalan Braga",
+          "kategori": "lainnya",
+          "lokasi_text": "Jl. Braga, Sumur Bandung, Bandung",
+          "alasan_viral": "Kawasan heritage kolonial gratis untuk jalan-jalan dan berfoto",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Jalan Asia Afrika",
+          "kategori": "lainnya",
+          "lokasi_text": "Jl. Asia Afrika, Sumur Bandung, Bandung",
+          "alasan_viral": "Menyusuri trotoar dengan bangunan bersejarah gratis",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1520,
+      "places": [
+        {
+          "nama_tempat": "Ranca Upas",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jl. Raya Ciwidey-Patengan KM 11, Patengan, Rancabali, Bandung",
+          "alasan_viral": "Penangkaran rusa dan area berkemah di dataran tinggi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Tebing Keraton",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Taman Hutan Raya Ir. H. Djuanda, Ciburial, Cimenyan, Bandung",
+          "alasan_viral": "Panorama hutan dari ketinggian",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1521,
+      "places": [
+        {
+          "nama_tempat": "Kampung Pelangi (Lembur Katumbiri)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bantaran Sungai Cikapundung, Bandung",
+          "alasan_viral": "Kampung warna-warni sempat viral dan diserbu wisatawan, kini sepi di hari biasa",
+          "indikasi_waktu": "Sekitar 2025",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1522,
+      "places": []
+    },
+    {
+      "article_id": 1523,
+      "places": [
+        {
+          "nama_tempat": "Pantai Indah Kapuk",
+          "kategori": "lainnya",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Diperkenalkan PIK Tourism Board kepada pelaku wisata Bandung sebagai destinasi terpadu",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1524,
+      "places": [
+        {
+          "nama_tempat": "Museum Geologi",
+          "kategori": "Museum",
+          "lokasi_text": "Bandung",
+          "alasan_viral": "Koleksi fosil, batuan, mineral dan replika dinosaurus dengan tiket murah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Curug Malela",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bandung Barat",
+          "alasan_viral": "Air terjun dijuluki Niagara Mini",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Alun-Alun Kota Bandung",
+          "kategori": "lainnya",
+          "lokasi_text": "Bandung",
+          "alasan_viral": "Tempat bersantai gratis di pusat kota",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Sunrise Point Cukul",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Pangalengan, Bandung",
+          "alasan_viral": "Menikmati matahari terbit dengan hamparan kebun teh",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1525,
+      "places": [
+        {
+          "nama_tempat": "Lontong Kari Kebon Karet",
+          "kategori": "Restoran",
+          "lokasi_text": "Bandung",
+          "alasan_viral": "Sarapan lontong kari legendaris",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1526,
+      "places": []
+    },
+    {
+      "article_id": 1527,
+      "places": []
+    },
+    {
+      "article_id": 1528,
+      "places": []
+    },
+    {
+      "article_id": 1529,
+      "places": [
+        {
+          "nama_tempat": "Jalan Braga",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Braga, Sumur Bandung, Bandung",
+          "alasan_viral": "Jalan legendaris nuansa Eropa klasik dengan kafe vintage dan galeri seni",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Museum Konferensi Asia Afrika",
+          "kategori": "Museum",
+          "lokasi_text": "Jl. Asia Afrika No. 65, Braga, Sumur Bandung, Bandung",
+          "alasan_viral": "Museum sejarah diplomasi dunia dengan ruang konferensi asli",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    }
+  ]
+}

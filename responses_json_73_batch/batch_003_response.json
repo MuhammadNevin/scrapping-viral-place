@@ -1,0 +1,244 @@
+{
+  "results": [
+    {
+      "article_id": 60,
+      "places": []
+    },
+    {
+      "article_id": 61,
+      "places": []
+    },
+    {
+      "article_id": 62,
+      "places": [
+        {
+          "nama_tempat": "Bolosego (food truck di Alun-alun Kidul)",
+          "kategori": "Restoran",
+          "lokasi_text": "Alun-alun Kidul (Alkid), Jogja; kantor di Gamping, Sleman",
+          "alasan_viral": "Viral karena pemilik mengeluhkan pungli parkir Rp1 juta per hari (isu negatif)",
+          "indikasi_waktu": "16-21 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 63,
+      "places": [
+        {
+          "nama_tempat": "Bolosego (food truck di Alun-alun Kidul)",
+          "kategori": "Restoran",
+          "lokasi_text": "Alun-alun Kidul (Alkid), Jogja",
+          "alasan_viral": "Resto viral yang mengeluhkan pungli; jukir mengembalikan Rp3 juta (isu negatif)",
+          "indikasi_waktu": "18 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 64,
+      "places": [
+        {
+          "nama_tempat": "Bolosego (food truck di Alun-alun Kidul)",
+          "kategori": "Restoran",
+          "lokasi_text": "Alun-alun Kidul (Alkid), Jogja; office di Gamping, Sleman",
+          "alasan_viral": "Video keluhan pungli parkir dan jatah makan preman/polisi viral (isu negatif)",
+          "indikasi_waktu": "16-18 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 65,
+      "places": [
+        {
+          "nama_tempat": "Alun-alun Kidul (Alkid)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Alun-alun Kidul, Jogja",
+          "alasan_viral": "Viral terkait dugaan pungli terhadap food truck resto (isu negatif)",
+          "indikasi_waktu": "18 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 66,
+      "places": [
+        {
+          "nama_tempat": "Bebek Suroboyo Green Lake City",
+          "kategori": "Restoran",
+          "lokasi_text": "Green Lake City, Cengkareng, Jakarta Barat",
+          "alasan_viral": "Viral usai membagikan CCTV pengunjung merusak sofa (isu negatif)",
+          "indikasi_waktu": "1 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 67,
+      "places": []
+    },
+    {
+      "article_id": 68,
+      "places": [
+        {
+          "nama_tempat": "Class Soiree Steakhouse",
+          "kategori": "Restoran",
+          "lokasi_text": "Hollywood, Florida, Amerika Serikat",
+          "alasan_viral": "Viral karena konsep nude dining experience",
+          "indikasi_waktu": "Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 69,
+      "places": []
+    },
+    {
+      "article_id": 70,
+      "places": [
+        {
+          "nama_tempat": "Mo's Chicken Hotpot",
+          "kategori": "Restoran",
+          "lokasi_text": "Kota Foshan, Provinsi Guangdong, China",
+          "alasan_viral": "Viral karena pemilik meminta orang jangan datang (reverse marketing), 2.000-3.000 pengunjung per hari",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 71,
+      "places": []
+    },
+    {
+      "article_id": 72,
+      "places": []
+    },
+    {
+      "article_id": 73,
+      "places": []
+    },
+    {
+      "article_id": 74,
+      "places": []
+    },
+    {
+      "article_id": 75,
+      "places": []
+    },
+    {
+      "article_id": 76,
+      "places": []
+    },
+    {
+      "article_id": 77,
+      "places": []
+    },
+    {
+      "article_id": 78,
+      "places": []
+    },
+    {
+      "article_id": 79,
+      "places": [
+        {
+          "nama_tempat": "Warung makan di TPU Karangpamulang (milik Ida Nengsih)",
+          "kategori": "Restoran",
+          "lokasi_text": "TPU Karangpamulang, Kampung Sukasari, Kelurahan Karawang Wetan, Kecamatan Karawang Timur, Karawang",
+          "alasan_viral": "Warung di tengah kompleks makam menjadi perhatian publik, ramai pengunjung penasaran",
+          "indikasi_waktu": "Baru beroperasi sekitar dua pekan",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 80,
+      "places": [
+        {
+          "nama_tempat": "Warung lontong sayur milik Maryati",
+          "kategori": "Restoran",
+          "lokasi_text": "Desa Kebolampang, Kecamatan Winong, Kabupaten Pati, Jawa Tengah",
+          "alasan_viral": "Viral karena ditarik retribusi Rp840.000 (isu negatif)",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 81,
+      "places": [
+        {
+          "nama_tempat": "Warung Mundu",
+          "kategori": "Restoran",
+          "lokasi_text": "Kota Batu",
+          "alasan_viral": "Nasi campur khas, populer dari mulut ke mulut; artikel menyebut tidak viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 82,
+      "places": []
+    },
+    {
+      "article_id": 83,
+      "places": [
+        {
+          "nama_tempat": "Mie Ayam Donoloyo",
+          "kategori": "Restoran",
+          "lokasi_text": "Kawasan Fatmawati dekat One Bell Park, Jakarta Selatan",
+          "alasan_viral": "Mie ayam langganan Bebi Romeo yang kontennya viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 84,
+      "places": []
+    },
+    {
+      "article_id": 85,
+      "places": []
+    },
+    {
+      "article_id": 86,
+      "places": []
+    },
+    {
+      "article_id": 87,
+      "places": []
+    },
+    {
+      "article_id": 88,
+      "places": [
+        {
+          "nama_tempat": "Mama K's",
+          "kategori": "Restoran",
+          "lokasi_text": "Fraser Island, Queensland, Australia",
+          "alasan_viral": "Kisah nenek 80 tahun pemilik restoran viral hingga kebanjiran pelanggan",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 89,
+      "places": []
+    }
+  ]
+}

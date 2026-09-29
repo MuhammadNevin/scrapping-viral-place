@@ -1,0 +1,289 @@
+{
+  "results": [
+    {
+      "article_id": 1890,
+      "places": []
+    },
+    {
+      "article_id": 1891,
+      "places": []
+    },
+    {
+      "article_id": 1892,
+      "places": []
+    },
+    {
+      "article_id": 1893,
+      "places": []
+    },
+    {
+      "article_id": 1894,
+      "places": []
+    },
+    {
+      "article_id": 1895,
+      "places": []
+    },
+    {
+      "article_id": 1896,
+      "places": [
+        {
+          "nama_tempat": "Denpasar Youth Festival (D'Youth Fest) 6.0",
+          "kategori": "Pameran",
+          "lokasi_text": "Kota Denpasar, Bali",
+          "alasan_viral": "Festival ekonomi kreatif anak muda dengan 20 UMKM kuliner, food truck dan atraksi seni",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1897,
+      "places": []
+    },
+    {
+      "article_id": 1898,
+      "places": []
+    },
+    {
+      "article_id": 1899,
+      "places": []
+    },
+    {
+      "article_id": 1900,
+      "places": [
+        {
+          "nama_tempat": "Balinale",
+          "kategori": "Pameran",
+          "lokasi_text": "Denpasar, Bali",
+          "alasan_viral": "Festival film internasional ke-19 berkualifikasi Oscar, 94 film dari 38 negara",
+          "indikasi_waktu": "1-7 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1901,
+      "places": []
+    },
+    {
+      "article_id": 1902,
+      "places": []
+    },
+    {
+      "article_id": 1903,
+      "places": [
+        {
+          "nama_tempat": "Warung Nasi Omar",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Ki Maja No. 66, Way Halim, Bandar Lampung",
+          "alasan_viral": "Nasi nila bumbu hitam murah untuk makan siang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1904,
+      "places": [
+        {
+          "nama_tempat": "Sarapan 10 Ribu by Dapoer Radira",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Raden Intan, Bandar Lampung",
+          "alasan_viral": "Paket nasi lengkap dengan lauk hanya Rp10 ribu",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Cerita Dadar",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Nangka, Korpri Raya, Harapan Jaya, Sukarame, Bandar Lampung",
+          "alasan_viral": "Telur dadar dengan cumi oseng harga Rp15 ribuan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1905,
+      "places": [
+        {
+          "nama_tempat": "Mie Khodon Bandar Lampung",
+          "kategori": "Restoran",
+          "lokasi_text": "Bandar Lampung",
+          "alasan_viral": "Kuliner malam legendaris mi kenyal bumbu gurih",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1906,
+      "places": []
+    },
+    {
+      "article_id": 1907,
+      "places": [
+        {
+          "nama_tempat": "Aneka Sari Dapur Rasa",
+          "kategori": "Kafe",
+          "lokasi_text": "Bandar Lampung",
+          "alasan_viral": "Cafe resto mewah estetik dua lantai yang juga menjual oleh-oleh khas Lampung",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1908,
+      "places": [
+        {
+          "nama_tempat": "Kopi Sheo",
+          "kategori": "Kafe",
+          "lokasi_text": "Bandar Lampung",
+          "alasan_viral": "Promo spesial kemerdekaan HUT RI ke-81",
+          "indikasi_waktu": "16-17 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "Cupten Kopitiam",
+          "kategori": "Kafe",
+          "lokasi_text": "Bandar Lampung",
+          "alasan_viral": "Promo kemerdekaan free refill Teh O dan menu hemat",
+          "indikasi_waktu": "14-18 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "New Town Cafe",
+          "kategori": "Kafe",
+          "lokasi_text": "Bandar Lampung",
+          "alasan_viral": "Promo kuliner HUT RI",
+          "indikasi_waktu": "17 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1909,
+      "places": [
+        {
+          "nama_tempat": "Warung Soto Bu Yanti",
+          "kategori": "Restoran",
+          "lokasi_text": "Teluk Betung Utara, Bandar Lampung",
+          "alasan_viral": "Soto rempah kuat dengan konsep semi outdoor",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Warung Soto Cak Li",
+          "kategori": "Restoran",
+          "lokasi_text": "Sukarame, Bandar Lampung",
+          "alasan_viral": "Soto dengan taburan koya melimpah favorit warga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Soto Khas Bekasi Mastho",
+          "kategori": "Restoran",
+          "lokasi_text": "Kampung Baru Unila, Bandar Lampung",
+          "alasan_viral": "Soto khas Bekasi langganan mahasiswa",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1910,
+      "places": [
+        {
+          "nama_tempat": "Bukit Aslan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bandar Lampung",
+          "alasan_viral": "Taman rekreasi perbukitan dengan instalasi seni fotogenik dan konsep smart tourism",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1911,
+      "places": [
+        {
+          "nama_tempat": "Pulau Wayang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Pesawaran, Lampung",
+          "alasan_viral": "Viral di media sosial karena gugusan batu karang mirip Raja Ampat, primadona baru wisata bahari",
+          "indikasi_waktu": "Sejak awal 2024",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 1912,
+      "places": []
+    },
+    {
+      "article_id": 1913,
+      "places": [
+        {
+          "nama_tempat": "Museum Nasional",
+          "kategori": "Museum",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Delapan artefak budaya Papua hasil repatriasi dari AS jadi koleksi permanen",
+          "indikasi_waktu": "23 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1914,
+      "places": [
+        {
+          "nama_tempat": "Museum Negeri Provinsi Lampung Ruwa Jurai",
+          "kategori": "Museum",
+          "lokasi_text": "Jalan ZA Pagar Alam No. 64, Bandar Lampung",
+          "alasan_viral": "Museum terbesar di Lampung dengan 4.700 koleksi dan tiket sangat murah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 1915,
+      "places": []
+    },
+    {
+      "article_id": 1916,
+      "places": []
+    },
+    {
+      "article_id": 1917,
+      "places": []
+    },
+    {
+      "article_id": 1918,
+      "places": []
+    },
+    {
+      "article_id": 1919,
+      "places": []
+    }
+  ]
+}

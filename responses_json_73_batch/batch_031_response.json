@@ -1,0 +1,268 @@
+{
+  "results": [
+    {
+      "article_id": 900,
+      "places": []
+    },
+    {
+      "article_id": 901,
+      "places": []
+    },
+    {
+      "article_id": 902,
+      "places": []
+    },
+    {
+      "article_id": 903,
+      "places": []
+    },
+    {
+      "article_id": 904,
+      "places": [
+        {
+          "nama_tempat": "Sira Village Grand Outlet Bali",
+          "kategori": "lainnya",
+          "lokasi_text": "Bali",
+          "alasan_viral": "Destinasi outlet shopping pertama di Bali, ruang komunitas",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 905,
+      "places": []
+    },
+    {
+      "article_id": 906,
+      "places": []
+    },
+    {
+      "article_id": 907,
+      "places": []
+    },
+    {
+      "article_id": 908,
+      "places": []
+    },
+    {
+      "article_id": 909,
+      "places": []
+    },
+    {
+      "article_id": 910,
+      "places": [
+        {
+          "nama_tempat": "Bazar UMKM dan Pasar Murah Hari Bhayangkara ke-80",
+          "kategori": "Pameran",
+          "lokasi_text": "Lapangan Bhayangkara Mapolda NTT, Kupang",
+          "alasan_viral": "Bazar produk UMKM dan warga binaan",
+          "indikasi_waktu": "3-5 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 911,
+      "places": []
+    },
+    {
+      "article_id": 912,
+      "places": []
+    },
+    {
+      "article_id": 913,
+      "places": []
+    },
+    {
+      "article_id": 914,
+      "places": []
+    },
+    {
+      "article_id": 915,
+      "places": []
+    },
+    {
+      "article_id": 916,
+      "places": []
+    },
+    {
+      "article_id": 917,
+      "places": [
+        {
+          "nama_tempat": "Festival Paskah 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Bundaran Tirosa, Kota Kupang",
+          "alasan_viral": "Festival Paskah dibuka Wapres, didorong jadi event wisata rohani",
+          "indikasi_waktu": "6 April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 918,
+      "places": []
+    },
+    {
+      "article_id": 919,
+      "places": []
+    },
+    {
+      "article_id": 920,
+      "places": []
+    },
+    {
+      "article_id": 921,
+      "places": []
+    },
+    {
+      "article_id": 922,
+      "places": [
+        {
+          "nama_tempat": "Restoran Pondok Kakap",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Ismail Marzuki, Pontianak Selatan",
+          "alasan_viral": "Restoran seafood untuk makan siang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Abang Kepiting",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Hijas, Benua Melayu Darat, Pontianak Selatan",
+          "alasan_viral": "Hidangan kepiting dan seafood",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Restaurant Gajah Mada",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Gajah Mada, Pontianak",
+          "alasan_viral": "Masakan Asia dan seafood",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Warung Nini",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan D.A. Hadi, Akcaya, Pontianak Selatan",
+          "alasan_viral": "Kuliner tradisional",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 923,
+      "places": [
+        {
+          "nama_tempat": "Kwetiau Apollo",
+          "kategori": "Restoran",
+          "lokasi_text": "Pontianak",
+          "alasan_viral": "Kwetiau legendaris hampir selalu dipadati pelanggan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Safira Cafe",
+          "kategori": "Kafe",
+          "lokasi_text": "Pontianak",
+          "alasan_viral": "Tempat sarapan favorit suasana homey",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 924,
+      "places": [
+        {
+          "nama_tempat": "RM Sea Food 99",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Tanah Merah, Pangkalan Buton, Sukadana, Kayong Utara",
+          "alasan_viral": "Seafood populer ikan bakar dan kepiting",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Rumah Makan Kang Toni",
+          "kategori": "Restoran",
+          "lokasi_text": "Sukadana, Kayong Utara",
+          "alasan_viral": "Rumah makan legendaris rajungan dan kopi Singkawang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 925,
+      "places": [
+        {
+          "nama_tempat": "RM Tanjung Beringin",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Juang, Tanjung Niaga, Nanga Pinoh, Melawi",
+          "alasan_viral": "Rumah makan Padang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "RM Buyuang Khas Minang Original",
+          "kategori": "Restoran",
+          "lokasi_text": "Sidomulyo, Nanga Pinoh, Melawi",
+          "alasan_viral": "Masakan Minang autentik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 926,
+      "places": []
+    },
+    {
+      "article_id": 927,
+      "places": [
+        {
+          "nama_tempat": "Goa Kumpe",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Dusun Sejajah, Kabupaten Landak, Kalimantan Barat",
+          "alasan_viral": "Mulai dikenal luas sejak viral awal 2024, stalaktit dan akar gantung",
+          "indikasi_waktu": "Sejak awal 2024",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 928,
+      "places": [
+        {
+          "nama_tempat": "Pantai Kahona",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Sarang Burung Danau, Kecamatan Jawai, Kabupaten Sambas",
+          "alasan_viral": "Pernah viral karena hiu paus terdampar, kini terancam abrasi",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 929,
+      "places": []
+    }
+  ]
+}
