@@ -1,0 +1,251 @@
+{
+  "results": [
+    {
+      "article_id": 960,
+      "places": [
+        {
+          "nama_tempat": "Danau Biru Tambak Padi",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Tambak Padi, Kecamatan Beruntung Baru, Kabupaten Banjar, Kalsel",
+          "alasan_viral": "Banjir pengunjung sejak viral di medsos, bekas galian C, ada korban tenggelam (isu negatif)",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 961,
+      "places": [
+        {
+          "nama_tempat": "Spot tangga Dermaga Bukit Batu (Waduk Riam Kanan)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bukit Batu, Kabupaten Banjar, Kalsel",
+          "alasan_viral": "Viral karena mirip cover album SOS SZA, antrean foto puluhan orang",
+          "indikasi_waktu": "September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "article_id": 962,
+      "places": [
+        {
+          "nama_tempat": "Museum Lambung Mangkurat",
+          "kategori": "Museum",
+          "lokasi_text": "Banjarbaru, Kalimantan Selatan",
+          "alasan_viral": "Diupayakan naik dari grade B ke grade A",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 963,
+      "places": [
+        {
+          "nama_tempat": "Museum Wasaka (Waja Sampai Kaputing)",
+          "kategori": "Museum",
+          "lokasi_text": "Tepi Sungai Martapura, Banua Anyar, Banjarmasin",
+          "alasan_viral": "Museum perjuangan di rumah adat Bubungan Tinggi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 964,
+      "places": []
+    },
+    {
+      "article_id": 965,
+      "places": []
+    },
+    {
+      "article_id": 966,
+      "places": []
+    },
+    {
+      "article_id": 967,
+      "places": []
+    },
+    {
+      "article_id": 968,
+      "places": []
+    },
+    {
+      "article_id": 969,
+      "places": [
+        {
+          "nama_tempat": "Pasar Terapung Lok Baintan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kalimantan Selatan",
+          "alasan_viral": "Pasar terapung terkenal tradisi jual beli di sungai",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Pasar Terapung Muara Kuin",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Banjarmasin",
+          "alasan_viral": "Pasar terapung terkenal",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 970,
+      "places": []
+    },
+    {
+      "article_id": 971,
+      "places": []
+    },
+    {
+      "article_id": 972,
+      "places": [
+        {
+          "nama_tempat": "Bakso Mie Ayam Pangsit Wardoyo",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Letkol Pol. H.M. Asnawi Arbain, Gunung Bahagia, Balikpapan Selatan",
+          "alasan_viral": "Bakso populer porsi melimpah, hampir 5.000 ulasan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Bakso Lek Min",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Jenderal Sudirman No.279, Balikpapan",
+          "alasan_viral": "Bakso jumbo dan tetelan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 973,
+      "places": [
+        {
+          "nama_tempat": "Warung Nasi Bekepor Ibu Hj. Juwairiyah",
+          "kategori": "Restoran",
+          "lokasi_text": "Samarinda",
+          "alasan_viral": "Tempat makan ikonik kuliner khas Kaltim",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 974,
+      "places": [
+        {
+          "nama_tempat": "Sari Madu Bakery",
+          "kategori": "Kafe",
+          "lokasi_text": "Kalimantan Timur",
+          "alasan_viral": "Bakery dengan produk baru tiap minggu mengikuti tren viral, cabang ke-6 berkonsep restoran",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 975,
+      "places": [
+        {
+          "nama_tempat": "Depot Miki",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Jenderal Sudirman, Klandasan Ulu, Balikpapan",
+          "alasan_viral": "Favorit sarapan warga dan wisatawan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 976,
+      "places": []
+    },
+    {
+      "article_id": 977,
+      "places": []
+    },
+    {
+      "article_id": 978,
+      "places": []
+    },
+    {
+      "article_id": 979,
+      "places": []
+    },
+    {
+      "article_id": 980,
+      "places": []
+    },
+    {
+      "article_id": 981,
+      "places": []
+    },
+    {
+      "article_id": 982,
+      "places": [
+        {
+          "nama_tempat": "Pulau Maratua",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Berau, Kalimantan Timur",
+          "alasan_viral": "Hidden gem bahari, diving kelas dunia",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Goa Halo Tabung",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Pulau Maratua, Berau",
+          "alasan_viral": "Goa bawah tanah berair jernih",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 983,
+      "places": []
+    },
+    {
+      "article_id": 984,
+      "places": []
+    },
+    {
+      "article_id": 985,
+      "places": []
+    },
+    {
+      "article_id": 986,
+      "places": []
+    },
+    {
+      "article_id": 987,
+      "places": []
+    },
+    {
+      "article_id": 988,
+      "places": []
+    },
+    {
+      "article_id": 989,
+      "places": []
+    }
+  ]
+}

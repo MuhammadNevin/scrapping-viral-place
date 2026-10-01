@@ -1,0 +1,146 @@
+{
+  "results": [
+    {
+      "article_id": 2160,
+      "places": []
+    },
+    {
+      "article_id": 2161,
+      "places": []
+    },
+    {
+      "article_id": 2162,
+      "places": []
+    },
+    {
+      "article_id": 2163,
+      "places": [
+        {
+          "nama_tempat": "Tugu Koperasi",
+          "kategori": "Museum",
+          "lokasi_text": "Jalan Moh. Hatta, Kecamatan Cipedes, Kota Tasikmalaya",
+          "alasan_viral": "Monumen direvitalisasi menjadi museum sejarah koperasi",
+          "indikasi_waktu": "19 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 2164,
+      "places": []
+    },
+    {
+      "article_id": 2165,
+      "places": []
+    },
+    {
+      "article_id": 2166,
+      "places": []
+    },
+    {
+      "article_id": 2167,
+      "places": []
+    },
+    {
+      "article_id": 2168,
+      "places": [
+        {
+          "nama_tempat": "Hazet",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Tasikmalaya",
+          "alasan_viral": "Kawasan pedestrian ikon kota yang dipromosikan lewat lagu Kongkow ke Hazet yang ramai di TikTok",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 2169,
+      "places": []
+    },
+    {
+      "article_id": 2170,
+      "places": []
+    },
+    {
+      "article_id": 2171,
+      "places": []
+    },
+    {
+      "article_id": 2172,
+      "places": []
+    },
+    {
+      "article_id": 2173,
+      "places": []
+    },
+    {
+      "article_id": 2174,
+      "places": []
+    },
+    {
+      "article_id": 2175,
+      "places": []
+    },
+    {
+      "article_id": 2176,
+      "places": []
+    },
+    {
+      "article_id": 2177,
+      "places": []
+    },
+    {
+      "article_id": 2178,
+      "places": []
+    },
+    {
+      "article_id": 2179,
+      "places": [
+        {
+          "nama_tempat": "SMOKIKI",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Gurindam, Tlk. Tering, Kecamatan Batam Kota, Kota Batam",
+          "alasan_viral": "Restoran baru milik runner up MCI dengan BPK halal daging sapi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Ruang Tamu Slow Bar Roastery",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Orchid Park blok D no 136, Taman Baloi, Kecamatan Batam Kota, Kota Batam",
+          "alasan_viral": "Kafe rumahan dengan kopi signature rempah, cocok WFC",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "odd by Common Space",
+          "kategori": "Kafe",
+          "lokasi_text": "Ruko Greenland Jl. Gurindam No.4 Blok T, Tlk. Tering, Kecamatan Batam Kota, Kota Batam",
+          "alasan_viral": "Kafe baru konsep kekinian dengan cold brew tap",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 2180,
+      "places": [
+        {
+          "nama_tempat": "Warung Nasi Pedas Athena Restaurant",
+          "kategori": "Restoran",
+          "lokasi_text": "Pacific Palace Hotel, Batam",
+          "alasan_viral": "Buffet kuliner Nusantara all you can eat dengan menu berganti setiap hari",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "results": [
+    {
+      "article_id": 1020,
+      "places": []
+    },
+    {
+      "article_id": 1021,
+      "places": [
+        {
+          "nama_tempat": "Lokon View",
+          "kategori": "Restoran",
+          "lokasi_text": "Perbukitan Woloan, Tomohon",
+          "alasan_viral": "Restoran, kolam renang, villa dengan panorama Gunung Lokon",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "We'lu",
+          "kategori": "Restoran",
+          "lokasi_text": "Tomohon",
+          "alasan_viral": "Tempat makan di Tomohon",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1022,
+      "places": [
+        {
+          "nama_tempat": "Cingkipala Manado Resto",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Raya Kelapa Nias Blok PA 3 No.7, Pegangsaan Dua, Kelapa Gading, Jakarta Utara",
+          "alasan_viral": "Masakan Manado halal dengan live music",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "RICARAJA Restaurant",
+          "kategori": "Restoran",
+          "lokasi_text": "Jakarta Utara",
+          "alasan_viral": "Restoran Manado",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Tuna House Manado Kelapa Gading",
+          "kategori": "Restoran",
+          "lokasi_text": "Kelapa Gading, Jakarta Utara",
+          "alasan_viral": "Restoran Manado",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "NGANARASA",
+          "kategori": "Restoran",
+          "lokasi_text": "Samping Hotel 101 Urban, Jakarta Utara",
+          "alasan_viral": "Masakan Manado halal ikan bakar",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1023,
+      "places": [
+        {
+          "nama_tempat": "Ikan Goreng dan Rahang Tuna Om Botak",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Menado No.37-A, Merdeka, Sumur Bandung, Kota Bandung",
+          "alasan_viral": "Rahang tuna populer lewat ulasan media sosial",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Rahang Tuna Manado 37",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Menado No.37, Bandung",
+          "alasan_viral": "Rahang tuna yang sering muncul di ulasan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1024,
+      "places": [
+        {
+          "nama_tempat": "Pesisir Teluk Manado",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Manado",
+          "alasan_viral": "Pantai 13 km dengan sunset dan kuliner",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Pantai Tanjung Tumpaan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kombi, Minahasa",
+          "alasan_viral": "Pantai pasir putih air jernih",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1025,
+      "places": []
+    },
+    {
+      "article_id": 1026,
+      "places": [
+        {
+          "nama_tempat": "Gedung bekas Minahasa Raad",
+          "kategori": "Museum",
+          "lokasi_text": "Kota Manado",
+          "alasan_viral": "Viral gubernur memergoki pria tidur di etalase museum yang terbengkalai (isu negatif)",
+          "indikasi_waktu": "Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1027,
+      "places": [
+        {
+          "nama_tempat": "Museum Negeri Provinsi Sulawesi Utara",
+          "kategori": "Museum",
+          "lokasi_text": "Manado",
+          "alasan_viral": "Diresmikan revitalisasi oleh Menteri Kebudayaan",
+          "indikasi_waktu": "23 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1028,
+      "places": []
+    },
+    {
+      "article_id": 1029,
+      "places": [
+        {
+          "nama_tempat": "Museum Daerah Sulut",
+          "kategori": "Museum",
+          "lokasi_text": "Manado",
+          "alasan_viral": "Ramai dikunjungi saat libur, antrean didominasi Gen Z",
+          "indikasi_waktu": "30 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1030,
+      "places": [
+        {
+          "nama_tempat": "Museum Daerah Sulut",
+          "kategori": "Museum",
+          "lokasi_text": "Jalan WR Supratman, Lawangirung, Wenang, Kota Manado",
+          "alasan_viral": "Koleksi sejarah masuknya Kristen, coelacanth, barcode artefak",
+          "indikasi_waktu": "30 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1031,
+      "places": []
+    },
+    {
+      "article_id": 1032,
+      "places": []
+    },
+    {
+      "article_id": 1033,
+      "places": []
+    },
+    {
+      "article_id": 1034,
+      "places": []
+    },
+    {
+      "article_id": 1035,
+      "places": []
+    },
+    {
+      "article_id": 1036,
+      "places": [
+        {
+          "nama_tempat": "Manado Town Square (Mantos)",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Piere Tendean, Sario, Kota Manado",
+          "alasan_viral": "Beredar video kericuhan pria bawa sajam di mal (isu negatif)",
+          "indikasi_waktu": "15 Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1037,
+      "places": [
+        {
+          "nama_tempat": "Manado Town Square (Mantos)",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Manado",
+          "alasan_viral": "Pengunjung panik akibat pria bersajam (isu negatif)",
+          "indikasi_waktu": "15 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1038,
+      "places": []
+    },
+    {
+      "article_id": 1039,
+      "places": []
+    },
+    {
+      "article_id": 1040,
+      "places": [
+        {
+          "nama_tempat": "Pasar Sentral Sinjai",
+          "kategori": "lainnya",
+          "lokasi_text": "Kelurahan Bongki, Sinjai Utara, Kabupaten Sinjai",
+          "alasan_viral": "Viral video perkelahian tiga emak-emak (isu negatif)",
+          "indikasi_waktu": "29 Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 1041,
+      "places": []
+    },
+    {
+      "article_id": 1042,
+      "places": []
+    },
+    {
+      "article_id": 1043,
+      "places": []
+    },
+    {
+      "article_id": 1044,
+      "places": []
+    },
+    {
+      "article_id": 1045,
+      "places": [
+        {
+          "nama_tempat": "Festival Jajanan Nusantara",
+          "kategori": "Pameran",
+          "lokasi_text": "Atrium Lippo Plaza Manado",
+          "alasan_viral": "Festival kuliner dengan puluhan stan UMKM",
+          "indikasi_waktu": "28 Agustus - 13 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Pameran Toyota Serbu",
+          "kategori": "Pameran",
+          "lokasi_text": "Trans Studio Mall Makassar",
+          "alasan_viral": "Pameran mobil Toyota",
+          "indikasi_waktu": "10-20 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1046,
+      "places": []
+    },
+    {
+      "article_id": 1047,
+      "places": [
+        {
+          "nama_tempat": "Rumah Makan Saung Telaga",
+          "kategori": "Restoran",
+          "lokasi_text": "Desa Pantungo, Kecamatan Telaga Biru, Kabupaten Gorontalo",
+          "alasan_viral": "Kebakaran hebat rumah makan (isu negatif)",
+          "indikasi_waktu": "25 April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1048,
+      "places": [
+        {
+          "nama_tempat": "Warteg Kharisma Bahari Gorontalo",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Nani Wartabone No.6, Heledulaa Selatan, Kota Timur, Kota Gorontalo",
+          "alasan_viral": "Warteg modern pertama di Gorontalo resmi dibuka",
+          "indikasi_waktu": "29 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1049,
+      "places": [
+        {
+          "nama_tempat": "Pentadio Resort",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Gorontalo",
+          "alasan_viral": "Kawasan air panas direvitalisasi sambut Penas",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Menara Pakaya",
+          "kategori": "lainnya",
+          "lokasi_text": "Kabupaten Gorontalo",
+          "alasan_viral": "Menara dipercantik lampu sambut Penas",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Danau Perintis",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Bone Bolango",
+          "alasan_viral": "Destinasi ditata sambut Penas",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Pantai Tamendao",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Gorontalo",
+          "alasan_viral": "Destinasi wisata yang ditata",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    }
+  ]
+}

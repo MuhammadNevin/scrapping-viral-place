@@ -1,0 +1,559 @@
+{
+  "results": [
+    {
+      "article_id": 1800,
+      "places": [
+        {
+          "nama_tempat": "Asinan Sedap Gedung Dalam",
+          "kategori": "Restoran",
+          "lokasi_text": "Sekitar Stasiun Bogor, Kota Bogor",
+          "alasan_viral": "Tempat makan siang populer dekat Stasiun Bogor",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1801,
+      "places": [
+        {
+          "nama_tempat": "Budiman Coffee",
+          "kategori": "Kafe",
+          "lokasi_text": "Perumahan Cimanggu Permai No.1, Tanah Sareal, Bogor",
+          "alasan_viral": "Mont Blanc creamy dengan konsep homey dan intimate",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Futura Space & Coffee",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Batu Hulung, Margajaya, Bogor Barat, Kota Bogor",
+          "alasan_viral": "Coffee shop natural contemporary dengan Mont Blanc terjangkau",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Kopi Satu Tudju",
+          "kategori": "Kafe",
+          "lokasi_text": "Bogor",
+          "alasan_viral": "Coffee shop dengan Mont Blanc bertekstur creamy",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1802,
+      "places": [
+        {
+          "nama_tempat": "The Rainforest Table",
+          "kategori": "Restoran",
+          "lokasi_text": "Kawasan Sentul, Bogor",
+          "alasan_viral": "Destinasi makan baru bernuansa alam di Bogor",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1803,
+      "places": []
+    },
+    {
+      "article_id": 1804,
+      "places": [
+        {
+          "nama_tempat": "Pasar Jambu Dua",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Bogor",
+          "alasan_viral": "Pasar konvensional beralih fungsi jadi destinasi wisata kekinian, digelar workshop Dari Pasar Jadi Destinasi",
+          "indikasi_waktu": "22-23 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1805,
+      "places": [
+        {
+          "nama_tempat": "Taman Safari Indonesia Bogor",
+          "kategori": "Wahana",
+          "lokasi_text": "Cisarua, Bogor",
+          "alasan_viral": "Wisata satwa keluarga dengan wahana dan pertunjukan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Restoran Caravan",
+          "kategori": "Restoran",
+          "lokasi_text": "Taman Safari Indonesia Bogor, Cisarua",
+          "alasan_viral": "Restoran di dalam kawasan Taman Safari",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        },
+        {
+          "nama_tempat": "MiniMania Puncak",
+          "kategori": "Wahana",
+          "lokasi_text": "Puncak, Bogor",
+          "alasan_viral": "Miniatur bangunan dan landmark dunia dengan banyak spot foto",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Telaga Saat Puncak",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Puncak, Bogor",
+          "alasan_viral": "Telaga dikelilingi kawasan hijau dan perkebunan untuk bersantai",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1806,
+      "places": []
+    },
+    {
+      "article_id": 1807,
+      "places": [
+        {
+          "nama_tempat": "The Ranch Puncak",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jl. Raya Puncak Km 77, Kopo, Cisarua, Kabupaten Bogor",
+          "alasan_viral": "Wisata peternakan ala Eropa murah dengan berkuda dan taman bunga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Kebun Raya Bogor",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Bogor",
+          "alasan_viral": "Destinasi ikonik dan kebun botani paling populer di Bogor",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1808,
+      "places": [
+        {
+          "nama_tempat": "Kebun Raya Bogor",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Bogor",
+          "alasan_viral": "Wisata malam instalasi cahaya interaktif Glow",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Taman Safari Bogor",
+          "kategori": "Wahana",
+          "lokasi_text": "Bogor",
+          "alasan_viral": "Safari Malam melihat hewan nokturnal setiap Sabtu malam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Pasar Malam Jalan Baru",
+          "kategori": "Wahana",
+          "lokasi_text": "Jalan Baru, Bogor",
+          "alasan_viral": "Hiburan rakyat dengan wahana permainan dan jajanan kaki lima",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Kawasan Kuliner Surya Kencana",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Surya Kencana, Kota Bogor",
+          "alasan_viral": "Primadona kuliner malam berlatar bangunan kolonial dan lampion",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Martabak Encek",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Surya Kencana, Kota Bogor",
+          "alasan_viral": "Martabak legendaris dimasak dengan arang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Soto Kuning Pak M. Yusuf",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Surya Kencana, Kota Bogor",
+          "alasan_viral": "Soto kuning legendaris",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Sate Sumsum Pak OO",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Surya Kencana, Kota Bogor",
+          "alasan_viral": "Sate sumsum legendaris sejak 1965",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Bukit Pelangi",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bogor",
+          "alasan_viral": "Spot menikmati city light dari ketinggian, tren 2026",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1809,
+      "places": []
+    },
+    {
+      "article_id": 1810,
+      "places": [
+        {
+          "nama_tempat": "Two Stories Resto",
+          "kategori": "Restoran",
+          "lokasi_text": "Bogor",
+          "alasan_viral": "Restoran dengan menu lezat yang dikunjungi selebriti",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1811,
+      "places": [
+        {
+          "nama_tempat": "Museum Batutulis",
+          "kategori": "Museum",
+          "lokasi_text": "Batutulis, Kota Bogor",
+          "alasan_viral": "Peresmian museum dengan artefak utama Prasasti Batutulis pada Hari Jadi Bogor ke-544",
+          "indikasi_waktu": "3 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1812,
+      "places": [
+        {
+          "nama_tempat": "Rustic Market Sentul (Valley Market)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jalan Raya Bojong Koneng, Babakan Madang, Kabupaten Bogor",
+          "alasan_viral": "Wisata hits kuliner dan alam dengan konsep pedesaan Eropa yang estetik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1813,
+      "places": [
+        {
+          "nama_tempat": "Museum Pajajaran",
+          "kategori": "Museum",
+          "lokasi_text": "Batutulis, Kota Bogor",
+          "alasan_viral": "Dibenahi jadi destinasi wisata sejarah unggulan dengan 103 koleksi termasuk karya Basuki Abdullah",
+          "indikasi_waktu": "22 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1814,
+      "places": [
+        {
+          "nama_tempat": "Museum Zoologi Bogor",
+          "kategori": "Museum",
+          "lokasi_text": "Kota Bogor",
+          "alasan_viral": "Museum sejak 1894 dengan teknik konservasi unik spesimen hewan dan kerangka paus ikonik",
+          "indikasi_waktu": "13 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1815,
+      "places": [
+        {
+          "nama_tempat": "Toko Ah Kamera Bogor",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Abesin, Kota Bogor",
+          "alasan_viral": "Video sapi kurban mengamuk masuk toko kamera viral di media sosial (isu negatif)",
+          "indikasi_waktu": "27 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 1816,
+      "places": []
+    },
+    {
+      "article_id": 1817,
+      "places": [
+        {
+          "nama_tempat": "Toko Ah Kamera Bogor",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Bogor",
+          "alasan_viral": "Sapi kurban masuk toko hingga pintu rusak (isu negatif)",
+          "indikasi_waktu": "27 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.3
+        }
+      ]
+    },
+    {
+      "article_id": 1818,
+      "places": [
+        {
+          "nama_tempat": "Pasar Jambu Dua",
+          "kategori": "lainnya",
+          "lokasi_text": "Lantai 2 Pasar Jambu Dua, Kota Bogor",
+          "alasan_viral": "Sedang naik daun sebagai sentra kuliner dan spot nongkrong dijuluki Blok M-nya Bogor, 184 tenant jajanan viral",
+          "indikasi_waktu": "Sejak Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Sora Gabin",
+          "kategori": "Kafe",
+          "lokasi_text": "Pasar Jambu Dua, Kota Bogor",
+          "alasan_viral": "Tenant gabin aneka rasa yang diserbu banyak pengunjung",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1819,
+      "places": []
+    },
+    {
+      "article_id": 1820,
+      "places": []
+    },
+    {
+      "article_id": 1821,
+      "places": []
+    },
+    {
+      "article_id": 1822,
+      "places": []
+    },
+    {
+      "article_id": 1823,
+      "places": [
+        {
+          "nama_tempat": "Ayam Bakar Pak D",
+          "kategori": "Restoran",
+          "lokasi_text": "Tidak disebutkan",
+          "alasan_viral": "Termasuk gerai kuliner ramah keluarga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.35
+        },
+        {
+          "nama_tempat": "Potre Koneng",
+          "kategori": "Restoran",
+          "lokasi_text": "Tidak disebutkan",
+          "alasan_viral": "Termasuk gerai kuliner ramah keluarga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.35
+        },
+        {
+          "nama_tempat": "Lataran Sendayu",
+          "kategori": "Restoran",
+          "lokasi_text": "Tidak disebutkan",
+          "alasan_viral": "Termasuk gerai kuliner ramah keluarga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.35
+        },
+        {
+          "nama_tempat": "Waroeng Tani",
+          "kategori": "Restoran",
+          "lokasi_text": "Tidak disebutkan",
+          "alasan_viral": "Termasuk gerai kuliner ramah keluarga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.35
+        },
+        {
+          "nama_tempat": "Pawon Yang Kung",
+          "kategori": "Restoran",
+          "lokasi_text": "Tidak disebutkan",
+          "alasan_viral": "Termasuk gerai kuliner ramah keluarga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.35
+        },
+        {
+          "nama_tempat": "Ayam Goreng Balaikota",
+          "kategori": "Restoran",
+          "lokasi_text": "Tidak disebutkan",
+          "alasan_viral": "Termasuk gerai kuliner ramah keluarga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.35
+        },
+        {
+          "nama_tempat": "Ramlah Ayam Tangkap",
+          "kategori": "Restoran",
+          "lokasi_text": "Tidak disebutkan",
+          "alasan_viral": "Termasuk gerai kuliner ramah keluarga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.35
+        },
+        {
+          "nama_tempat": "Latar Bokor",
+          "kategori": "Restoran",
+          "lokasi_text": "Tidak disebutkan",
+          "alasan_viral": "Termasuk gerai kuliner ramah keluarga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.35
+        },
+        {
+          "nama_tempat": "Waroeng Pring Pethak",
+          "kategori": "Restoran",
+          "lokasi_text": "Tidak disebutkan",
+          "alasan_viral": "Termasuk gerai kuliner ramah keluarga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 1824,
+      "places": [
+        {
+          "nama_tempat": "Depot Samsin",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Brigjen Slamet Riyadi No.45/8, Oro-oro Dowo, Malang",
+          "alasan_viral": "Chinese food ala Jawa dengan sate babi paling dicari",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Warung Sejahtera",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Pisang Candi Barat No. 2, Malang",
+          "alasan_viral": "Masakan babi murah favorit mahasiswa sejak 2007",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Warung Ahog",
+          "kategori": "Restoran",
+          "lokasi_text": "Malang",
+          "alasan_viral": "Spesialis olahan babi dengan All Ribs Platter, punya cabang di Alam Sutera dan Gading Serpong",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1825,
+      "places": [
+        {
+          "nama_tempat": "Depot Bang Leo",
+          "kategori": "Restoran",
+          "lokasi_text": "140 meter dari Stasiun Kota Malang, Malang",
+          "alasan_viral": "Kuliner prasmanan legendaris sejak 1995 selalu ramai",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1826,
+      "places": [
+        {
+          "nama_tempat": "Rawon Tessy",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Trunojoyo, Kiduldalem, Klojen, Kota Malang",
+          "alasan_viral": "Rawon favorit dekat Stasiun Malang dengan kuah ringan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Warung Bu Warni",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Trunojoyo No.34, Klojen, Kota Malang",
+          "alasan_viral": "Nasi rames khas Madura pedas dengan nasi free refill",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1827,
+      "places": [
+        {
+          "nama_tempat": "Kafe Rumah Loemadjang",
+          "kategori": "Kafe",
+          "lokasi_text": "Kota Malang",
+          "alasan_viral": "Kafe untuk nongkrong malam di Malang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1828,
+      "places": []
+    },
+    {
+      "article_id": 1829,
+      "places": [
+        {
+          "nama_tempat": "Soto Tangkar Babe Ogah",
+          "kategori": "Restoran",
+          "lokasi_text": "Kota Malang",
+          "alasan_viral": "Kuliner khas Betawi yang cepat merebut perhatian publik lewat media sosial",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    }
+  ]
+}

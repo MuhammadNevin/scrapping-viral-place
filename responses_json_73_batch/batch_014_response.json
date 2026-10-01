@@ -1,0 +1,376 @@
+{
+  "results": [
+    {
+      "article_id": 390,
+      "places": []
+    },
+    {
+      "article_id": 391,
+      "places": []
+    },
+    {
+      "article_id": 392,
+      "places": []
+    },
+    {
+      "article_id": 393,
+      "places": [
+        {
+          "nama_tempat": "Taman Budaya Nyat Kadir",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Gedung Beringin, Kota Batam",
+          "alasan_viral": "Rencana destinasi wisata budaya baru senilai Rp50 miliar",
+          "indikasi_waktu": "Perencanaan 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 394,
+      "places": [
+        {
+          "nama_tempat": "Pulau Penyengat (Gelar Budaya Pulau Penyengat)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Pulau Penyengat, Kota Tanjungpinang",
+          "alasan_viral": "Event seni dan budaya Melayu",
+          "indikasi_waktu": "1-2 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Masjid Sultan Riau",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Pulau Penyengat, Tanjungpinang",
+          "alasan_viral": "Masjid bersejarah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Akau Taman Kota Kijang (Kijang Food Court)",
+          "kategori": "Restoran",
+          "lokasi_text": "Kijang, Kabupaten Bintan",
+          "alasan_viral": "Lokasi Festival Kompang",
+          "indikasi_waktu": "1 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "Bintan Resort Night Parade",
+          "kategori": "Pameran",
+          "lokasi_text": "Lagoi, Bintan",
+          "alasan_viral": "Parade malam 200+ kostum tematik, bazar",
+          "indikasi_waktu": "7-10 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 395,
+      "places": [
+        {
+          "nama_tempat": "Bintan Resort Night Parade",
+          "kategori": "Pameran",
+          "lokasi_text": "Plaza Lagoi, Bintan",
+          "alasan_viral": "Parade malam 200+ kostum tematik, bazar, musik",
+          "indikasi_waktu": "7-10 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Pulau Penyengat (Gelar Budaya Pulau Penyengat)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Pulau Penyengat, Tanjungpinang",
+          "alasan_viral": "Pertunjukan seni dan budaya Melayu",
+          "indikasi_waktu": "1-2 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 396,
+      "places": []
+    },
+    {
+      "article_id": 397,
+      "places": [
+        {
+          "nama_tempat": "Pulau Katang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Pintu masuk wilayah Kabupaten Lingga, Kepulauan Riau",
+          "alasan_viral": "Viral di media sosial karena ditawarkan dijual Rp65 miliar",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Pulau Benan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Lingga, Kepulauan Riau",
+          "alasan_viral": "Destinasi wisata bahari unggulan dengan spot snorkeling dan diving",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 398,
+      "places": []
+    },
+    {
+      "article_id": 399,
+      "places": [
+        {
+          "nama_tempat": "Gunung Bintan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Bintan",
+          "alasan_viral": "Lokasi Open Trip Canyoneering",
+          "indikasi_waktu": "1 dan 7 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "Kawasan Gurindam 12",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Tanjungpinang",
+          "alasan_viral": "Lokasi Kemilau Nusantara Kepri 2026",
+          "indikasi_waktu": "13-15 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Pulau Penyengat (Penyengat Heritage 2026)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Pulau Penyengat, Tanjungpinang",
+          "alasan_viral": "Festival warisan sejarah dan budaya Melayu",
+          "indikasi_waktu": "19-21 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 400,
+      "places": []
+    },
+    {
+      "article_id": 401,
+      "places": [
+        {
+          "nama_tempat": "Pelabuhan Ferry Batam Centre",
+          "kategori": "lainnya",
+          "lokasi_text": "Batam Centre, Batam",
+          "alasan_viral": "Isu pungli viral di medsos mencoreng kepercayaan wisman (isu negatif)",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 402,
+      "places": [
+        {
+          "nama_tempat": "Museum dan Monumen Bahasa Nasional",
+          "kategori": "Museum",
+          "lokasi_text": "Pulau Penyengat, Kepulauan Riau",
+          "alasan_viral": "Pembangunan museum sejarah bahasa, calon destinasi wisata baru",
+          "indikasi_waktu": "Groundbreaking 24 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 403,
+      "places": [
+        {
+          "nama_tempat": "Museum dan Monumen Bahasa Nasional",
+          "kategori": "Museum",
+          "lokasi_text": "Pulau Penyengat, Tanjungpinang, Kepulauan Riau",
+          "alasan_viral": "Groundbreaking museum senilai Rp101 miliar",
+          "indikasi_waktu": "24 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 404,
+      "places": [
+        {
+          "nama_tempat": "Museum dan Monumen Bahasa Nasional",
+          "kategori": "Museum",
+          "lokasi_text": "Pulau Penyengat, Tanjungpinang",
+          "alasan_viral": "Peresmian dimulainya pembangunan",
+          "indikasi_waktu": "24 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 405,
+      "places": [
+        {
+          "nama_tempat": "Museum dan Monumen Bahasa Nasional",
+          "kategori": "Museum",
+          "lokasi_text": "Pulau Penyengat, Kepri",
+          "alasan_viral": "Diharapkan jadi objek wisata dan ruang edukasi",
+          "indikasi_waktu": "24 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 406,
+      "places": []
+    },
+    {
+      "article_id": 407,
+      "places": [
+        {
+          "nama_tempat": "Museum dan Monumen Bahasa Nasional",
+          "kategori": "Museum",
+          "lokasi_text": "Pulau Penyengat, Tanjungpinang",
+          "alasan_viral": "Rencana pembangunan anggaran Rp101 miliar",
+          "indikasi_waktu": "Juni-Desember 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 408,
+      "places": [
+        {
+          "nama_tempat": "Museum dan Monumen Bahasa Nasional",
+          "kategori": "Museum",
+          "lokasi_text": "Pulau Penyengat, Tanjungpinang",
+          "alasan_viral": "Destinasi wisata sejarah dan sarana edukasi",
+          "indikasi_waktu": "24 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 409,
+      "places": [
+        {
+          "nama_tempat": "Museum dan Monumen Bahasa Nasional",
+          "kategori": "Museum",
+          "lokasi_text": "Pulau Penyengat, Tanjungpinang",
+          "alasan_viral": "Proyek ikon pelestarian sejarah bahasa, target 2028",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 410,
+      "places": [
+        {
+          "nama_tempat": "Makam Raja Ali Haji",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Pulau Penyengat, Tanjungpinang",
+          "alasan_viral": "Makam tokoh bahasa Melayu, lokasi ziarah",
+          "indikasi_waktu": "23 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 411,
+      "places": [
+        {
+          "nama_tempat": "Museum dan Monumen Tugu Bahasa",
+          "kategori": "Museum",
+          "lokasi_text": "Pulau Penyengat, Kepulauan Riau",
+          "alasan_viral": "Diproyeksi jadi magnet wisata sejarah",
+          "indikasi_waktu": "April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 412,
+      "places": [
+        {
+          "nama_tempat": "Pelabuhan Internasional Batam Center",
+          "kategori": "lainnya",
+          "lokasi_text": "Batam",
+          "alasan_viral": "Viral dugaan pungli terhadap WNA Singapura (isu negatif)",
+          "indikasi_waktu": "14 Maret 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 413,
+      "places": [
+        {
+          "nama_tempat": "Museum dan Monumen Bahasa Nasional",
+          "kategori": "Museum",
+          "lokasi_text": "Pulau Penyengat, Tanjungpinang",
+          "alasan_viral": "Groundbreaking museum sejarah bahasa Indonesia",
+          "indikasi_waktu": "24 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 414,
+      "places": []
+    },
+    {
+      "article_id": 415,
+      "places": []
+    },
+    {
+      "article_id": 416,
+      "places": []
+    },
+    {
+      "article_id": 417,
+      "places": []
+    },
+    {
+      "article_id": 418,
+      "places": [
+        {
+          "nama_tempat": "Mega Wisata Ocarina",
+          "kategori": "Wahana",
+          "lokasi_text": "Kawasan Sadai, Kecamatan Bengkong, Kota Batam",
+          "alasan_viral": "Taman rekreasi hits dengan bianglala raksasa dan waterpark",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Jembatan Barelang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Batam",
+          "alasan_viral": "Destinasi hits dan ikonik Batam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 419,
+      "places": []
+    }
+  ]
+}

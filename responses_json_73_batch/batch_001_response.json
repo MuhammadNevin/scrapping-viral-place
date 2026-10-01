@@ -1,0 +1,862 @@
+{
+  "results": [
+    {
+      "article_id": 0,
+      "places": []
+    },
+    {
+      "article_id": 1,
+      "places": [
+        {
+          "nama_tempat": "Soto Mie Agih",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Suryakencana No.313, Babakan Pasar, Bogor Tengah, Bogor",
+          "alasan_viral": "Soto mie legendaris Bogor sejak 1965-an, menu babat hingga jumbo",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.9
+        },
+        {
+          "nama_tempat": "Soto Mie Sarodja",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Danau Tondano No.27, Pejompongan, Jakarta Pusat",
+          "alasan_viral": "Soto mie sejak 1970, diteruskan generasi kedua",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.9
+        },
+        {
+          "nama_tempat": "Soto Mie Theresia",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Gereja Theresia No.43, Menteng, Jakarta Pusat",
+          "alasan_viral": "Soto mie legendaris sejak 1972 di kawasan Kuliner Theresia",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.9
+        },
+        {
+          "nama_tempat": "Soto Mie Pak Fauzy",
+          "kategori": "Restoran",
+          "lokasi_text": "Kawasan Suryakencana, Bogor",
+          "alasan_viral": "Soto mie legendaris sejak 1974",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 2,
+      "places": [
+        {
+          "nama_tempat": "Gudeg Yu Djum",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Wijilan No. 167, Panembahan, Kraton, Yogyakarta",
+          "alasan_viral": "Ikon gudeg Jogja sejak 1950-an, harga ekonomis",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.9
+        },
+        {
+          "nama_tempat": "Gudeg Pawon",
+          "kategori": "Restoran",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Gudeg dimasak langsung di dapur tradisional, pengalaman unik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 3,
+      "places": [
+        {
+          "nama_tempat": "RM Abah Harja",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Halimun No.8, Malabar, Kec. Lengkong, Kota Bandung",
+          "alasan_viral": "Restoran Sunda baru, punya sawah dan peternakan sendiri, ayam bekakak; masuk daftar tempat makan viral Bandung 2026",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        },
+        {
+          "nama_tempat": "RM Wangi Seruni",
+          "kategori": "Restoran",
+          "lokasi_text": "Bandung",
+          "alasan_viral": "Ayam goreng seruni, konsep makanan rumahan; disebut tempat makan viral Bandung 2026",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 4,
+      "places": [
+        {
+          "nama_tempat": "TikTok Food Fest 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Hutan Kota Gelora Bung Karno (GBK), Jakarta",
+          "alasan_viral": "Festival kuliner gratis dengan 40+ tenant kuliner viral TikTok",
+          "indikasi_waktu": "26–27 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        },
+        {
+          "nama_tempat": "Mad Bagel",
+          "kategori": "Kafe",
+          "lokasi_text": "Tenant TikTok Food Fest, GBK, Jakarta",
+          "alasan_viral": "Bagel manis dan gurih, kuliner populer di media sosial",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "RM Lokiin",
+          "kategori": "Restoran",
+          "lokasi_text": "Tenant TikTok Food Fest, GBK, Jakarta",
+          "alasan_viral": "Nasi dengan beragam lauk termasuk nasi lidah, populer di medsos",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Chuchat",
+          "kategori": "Kafe",
+          "lokasi_text": "Tenant TikTok Food Fest, GBK, Jakarta",
+          "alasan_viral": "Tenant minuman populer di media sosial",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Fuku",
+          "kategori": "Kafe",
+          "lokasi_text": "Tenant TikTok Food Fest, GBK, Jakarta",
+          "alasan_viral": "Gelato mochi, populer di media sosial",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Eight Tarts",
+          "kategori": "Kafe",
+          "lokasi_text": "Tenant TikTok Food Fest, GBK, Jakarta",
+          "alasan_viral": "Berbagai varian egg tart",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Ayam Renald",
+          "kategori": "Restoran",
+          "lokasi_text": "Tenant TikTok Food Fest, GBK, Jakarta",
+          "alasan_viral": "Olahan ayam populer di media sosial",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Aldi's Burger",
+          "kategori": "Restoran",
+          "lokasi_text": "Tenant TikTok Food Fest, GBK, Jakarta",
+          "alasan_viral": "Burger populer di media sosial",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 5,
+      "places": [
+        {
+          "nama_tempat": "Sop Janda",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Raya Pekayon No. 11, Pekayon Jaya, Kec. Bekasi Selatan, Bekasi",
+          "alasan_viral": "Perpaduan masakan Jawa-Sunda, sop janda daging dan sate maranggi, selalu ramai",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Bebek Kaleyo",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Raya Kalimalang Kompleks Ruko Duta Permai, Bekasi",
+          "alasan_viral": "Bebek goreng renyah favorit keluarga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Fish n' Chops",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Boulevard Raya Ruko RGB No. 57-58, Jaka Setia, Bekasi",
+          "alasan_viral": "Seafood platter krispi dengan harga bersahabat",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 6,
+      "places": [
+        {
+          "nama_tempat": "Ayam Goreng Kalibogor",
+          "kategori": "Restoran",
+          "lokasi_text": "Purwokerto, Banyumas",
+          "alasan_viral": "Warung ayam goreng legendaris dengan resep rempah, ramai antrean",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 7,
+      "places": [
+        {
+          "nama_tempat": "Warung Amanda",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Raya Taman Pinang Indah No.6, Banjarbendo, Kec. Sidoarjo",
+          "alasan_viral": "Sego sambel lento khas Sidoarjo, buka 24 jam, harga murah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Warung sego babat Jalan Diponegoro",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Diponegoro, Sidoarjo",
+          "alasan_viral": "Sego babat terkenal, selalu antre setiap malam, nasi empal",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 8,
+      "places": [
+        {
+          "nama_tempat": "Riung Tenda",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Balai Pustaka Timur No.2, Rawamangun, Pulo Gadung, Jakarta Timur",
+          "alasan_viral": "Masakan Sunda murah, sambal dadak",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Sari Idaman",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Cipinang Jaya Raya No.25A, Cipinang Muara, Jakarta Timur",
+          "alasan_viral": "Menu Sunda, olahan gurame dan ayam goreng",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Lesehan Gurame Pemuda",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Pemuda No.77, Rawamangun, Jakarta Timur",
+          "alasan_viral": "Olahan gurame dan seafood konsep lesehan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Sambal Bakar Indonesia",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Lingkar Duren Sawit No.3, Duren Sawit, Jakarta Timur",
+          "alasan_viral": "Sedang populer dengan konsep sambal bakar unik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Teras Rumah Nenek",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Abdulrahman No.46, Cibubur, Ciracas, Jakarta Timur",
+          "alasan_viral": "Tempat makan sekaligus kafe asri dengan area outdoor luas",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 9,
+      "places": [
+        {
+          "nama_tempat": "Bakso President",
+          "kategori": "Restoran",
+          "lokasi_text": "Malang",
+          "alasan_viral": "Bakso legendaris sejak 1977 di sisi rel kereta api aktif",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.9
+        },
+        {
+          "nama_tempat": "Rawon Nguling",
+          "kategori": "Restoran",
+          "lokasi_text": "Malang",
+          "alasan_viral": "Rawon khas Jawa Timur sejak 1980-an, kuah kluwek",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Depot Hok Lay",
+          "kategori": "Restoran",
+          "lokasi_text": "Malang",
+          "alasan_viral": "Destinasi kuliner legendaris Malang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 10,
+      "places": [
+        {
+          "nama_tempat": "Laksa Pak Masitar",
+          "kategori": "Restoran",
+          "lokasi_text": "Tangerang",
+          "alasan_viral": "Laksa khas Tangerang legendaris, berjualan 36 tahun",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Warung Bogana May-May",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Modern BSD, Tangerang Selatan",
+          "alasan_viral": "Nasi bogana dengan isian lengkap, murah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 11,
+      "places": [
+        {
+          "nama_tempat": "Harmadha Joglo",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Diponegoro No. 21, Nganten, Selosari, Kecamatan Magetan, Kabupaten Magetan",
+          "alasan_viral": "Restoran dan kafe hits, sop iga dan rawon",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 12,
+      "places": [
+        {
+          "nama_tempat": "RM Mang Iki",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Pasar Baru No. 84, Ciwalen, Garut Kota, Garut",
+          "alasan_viral": "Rumah makan Sunda legendaris sejak 1970",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.9
+        },
+        {
+          "nama_tempat": "RM Saung Cikenceh",
+          "kategori": "Restoran",
+          "lokasi_text": "Garut Kota, Garut",
+          "alasan_viral": "Hidangan Sunda autentik, suasana santai, harga terjangkau",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 13,
+      "places": [
+        {
+          "nama_tempat": "Ayam Bakar Christina (ABC)",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Margonda Raya No. 420, Pondok Cina, Beji, Depok",
+          "alasan_viral": "Ayam bakar legendaris sejak 1986",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.9
+        },
+        {
+          "nama_tempat": "Rumah Makan Gandy",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Raya Muchtar No. 24, Bojongsari, Sawangan, Depok",
+          "alasan_viral": "Masakan Betawi-Sunda sejak era 70-an, pecak gurame",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Nasi Uduk H. Yoyo",
+          "kategori": "Restoran",
+          "lokasi_text": "Depok",
+          "alasan_viral": "Salah satu destinasi kuliner tertua di Depok, 60+ tahun",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 14,
+      "places": [
+        {
+          "nama_tempat": "RM Salam Sereh",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Raya Kp. Sawah, Bojong, Kec. Kemang, Kab. Bogor",
+          "alasan_viral": "Restoran baru Sunda di tengah persawahan",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "The Layer Cafe",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Terobosan No.01, Cipayung Datar, Kec. Megamendung, Kab. Bogor",
+          "alasan_viral": "Tempat hangout baru dengan view pegunungan",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Padre",
+          "kategori": "Restoran",
+          "lokasi_text": "Kanma Collective, Bogor Selatan",
+          "alasan_viral": "Restoran Italia Kanma Group buka cabang baru",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Two Stories",
+          "kategori": "Kafe",
+          "lokasi_text": "Kanma Collective, Bogor Selatan",
+          "alasan_viral": "Satu lokasi dengan Padre",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Kopi Nako",
+          "kategori": "Kafe",
+          "lokasi_text": "Kanma Collective, Bogor Selatan",
+          "alasan_viral": "Satu lokasi dengan Padre",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 15,
+      "places": [
+        {
+          "nama_tempat": "Sate Madura Cak Mat",
+          "kategori": "Restoran",
+          "lokasi_text": "Sekitar Kelapa Gading, Jakarta Utara",
+          "alasan_viral": "Tempat makan populer dekat stasiun LRT Kelapa Gading",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Ayam Bakar Madu",
+          "kategori": "Restoran",
+          "lokasi_text": "Sekitar Kelapa Gading, Jakarta Utara",
+          "alasan_viral": "Tempat makan populer dekat stasiun LRT Kelapa Gading",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 16,
+      "places": [
+        {
+          "nama_tempat": "Kampung Kecil KM 5",
+          "kategori": "Restoran",
+          "lokasi_text": "KM 5, Palembang",
+          "alasan_viral": "Lesehan saung kayu, kolam ikan, playground, ramah anak",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Le Garden",
+          "kategori": "Restoran",
+          "lokasi_text": "Palembang Indah Mall, Palembang",
+          "alasan_viral": "Food court indoor garden dengan puluhan tenant",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 17,
+      "places": [
+        {
+          "nama_tempat": "BMB Canteen",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Sirnagalih No.1, Cipedes, Kec. Sukajadi, Kota Bandung, Jawa Barat",
+          "alasan_viral": "Tempat makan hits dan viral, antre panjang sebelum buka, corned beef sourdough",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        },
+        {
+          "nama_tempat": "Toko Bubur Dibawah Pohon Rindang",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Taman Cibeunying Utara No.24, Cihapit, Kec. Bandung Wetan, Kota Bandung",
+          "alasan_viral": "Sangat populer, antrean mengular, bubur kanton capit kepiting",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Pasar Cihapit",
+          "kategori": "lainnya",
+          "lokasi_text": "Kawasan Cihapit, Bandung",
+          "alasan_viral": "Pasar tradisional yang lagi hits jadi surga kuliner",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 18,
+      "places": [
+        {
+          "nama_tempat": "Malindo",
+          "kategori": "Restoran",
+          "lokasi_text": "Kebumen",
+          "alasan_viral": "Menu Nusantara beragam, sambal jadi highlight",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Momong Resto",
+          "kategori": "Restoran",
+          "lokasi_text": "Kebumen",
+          "alasan_viral": "Tempat luas untuk makan keluarga besar",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 19,
+      "places": [
+        {
+          "nama_tempat": "Barayam",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Hos Cokroaminoto, Ciledug, Tangerang",
+          "alasan_viral": "Ayam goreng bawang putih crispy, kuliner hits yang belakangan viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Liwet Bakar Derajat",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan HOS Cokroaminoto, Karang Tengah, Ciledug, Tangerang",
+          "alasan_viral": "Nasi liwet bakar hits di Karang Tengah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Bakso Pentol Bang Dimas",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan H. Gedad, Paninggilan Utara, Ciledug, Tangerang",
+          "alasan_viral": "Sempat viral di media sosial, aneka kreasi bakso",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 20,
+      "places": []
+    },
+    {
+      "article_id": 21,
+      "places": [
+        {
+          "nama_tempat": "Festival Kuliner Gang Viral",
+          "kategori": "Pameran",
+          "lokasi_text": "Outdoor Lobby Utama GF, Cambridge City Square, Jl. S. Parman, Medan",
+          "alasan_viral": "Bazar kuliner gang viral Jakarta dengan 40+ tenant viral halal",
+          "indikasi_waktu": "Minggu, 27 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        },
+        {
+          "nama_tempat": "Ci Mehong",
+          "kategori": "lainnya",
+          "lokasi_text": "Cambridge City Square, Medan",
+          "alasan_viral": "Populer dengan aksi lempar kaleng",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "PIK Baking House",
+          "kategori": "Kafe",
+          "lokasi_text": "Cambridge City Square, Medan",
+          "alasan_viral": "Produk bika ambon, lapis legit, donat labu",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 22,
+      "places": [
+        {
+          "nama_tempat": "Maevan Cafe",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Andi Manappiang RW.05 Biring Kassi, Kelurahan Lembang, Kabupaten Bantaeng, Sulawesi Selatan",
+          "alasan_viral": "Tengah jadi perbincangan hangat, pemandangan sunset dekat Pantai Lamalaka",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        },
+        {
+          "nama_tempat": "Pantai Lamalaka",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bantaeng, Sulawesi Selatan",
+          "alasan_viral": "Disebut sebagai lokasi dekat Maevan Cafe",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 23,
+      "places": [
+        {
+          "nama_tempat": "Mie Gacoan",
+          "kategori": "Restoran",
+          "lokasi_text": "KS Tubun (gerai terdekat dari Palmerah Selatan), Jakarta",
+          "alasan_viral": "Makanan viral ramah kantong, antrean memanjang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 24,
+      "places": [
+        {
+          "nama_tempat": "Blok M Hub",
+          "kategori": "lainnya",
+          "lokasi_text": "Blok M, Jakarta Selatan",
+          "alasan_viral": "Spot nongkrong nge-trend, pusat kuliner viral, antre panjang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Ayam Renald",
+          "kategori": "Restoran",
+          "lokasi_text": "Blok M Hub, Jakarta Selatan",
+          "alasan_viral": "Kuliner viral milik influencer, olahan ayam aneka bumbu",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Susu Murni Bahagia",
+          "kategori": "Kafe",
+          "lokasi_text": "Blok M Hub, Jakarta Selatan",
+          "alasan_viral": "Minuman susu viral, buka banyak cabang di Jabodetabek",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Cimol Keju Barito",
+          "kategori": "lainnya",
+          "lokasi_text": "Blok M Hub, Jakarta Selatan",
+          "alasan_viral": "Cimol isi keju lumer, kuliner viral favorit anak muda",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 25,
+      "places": [
+        {
+          "nama_tempat": "TikTok Food Fest 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Hutan Kota GBK, Jakarta",
+          "alasan_viral": "Festival kuliner dengan 40+ tenant makanan viral di TikTok",
+          "indikasi_waktu": "26-27 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        },
+        {
+          "nama_tempat": "Mad Bagel",
+          "kategori": "Kafe",
+          "lokasi_text": "Tenant TikTok Food Fest, GBK, Jakarta",
+          "alasan_viral": "Bagel viral di TikTok",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "RM Lokiin",
+          "kategori": "Restoran",
+          "lokasi_text": "Blok M, Jakarta",
+          "alasan_viral": "Viral di Blok M, nasi rames dan nasi lidah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Chuchat",
+          "kategori": "Kafe",
+          "lokasi_text": "Jakarta Barat hingga Tangerang",
+          "alasan_viral": "Milk tea populer",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Fuku",
+          "kategori": "Kafe",
+          "lokasi_text": "Tenant TikTok Food Fest, GBK, Jakarta",
+          "alasan_viral": "Dessert gelato mochi kekinian",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 26,
+      "places": [
+        {
+          "nama_tempat": "Bakmie 96",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Taman Cibeunying Utara, Kota Bandung",
+          "alasan_viral": "Olahan mi, masuk rekomendasi kuliner viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Dimxie",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Taman Cibeunying Utara, Kota Bandung",
+          "alasan_viral": "Dimsum",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Gebros",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Taman Cibeunying Utara, Kota Bandung",
+          "alasan_viral": "Gorengan mini seperti gehu cikur dan combro lemet",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Sate Pak Gito",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Taman Cibeunying Utara, Kota Bandung",
+          "alasan_viral": "Sajian sate",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Jue Kopi",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Taman Cibeunying Utara, Kota Bandung",
+          "alasan_viral": "Kopi Vietnam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Toko Kari",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Taman Cibeunying Utara, Kota Bandung",
+          "alasan_viral": "Kuliner bercita rasa kari",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Pempek B3doloer",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Taman Cibeunying Utara, Kota Bandung",
+          "alasan_viral": "Pempek khas Palembang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 27,
+      "places": [
+        {
+          "nama_tempat": "RM Sari Moerni",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Kisamaun, dekat Pasar Lama, Kota Tangerang",
+          "alasan_viral": "Destinasi kuliner baru bernuansa Betawi-Sunda, ayam kukus dan es teh kampul",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 28,
+      "places": []
+    },
+    {
+      "article_id": 29,
+      "places": [
+        {
+          "nama_tempat": "Festival Kuliner Nusantarasa by Roadshow Kuliner Viral Indonesia",
+          "kategori": "Pameran",
+          "lokasi_text": "Mal Ratu Indah, Makassar, Sulawesi Selatan",
+          "alasan_viral": "Festival kuliner viral dengan ratusan menu dan UMKM",
+          "indikasi_waktu": "26 Agustus - 6 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

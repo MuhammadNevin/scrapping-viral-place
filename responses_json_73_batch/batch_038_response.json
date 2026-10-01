@@ -1,0 +1,213 @@
+{
+  "results": [
+    {
+      "article_id": 1110,
+      "places": [
+        {
+          "nama_tempat": "Tebing Apparalang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Lembanna, Kecamatan Bonto Bahari, Bulukumba",
+          "alasan_viral": "Viral video remaja tewas terjatuh saat berfoto di tebing (isu negatif)",
+          "indikasi_waktu": "7 Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1111,
+      "places": [
+        {
+          "nama_tempat": "Kawasan Wisata Apparalang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Lembanna, Bonto Bahari, Bulukumba",
+          "alasan_viral": "Area tebing ditutup polisi usai insiden viral (isu negatif)",
+          "indikasi_waktu": "8 Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1112,
+      "places": []
+    },
+    {
+      "article_id": 1113,
+      "places": []
+    },
+    {
+      "article_id": 1114,
+      "places": []
+    },
+    {
+      "article_id": 1115,
+      "places": []
+    },
+    {
+      "article_id": 1116,
+      "places": [
+        {
+          "nama_tempat": "Outlet Golqi Chicken",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Batua Raya, Makassar",
+          "alasan_viral": "Rekaman CCTV pembobolan toko viral di media sosial (isu negatif)",
+          "indikasi_waktu": "5 Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 1117,
+      "places": []
+    },
+    {
+      "article_id": 1118,
+      "places": []
+    },
+    {
+      "article_id": 1119,
+      "places": []
+    },
+    {
+      "article_id": 1120,
+      "places": []
+    },
+    {
+      "article_id": 1121,
+      "places": []
+    },
+    {
+      "article_id": 1122,
+      "places": []
+    },
+    {
+      "article_id": 1123,
+      "places": []
+    },
+    {
+      "article_id": 1124,
+      "places": []
+    },
+    {
+      "article_id": 1125,
+      "places": []
+    },
+    {
+      "article_id": 1126,
+      "places": [
+        {
+          "nama_tempat": "Pasar Agro Sumillan",
+          "kategori": "lainnya",
+          "lokasi_text": "Dusun Bossok, Desa Sumillan, Kecamatan Alla, Enrekang",
+          "alasan_viral": "Kebakaran 9 kios (isu negatif)",
+          "indikasi_waktu": "13 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 1127,
+      "places": []
+    },
+    {
+      "article_id": 1128,
+      "places": []
+    },
+    {
+      "article_id": 1129,
+      "places": []
+    },
+    {
+      "article_id": 1130,
+      "places": [
+        {
+          "nama_tempat": "Festival Danau Tempe 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Lapangan Merdeka Sengkang, Kabupaten Wajo",
+          "alasan_viral": "Festival budaya dan pariwisata Danau Tempe",
+          "indikasi_waktu": "23 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1131,
+      "places": [
+        {
+          "nama_tempat": "Festival Durian Enrekang",
+          "kategori": "Pameran",
+          "lokasi_text": "Kebun Raya Massenrempulu, Desa Batu Mila, Kecamatan Maiwa, Enrekang",
+          "alasan_viral": "Festival berakhir ricuh karena pengunjung tak kebagian durian (isu negatif)",
+          "indikasi_waktu": "30 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Kebun Raya Massenrempulu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Batu Mila, Kecamatan Maiwa, Enrekang",
+          "alasan_viral": "Lokasi Festival Durian",
+          "indikasi_waktu": "30 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1132,
+      "places": [
+        {
+          "nama_tempat": "Mal Phinisi Point (Pipo)",
+          "kategori": "lainnya",
+          "lokasi_text": "Makassar",
+          "alasan_viral": "Parkir semrawut saat event viral di media sosial (isu negatif)",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1133,
+      "places": [
+        {
+          "nama_tempat": "Makassar International Writers Festival (MIWF) 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Makassar",
+          "alasan_viral": "Festival literasi internasional",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1134,
+      "places": []
+    },
+    {
+      "article_id": 1135,
+      "places": []
+    },
+    {
+      "article_id": 1136,
+      "places": []
+    },
+    {
+      "article_id": 1137,
+      "places": []
+    },
+    {
+      "article_id": 1138,
+      "places": []
+    },
+    {
+      "article_id": 1139,
+      "places": []
+    }
+  ]
+}

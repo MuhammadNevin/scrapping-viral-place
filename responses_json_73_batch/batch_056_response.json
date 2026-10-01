@@ -1,0 +1,393 @@
+{
+  "results": [
+    {
+      "article_id": 1650,
+      "places": []
+    },
+    {
+      "article_id": 1651,
+      "places": [
+        {
+          "nama_tempat": "Pasar Johar",
+          "kategori": "lainnya",
+          "lokasi_text": "Kauman, Kecamatan Semarang Tengah, Kota Semarang",
+          "alasan_viral": "Pasar bersejarah jadi destinasi wisata kuliner ramai muda-mudi, ada roti kekinian viral dan kuliner legendaris murah",
+          "indikasi_waktu": "21 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Soto Pak No",
+          "kategori": "Restoran",
+          "lokasi_text": "Lantai dua Pasar Johar, Kota Semarang",
+          "alasan_viral": "Soto ayam favorit pengunjung yang wajib dicoba di Pasar Johar",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1652,
+      "places": [
+        {
+          "nama_tempat": "Pasar Johar",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Semarang",
+          "alasan_viral": "Video juru parkir patok tarif seenaknya viral hingga jukir dipecat (isu negatif)",
+          "indikasi_waktu": "8 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1653,
+      "places": []
+    },
+    {
+      "article_id": 1654,
+      "places": []
+    },
+    {
+      "article_id": 1655,
+      "places": []
+    },
+    {
+      "article_id": 1656,
+      "places": []
+    },
+    {
+      "article_id": 1657,
+      "places": []
+    },
+    {
+      "article_id": 1658,
+      "places": []
+    },
+    {
+      "article_id": 1659,
+      "places": []
+    },
+    {
+      "article_id": 1660,
+      "places": [
+        {
+          "nama_tempat": "Festival Kota Lama Semarang 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Kawasan Kota Lama, Kota Semarang",
+          "alasan_viral": "Festival seni budaya, kuliner nostalgia, jazz dan 1.000 Angklung Berkebaya, masuk Karisma Event Nusantara",
+          "indikasi_waktu": "4-20 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1661,
+      "places": [
+        {
+          "nama_tempat": "Festival Bunga Bandungan 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Bandungan, Kabupaten Semarang",
+          "alasan_viral": "Festival bunga dengan workshop merangkai bunga dan parade 25 mobil hias",
+          "indikasi_waktu": "3-5 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1662,
+      "places": [
+        {
+          "nama_tempat": "Gebyar Kuliner Gang Senggol Jakarta Vol. 5",
+          "kategori": "Pameran",
+          "lokasi_text": "Queen City Mall, Kota Semarang",
+          "alasan_viral": "Pesta kuliner jajanan khas dan kekinian",
+          "indikasi_waktu": "23 Juli - 2 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Sela Rasa Festival Kuliner",
+          "kategori": "Pameran",
+          "lokasi_text": "Pollux Mall Paragon, Kota Semarang",
+          "alasan_viral": "Festival kuliner dengan beragam stan hidangan nusantara dan modern",
+          "indikasi_waktu": "29 Juli - 9 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1663,
+      "places": [
+        {
+          "nama_tempat": "Sela Rasa Festival Kuliner",
+          "kategori": "Pameran",
+          "lokasi_text": "Mall Paragon, Kota Semarang",
+          "alasan_viral": "Festival kuliner nusantara dalam satu lokasi",
+          "indikasi_waktu": "29 Juli - 9 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Jakarta Take Over The Capital's Food Festival",
+          "kategori": "Pameran",
+          "lokasi_text": "Atrium The Park Mall Semarang, Kota Semarang",
+          "alasan_viral": "Festival makanan khas Jakarta dan daerah lain",
+          "indikasi_waktu": "31 Juli - 9 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Aurora Lighting Festival",
+          "kategori": "Pameran",
+          "lokasi_text": "Grand Maerakaca, Kota Semarang",
+          "alasan_viral": "Wisata malam dengan instalasi lampu instagramable",
+          "indikasi_waktu": "Hingga 6 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Indonesia Mahabarata Art Festival",
+          "kategori": "Pameran",
+          "lokasi_text": "Taman Indonesia Kaya, Kota Semarang",
+          "alasan_viral": "Festival seni pertunjukan bertema Mahabarata dikemas modern",
+          "indikasi_waktu": "23 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1664,
+      "places": [
+        {
+          "nama_tempat": "Sop Konro Bawakaraeng",
+          "kategori": "Restoran",
+          "lokasi_text": "Pusat Kota Makassar",
+          "alasan_viral": "Tempat makan konro legendaris dengan daging sangat lembut, selalu ramai",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1665,
+      "places": [
+        {
+          "nama_tempat": "Daeng Banna",
+          "kategori": "Restoran",
+          "lokasi_text": "Gayungsari Barat, Surabaya",
+          "alasan_viral": "Warung hidden gem kuliner Makassar dengan pallubasa, coto dan konro resep keluarga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1666,
+      "places": [
+        {
+          "nama_tempat": "Ayam Goreng Kamari",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Dharma Husada, Surabaya",
+          "alasan_viral": "Viral di media sosial berkat ayam goreng ketumbar kremesan rahasia dan ayam kukus kuah kaldu",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 1667,
+      "places": [
+        {
+          "nama_tempat": "Pulau Lanjukang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Makassar",
+          "alasan_viral": "Dikembangkan sebagai destinasi wisata bahari berbasis konservasi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1668,
+      "places": []
+    },
+    {
+      "article_id": 1669,
+      "places": [
+        {
+          "nama_tempat": "Pantai Losari",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Makassar",
+          "alasan_viral": "Ikon wisata Makassar dengan panorama matahari terbenam dan kuliner khas",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Benteng Fort Rotterdam",
+          "kategori": "Museum",
+          "lokasi_text": "Kota Makassar",
+          "alasan_viral": "Wisata sejarah dan museum koleksi budaya Sulawesi Selatan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Masjid 99 Kubah",
+          "kategori": "lainnya",
+          "lokasi_text": "Kawasan Center Point of Indonesia, Kota Makassar",
+          "alasan_viral": "Ikon baru Makassar, wisata religi dan lokasi favorit berfoto",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Kawasan Center Point of Indonesia",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Makassar",
+          "alasan_viral": "Ruang publik untuk jalan kaki, olahraga dan menikmati suasana laut",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Pulau Samalona",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Makassar",
+          "alasan_viral": "Pulau kecil dengan air laut jernih dan lokasi snorkeling",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Pantai Akkarena",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Makassar",
+          "alasan_viral": "Pantai tenang untuk bersantai keluarga dengan area bermain dan kuliner",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Trans Studio Makassar",
+          "kategori": "Wahana",
+          "lokasi_text": "Kota Makassar",
+          "alasan_viral": "Taman hiburan indoor terbesar dengan berbagai wahana permainan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1670,
+      "places": []
+    },
+    {
+      "article_id": 1671,
+      "places": [
+        {
+          "nama_tempat": "Ekowisata Mangrove Lakkang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kelurahan Lakkang, Kota Makassar",
+          "alasan_viral": "Kawasan delta mangrove digagas jadi ekowisata terpadu berbasis konservasi",
+          "indikasi_waktu": "9 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1672,
+      "places": [
+        {
+          "nama_tempat": "Pulau Kodingare Keke",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Makassar",
+          "alasan_viral": "Pulau tempat camping dikunjungi selebriti dalam program liburan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1673,
+      "places": []
+    },
+    {
+      "article_id": 1674,
+      "places": [
+        {
+          "nama_tempat": "Pulau Liukang Loe",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Sulawesi Selatan",
+          "alasan_viral": "Pulau yang dikunjungi selebriti, berjoget bersama warga lokal",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1675,
+      "places": [
+        {
+          "nama_tempat": "Trans Snow World Makassar",
+          "kategori": "Wahana",
+          "lokasi_text": "Trans Studio Mall Makassar, Jl. Metro Tanjung Bunga, Makassar",
+          "alasan_viral": "Wisata salju indoor untuk bermain salju dan berseluncur, ada promo tiket",
+          "indikasi_waktu": "18-24 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1676,
+      "places": []
+    },
+    {
+      "article_id": 1677,
+      "places": [
+        {
+          "nama_tempat": "Museum Kota Makassar",
+          "kategori": "Museum",
+          "lokasi_text": "Jalan Balaikota, Makassar",
+          "alasan_viral": "Dimanfaatkan warga sebagai lokasi nobar Piala Dunia 2026",
+          "indikasi_waktu": "17 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1678,
+      "places": []
+    },
+    {
+      "article_id": 1679,
+      "places": [
+        {
+          "nama_tempat": "Toko Sumber Plastik",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Masjid Raya, Makassar",
+          "alasan_viral": "Aduan warga viral soal bongkar muat penyebab macet, disidak DPRD (isu negatif)",
+          "indikasi_waktu": "29 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.35
+        }
+      ]
+    }
+  ]
+}

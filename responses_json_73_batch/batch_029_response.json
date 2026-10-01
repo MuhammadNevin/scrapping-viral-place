@@ -1,0 +1,194 @@
+{
+  "results": [
+    {
+      "article_id": 840,
+      "places": [
+        {
+          "nama_tempat": "Bekas tambang pasir besi Dedalpak (padang pasir ala Timur Tengah)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Dusun Dedalpak, Desa Pohgading, Kecamatan Pringgabaya, Lombok Timur",
+          "alasan_viral": "Viral di TikTok karena mirip padang pasir Timur Tengah, ramai sejak enam hari",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 841,
+      "places": []
+    },
+    {
+      "article_id": 842,
+      "places": []
+    },
+    {
+      "article_id": 843,
+      "places": []
+    },
+    {
+      "article_id": 844,
+      "places": [
+        {
+          "nama_tempat": "Museum Sade",
+          "kategori": "Museum",
+          "lokasi_text": "Desa Adat Sade, Kecamatan Pujut, Lombok Tengah",
+          "alasan_viral": "Museum yang disusun konsepnya pasca kebakaran Desa Adat Sade",
+          "indikasi_waktu": "Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 845,
+      "places": [
+        {
+          "nama_tempat": "Lapak Nasi Bejek depan Museum Negeri NTB",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Panji Tilar Negara, Kekalik Jaya, Ampenan, Kota Mataram",
+          "alasan_viral": "Viral di TikTok dan Instagram, warga antre sebelum lapak buka",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 846,
+      "places": []
+    },
+    {
+      "article_id": 847,
+      "places": []
+    },
+    {
+      "article_id": 848,
+      "places": []
+    },
+    {
+      "article_id": 849,
+      "places": []
+    },
+    {
+      "article_id": 850,
+      "places": []
+    },
+    {
+      "article_id": 851,
+      "places": []
+    },
+    {
+      "article_id": 852,
+      "places": []
+    },
+    {
+      "article_id": 853,
+      "places": []
+    },
+    {
+      "article_id": 854,
+      "places": []
+    },
+    {
+      "article_id": 855,
+      "places": []
+    },
+    {
+      "article_id": 856,
+      "places": []
+    },
+    {
+      "article_id": 857,
+      "places": []
+    },
+    {
+      "article_id": 858,
+      "places": []
+    },
+    {
+      "article_id": 859,
+      "places": []
+    },
+    {
+      "article_id": 860,
+      "places": [
+        {
+          "nama_tempat": "Pasar Rakyat Kuta Mandalika",
+          "kategori": "lainnya",
+          "lokasi_text": "KEK Mandalika, Lombok Tengah",
+          "alasan_viral": "Direvitalisasi karena kerap dikeluhkan pedagang dan warga",
+          "indikasi_waktu": "28 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 861,
+      "places": [
+        {
+          "nama_tempat": "Pasar Seni Senggigi",
+          "kategori": "lainnya",
+          "lokasi_text": "Senggigi, Lombok Barat",
+          "alasan_viral": "Revitalisasi Rp81 miliar konsep terinspirasi Pelabuhan Sydney",
+          "indikasi_waktu": "2026-2027",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 862,
+      "places": [
+        {
+          "nama_tempat": "Pasar Tente",
+          "kategori": "lainnya",
+          "lokasi_text": "Kecamatan Woha, Kabupaten Bima",
+          "alasan_viral": "Tumpukan sampah meresahkan pedagang dan warga (isu negatif)",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.3
+        }
+      ]
+    },
+    {
+      "article_id": 863,
+      "places": []
+    },
+    {
+      "article_id": 864,
+      "places": []
+    },
+    {
+      "article_id": 865,
+      "places": []
+    },
+    {
+      "article_id": 866,
+      "places": []
+    },
+    {
+      "article_id": 867,
+      "places": []
+    },
+    {
+      "article_id": 868,
+      "places": [
+        {
+          "nama_tempat": "Karya Kreatif NTB",
+          "kategori": "Pameran",
+          "lokasi_text": "Epicentrum Mall, Mataram",
+          "alasan_viral": "Pameran karya kreatif dan kopi NTB",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 869,
+      "places": []
+    }
+  ]
+}

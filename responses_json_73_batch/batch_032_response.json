@@ -1,0 +1,210 @@
+{
+  "results": [
+    {
+      "article_id": 930,
+      "places": []
+    },
+    {
+      "article_id": 931,
+      "places": []
+    },
+    {
+      "article_id": 932,
+      "places": []
+    },
+    {
+      "article_id": 933,
+      "places": [
+        {
+          "nama_tempat": "Pasar Flamboyan",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Pontianak",
+          "alasan_viral": "Video sampah menggunung di TPS pasar viral (isu negatif)",
+          "indikasi_waktu": "21 Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 934,
+      "places": []
+    },
+    {
+      "article_id": 935,
+      "places": [
+        {
+          "nama_tempat": "Pasar Sungai Duri",
+          "kategori": "lainnya",
+          "lokasi_text": "Kabupaten Bengkayang, Kalimantan Barat",
+          "alasan_viral": "Video kebakaran pasar viral disalahklaim sebagai karhutla (isu negatif)",
+          "indikasi_waktu": "20 Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 936,
+      "places": []
+    },
+    {
+      "article_id": 937,
+      "places": []
+    },
+    {
+      "article_id": 938,
+      "places": []
+    },
+    {
+      "article_id": 939,
+      "places": []
+    },
+    {
+      "article_id": 940,
+      "places": []
+    },
+    {
+      "article_id": 941,
+      "places": []
+    },
+    {
+      "article_id": 942,
+      "places": []
+    },
+    {
+      "article_id": 943,
+      "places": [
+        {
+          "nama_tempat": "Taman Nasional Tanjung Puting",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Kotawaringin Barat, Kalimantan Tengah",
+          "alasan_viral": "Destinasi kelas dunia, disiapkan kapal susur sungai",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 944,
+      "places": []
+    },
+    {
+      "article_id": 945,
+      "places": [
+        {
+          "nama_tempat": "Museum Sonobudoyo",
+          "kategori": "Museum",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Hadir lebih modern dengan video mapping dan ruang imersif",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 946,
+      "places": []
+    },
+    {
+      "article_id": 947,
+      "places": []
+    },
+    {
+      "article_id": 948,
+      "places": []
+    },
+    {
+      "article_id": 949,
+      "places": []
+    },
+    {
+      "article_id": 950,
+      "places": []
+    },
+    {
+      "article_id": 951,
+      "places": []
+    },
+    {
+      "article_id": 952,
+      "places": []
+    },
+    {
+      "article_id": 953,
+      "places": []
+    },
+    {
+      "article_id": 954,
+      "places": []
+    },
+    {
+      "article_id": 955,
+      "places": []
+    },
+    {
+      "article_id": 956,
+      "places": []
+    },
+    {
+      "article_id": 957,
+      "places": []
+    },
+    {
+      "article_id": 958,
+      "places": []
+    },
+    {
+      "article_id": 959,
+      "places": [
+        {
+          "nama_tempat": "Soto Banjar Bang Amat",
+          "kategori": "Restoran",
+          "lokasi_text": "Banua Anyar, dekat Sungai Martapura, Banjarmasin",
+          "alasan_viral": "Soto Banjar kuliner tradisional populer",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "RM Lontong Orari",
+          "kategori": "Restoran",
+          "lokasi_text": "Banjarmasin",
+          "alasan_viral": "Lontong segitiga khas Banjar",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Depot Sari Patin",
+          "kategori": "Restoran",
+          "lokasi_text": "Banjarmasin",
+          "alasan_viral": "Olahan ikan patin khas Kalsel",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Mie Bancir Khas Banjar Ala Agus Sasirangan",
+          "kategori": "Restoran",
+          "lokasi_text": "Banjarmasin",
+          "alasan_viral": "Mie bancir khas Banjar",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Waroeng Bandjar",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Pramuka, Banjarmasin Timur",
+          "alasan_viral": "Nuansa kuliner lokal Banjar",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    }
+  ]
+}

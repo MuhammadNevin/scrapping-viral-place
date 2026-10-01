@@ -1,0 +1,343 @@
+{
+  "results": [
+    {
+      "article_id": 1320,
+      "places": [
+        {
+          "nama_tempat": "Oma Huis",
+          "kategori": "Restoran",
+          "lokasi_text": "Cikajang, Jakarta Selatan",
+          "alasan_viral": "Kedai baru jajanan kaki lima Korea dengan kimbab porsi besar",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1321,
+      "places": []
+    },
+    {
+      "article_id": 1322,
+      "places": [
+        {
+          "nama_tempat": "Nasi Uduk Mas Dikun",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Warga Nomor 58, Pejaten Barat, Pasar Minggu, Jakarta Selatan",
+          "alasan_viral": "Nasi uduk legendaris sejak 1991 viral usai disebut Nicholas Saputra dalam podcast",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Ayam Goreng Presto Cipete",
+          "kategori": "Restoran",
+          "lokasi_text": "Cipete, Jakarta Selatan",
+          "alasan_viral": "Ayam goreng presto legendaris sejak 1986 direkomendasikan Bernadya dan Desta, kuliner favorit artis yang ikut viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1323,
+      "places": [
+        {
+          "nama_tempat": "Bebek Kaleyo",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. KH Abdullah Syafei No.49, Tebet, Jakarta Selatan",
+          "alasan_viral": "Tempat makan siang favorit karyawan dengan bebek goreng kremes dan cabe ijo",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1324,
+      "places": [
+        {
+          "nama_tempat": "Solene Restaurant",
+          "kategori": "Restoran",
+          "lokasi_text": "The St. Regis Jakarta, Jl. HR Rasuna Said, Kuningan, Setiabudi, Jakarta Selatan",
+          "alasan_viral": "Restoran Prancis Selatan baru yang mewah",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Le Comptoir Quartier",
+          "kategori": "Restoran",
+          "lokasi_text": "Plaza Indonesia, Jakarta",
+          "alasan_viral": "Restoran French Brasserie baru bernuansa lawas elegan",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1325,
+      "places": []
+    },
+    {
+      "article_id": 1326,
+      "places": []
+    },
+    {
+      "article_id": 1327,
+      "places": []
+    },
+    {
+      "article_id": 1328,
+      "places": [
+        {
+          "nama_tempat": "Little Salt Bread",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Melawai 3 No.6 Blok M, Melawai, Jakarta Selatan",
+          "alasan_viral": "Toko salt bread dengan antrean mengular, roti freshly baked",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Salt Bite",
+          "kategori": "Kafe",
+          "lokasi_text": "Apartemen Gading Mediterania, Kelapa Gading, Jakarta Utara",
+          "alasan_viral": "Gerai khusus salt bread dan kopi susu untuk anak muda",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1329,
+      "places": [
+        {
+          "nama_tempat": "Little Salt Bread",
+          "kategori": "Kafe",
+          "lokasi_text": "Blok M, Jakarta Selatan",
+          "alasan_viral": "Rekomendasi tempat viral salt bread yang dipanggang segar setiap hari",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Chulos Bake House",
+          "kategori": "Kafe",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Rekomendasi tempat viral salt bread dengan varian rasa unik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Hey Kuro",
+          "kategori": "Kafe",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Kafe dan toko kue populer dengan salt bread bergaya Jepang dan Korea",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1330,
+      "places": [
+        {
+          "nama_tempat": "Little Salt Bread",
+          "kategori": "Kafe",
+          "lokasi_text": "Blok M, Jakarta Selatan",
+          "alasan_viral": "Salt bread dipanggang segar setiap hari dengan beragam varian",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "London Layers Artisan Bakery",
+          "kategori": "Kafe",
+          "lokasi_text": "Blok M, Jakarta Selatan",
+          "alasan_viral": "Toko roti premium dengan salt bread dan British donut",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Chouxlala",
+          "kategori": "Kafe",
+          "lokasi_text": "Stasiun MRT Blok M BCA, Jakarta Selatan",
+          "alasan_viral": "Toko salt bread yang mudah dijangkau di area stasiun MRT",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1331,
+      "places": []
+    },
+    {
+      "article_id": 1332,
+      "places": []
+    },
+    {
+      "article_id": 1333,
+      "places": []
+    },
+    {
+      "article_id": 1334,
+      "places": [
+        {
+          "nama_tempat": "Jaksinema",
+          "kategori": "lainnya",
+          "lokasi_text": "Lantai 3 Rusun Pasar Rumput, Jakmart Tower 3, Jakarta Selatan",
+          "alasan_viral": "Bioskop murah di rusun dengan tiket Rp15.000 hingga Rp20.000",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1335,
+      "places": []
+    },
+    {
+      "article_id": 1336,
+      "places": []
+    },
+    {
+      "article_id": 1337,
+      "places": []
+    },
+    {
+      "article_id": 1338,
+      "places": []
+    },
+    {
+      "article_id": 1339,
+      "places": []
+    },
+    {
+      "article_id": 1340,
+      "places": []
+    },
+    {
+      "article_id": 1341,
+      "places": []
+    },
+    {
+      "article_id": 1342,
+      "places": []
+    },
+    {
+      "article_id": 1343,
+      "places": []
+    },
+    {
+      "article_id": 1344,
+      "places": []
+    },
+    {
+      "article_id": 1345,
+      "places": [
+        {
+          "nama_tempat": "Bakmi Ncek",
+          "kategori": "Restoran",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Kedai bakmi dengan nuansa tempo dulu, camilan jadul dan Sarsaparilla Cap Badak",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1346,
+      "places": []
+    },
+    {
+      "article_id": 1347,
+      "places": [
+        {
+          "nama_tempat": "Seribu Rasa Menteng",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan H. Agus Salim, Menteng, Jakarta Pusat",
+          "alasan_viral": "Rekomendasi makan siang menu Nusantara bersuasana nyaman",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Bungarampai Restaurant",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Teuku Cik Ditiro, Menteng, Jakarta Pusat",
+          "alasan_viral": "Restoran cita rasa Nusantara bersuasana elegan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Sagoo Kitchen Menteng",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Teuku Cik Ditiro, Menteng, Jakarta Pusat",
+          "alasan_viral": "Family restaurant dengan harga relatif terjangkau",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1348,
+      "places": [
+        {
+          "nama_tempat": "Natrabu Minang Restaurant",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Sabang (Jalan H. Agus Salim), Jakarta Pusat",
+          "alasan_viral": "Rumah makan Padang legendaris sejak 1958, tertua di Jalan Sabang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Sate Kambing Jaya Agung",
+          "kategori": "Restoran",
+          "lokasi_text": "Pertemuan Jalan Sabang dan Jalan KH Wahid Hasyim, Jakarta Pusat",
+          "alasan_viral": "Kedai sate kambing legendaris sejak 1963",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1349,
+      "places": [
+        {
+          "nama_tempat": "Ramen For The Soul",
+          "kategori": "Restoran",
+          "lokasi_text": "Jakarta Selatan",
+          "alasan_viral": "Kedai ramen kreatif berinterior urban estetik, tempat nongkrong pekerja kreatif",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Seirock-Ya Ramen",
+          "kategori": "Restoran",
+          "lokasi_text": "Jakarta Selatan",
+          "alasan_viral": "Jaringan kedai ramen legendaris dengan kuah kental kaya kolagen",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    }
+  ]
+}

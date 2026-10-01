@@ -1,0 +1,233 @@
+{
+  "results": [
+    {
+      "article_id": 1950,
+      "places": []
+    },
+    {
+      "article_id": 1951,
+      "places": []
+    },
+    {
+      "article_id": 1952,
+      "places": []
+    },
+    {
+      "article_id": 1953,
+      "places": [
+        {
+          "nama_tempat": "AZKO Living World Pekanbaru",
+          "kategori": "lainnya",
+          "lokasi_text": "Living World, Pekanbaru, Riau",
+          "alasan_viral": "Video viral genset dan lampu darurat ludes diborong saat mati listrik se-Sumatera",
+          "indikasi_waktu": "22-23 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1954,
+      "places": []
+    },
+    {
+      "article_id": 1955,
+      "places": []
+    },
+    {
+      "article_id": 1956,
+      "places": []
+    },
+    {
+      "article_id": 1957,
+      "places": []
+    },
+    {
+      "article_id": 1958,
+      "places": []
+    },
+    {
+      "article_id": 1959,
+      "places": []
+    },
+    {
+      "article_id": 1960,
+      "places": [
+        {
+          "nama_tempat": "Gebyar Kuliner Jakarta Halal Viral Vol. 3",
+          "kategori": "Pameran",
+          "lokasi_text": "Living World Pekanbaru, Riau",
+          "alasan_viral": "Festival kuliner nasional dengan 45 tenant dan 300+ menu halal",
+          "indikasi_waktu": "24 April - 3 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Rujak Bang Shultan",
+          "kategori": "Restoran",
+          "lokasi_text": "Living World Pekanbaru, Riau",
+          "alasan_viral": "Rujak buah dengan bumbu khas yang viral di berbagai platform digital",
+          "indikasi_waktu": "24 April - 3 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1961,
+      "places": [
+        {
+          "nama_tempat": "Gebyar Kuliner Jakarta",
+          "kategori": "Pameran",
+          "lokasi_text": "Living World Pekanbaru, Riau",
+          "alasan_viral": "Lebih dari 45 stan makanan viral, stan bungeoppang ramai diserbu hingga habis",
+          "indikasi_waktu": "April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1962,
+      "places": [
+        {
+          "nama_tempat": "Festival Kue Ketan Talam Durian",
+          "kategori": "Pameran",
+          "lokasi_text": "Jalan Jendral Sudirman, Pekanbaru",
+          "alasan_viral": "Festival rekor MURI HUT Pekanbaru ke-242 yang disebut sudah viral hingga luar daerah",
+          "indikasi_waktu": "21 Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1963,
+      "places": [
+        {
+          "nama_tempat": "Festival Kue Ketan Talam Durian",
+          "kategori": "Pameran",
+          "lokasi_text": "Pekanbaru, Riau",
+          "alasan_viral": "Rekor MURI kue talam durian terpanjang, disebut viral hingga luar Pekanbaru",
+          "indikasi_waktu": "21 Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1964,
+      "places": [
+        {
+          "nama_tempat": "Rumah Adat Banjar Bubungan Tinggi",
+          "kategori": "lainnya",
+          "lokasi_text": "Desa Teluk Selong Ulu, Kecamatan Martapura Barat, Kabupaten Banjar",
+          "alasan_viral": "Destinasi wisata rumah adat, lokasi sosialisasi Gerakan Bersama Memviralkan Pariwisata",
+          "indikasi_waktu": "14 April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1965,
+      "places": []
+    },
+    {
+      "article_id": 1966,
+      "places": []
+    },
+    {
+      "article_id": 1967,
+      "places": []
+    },
+    {
+      "article_id": 1968,
+      "places": []
+    },
+    {
+      "article_id": 1969,
+      "places": []
+    },
+    {
+      "article_id": 1970,
+      "places": []
+    },
+    {
+      "article_id": 1971,
+      "places": []
+    },
+    {
+      "article_id": 1972,
+      "places": []
+    },
+    {
+      "article_id": 1973,
+      "places": []
+    },
+    {
+      "article_id": 1974,
+      "places": [
+        {
+          "nama_tempat": "Festival Peh Cun 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Lapangan Badminton Klenteng Suci Nurani, Banjarmasin",
+          "alasan_viral": "Festival budaya Tionghoa dengan demonstrasi pembuatan bakcang",
+          "indikasi_waktu": "19 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1975,
+      "places": [
+        {
+          "nama_tempat": "Pantai Kilang Mandiri",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Balikpapan, Kalimantan Timur",
+          "alasan_viral": "Panorama matahari terbenam, tetap jadi daya tarik meski kunjungan turun",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1976,
+      "places": [
+        {
+          "nama_tempat": "KWPLH Beruang Madu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Balikpapan, Kalimantan Timur",
+          "alasan_viral": "Destinasi unggulan paket city tour PORPAMNAS IX",
+          "indikasi_waktu": "7-10 Oktober 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1977,
+      "places": [
+        {
+          "nama_tempat": "Pantai Manggar Segara Sari",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Balikpapan, Kalimantan Timur",
+          "alasan_viral": "Destinasi unggulan dengan jet ski, wisata berkuda, villa dan sport tourism",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1978,
+      "places": []
+    },
+    {
+      "article_id": 1979,
+      "places": []
+    }
+  ]
+}

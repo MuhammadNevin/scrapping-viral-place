@@ -1,0 +1,240 @@
+{
+  "results": [
+    {
+      "article_id": 150,
+      "places": [
+        {
+          "nama_tempat": "Festival Kuliner Gang Senggol Jakarta Viral",
+          "kategori": "Pameran",
+          "lokasi_text": "Padang, Sumatera Barat",
+          "alasan_viral": "Pameran 400 menu kuliner halal UMKM Jakarta yang viral",
+          "indikasi_waktu": "29 Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 151,
+      "places": [
+        {
+          "nama_tempat": "GIIAS 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "BSD City, Tangerang",
+          "alasan_viral": "Pameran otomotif; menampilkan Hyundai Ioniq 3 yang viral di Eropa",
+          "indikasi_waktu": "30 Juli - 9 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 152,
+      "places": [
+        {
+          "nama_tempat": "GIIAS 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Tangerang",
+          "alasan_viral": "Viral kasus SPG direkam diam-diam untuk konten di pameran (isu negatif)",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 153,
+      "places": []
+    },
+    {
+      "article_id": 154,
+      "places": []
+    },
+    {
+      "article_id": 155,
+      "places": []
+    },
+    {
+      "article_id": 156,
+      "places": []
+    },
+    {
+      "article_id": 157,
+      "places": []
+    },
+    {
+      "article_id": 158,
+      "places": []
+    },
+    {
+      "article_id": 159,
+      "places": []
+    },
+    {
+      "article_id": 160,
+      "places": []
+    },
+    {
+      "article_id": 161,
+      "places": []
+    },
+    {
+      "article_id": 162,
+      "places": []
+    },
+    {
+      "article_id": 163,
+      "places": []
+    },
+    {
+      "article_id": 164,
+      "places": []
+    },
+    {
+      "article_id": 165,
+      "places": []
+    },
+    {
+      "article_id": 166,
+      "places": [
+        {
+          "nama_tempat": "Event kuliner khas Jakarta di Palembang Indah Mall",
+          "kategori": "Pameran",
+          "lokasi_text": "Palembang Indah Mall (PIM), Palembang",
+          "alasan_viral": "Festival 40+ tenant makanan viral Jakarta, dipadati pengunjung",
+          "indikasi_waktu": "22 Juni - 2 Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Ci Mehong",
+          "kategori": "lainnya",
+          "lokasi_text": "Tenant di Palembang Indah Mall, Palembang",
+          "alasan_viral": "Kuliner viral dari Jakarta",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Chewy's Dessert by Jennifer Coppen",
+          "kategori": "Kafe",
+          "lokasi_text": "Tenant di Palembang Indah Mall, Palembang",
+          "alasan_viral": "Kuliner viral dari Jakarta",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Bungeoppang",
+          "kategori": "lainnya",
+          "lokasi_text": "Tenant di Palembang Indah Mall, Palembang",
+          "alasan_viral": "Tenant kewalahan melayani pembeli",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Dubai Chewy Cookies by Momoichi",
+          "kategori": "Kafe",
+          "lokasi_text": "Tenant di Palembang Indah Mall, Palembang",
+          "alasan_viral": "Kuliner viral dari Jakarta",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 167,
+      "places": []
+    },
+    {
+      "article_id": 168,
+      "places": []
+    },
+    {
+      "article_id": 169,
+      "places": []
+    },
+    {
+      "article_id": 170,
+      "places": []
+    },
+    {
+      "article_id": 171,
+      "places": [
+        {
+          "nama_tempat": "Highland Fest Bukittinggi",
+          "kategori": "Pameran",
+          "lokasi_text": "Bukittinggi, Sumatera Barat",
+          "alasan_viral": "Viral momen hujan abu vulkanik saat konser",
+          "indikasi_waktu": "26 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 172,
+      "places": []
+    },
+    {
+      "article_id": 173,
+      "places": [
+        {
+          "nama_tempat": "Savoria Festival 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Kampus Universitas Adiwangsa Jambi (UNAJA), Jambi",
+          "alasan_viral": "Festival kampus dengan 22 tenant makanan viral",
+          "indikasi_waktu": "25 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 174,
+      "places": []
+    },
+    {
+      "article_id": 175,
+      "places": []
+    },
+    {
+      "article_id": 176,
+      "places": [
+        {
+          "nama_tempat": "Festival Kuliner Gang Senggol Jakarta Viral",
+          "kategori": "Pameran",
+          "lokasi_text": "Lobi Barat PTC Mall Palembang dan Palembang Indah Mall, Palembang",
+          "alasan_viral": "Festival 45 tenant kuliner yang ramai di media sosial, dipadati pengunjung",
+          "indikasi_waktu": "25 Juni - 5 Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 177,
+      "places": []
+    },
+    {
+      "article_id": 178,
+      "places": [
+        {
+          "nama_tempat": "Jakarta Halal Viral Culinary Festival",
+          "kategori": "Pameran",
+          "lokasi_text": "Kota Kediri, Jawa Timur",
+          "alasan_viral": "Pameran jajanan viral dari berbagai daerah",
+          "indikasi_waktu": "19 Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 179,
+      "places": []
+    }
+  ]
+}

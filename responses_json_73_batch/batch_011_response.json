@@ -1,0 +1,330 @@
+{
+  "results": [
+    {
+      "article_id": 300,
+      "places": [
+        {
+          "nama_tempat": "BPK Tesalonika",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Jamin Ginting No.103, Medan",
+          "alasan_viral": "Warung BPK populer buka 24 jam, BPK Campur",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Olakisat",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Jamin Ginting (Selayang), cabang Jl. Dame (Medan Petisah), Medan",
+          "alasan_viral": "BPK dan masakan Karo, selalu ramai",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "BPK Haleluya",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Berdikari (Padang Bulan) dan Jl. Setiabudi Ujung, Medan",
+          "alasan_viral": "BPK konsisten 20+ tahun",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 301,
+      "places": [
+        {
+          "nama_tempat": "Sushi Tei",
+          "kategori": "Restoran",
+          "lokasi_text": "Pusat perbelanjaan utama, Medan",
+          "alasan_viral": "Restoran sushi legendaris pelopor kuliner Jepang di Medan, selalu ramai",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Okinawa Sushi",
+          "kategori": "Restoran",
+          "lokasi_text": "Medan",
+          "alasan_viral": "Sushi premium untuk momen spesial",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 302,
+      "places": [
+        {
+          "nama_tempat": "Tau Kua Hechi Apo Brahrang",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Anggur Nomor 64X, Bandar Senembah, Binjai",
+          "alasan_viral": "Kuliner legendaris Binjai sejak 1960-an",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 303,
+      "places": [
+        {
+          "nama_tempat": "Pemandian Air Panas Sidebuk-debuk",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Karo, Sumatera Utara",
+          "alasan_viral": "Retribusi masuk dihapus setelah video pungutan berlapis viral (isu negatif)",
+          "indikasi_waktu": "22 Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 304,
+      "places": [
+        {
+          "nama_tempat": "Tugu Raja Sitanggang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jalan Gereja, Sait Nihuta, Kecamatan Pangururan, Kabupaten Samosir, Sumatera Utara",
+          "alasan_viral": "Panorama Gunung Pusuk Buhit dan Danau Toba viral di media sosial sejak sebulan lalu",
+          "indikasi_waktu": "Sekitar sebulan sebelum artikel",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 305,
+      "places": [
+        {
+          "nama_tempat": "Bukit Anduhur",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kecamatan Sianjur Mula-Mula, Kabupaten Samosir",
+          "alasan_viral": "Lokasi pungli dan ancaman rusak mobil wisatawan yang viral (isu negatif)",
+          "indikasi_waktu": "17 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 306,
+      "places": [
+        {
+          "nama_tempat": "Kawasan Paropo, Danau Toba",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kecamatan Silahisabungan, Kabupaten Dairi, Sumatera Utara",
+          "alasan_viral": "Viral video pungli terhadap pengendara menuju wisata Danau Toba (isu negatif)",
+          "indikasi_waktu": "15 Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 307,
+      "places": [
+        {
+          "nama_tempat": "Desa Singkam (jalan viral)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Singkam, Kecamatan Sianjur Mula Mula, Samosir, Sumatera Utara",
+          "alasan_viral": "Jalan mulus di tengah sawah dijuluki jalan viral, spot foto favorit",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 308,
+      "places": [
+        {
+          "nama_tempat": "Pemandian Air Panas Sidebuk Debuk",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Karo, Sumatera Utara",
+          "alasan_viral": "Viral unggahan akses diblokir warga karena pelaku pungli ditangkap (isu negatif)",
+          "indikasi_waktu": "Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 309,
+      "places": [
+        {
+          "nama_tempat": "Pemandian Air Panas Sidebuk-debuk",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Karo",
+          "alasan_viral": "Viral keluhan pungli di pintu masuk (isu negatif)",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 310,
+      "places": [
+        {
+          "nama_tempat": "Wisata Air Panas Doulu (Desa Semangat)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Doulu, Desa Semangat, Kabupaten Karo, Sumatera Utara",
+          "alasan_viral": "Viral video pungutan retribusi berlapis oleh kreator Dinda Anwar (isu negatif)",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Pantai Watulawang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Gunungkidul",
+          "alasan_viral": "Viral wisatawan diminta uang seikhlasnya, dugaan pungli (isu negatif)",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 311,
+      "places": [
+        {
+          "nama_tempat": "Perumahan Suryamas Liandra City",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Paya Gambar, Kecamatan Batang Kuis, Kabupaten Deli Serdang, Sumatera Utara",
+          "alasan_viral": "Perumahan bergaya Belanda viral jadi wisata dadakan, ratusan pengunjung berfoto setiap hari",
+          "indikasi_waktu": "Dibangun sejak 2025",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 312,
+      "places": [
+        {
+          "nama_tempat": "Museum Jamin Ginting",
+          "kategori": "Museum",
+          "lokasi_text": "Kabupaten Karo, Sumatera Utara",
+          "alasan_viral": "Arsitektur unik berbentuk kacang tanah, koleksi perjuangan dan budaya Karo",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 313,
+      "places": []
+    },
+    {
+      "article_id": 314,
+      "places": []
+    },
+    {
+      "article_id": 315,
+      "places": []
+    },
+    {
+      "article_id": 316,
+      "places": []
+    },
+    {
+      "article_id": 317,
+      "places": []
+    },
+    {
+      "article_id": 318,
+      "places": []
+    },
+    {
+      "article_id": 319,
+      "places": []
+    },
+    {
+      "article_id": 320,
+      "places": []
+    },
+    {
+      "article_id": 321,
+      "places": []
+    },
+    {
+      "article_id": 322,
+      "places": []
+    },
+    {
+      "article_id": 323,
+      "places": []
+    },
+    {
+      "article_id": 324,
+      "places": []
+    },
+    {
+      "article_id": 325,
+      "places": [
+        {
+          "nama_tempat": "Pekan Raya Sumatera Utara (PRSU) 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Jalan Gatot Subroto, Medan",
+          "alasan_viral": "Arena pameran dengan kuliner, wahana, dan Hall Disdik Sumut",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 326,
+      "places": []
+    },
+    {
+      "article_id": 327,
+      "places": [
+        {
+          "nama_tempat": "Festival Kesenian Sumatera Utara 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Pelataran Plaza Medan Fair, Medan",
+          "alasan_viral": "Pameran kesenian dan kriya, creative market UMKM",
+          "indikasi_waktu": "8-10 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 328,
+      "places": [
+        {
+          "nama_tempat": "Skate Plaza Lapangan Merdeka Medan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Lapangan Merdeka, Medan",
+          "alasan_viral": "Fasilitas skateboarding ikon Sumut, lokasi Go Skateboarding Day",
+          "indikasi_waktu": "21 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 329,
+      "places": [
+        {
+          "nama_tempat": "Pekan Raya Sumatera Utara (PRSU) 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Medan",
+          "alasan_viral": "Viral video tiket disebut mahal hingga event sepi (isu negatif)",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

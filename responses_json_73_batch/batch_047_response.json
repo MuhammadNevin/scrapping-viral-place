@@ -1,0 +1,422 @@
+{
+  "results": [
+    {
+      "article_id": 1380,
+      "places": [
+        {
+          "nama_tempat": "Nasi Uduk Ibu Sumi",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Mangga Dua Raya No.55, Pinangsia, Taman Sari, Jakarta Barat",
+          "alasan_viral": "Kuliner malam rekomendasi media sosial, nasi uduk dengan puluhan lauk",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Nasi Uduk Bang Udin",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Palmerah Barat No.25A, Palmerah, Jakarta Barat",
+          "alasan_viral": "Nasi uduk Betawi tersohor dengan antrean panjang saat makan malam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Bakmi Ahau 38",
+          "kategori": "Restoran",
+          "lokasi_text": "Mangga Besar, Jakarta Barat",
+          "alasan_viral": "Bakmi karet legendaris sejak 1960-an buka sampai dini hari",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1381,
+      "places": [
+        {
+          "nama_tempat": "Kopi Es Tak Kie",
+          "kategori": "Kafe",
+          "lokasi_text": "Petak Sembilan, Glodok, Jakarta Barat",
+          "alasan_viral": "Kedai kopi tertua di Jakarta hampir satu abad dengan atmosfer Pecinan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1382,
+      "places": [
+        {
+          "nama_tempat": "Kwetiaw Sapi 78 Mangga Besar",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Raya Mangga Besar No. 78D, Taman Sari, Jakarta Barat",
+          "alasan_viral": "Kwetiau sapi Pontianak legendaris sejak 1973",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Kwetiau Sapi Aciap",
+          "kategori": "Restoran",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Spesialis kwetiau sapi Pontianak sejak awal 1980-an dengan aroma asap kuat",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1383,
+      "places": [
+        {
+          "nama_tempat": "Soto Tangkar Pak Jumanta",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Pancoran Gang Kalimati No. 8, Glodok, Jakarta Barat",
+          "alasan_viral": "Soto tangkar legendaris populer sejak 1971",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Soto Tangkar Kang Jaja",
+          "kategori": "Restoran",
+          "lokasi_text": "Jakarta Selatan",
+          "alasan_viral": "Warung kaki lima soto tangkar legendaris",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1384,
+      "places": []
+    },
+    {
+      "article_id": 1385,
+      "places": []
+    },
+    {
+      "article_id": 1386,
+      "places": []
+    },
+    {
+      "article_id": 1387,
+      "places": []
+    },
+    {
+      "article_id": 1388,
+      "places": []
+    },
+    {
+      "article_id": 1389,
+      "places": []
+    },
+    {
+      "article_id": 1390,
+      "places": [
+        {
+          "nama_tempat": "Pasar Baru",
+          "kategori": "lainnya",
+          "lokasi_text": "Kawasan pertokoan Pasar Baru, Sawah Besar, Jakarta Pusat",
+          "alasan_viral": "Kepulan asap hitam korsleting gardu viral dan bikin panik pedagang (isu negatif)",
+          "indikasi_waktu": "6 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1391,
+      "places": [
+        {
+          "nama_tempat": "Jajanan Agnes",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Taman Ratu Indah Blok Ee7 No. 21, Kebon Jeruk, Jakarta Barat",
+          "alasan_viral": "Gemblong usaha rumahan masuk vlog Ria SW dan jadi perbincangan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Gemblong Mama Nny",
+          "kategori": "Kafe",
+          "lokasi_text": "Lantai LG Gandaria City, Jakarta Selatan",
+          "alasan_viral": "Gemblong viral varian original dan matcha",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Gemblong Persahabatan",
+          "kategori": "Kafe",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Termasuk gemblong viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1392,
+      "places": [
+        {
+          "nama_tempat": "Pasar Kopro",
+          "kategori": "lainnya",
+          "lokasi_text": "Grogol Petamburan, Jakarta Barat",
+          "alasan_viral": "Lokasi viral karena tumpukan sampah menggunung hingga meluber ke jalan (isu negatif)",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1393,
+      "places": [
+        {
+          "nama_tempat": "Pasar Kopro",
+          "kategori": "lainnya",
+          "lokasi_text": "Pasar Tomang Barat, Jalan Tanjung Duren Timur 3, Tanjung Duren Selatan, Grogol Petamburan, Jakarta Barat",
+          "alasan_viral": "Sempat viral karena tumpukan sampah pasca Lebaran belum terangkut (isu negatif)",
+          "indikasi_waktu": "31 Maret 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1394,
+      "places": []
+    },
+    {
+      "article_id": 1395,
+      "places": []
+    },
+    {
+      "article_id": 1396,
+      "places": [
+        {
+          "nama_tempat": "Festival Wisata Kuliner Malam Glodok",
+          "kategori": "Pameran",
+          "lokasi_text": "Jalan Pancoran, Pecinan Glodok, Tamansari, Jakarta Barat",
+          "alasan_viral": "Festival kuliner Betawi dan Pecinan dengan 60 UMKM memeriahkan HUT Jakarta ke-499",
+          "indikasi_waktu": "20 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1397,
+      "places": [
+        {
+          "nama_tempat": "Festival Jakarta Great Sale 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Central Park Mall II, Jakarta Barat dan 104 pusat perbelanjaan Jakarta",
+          "alasan_viral": "Festival belanja rangkaian HUT Jakarta ke-499",
+          "indikasi_waktu": "10 Juni - 22 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1398,
+      "places": [
+        {
+          "nama_tempat": "Bangor Fest Vol. 4",
+          "kategori": "Pameran",
+          "lokasi_text": "Stadion Madya B GBK, Jakarta",
+          "alasan_viral": "Festival burger terbesar Burger Bangor dengan panggung musik",
+          "indikasi_waktu": "8-9 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1399,
+      "places": []
+    },
+    {
+      "article_id": 1400,
+      "places": [
+        {
+          "nama_tempat": "Iga Bakar Rawamangun",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Tawes No.14, Jati, Pulo Gadung, Jakarta Timur",
+          "alasan_viral": "Iga bakar kaki lima potongan jumbo dengan nasi kebuli",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Mie Jogja Pak Karso",
+          "kategori": "Restoran",
+          "lokasi_text": "Rawamangun, Jakarta Timur",
+          "alasan_viral": "Bakmi Jawa dengan ayam kampung dan telur bebek",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1401,
+      "places": [
+        {
+          "nama_tempat": "Quiznos Sub",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Pemuda Kav.30 No.7, Rawamangun, Pulo Gadung, Jakarta Timur",
+          "alasan_viral": "Restoran sandwich premium asal Amerika",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Sate Padang H. Ajo Manih",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Balai Pustaka Timur, Rawamangun, Pulo Gadung, Jakarta Timur",
+          "alasan_viral": "Sate Padang legendaris sejak 1975",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Bakmi Jawa Mbak Sastro",
+          "kategori": "Restoran",
+          "lokasi_text": "Rawamangun, Jakarta Timur",
+          "alasan_viral": "Bakmi khas Jawa di Rawamangun",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1402,
+      "places": [
+        {
+          "nama_tempat": "Rumah Rasa x Warkop Medan Bang Jo",
+          "kategori": "Restoran",
+          "lokasi_text": "Pulogebang, Jakarta Timur",
+          "alasan_viral": "Tempat makan seafood baru cabang Rumah Rasa Ancol berkonsep nongkrong khas Medan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1403,
+      "places": [
+        {
+          "nama_tempat": "Sate Sederhana Keroncong",
+          "kategori": "Restoran",
+          "lokasi_text": "Gang Lele, Matraman Raya, Jatinegara, Jakarta Timur",
+          "alasan_viral": "Sate kambing legendaris sejak 1964",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Bakmi Lorong",
+          "kategori": "Restoran",
+          "lokasi_text": "Lorong Pasar Jatinegara, Jakarta Timur",
+          "alasan_viral": "Bakmi legendaris sejak 1970",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1404,
+      "places": [
+        {
+          "nama_tempat": "Kobar Daging Asap",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Raya Kalimalang Blok E7, Jakarta Timur",
+          "alasan_viral": "Rumah makan daging asap smoky incaran foodies dengan harga mulai Rp30 ribuan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1405,
+      "places": [
+        {
+          "nama_tempat": "Kobar Daging Asap",
+          "kategori": "Restoran",
+          "lokasi_text": "Kalimalang, Jakarta Timur",
+          "alasan_viral": "Viral daging smoky dengan pengasapan 5-10 jam",
+          "indikasi_waktu": "29 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1406,
+      "places": [
+        {
+          "nama_tempat": "Green Tourism Festival 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Jakarta Timur",
+          "alasan_viral": "Festival pariwisata hijau Pemkot Jakarta Timur",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1407,
+      "places": [
+        {
+          "nama_tempat": "Mardin Baklava Patisserie",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Cipinang Jaya Raya No.74, Cipinang, Jakarta Timur",
+          "alasan_viral": "Kafe baklava dan kunafa khas Turki sejak 2018",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Resto Salemba 43",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Sunan Sedayu No.7, Jati, Pulo Gadung, Jakarta Timur",
+          "alasan_viral": "Restoran Chinese halal legendaris dan autentik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Fork Daily",
+          "kategori": "Restoran",
+          "lokasi_text": "The Amboja, dekat TMII, Jakarta Timur",
+          "alasan_viral": "Tempat makan di mal dekat kawasan TMII",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1408,
+      "places": []
+    },
+    {
+      "article_id": 1409,
+      "places": []
+    }
+  ]
+}

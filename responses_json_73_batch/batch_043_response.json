@@ -1,0 +1,210 @@
+{
+  "results": [
+    {
+      "article_id": 1260,
+      "places": []
+    },
+    {
+      "article_id": 1261,
+      "places": []
+    },
+    {
+      "article_id": 1262,
+      "places": [
+        {
+          "nama_tempat": "Lembah Baliem",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Wamena, Jayawijaya, Papua Pegunungan",
+          "alasan_viral": "Ikon wisata Papua Pegunungan, trekking dan kampung adat Dani",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Danau Habema",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Dataran tinggi Jayawijaya, Papua Pegunungan",
+          "alasan_viral": "Danau di ketinggian lebih dari 3.000 mdpl",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1263,
+      "places": [
+        {
+          "nama_tempat": "Raja Ampat",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Papua Barat Daya",
+          "alasan_viral": "Destinasi paling terkenal di Tanah Papua, gugusan pulau karst",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Piaynemo",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Raja Ampat, Papua Barat Daya",
+          "alasan_viral": "Lokasi favorit panorama gugusan pulau kecil",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Kampung Wisata Arborek",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Raja Ampat, Papua Barat Daya",
+          "alasan_viral": "Kampung wisata dengan kerajinan masyarakat",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "Taman Nasional Lorentz",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Papua",
+          "alasan_viral": "Kawasan konservasi untuk trekking pegunungan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1264,
+      "places": []
+    },
+    {
+      "article_id": 1265,
+      "places": [
+        {
+          "nama_tempat": "Air Terjun Memti",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kampung Sisrang, Kabupaten Pegunungan Arfak, Papua Barat",
+          "alasan_viral": "Presenter TVRI hilang terseret arus di air terjun (isu negatif)",
+          "indikasi_waktu": "18-19 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1266,
+      "places": [
+        {
+          "nama_tempat": "Air Terjun Memti",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Distrik Anggi, Kabupaten Pegunungan Arfak",
+          "alasan_viral": "Kawasan wisata lokasi presenter TVRI terseret arus (isu negatif)",
+          "indikasi_waktu": "18 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1267,
+      "places": []
+    },
+    {
+      "article_id": 1268,
+      "places": []
+    },
+    {
+      "article_id": 1269,
+      "places": []
+    },
+    {
+      "article_id": 1270,
+      "places": []
+    },
+    {
+      "article_id": 1271,
+      "places": []
+    },
+    {
+      "article_id": 1272,
+      "places": []
+    },
+    {
+      "article_id": 1273,
+      "places": []
+    },
+    {
+      "article_id": 1274,
+      "places": []
+    },
+    {
+      "article_id": 1275,
+      "places": []
+    },
+    {
+      "article_id": 1276,
+      "places": []
+    },
+    {
+      "article_id": 1277,
+      "places": []
+    },
+    {
+      "article_id": 1278,
+      "places": []
+    },
+    {
+      "article_id": 1279,
+      "places": []
+    },
+    {
+      "article_id": 1280,
+      "places": []
+    },
+    {
+      "article_id": 1281,
+      "places": []
+    },
+    {
+      "article_id": 1282,
+      "places": []
+    },
+    {
+      "article_id": 1283,
+      "places": []
+    },
+    {
+      "article_id": 1284,
+      "places": []
+    },
+    {
+      "article_id": 1285,
+      "places": []
+    },
+    {
+      "article_id": 1286,
+      "places": []
+    },
+    {
+      "article_id": 1287,
+      "places": [
+        {
+          "nama_tempat": "Festival Budaya Lembah Baliem (FBLB) ke-34",
+          "kategori": "Pameran",
+          "lokasi_text": "Distrik Walesi, Jayawijaya, Papua Pegunungan",
+          "alasan_viral": "Video penembakan saat festival viral di media sosial (isu negatif)",
+          "indikasi_waktu": "8 Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1288,
+      "places": []
+    },
+    {
+      "article_id": 1289,
+      "places": []
+    }
+  ]
+}

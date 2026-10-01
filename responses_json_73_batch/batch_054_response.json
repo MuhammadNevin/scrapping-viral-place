@@ -1,0 +1,310 @@
+{
+  "results": [
+    {
+      "article_id": 1590,
+      "places": [
+        {
+          "nama_tempat": "Resto Timbul Roso",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Cangkringan KM 3, Bedoyo, Wukirsari, Cangkringan, Sleman",
+          "alasan_viral": "Resto konsep hutan asri dengan olahan gurame di lereng Merapi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Warung Eyup",
+          "kategori": "Restoran",
+          "lokasi_text": "Cangkringan, Sleman",
+          "alasan_viral": "Makan di tengah hamparan sawah yang asri",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1591,
+      "places": [
+        {
+          "nama_tempat": "SABA Korean Dining & Cafe",
+          "kategori": "Restoran",
+          "lokasi_text": "Sleman, Yogyakarta",
+          "alasan_viral": "Restoran bernuansa Hanok Village yang tengah viral di media sosial",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 1592,
+      "places": []
+    },
+    {
+      "article_id": 1593,
+      "places": [
+        {
+          "nama_tempat": "Candi Prambanan",
+          "kategori": "lainnya",
+          "lokasi_text": "Sleman, Yogyakarta",
+          "alasan_viral": "Candi ikonik dengan spot konten, sewa sepeda dan Wastra Prambanan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1594,
+      "places": []
+    },
+    {
+      "article_id": 1595,
+      "places": [
+        {
+          "nama_tempat": "Mini Museum 50 Tahun PSS",
+          "kategori": "Pameran",
+          "lokasi_text": "Stadion Maguwoharjo, Sleman",
+          "alasan_viral": "Pameran sejarah setengah abad PSS Sleman dengan sembilan section",
+          "indikasi_waktu": "17-24 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1596,
+      "places": [
+        {
+          "nama_tempat": "Mini Museum 50 Tahun PSS",
+          "kategori": "Pameran",
+          "lokasi_text": "Stadion Maguwoharjo, Sleman",
+          "alasan_viral": "Pameran memorabilia jersey, trophy room dan locker room experience PSS",
+          "indikasi_waktu": "17-24 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1597,
+      "places": [
+        {
+          "nama_tempat": "Mini Museum 50 Tahun PSS",
+          "kategori": "Pameran",
+          "lokasi_text": "Stadion Maguwoharjo, Sleman",
+          "alasan_viral": "Pembuka perayaan 50 tahun PSS Sleman",
+          "indikasi_waktu": "17-24 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1598,
+      "places": [
+        {
+          "nama_tempat": "Mini Museum Viva La Historia PSS Sleman",
+          "kategori": "Pameran",
+          "lokasi_text": "Stadion Maguwoharjo, Sleman",
+          "alasan_viral": "Ruang pamer sejarah PSS sejak 1976 dengan konsep perjalanan cerita",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1599,
+      "places": []
+    },
+    {
+      "article_id": 1600,
+      "places": [
+        {
+          "nama_tempat": "Mini Museum 50 Tahun PSS",
+          "kategori": "Pameran",
+          "lokasi_text": "Stadion Maguwoharjo, Sleman",
+          "alasan_viral": "Pameran nostalgia dan edukasi sejarah klub dengan replika ruang ganti",
+          "indikasi_waktu": "17-24 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1601,
+      "places": []
+    },
+    {
+      "article_id": 1602,
+      "places": []
+    },
+    {
+      "article_id": 1603,
+      "places": []
+    },
+    {
+      "article_id": 1604,
+      "places": []
+    },
+    {
+      "article_id": 1605,
+      "places": [
+        {
+          "nama_tempat": "Sunmor Ngijon",
+          "kategori": "Pameran",
+          "lokasi_text": "Ngijon, Sendangarum, Minggir, Sleman",
+          "alasan_viral": "Pasar Minggu pagi UMKM di tengah sawah, viral dalam empat bulan terakhir dan dipadati ribuan pengunjung",
+          "indikasi_waktu": "Empat bulan terakhir 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Pasar Ngijon",
+          "kategori": "lainnya",
+          "lokasi_text": "Sendangarum, Minggir, Sleman",
+          "alasan_viral": "Pasar tradisional yang sempat viral, cikal bakal Sunmor Ngijon",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1606,
+      "places": []
+    },
+    {
+      "article_id": 1607,
+      "places": []
+    },
+    {
+      "article_id": 1608,
+      "places": []
+    },
+    {
+      "article_id": 1609,
+      "places": []
+    },
+    {
+      "article_id": 1610,
+      "places": [
+        {
+          "nama_tempat": "Festival Cassava",
+          "kategori": "Pameran",
+          "lokasi_text": "Padukuhan Kalangan, Trimulyo, Sleman",
+          "alasan_viral": "Festival singkong mengenalkan varietas dan kuliner tradisional berbasis singkong dalam Ecolife Walk",
+          "indikasi_waktu": "5 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1611,
+      "places": [
+        {
+          "nama_tempat": "Selarasa Fest 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Rocket Arena Godean, Sleman",
+          "alasan_viral": "Festival musik dan kuliner bertema modernitas dan tradisi",
+          "indikasi_waktu": "26 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1612,
+      "places": []
+    },
+    {
+      "article_id": 1613,
+      "places": []
+    },
+    {
+      "article_id": 1614,
+      "places": []
+    },
+    {
+      "article_id": 1615,
+      "places": []
+    },
+    {
+      "article_id": 1616,
+      "places": [
+        {
+          "nama_tempat": "Cafe Sunset View",
+          "kategori": "Kafe",
+          "lokasi_text": "Semarang",
+          "alasan_viral": "Hidden gem dengan view sunset dan city light, harga mulai Rp15 ribu",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Kopi Susu Bu Lurah",
+          "kategori": "Kafe",
+          "lokasi_text": "Semarang",
+          "alasan_viral": "Tempat nongkrong sejuk dengan outdoor natural garden",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1617,
+      "places": [
+        {
+          "nama_tempat": "Waroeng SS",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Lampersari No. 29, Semarang",
+          "alasan_viral": "Ikon kuliner pedas dengan beragam sambal",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Mbok Rawit",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Manggis I No. 9, Lamper Lor, Semarang Selatan",
+          "alasan_viral": "Tempat makan pedas hits di kalangan mahasiswa",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1618,
+      "places": [
+        {
+          "nama_tempat": "Ayam Goreng Sayangan",
+          "kategori": "Restoran",
+          "lokasi_text": "Sayangan, Semarang",
+          "alasan_viral": "Ayam goreng kampung legendaris sejak 1970-an, favorit Nex Carlos",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1619,
+      "places": [
+        {
+          "nama_tempat": "RM Padang Sederhana Semarang",
+          "kategori": "Restoran",
+          "lokasi_text": "Semarang",
+          "alasan_viral": "Rekomendasi nasi Padang untuk makan malam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    }
+  ]
+}

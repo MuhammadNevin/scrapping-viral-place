@@ -1,0 +1,557 @@
+{
+  "results": [
+    {
+      "article_id": 30,
+      "places": []
+    },
+    {
+      "article_id": 31,
+      "places": [
+        {
+          "nama_tempat": "Sop Durian Margando",
+          "kategori": "Kafe",
+          "lokasi_text": "Depok",
+          "alasan_viral": "Ikon kuliner Depok, sop durian dengan durian asli melimpah, hampir selalu ramai; viral lewat food vlogger dan medsos",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Soto Bu Tjondro",
+          "kategori": "Restoran",
+          "lokasi_text": "Depok",
+          "alasan_viral": "Kuah soto gurih kaya rempah; masuk daftar kuliner viral Depok",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Warung Pancong Mang Kumis & Mang Dadang",
+          "kategori": "Kafe",
+          "lokasi_text": "Depok",
+          "alasan_viral": "Mengubah pancong tradisional menjadi kuliner viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 32,
+      "places": [
+        {
+          "nama_tempat": "Blok M",
+          "kategori": "lainnya",
+          "lokasi_text": "Blok M, Jakarta Selatan",
+          "alasan_viral": "Kawasan kuliner viral yang ramai, destinasi favorit wisman Malaysia",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 33,
+      "places": [
+        {
+          "nama_tempat": "Pasar Cihapit",
+          "kategori": "lainnya",
+          "lokasi_text": "Pasar Cihapit, Kota Bandung",
+          "alasan_viral": "Destinasi kuliner yang diburu, ramai dibahas di TikTok",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Brownies Tjihapit",
+          "kategori": "Kafe",
+          "lokasi_text": "Pasar Cihapit, Kota Bandung",
+          "alasan_viral": "Brownies fudgy varian kunafa pistachio, kuliner yang tengah ramai",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Rama Ramen",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Cihapit, Kota Bandung",
+          "alasan_viral": "Disebut sebagai penanda lokasi Brownies Tjihapit",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Ceu Eha X Dapur Indung",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Cihapit, Kota Bandung",
+          "alasan_viral": "Disebut sebagai penanda lokasi Brownies Tjihapit",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Batagor Kahuripan",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Cihapit, Kota Bandung",
+          "alasan_viral": "Batagor legendaris sejak 2007, tengah ramai",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Toko Kopi Pasar Cihapit (Toko Kopi 1810)",
+          "kategori": "Kafe",
+          "lokasi_text": "Pasar Cihapit, Kota Bandung",
+          "alasan_viral": "Supplier kopi premium green bean dan roasted bean",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Warung Nasi Bu Eha",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Cihapit, Kota Bandung",
+          "alasan_viral": "Warung nasi Sunda legendaris sejak 1947, tanpa pengawet",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 34,
+      "places": [
+        {
+          "nama_tempat": "Jalan Sabang (Jalan H. Agus Salim)",
+          "kategori": "lainnya",
+          "lokasi_text": "Kebon Sirih, Menteng, Jakarta Pusat",
+          "alasan_viral": "Pusat kuliner legendaris, ramai pada malam hari",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 35,
+      "places": [
+        {
+          "nama_tempat": "Ketupat Sayur Pasar Lama",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Lama dekat Bank BCA, Kota Tangerang",
+          "alasan_viral": "Menu sarapan favorit yang selalu ramai",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Soto Benteng Bang Udin",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Saham, Kelurahan Sukasari, Kecamatan Tangerang, Kota Tangerang",
+          "alasan_viral": "Soto khas Tangerang dengan daging dan jeroan dibakar",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Bubur Ayam Spesial Ko Iyo",
+          "kategori": "Restoran",
+          "lokasi_text": "Kawasan Pasar Lama, Kota Tangerang",
+          "alasan_viral": "Bubur ayam banyak diburu dengan pelengkap lengkap",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Bubur Ayam Mas Yanto",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Kasasi Raya Blok C10 No.1, Komplek Pengayoman, Sukasari, Kota Tangerang",
+          "alasan_viral": "Bubur ayam legendaris sejak 1970",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Mie Ayam Bangka Asen",
+          "kategori": "Restoran",
+          "lokasi_text": "Perumahan Banjar Wijaya, Kecamatan Cipondoh, Kota Tangerang",
+          "alasan_viral": "Mi ayam Bangka",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 36,
+      "places": []
+    },
+    {
+      "article_id": 37,
+      "places": [
+        {
+          "nama_tempat": "Pure Amboina",
+          "kategori": "Kafe",
+          "lokasi_text": "Kota Ambon",
+          "alasan_viral": "UMKM cold-pressed juice tanpa gula dan pengawet",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Fresh Lemora",
+          "kategori": "Kafe",
+          "lokasi_text": "Kota Ambon",
+          "alasan_viral": "Smoothies instagramable untuk Gen Z",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "John House",
+          "kategori": "Restoran",
+          "lokasi_text": "Kota Ambon",
+          "alasan_viral": "Populer di TikTok lewat Roti John isian khas Maluku",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 38,
+      "places": [
+        {
+          "nama_tempat": "Baked (Cafe Baked Gunawarman)",
+          "kategori": "Kafe",
+          "lokasi_text": "Gunawarman, Kebayoran Baru, Jakarta Selatan",
+          "alasan_viral": "Viral karena tarif parkir motor Rp150 ribu (isu negatif)",
+          "indikasi_waktu": "24 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 39,
+      "places": [
+        {
+          "nama_tempat": "Motel Mexicola",
+          "kategori": "Kafe",
+          "lokasi_text": "Seminyak, Bali",
+          "alasan_viral": "Kafe hits dan instagramable, disebut kafe viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 40,
+      "places": [
+        {
+          "nama_tempat": "Faste Coffee Heritage Rawa Laut",
+          "kategori": "Kafe",
+          "lokasi_text": "Rawa Laut, Bandar Lampung",
+          "alasan_viral": "Viral karena catatan kasir tidak pantas soal pesanan seblak (isu negatif)",
+          "indikasi_waktu": "1 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 41,
+      "places": [
+        {
+          "nama_tempat": "Moment Cafe",
+          "kategori": "Kafe",
+          "lokasi_text": "Zamzam Tower, Mekkah, Arab Saudi",
+          "alasan_viral": "Kafe viral dengan pemandangan langsung ke Masjidil Haram",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Camel Step Coffee",
+          "kategori": "Kafe",
+          "lokasi_text": "Mekkah, Arab Saudi",
+          "alasan_viral": "Desain minimalis, kopi premium, latte art",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "RATIO Speciality Coffee",
+          "kategori": "Kafe",
+          "lokasi_text": "Tiga menit dari Masjidil Haram, Mekkah, Arab Saudi",
+          "alasan_viral": "Suasana tenang, harga terjangkau",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "BREW92° Cafe",
+          "kategori": "Kafe",
+          "lokasi_text": "Mekkah, Arab Saudi",
+          "alasan_viral": "Biji kopi berkualitas, Spanish Latte",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Barn Cafe",
+          "kategori": "Kafe",
+          "lokasi_text": "Jeddah, Arab Saudi",
+          "alasan_viral": "Interior monokrom dengan sentuhan kayu",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Kiffa Roaster",
+          "kategori": "Kafe",
+          "lokasi_text": "Dekat Masjid Nabawi, Madinah, Arab Saudi",
+          "alasan_viral": "Coffee of the Day terjangkau",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Tulip Cafe",
+          "kategori": "Kafe",
+          "lokasi_text": "Madinah, Arab Saudi",
+          "alasan_viral": "Pemandangan ke arah Masjid Nabawi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Ajwatech AlHaram",
+          "kategori": "Kafe",
+          "lokasi_text": "Madinah, Arab Saudi",
+          "alasan_viral": "Masuk daftar kafe viral Madinah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 42,
+      "places": []
+    },
+    {
+      "article_id": 43,
+      "places": [
+        {
+          "nama_tempat": "Cafe Janna Kita",
+          "kategori": "lainnya",
+          "lokasi_text": "Kec. Patumbak, Kab. Deliserdang, Sumatera Utara",
+          "alasan_viral": "Tempat hiburan malam yang sempat viral, digerebek kasus narkoba (isu negatif)",
+          "indikasi_waktu": "30 Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 44,
+      "places": [
+        {
+          "nama_tempat": "Social Affair",
+          "kategori": "Kafe",
+          "lokasi_text": "Mal di kawasan PIK, Jakarta Utara",
+          "alasan_viral": "Kafe hits viral di PIK, industrial, Martabak Croissant dan Nasi Gila",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "70 Fahrenheit",
+          "kategori": "Kafe",
+          "lokasi_text": "PIK, Jakarta Utara",
+          "alasan_viral": "Kafe hits viral di PIK, interior industrial, kopi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 45,
+      "places": []
+    },
+    {
+      "article_id": 46,
+      "places": []
+    },
+    {
+      "article_id": 47,
+      "places": [
+        {
+          "nama_tempat": "Kinanthi Coffee & Eatery",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Engku Putri Utara Nomor 3, Teluk Tering, Kecamatan Batam Kota, Batam",
+          "alasan_viral": "Kafe baru viral 2026, interior minimalis dan harga terjangkau",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Grind Now Coffee Bar Specialty Coffee Batam",
+          "kategori": "Kafe",
+          "lokasi_text": "Permata Regency Blok DD Nomor 9, Baloi Indah, Lubuk Baja, Batam",
+          "alasan_viral": "Kafe baru viral 2026, specialty coffee bar",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Pretty Please Coffee",
+          "kategori": "Kafe",
+          "lokasi_text": "Sukajadi, Batam Kota, Batam",
+          "alasan_viral": "Kafe baru viral 2026, desain cantik, mulai ramai",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Frui",
+          "kategori": "Kafe",
+          "lokasi_text": "Komplek Bumi Indah Nomor 8 Blok 2, Lubuk Baja Kota, Kecamatan Lubuk Baja, Batam",
+          "alasan_viral": "Kafe baru viral 2026, gelato mochi dan kue",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Blite's Coffee",
+          "kategori": "Kafe",
+          "lokasi_text": "Ruko Tunas Regency Blok C9 Nomor 3A dan 5, Tanjung Uncang, Kecamatan Sagulung, Batam",
+          "alasan_viral": "Kafe baru viral 2026, modern minimalis",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 48,
+      "places": []
+    },
+    {
+      "article_id": 49,
+      "places": []
+    },
+    {
+      "article_id": 50,
+      "places": [
+        {
+          "nama_tempat": "Mady's Gelato, Cafe and Grill",
+          "kategori": "Kafe",
+          "lokasi_text": "Pangandaran",
+          "alasan_viral": "Kafe viral yang hits, menghadap langsung ke laut lepas",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 51,
+      "places": []
+    },
+    {
+      "article_id": 52,
+      "places": []
+    },
+    {
+      "article_id": 53,
+      "places": [
+        {
+          "nama_tempat": "Kafe de'Clan",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Tole Iskandar, Kota Depok, Jawa Barat",
+          "alasan_viral": "Viral di medsos karena tutup dan dipasang rantai (isu negatif)",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 54,
+      "places": [
+        {
+          "nama_tempat": "El Tintero",
+          "kategori": "Restoran",
+          "lokasi_text": "Málaga, Spanyol",
+          "alasan_viral": "Restoran tanpa menu, pelayan meneriakkan hidangan seperti lelang; video viral 23 juta+ tayangan",
+          "indikasi_waktu": "September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 55,
+      "places": [
+        {
+          "nama_tempat": "Chili's Plaza Senayan",
+          "kategori": "Restoran",
+          "lokasi_text": "Plaza Senayan, Jakarta Selatan",
+          "alasan_viral": "Restoran dengan Fried Mozzarella yang viral, buka gerai kedua",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Chili's Tribeca Central Park Mall",
+          "kategori": "Restoran",
+          "lokasi_text": "Tribeca Central Park Mall, Jakarta Barat",
+          "alasan_viral": "Gerai pertama Chili's di Indonesia, Fried Mozzarella viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 56,
+      "places": [
+        {
+          "nama_tempat": "Almaz Fried Chicken",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan dr Wahidin Sudirohusodo, Kota Pasuruan",
+          "alasan_viral": "Viral karena video CCTV pencurian besi tutup saluran air (isu negatif)",
+          "indikasi_waktu": "16 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 57,
+      "places": []
+    },
+    {
+      "article_id": 58,
+      "places": [
+        {
+          "nama_tempat": "Alun-alun Kidul (Alkid)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Alun-alun Kidul, Yogyakarta",
+          "alasan_viral": "Viral karena dugaan pungli terhadap food truck hingga Rp1 juta per hari (isu negatif)",
+          "indikasi_waktu": "16-20 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 59,
+      "places": []
+    }
+  ]
+}

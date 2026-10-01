@@ -1,0 +1,221 @@
+{
+  "results": [
+    {
+      "article_id": 1170,
+      "places": []
+    },
+    {
+      "article_id": 1171,
+      "places": []
+    },
+    {
+      "article_id": 1172,
+      "places": []
+    },
+    {
+      "article_id": 1173,
+      "places": []
+    },
+    {
+      "article_id": 1174,
+      "places": [
+        {
+          "nama_tempat": "Festival Teluk Jailolo (FTJ) 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Kabupaten Halmahera Barat, Maluku Utara",
+          "alasan_viral": "Festival budaya unggulan dengan ritual, wisata, dan Jailolo Food Bazaar",
+          "indikasi_waktu": "17-20 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Pantai Disa",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Susupu, Halmahera Barat",
+          "alasan_viral": "Lokasi Gerakan Wisata Bersih FTJ",
+          "indikasi_waktu": "19 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1175,
+      "places": []
+    },
+    {
+      "article_id": 1176,
+      "places": [
+        {
+          "nama_tempat": "Benteng De Verwachting",
+          "kategori": "Museum",
+          "lokasi_text": "Kota Sanana, Kepulauan Sula",
+          "alasan_viral": "Garis finish tradisi Gabalil Hai Sua",
+          "indikasi_waktu": "6 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1177,
+      "places": []
+    },
+    {
+      "article_id": 1178,
+      "places": []
+    },
+    {
+      "article_id": 1179,
+      "places": [
+        {
+          "nama_tempat": "Festival Saruma 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Kabupaten Halmahera Selatan",
+          "alasan_viral": "Festival budaya tahunan ditiadakan karena keterbatasan biaya (isu negatif)",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1180,
+      "places": [
+        {
+          "nama_tempat": "Rindu Alam Papua",
+          "kategori": "Restoran",
+          "lokasi_text": "Holtekamp, Jayapura",
+          "alasan_viral": "Resto gazebo di atas kolam ikan, destinasi kuliner favorit",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1181,
+      "places": []
+    },
+    {
+      "article_id": 1182,
+      "places": []
+    },
+    {
+      "article_id": 1183,
+      "places": []
+    },
+    {
+      "article_id": 1184,
+      "places": [
+        {
+          "nama_tempat": "Pantai Sawayepa",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kampung Yewena, Distrik Depapre, Kabupaten Jayapura",
+          "alasan_viral": "Mulai dikenal luas sejak viral di media sosial, pantai dengan kolam alami Kali Acangko",
+          "indikasi_waktu": "Sejak Februari 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        },
+        {
+          "nama_tempat": "Pantai Harlem",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Distrik Depapre, Kabupaten Jayapura",
+          "alasan_viral": "Pantai air jernih",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Pantai Yongsu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Distrik Depapre, Kabupaten Jayapura",
+          "alasan_viral": "Terkenal dengan susunan batu karang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1185,
+      "places": []
+    },
+    {
+      "article_id": 1186,
+      "places": []
+    },
+    {
+      "article_id": 1187,
+      "places": []
+    },
+    {
+      "article_id": 1188,
+      "places": []
+    },
+    {
+      "article_id": 1189,
+      "places": []
+    },
+    {
+      "article_id": 1190,
+      "places": []
+    },
+    {
+      "article_id": 1191,
+      "places": []
+    },
+    {
+      "article_id": 1192,
+      "places": [
+        {
+          "nama_tempat": "Koperasi Kelurahan Merah Putih Melawai",
+          "kategori": "lainnya",
+          "lokasi_text": "Blok M, Kebayoran Baru, Jakarta Selatan",
+          "alasan_viral": "Postingan toko kopdes di Blok M viral dan jadi bahan sindiran netizen (isu negatif)",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1193,
+      "places": []
+    },
+    {
+      "article_id": 1194,
+      "places": []
+    },
+    {
+      "article_id": 1195,
+      "places": []
+    },
+    {
+      "article_id": 1196,
+      "places": [
+        {
+          "nama_tempat": "Pasar Murah dan Pameran UMKM Papua",
+          "kategori": "Pameran",
+          "lokasi_text": "Halaman Kantor Gubernur Papua, Jayapura",
+          "alasan_viral": "Pameran produk unggulan Papua, barang habis diserbu",
+          "indikasi_waktu": "22 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1197,
+      "places": []
+    },
+    {
+      "article_id": 1198,
+      "places": []
+    },
+    {
+      "article_id": 1199,
+      "places": []
+    }
+  ]
+}

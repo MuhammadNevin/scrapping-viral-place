@@ -1,0 +1,640 @@
+{
+  "results": [
+    {
+      "article_id": 660,
+      "places": [
+        {
+          "nama_tempat": "Wisata Alam Posong",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kaki Gunung Sindoro, Kabupaten Temanggung",
+          "alasan_viral": "Golden sunrise dengan latar deretan gunung",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Lokawisata Baturraden",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Lereng selatan Gunung Slamet, Banyumas",
+          "alasan_viral": "Destinasi legendaris berudara sejuk",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 661,
+      "places": [
+        {
+          "nama_tempat": "Pitris Ocean View",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Karangduwur, Kecamatan Ayah, Kabupaten Kebumen",
+          "alasan_viral": "Objek wisata yang tengah viral dengan panorama laut lepas dari ketinggian",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 662,
+      "places": [
+        {
+          "nama_tempat": "Negeri Kahyangan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Lereng Gunung Merbabu, Kabupaten Magelang",
+          "alasan_viral": "Viral di media sosial berkat jalan menanjak \"Tol Khayangan\"",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 663,
+      "places": [
+        {
+          "nama_tempat": "Solo Safari",
+          "kategori": "Wahana",
+          "lokasi_text": "Kota Surakarta",
+          "alasan_viral": "Tempat wisata naik daun, orang utan Didi yang kabur viral di media sosial",
+          "indikasi_waktu": "Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 664,
+      "places": [
+        {
+          "nama_tempat": "Jalur pendakian Gunung Merapi via Selo",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kecamatan Selo, Kabupaten Boyolali",
+          "alasan_viral": "Viral video pendakian warga saat status Siaga (isu negatif)",
+          "indikasi_waktu": "30 Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 665,
+      "places": [
+        {
+          "nama_tempat": "Wisata perahu Sungai Serayu Desa Srowot",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Srowot, Kecamatan Kalibagor, Kabupaten Banyumas",
+          "alasan_viral": "Video menyusuri sungai surut viral di TikTok dan Instagram",
+          "indikasi_waktu": "Musim kemarau 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 666,
+      "places": [
+        {
+          "nama_tempat": "Pony Park Klaten",
+          "kategori": "Wahana",
+          "lokasi_text": "Klaten, Jawa Tengah",
+          "alasan_viral": "Tempat wisata baru dan viral, mini zoo ramah anak",
+          "indikasi_waktu": "Opening 28 Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 667,
+      "places": [
+        {
+          "nama_tempat": "Wadas Cinta Carik (wisata perahu Sungai Serayu)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Srowot, Kecamatan Kalibagor, Banyumas",
+          "alasan_viral": "Kawasan ramai setelah viral di media sosial, wisata perahu sunset dadakan",
+          "indikasi_waktu": "22 Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 668,
+      "places": [
+        {
+          "nama_tempat": "Tahir Museum Solo",
+          "kategori": "Museum",
+          "lokasi_text": "Kota Solo",
+          "alasan_viral": "Viral keluhan tarif parkir ngepruk Rp10 ribu di sekitar museum (isu negatif)",
+          "indikasi_waktu": "14 Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 669,
+      "places": [
+        {
+          "nama_tempat": "Museum Keris Nusantara",
+          "kategori": "Museum",
+          "lokasi_text": "Solo",
+          "alasan_viral": "Koleksi ratusan keris dari berbagai periode",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Keraton Surakarta Hadiningrat",
+          "kategori": "Museum",
+          "lokasi_text": "Solo",
+          "alasan_viral": "Istana bersejarah kelanjutan Mataram Islam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 670,
+      "places": [
+        {
+          "nama_tempat": "Kampoeng Semarang",
+          "kategori": "lainnya",
+          "lokasi_text": "Semarang",
+          "alasan_viral": "Pusat oleh-oleh lengkap",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 671,
+      "places": [
+        {
+          "nama_tempat": "Toko Kopi Podjok",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Utara Pasar Besar No.20, Sudiroprajan, Jebres, Kota Solo",
+          "alasan_viral": "Toko kopi legendaris sejak 1947 yang sering antre",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Cafe Gaharu Coffee Shop Solo",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Malabar Raya No.32, Mojosongo, Jebres, Kota Solo",
+          "alasan_viral": "Tempat beli biji kopi dan ngopi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 672,
+      "places": [
+        {
+          "nama_tempat": "Pasar Johar",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Semarang",
+          "alasan_viral": "Viral juru parkir tarif ngepruk (isu negatif)",
+          "indikasi_waktu": "8 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 673,
+      "places": [
+        {
+          "nama_tempat": "Dawet Telasih Bu Dermi",
+          "kategori": "Restoran",
+          "lokasi_text": "Pintu masuk barat Pasar Gede Hardjonagoro, Solo",
+          "alasan_viral": "Es dawet ikonik sejak 1930-an langganan Jokowi, masuk daftar viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Pasar Gede Hardjonagoro",
+          "kategori": "lainnya",
+          "lokasi_text": "Solo",
+          "alasan_viral": "Destinasi kuliner tradisional es dawet telasih",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 674,
+      "places": [
+        {
+          "nama_tempat": "Unnes Night Festival (UNFEST) 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "PRPP Semarang",
+          "alasan_viral": "Festival musik satu dekade",
+          "indikasi_waktu": "20 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Festival Kota Lama XV",
+          "kategori": "Pameran",
+          "lokasi_text": "Kota Lama Semarang",
+          "alasan_viral": "Festival seni budaya, kuliner, dan Festival Melukis Payung",
+          "indikasi_waktu": "4-20 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Borobudur Indonesia Expo 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Alun-Alun Kota Magelang",
+          "alasan_viral": "Expo penggerak ekonomi masyarakat",
+          "indikasi_waktu": "17-20 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 675,
+      "places": [
+        {
+          "nama_tempat": "Jateng Fair 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "PRPP Jawa Tengah, Semarang",
+          "alasan_viral": "Pesta rakyat dan pameran pembangunan terbesar di Jawa Tengah",
+          "indikasi_waktu": "s.d. 5 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Big Bad Wolf (BBW) Semarang 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Queen City Mall Semarang",
+          "alasan_viral": "Bazar buku internasional",
+          "indikasi_waktu": "9-19 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Holiday on Ice with Pororo",
+          "kategori": "Wahana",
+          "lokasi_text": "Pollux Mall Paragon, Semarang",
+          "alasan_viral": "Wahana seluncur es tema Pororo",
+          "indikasi_waktu": "s.d. 19 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 676,
+      "places": [
+        {
+          "nama_tempat": "Festival Kota Lama (FKL) 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Kawasan Kota Lama Semarang",
+          "alasan_viral": "Festival seni budaya diperpanjang hingga 20 September",
+          "indikasi_waktu": "4-20 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Pasar Malam Sentiling",
+          "kategori": "Pameran",
+          "lokasi_text": "Metro Point, Kota Lama Semarang",
+          "alasan_viral": "Pasar malam kuliner bagian Festival Kota Lama",
+          "indikasi_waktu": "4-13 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "BCA Expo 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "23 Semarang Shopping Center",
+          "alasan_viral": "Pameran",
+          "indikasi_waktu": "8-13 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 677,
+      "places": [
+        {
+          "nama_tempat": "Rumah Makan Ayam Panggang 3 Berku",
+          "kategori": "Restoran",
+          "lokasi_text": "Sekitar Gembira Loka, Yogyakarta",
+          "alasan_viral": "Tempat makan dekat Gembira Loka",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Kebun Binatang Gembira Loka",
+          "kategori": "Wahana",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Destinasi wisata keluarga ikonik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 678,
+      "places": [
+        {
+          "nama_tempat": "Pasar Ngasem",
+          "kategori": "lainnya",
+          "lokasi_text": "Jl. Polowijan No.11, Patehan, Kraton, Kota Yogyakarta",
+          "alasan_viral": "Surga kuliner tradisional selalu ramai",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Pasar Kranggan",
+          "kategori": "lainnya",
+          "lokasi_text": "Dekat Tugu Yogyakarta",
+          "alasan_viral": "Kuliner tradisional dan kekinian",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 679,
+      "places": [
+        {
+          "nama_tempat": "SABA Korean Dining",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Lempongsari, Sumberan, Sariharjo, Ngaglik, Sleman",
+          "alasan_viral": "Restoran Korea baru yang menyita perhatian",
+          "indikasi_waktu": "Dibuka pertengahan 2025",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Hankki Korean Resto",
+          "kategori": "Restoran",
+          "lokasi_text": "Ngaglik, Sleman",
+          "alasan_viral": "Restoran Korea halal",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 680,
+      "places": [
+        {
+          "nama_tempat": "Mie Sapi Banteng",
+          "kategori": "Restoran",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Kuliner viral mie oriental halal chilli oil",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Gudeg Yu Hadi",
+          "kategori": "Restoran",
+          "lokasi_text": "Gang dekat Keraton, Kota Yogyakarta",
+          "alasan_viral": "Viral karena gudeg murah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 681,
+      "places": [
+        {
+          "nama_tempat": "Gudeg Mbok Lindu",
+          "kategori": "Restoran",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Gudeg ikonik Jogja",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Waroeng Kopi Klotok",
+          "kategori": "Restoran",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Kopi dan makanan rumahan suasana pedesaan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Bakmi Jowo Mbah Gito",
+          "kategori": "Restoran",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Bakmi tradisional Jogja",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Bale Raos - The Sultan's Dishes",
+          "kategori": "Restoran",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Kuliner tradisi Keraton",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "The House of Raminten",
+          "kategori": "Restoran",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Hidangan khas Jawa suasana berbeda",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 682,
+      "places": [
+        {
+          "nama_tempat": "Ibarbo Park",
+          "kategori": "Wahana",
+          "lokasi_text": "Jalan Magelang, Sleman",
+          "alasan_viral": "Destinasi wisata modern yang cepat merebut perhatian publik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 683,
+      "places": [
+        {
+          "nama_tempat": "Kedai Misoa Qiu Qiu",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Langensari No.14, Klitren, Gondokusuman dan Jalan Sidomukti, Condongcatur, Depok, Yogyakarta",
+          "alasan_viral": "Kuliner kekinian yang ramai diserbu anak muda",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 684,
+      "places": [
+        {
+          "nama_tempat": "Rumah Makan Lie Djiong",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Brigjen Katamso No.21, Prawirodirjan, Gondomanan, Kota Yogyakarta",
+          "alasan_viral": "Chinese food legendaris sejak 1976",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Restoran Mahkota (Tiongsan)",
+          "kategori": "Restoran",
+          "lokasi_text": "Dekat Malioboro, Yogyakarta",
+          "alasan_viral": "Chinese food legendaris sejak 1937",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 685,
+      "places": [
+        {
+          "nama_tempat": "Ayam Goreng Mbok Berek",
+          "kategori": "Restoran",
+          "lokasi_text": "Banyak cabang di Jogja",
+          "alasan_viral": "Ayam goreng legendaris",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Ayam Goreng Ny. Suharti",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Laksda Adisucipto No.208, Janti, Caturtunggal, Depok, Sleman",
+          "alasan_viral": "Ayam goreng legendaris sejak 1972",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 686,
+      "places": [
+        {
+          "nama_tempat": "Kopi Klotok",
+          "kategori": "Restoran",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Kuliner wajib wisatawan, sempat viral, antrean panjang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 687,
+      "places": [
+        {
+          "nama_tempat": "Tubbu Wellness",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Samironobaru, Caturtunggal, Depok, Sleman",
+          "alasan_viral": "Kafe baru dengan fasilitas yoga dan pilates",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Owood Cafe",
+          "kategori": "Kafe",
+          "lokasi_text": "Sendangtirto, Berbah, Sleman",
+          "alasan_viral": "Kafe baru desain minimalis cocok WFC",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 688,
+      "places": [
+        {
+          "nama_tempat": "Joglo Resodinomo",
+          "kategori": "Restoran",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Restoran ramah anak dengan mini zoo dan playground",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Krasan Cafe n Resto",
+          "kategori": "Restoran",
+          "lokasi_text": "Tepi Sungai Opak, Yogyakarta",
+          "alasan_viral": "Resto ramah anak dengan pemandangan sungai",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 689,
+      "places": [
+        {
+          "nama_tempat": "Oseng-Oseng Mercon Bu Narti",
+          "kategori": "Restoran",
+          "lokasi_text": "Ngampilan, Yogyakarta",
+          "alasan_viral": "Kuliner pedas legendaris",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Mangut Lele Mbah Marto",
+          "kategori": "Restoran",
+          "lokasi_text": "Sewon, Bantul",
+          "alasan_viral": "Mangut lele asap legendaris",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Bakmi Jowo Mbah Gito",
+          "kategori": "Restoran",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Bakmi jawa di rumah joglo klasik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,434 @@
+{
+  "results": [
+    {
+      "article_id": 1440,
+      "places": []
+    },
+    {
+      "article_id": 1441,
+      "places": []
+    },
+    {
+      "article_id": 1442,
+      "places": []
+    },
+    {
+      "article_id": 1443,
+      "places": []
+    },
+    {
+      "article_id": 1444,
+      "places": []
+    },
+    {
+      "article_id": 1445,
+      "places": []
+    },
+    {
+      "article_id": 1446,
+      "places": []
+    },
+    {
+      "article_id": 1447,
+      "places": []
+    },
+    {
+      "article_id": 1448,
+      "places": []
+    },
+    {
+      "article_id": 1449,
+      "places": []
+    },
+    {
+      "article_id": 1450,
+      "places": []
+    },
+    {
+      "article_id": 1451,
+      "places": []
+    },
+    {
+      "article_id": 1452,
+      "places": []
+    },
+    {
+      "article_id": 1453,
+      "places": []
+    },
+    {
+      "article_id": 1454,
+      "places": []
+    },
+    {
+      "article_id": 1455,
+      "places": []
+    },
+    {
+      "article_id": 1456,
+      "places": []
+    },
+    {
+      "article_id": 1457,
+      "places": [
+        {
+          "nama_tempat": "Kopitiam Shantui",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Embong Kemiri No.20, Embong Kaliasin, Genteng, Surabaya",
+          "alasan_viral": "Kopitiam modern di pusat kota dengan mi mamak dan jam buka panjang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Nasi Empal Pengampon",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Pengampon II No.3, Bongkaran, Pabean Cantian, Surabaya",
+          "alasan_viral": "Tempat makan legendaris nasi empal di Surabaya",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1458,
+      "places": [
+        {
+          "nama_tempat": "Sego Sambel Mak Yeye",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Jagir Wonokromo Wetan No. 10, Surabaya",
+          "alasan_viral": "Sego sambel khas Surabaya favorit kuliner malam mulai Rp10.000",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Rawon Kalkulator",
+          "kategori": "Restoran",
+          "lokasi_text": "Surabaya",
+          "alasan_viral": "Rawon kuah kluwek pekat kaya rempah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1459,
+      "places": [
+        {
+          "nama_tempat": "Tahu Tek Pak Ali",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Dinoyo, Surabaya",
+          "alasan_viral": "Tahu tek legendaris dengan bumbu petis kacang kental",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Lontong Balap Bu Djupri",
+          "kategori": "Restoran",
+          "lokasi_text": "Kranggan, Surabaya",
+          "alasan_viral": "Lontong balap khas Surabaya dengan sate kerang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Aiola Caravan",
+          "kategori": "Restoran",
+          "lokasi_text": "Surabaya",
+          "alasan_viral": "Tempat makan konsep food truck caravan aesthetic harga di bawah Rp20.000",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1460,
+      "places": [
+        {
+          "nama_tempat": "Nasi Bebek Tugu Pahlawan",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Pasar Turi No.27-C, Bubutan, Surabaya",
+          "alasan_viral": "Bebek goreng empuk renyah dekat Stasiun Pasar Turi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Nasi Goreng Pak Kumis",
+          "kategori": "Restoran",
+          "lokasi_text": "Taman Apsari No.25, Embong Kaliasin, Genteng, Surabaya",
+          "alasan_viral": "Nasi goreng krengsengan yang selalu ramai pembeli",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1461,
+      "places": [
+        {
+          "nama_tempat": "Fluffy Fluffy Pancake",
+          "kategori": "Kafe",
+          "lokasi_text": "Food Society lantai 2 Pakuwon Mall Surabaya",
+          "alasan_viral": "Gerai pertama di Indonesia brand dessert pancake soufflé asal Kanada",
+          "indikasi_waktu": "April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Noctra Hookah Premium Lounge",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Ngagel Timur 20, Surabaya",
+          "alasan_viral": "Lounge hangout malam baru bernuansa modern mewah",
+          "indikasi_waktu": "April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "Fronds",
+          "kategori": "Restoran",
+          "lokasi_text": "Surabaya",
+          "alasan_viral": "Restoran baru perpaduan klasik Barat dan elegan Jepang di bangunan dua lantai",
+          "indikasi_waktu": "April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1462,
+      "places": [
+        {
+          "nama_tempat": "Nasi Cumi Ibu Atun",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Waspada No. 2-4, Bongkaran, Pabean Cantian, Surabaya",
+          "alasan_viral": "Primadona kuliner malam nasi cumi tinta hitam ramai hingga dini hari",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Bebek Goreng Tugu Pahlawan",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Tembaan No. 17, Alun-alun Contong, Bubutan, Surabaya",
+          "alasan_viral": "Bebek goreng legendaris di depan Monumen Tugu Pahlawan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Sate Klopo Ondomohen Bu Asih",
+          "kategori": "Restoran",
+          "lokasi_text": "Surabaya",
+          "alasan_viral": "Sate klopo legendaris berbalur parutan kelapa",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1463,
+      "places": [
+        {
+          "nama_tempat": "Rawon Kalkulator",
+          "kategori": "Restoran",
+          "lokasi_text": "Sentra PKL Taman Bungkul, Jl. Raya Darmo, Surabaya",
+          "alasan_viral": "Rawon konsisten rasanya, pilihan makan malam warga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1464,
+      "places": [
+        {
+          "nama_tempat": "Binar Sebaya",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Comal No. 27, Keputran, Tegalsari, Surabaya",
+          "alasan_viral": "Coffee shop vintage baru di bangunan lawas dengan halaman rindang",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Fore Donut",
+          "kategori": "Kafe",
+          "lokasi_text": "Pakuwon City Mall 2, Surabaya",
+          "alasan_viral": "Donat viral asal Jakarta buka cabang pertama di luar Jabodetabek",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "MANTIS Bar & Lounge",
+          "kategori": "Restoran",
+          "lokasi_text": "Surabaya",
+          "alasan_viral": "Tempat hangout malam baru dengan menu Nusantara dan internasional",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1465,
+      "places": [
+        {
+          "nama_tempat": "Ayam Goreng Asli Pemuda",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Tidar Nomor 29, Surabaya",
+          "alasan_viral": "Ayam goreng sejak 1977 dicicipi Tissa Biani dan Dul Jaelani",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Lontong Balap Asli Pak Gendut",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Embong Malang Nomor 38, Surabaya",
+          "alasan_viral": "Pelopor lontong balap Surabaya sejak 1956",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Tahu Campur dan Tahu Tek Cak Kin",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Dr. Ir. H. Soekarno, Surabaya",
+          "alasan_viral": "Kuliner khas Surabaya yang dicicipi Tissa Biani dan Dul Jaelani",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1466,
+      "places": [
+        {
+          "nama_tempat": "Es Teler Pacar Keling",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Penataran No.2, Pacar Keling, Tambaksari, Surabaya",
+          "alasan_viral": "Es teler porsi jumbo terkenal di kalangan warga Surabaya",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Es Teler Tanjung Anom",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Tanjung Anom No. 2, Surabaya",
+          "alasan_viral": "Kuliner legend es teler dan bakso sapi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Es Dawet Kudus Cak Minto",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Mayjen Sungkono, Surabaya",
+          "alasan_viral": "Kedai es dawet yang tak pernah sepi pengunjung",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1467,
+      "places": [
+        {
+          "nama_tempat": "Gyunim",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Embong Gayam No. 11, Surabaya",
+          "alasan_viral": "Restoran Jepang baru konsep modern izakaya",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Youfu HK Kopitiam",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Raya Darmo Permai 1 No.42, Surabaya",
+          "alasan_viral": "Kopitiam Hong Kong modern baru dengan dimsum dan claypot",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Patta Hamburg",
+          "kategori": "Restoran",
+          "lokasi_text": "Surabaya",
+          "alasan_viral": "Restoran baru hamburg steak ala Jepang",
+          "indikasi_waktu": "Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1468,
+      "places": [
+        {
+          "nama_tempat": "Haidilao",
+          "kategori": "Restoran",
+          "lokasi_text": "Pakuwon Mall Lantai G The Terrace, Babatan, Wiyung, Surabaya",
+          "alasan_viral": "Restoran hot pot asal Tiongkok terkenal enak",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Dragon Hot Pot",
+          "kategori": "Restoran",
+          "lokasi_text": "Tunjungan Plaza dan Pakuwon Mall, Surabaya",
+          "alasan_viral": "Restoran hot pot favorit warga Surabaya dengan ratusan topping",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1469,
+      "places": [
+        {
+          "nama_tempat": "ARTSUBS 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Surabaya",
+          "alasan_viral": "Pameran seni yang ramai pengunjung",
+          "indikasi_waktu": "22 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "UYCC Art Gallery",
+          "kategori": "Museum",
+          "lokasi_text": "Lantai 2 Unic Hotel, Jalan Embong Tanjung Nomor 46-48, Embong Kaliasin, Surabaya",
+          "alasan_viral": "Galeri seni instagramable dengan pameran visual dan instalasi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Teh Villa Gallery",
+          "kategori": "Museum",
+          "lokasi_text": "Jalan Rungkut Industri II Nomor 53, Surabaya",
+          "alasan_viral": "Galeri seni di pabrik teh aktif dengan kegiatan melukis bersama",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    }
+  ]
+}

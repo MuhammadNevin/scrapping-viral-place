@@ -1,0 +1,298 @@
+{
+  "results": [
+    {
+      "article_id": 1080,
+      "places": []
+    },
+    {
+      "article_id": 1081,
+      "places": []
+    },
+    {
+      "article_id": 1082,
+      "places": []
+    },
+    {
+      "article_id": 1083,
+      "places": []
+    },
+    {
+      "article_id": 1084,
+      "places": []
+    },
+    {
+      "article_id": 1085,
+      "places": []
+    },
+    {
+      "article_id": 1086,
+      "places": [
+        {
+          "nama_tempat": "Pameran Seni \"Jejak Tanah: Bentang Berlanjut\"",
+          "kategori": "Pameran",
+          "lokasi_text": "Palu, Sulawesi Tengah",
+          "alasan_viral": "Pameran seni oleh Kuratana Studio dan Ruretik Lab",
+          "indikasi_waktu": "28 September - 4 Oktober 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1087,
+      "places": [
+        {
+          "nama_tempat": "Festival Literasi Provinsi Sulawesi Barat 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Mamuju, Sulawesi Barat",
+          "alasan_viral": "Rangkaian kegiatan literasi untuk masyarakat",
+          "indikasi_waktu": "15 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1088,
+      "places": [
+        {
+          "nama_tempat": "Gorontalo Karnaval Karawo 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Gorontalo",
+          "alasan_viral": "Event budaya tahunan",
+          "indikasi_waktu": "September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1089,
+      "places": [
+        {
+          "nama_tempat": "Pantai Tai Manu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Belang-Belang, Kecamatan Kalukku, Kabupaten Mamuju",
+          "alasan_viral": "Viral video perkelahian dengan badik di kawasan wisata (isu negatif)",
+          "indikasi_waktu": "30 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1090,
+      "places": []
+    },
+    {
+      "article_id": 1091,
+      "places": []
+    },
+    {
+      "article_id": 1092,
+      "places": []
+    },
+    {
+      "article_id": 1093,
+      "places": [
+        {
+          "nama_tempat": "Toko Roti Jeannette",
+          "kategori": "Kafe",
+          "lokasi_text": "Kecamatan Patrang, Jember",
+          "alasan_viral": "Toko roti jadul legendaris sejak 1935",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1094,
+      "places": []
+    },
+    {
+      "article_id": 1095,
+      "places": [
+        {
+          "nama_tempat": "Toko Madjoe",
+          "kategori": "Kafe",
+          "lokasi_text": "Pasar Besar Malang",
+          "alasan_viral": "Toko kue jadul bertekstur buttery, unggahan disukai ribuan pengguna",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1096,
+      "places": []
+    },
+    {
+      "article_id": 1097,
+      "places": []
+    },
+    {
+      "article_id": 1098,
+      "places": []
+    },
+    {
+      "article_id": 1099,
+      "places": [
+        {
+          "nama_tempat": "Festival Sandeq Silumba 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Pantai Banua Sendana hingga Pantai Pamboang, Majene",
+          "alasan_viral": "Lomba perahu layar tradisional Mandar",
+          "indikasi_waktu": "25-27 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Festival Gau Maraja 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Kabupaten Bone, Sulawesi Selatan",
+          "alasan_viral": "Festival budaya pameran, seni, dan karnaval",
+          "indikasi_waktu": "25-30 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1100,
+      "places": [
+        {
+          "nama_tempat": "Culture Festival Mandar",
+          "kategori": "Pameran",
+          "lokasi_text": "Lapangan Sport Center Polewali Mandar",
+          "alasan_viral": "Festival budaya dengan lomba gaun sutra Mandar",
+          "indikasi_waktu": "14 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1101,
+      "places": []
+    },
+    {
+      "article_id": 1102,
+      "places": []
+    },
+    {
+      "article_id": 1103,
+      "places": []
+    },
+    {
+      "article_id": 1104,
+      "places": []
+    },
+    {
+      "article_id": 1105,
+      "places": [
+        {
+          "nama_tempat": "Coto Nusantara",
+          "kategori": "Restoran",
+          "lokasi_text": "Makassar",
+          "alasan_viral": "Warung coto legendaris selalu ramai",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Konro Karebosi",
+          "kategori": "Restoran",
+          "lokasi_text": "Makassar",
+          "alasan_viral": "Konro bakar terkenal favorit wisatawan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 1106,
+      "places": []
+    },
+    {
+      "article_id": 1107,
+      "places": [
+        {
+          "nama_tempat": "Patung Yesus Buntu Burake",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Makale, Tana Toraja",
+          "alasan_viral": "Patung Yesus tertinggi kedua di dunia, Instagramable",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Pulau Kodingareng Keke",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Makassar",
+          "alasan_viral": "Pulau tak berpenghuni untuk snorkeling",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Tebing Apparalang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bulukumba, Sulawesi Selatan",
+          "alasan_viral": "Spot #NoFilter dengan laut pirus",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Buttu Macca",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Enrekang",
+          "alasan_viral": "Spot foto di antara Gunung Bambapuang dan Gunung Nona",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Rammang-Rammang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Maros, Sulawesi Selatan",
+          "alasan_viral": "Desa wisata karst",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1108,
+      "places": [
+        {
+          "nama_tempat": "Tebing Apparalang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Lembanna, Kecamatan Bonto Bahari, Bulukumba",
+          "alasan_viral": "Video remaja tersapu ombak di spot foto viral (isu negatif)",
+          "indikasi_waktu": "7 Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1109,
+      "places": [
+        {
+          "nama_tempat": "Tebing Apparalang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Ara, Kecamatan Bonto Bahari, Bulukumba",
+          "alasan_viral": "Detik-detik korban terseret ombak viral di media sosial (isu negatif)",
+          "indikasi_waktu": "7 Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "results": [
+    {
+      "article_id": 270,
+      "places": [
+        {
+          "nama_tempat": "Masjid Al-Munawwarah",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kampung Uning, Kecamatan Pegasing, Kabupaten Aceh Tengah",
+          "alasan_viral": "Destinasi wisata religi di tepi Sungai Peusangan, ramai dikunjungi wisatawan hingga mancanegara",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 271,
+      "places": [
+        {
+          "nama_tempat": "Pameran foto Prahara Pulau Emas",
+          "kategori": "Pameran",
+          "lokasi_text": "Museum Tsunami Aceh, Banda Aceh",
+          "alasan_viral": "Pameran foto jurnalistik bencana banjir dan longsor akhir 2025",
+          "indikasi_waktu": "3-8 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Museum Tsunami Aceh",
+          "kategori": "Museum",
+          "lokasi_text": "Banda Aceh",
+          "alasan_viral": "Lokasi pameran Prahara Pulau Emas",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 272,
+      "places": []
+    },
+    {
+      "article_id": 273,
+      "places": []
+    },
+    {
+      "article_id": 274,
+      "places": []
+    },
+    {
+      "article_id": 275,
+      "places": []
+    },
+    {
+      "article_id": 276,
+      "places": []
+    },
+    {
+      "article_id": 277,
+      "places": []
+    },
+    {
+      "article_id": 278,
+      "places": []
+    },
+    {
+      "article_id": 279,
+      "places": []
+    },
+    {
+      "article_id": 280,
+      "places": []
+    },
+    {
+      "article_id": 281,
+      "places": [
+        {
+          "nama_tempat": "ANAT Fair 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Suzuya Mall Banda Aceh",
+          "alasan_viral": "Travel fair dengan tema Jelajahi Dunia dari Serambi Mekkah",
+          "indikasi_waktu": "25 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 282,
+      "places": []
+    },
+    {
+      "article_id": 283,
+      "places": []
+    },
+    {
+      "article_id": 284,
+      "places": []
+    },
+    {
+      "article_id": 285,
+      "places": []
+    },
+    {
+      "article_id": 286,
+      "places": []
+    },
+    {
+      "article_id": 287,
+      "places": []
+    },
+    {
+      "article_id": 288,
+      "places": []
+    },
+    {
+      "article_id": 289,
+      "places": []
+    },
+    {
+      "article_id": 290,
+      "places": []
+    },
+    {
+      "article_id": 291,
+      "places": []
+    },
+    {
+      "article_id": 292,
+      "places": []
+    },
+    {
+      "article_id": 293,
+      "places": [
+        {
+          "nama_tempat": "Festival Kuliner Serpong (FKS) 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Summarecon Mall Serpong, Gading Serpong, Banten",
+          "alasan_viral": "Festival kuliner dengan kuliner viral Sambal Seruit Lampung",
+          "indikasi_waktu": "13 Agustus - 13 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Rumah Sambal Seruit Lampung",
+          "kategori": "Restoran",
+          "lokasi_text": "Booth FKS 2026, Summarecon Mall Serpong",
+          "alasan_viral": "Kuliner khas Lampung yang sedang viral, booth tidak pernah sepi",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Mie Ayam Koga",
+          "kategori": "Restoran",
+          "lokasi_text": "Bandar Lampung (booth di FKS 2026)",
+          "alasan_viral": "Mie ayam legendaris Bandar Lampung sejak 1978",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Sate Mak Syukur Padang Pandjang",
+          "kategori": "Restoran",
+          "lokasi_text": "Padang Panjang, Sumatera Barat (booth di FKS 2026)",
+          "alasan_viral": "Sate legendaris sejak 1941",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 294,
+      "places": [
+        {
+          "nama_tempat": "Terminal Keudah",
+          "kategori": "lainnya",
+          "lokasi_text": "Banda Aceh",
+          "alasan_viral": "Dimanfaatkan sebagai lokasi event kota",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Taman Telepon (Sentral Telepon)",
+          "kategori": "Museum",
+          "lokasi_text": "Banda Aceh",
+          "alasan_viral": "Situs bersejarah cikal bakal jaringan telepon sejak 1903, akan ditata",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Masjid Raya Baiturrahman",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Banda Aceh",
+          "alasan_viral": "Bagian kawasan wisata sejarah kota",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Taman Putroe Phang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Banda Aceh",
+          "alasan_viral": "Bagian kawasan wisata sejarah kota",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 295,
+      "places": [
+        {
+          "nama_tempat": "Festival Lhok Buloh",
+          "kategori": "Pameran",
+          "lokasi_text": "Desa Cot Beudak, Kecamatan Kuta Makmur, Kabupaten Aceh Utara",
+          "alasan_viral": "Festival tari, kuliner, dan bazar untuk dorong wisata pascabanjir",
+          "indikasi_waktu": "13-14 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Sungai Lhok Buloh",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kecamatan Kuta Makmur, Kabupaten Aceh Utara",
+          "alasan_viral": "Salah satu destinasi paling ramai dikunjungi saat ini",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 296,
+      "places": [
+        {
+          "nama_tempat": "Festival Literasi Aceh Barat",
+          "kategori": "Pameran",
+          "lokasi_text": "Halaman Dinas Pendidikan Aceh Barat, Meulaboh",
+          "alasan_viral": "Festival dengan stan karya literasi",
+          "indikasi_waktu": "23-26 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 297,
+      "places": [
+        {
+          "nama_tempat": "Festival Sagu Singkel 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Halaman Masjid Al-Ikhlas, Desa Kuta Simboling, Singkil, Aceh Singkil",
+          "alasan_viral": "Festival pelestarian budaya sagu",
+          "indikasi_waktu": "22 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 298,
+      "places": [
+        {
+          "nama_tempat": "Restoran Pak Nas",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Brigjen Katamso No. 40, Kec. Sibolga",
+          "alasan_viral": "Sop daging kerbau andalan yang sering kehabisan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Rumah Makan Medan Seafood",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Imam Bonjol No.27, Pasar Baru, Kec. Sibolga Kota",
+          "alasan_viral": "Seafood segar, pilih ikan dari kolam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Tempat makan Thamrin",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. MH. Thamrin No.5, Kota Beringin, Kec. Sibolga Kota",
+          "alasan_viral": "Tempat makan di Sibolga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 299,
+      "places": []
+    }
+  ]
+}

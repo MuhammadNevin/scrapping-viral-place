@@ -1,0 +1,315 @@
+{
+  "results": [
+    {
+      "article_id": 1410,
+      "places": []
+    },
+    {
+      "article_id": 1411,
+      "places": []
+    },
+    {
+      "article_id": 1412,
+      "places": []
+    },
+    {
+      "article_id": 1413,
+      "places": [
+        {
+          "nama_tempat": "Pasar Induk Kramat Jati",
+          "kategori": "lainnya",
+          "lokasi_text": "Pasar Induk Kramat Jati, Jakarta Timur",
+          "alasan_viral": "Video viral dugaan intimidasi pedagang oleh oknum polisi (isu negatif)",
+          "indikasi_waktu": "1 Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1414,
+      "places": []
+    },
+    {
+      "article_id": 1415,
+      "places": [
+        {
+          "nama_tempat": "Pasar Induk Kramat Jati",
+          "kategori": "lainnya",
+          "lokasi_text": "Pasar Induk Kramat Jati, Jakarta Timur",
+          "alasan_viral": "Video viral pedagang pepaya diduga diintimidasi oknum perwira polisi (isu negatif)",
+          "indikasi_waktu": "1 Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1416,
+      "places": []
+    },
+    {
+      "article_id": 1417,
+      "places": []
+    },
+    {
+      "article_id": 1418,
+      "places": [
+        {
+          "nama_tempat": "Pasar Induk Kramat Jati",
+          "kategori": "lainnya",
+          "lokasi_text": "Pasar Induk Kramat Jati, Jakarta Timur",
+          "alasan_viral": "Gunungan sampah viral hingga tembok pembatas jebol (isu negatif)",
+          "indikasi_waktu": "April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1419,
+      "places": []
+    },
+    {
+      "article_id": 1420,
+      "places": []
+    },
+    {
+      "article_id": 1421,
+      "places": []
+    },
+    {
+      "article_id": 1422,
+      "places": []
+    },
+    {
+      "article_id": 1423,
+      "places": []
+    },
+    {
+      "article_id": 1424,
+      "places": []
+    },
+    {
+      "article_id": 1425,
+      "places": []
+    },
+    {
+      "article_id": 1426,
+      "places": []
+    },
+    {
+      "article_id": 1427,
+      "places": [
+        {
+          "nama_tempat": "Green Tourism Festival 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Halaman Kantor Wali Kota Jakarta Timur",
+          "alasan_viral": "Festival promosi wisata hijau dengan hiburan musik, budaya Betawi dan Pasar Tumbuh",
+          "indikasi_waktu": "26-27 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1428,
+      "places": [
+        {
+          "nama_tempat": "Green Tourism Festival 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Halaman Kantor Wali Kota Jakarta Timur",
+          "alasan_viral": "Festival bertema Satu Aksi Nyata Hijaukan Wisata Kota",
+          "indikasi_waktu": "26-27 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1429,
+      "places": []
+    },
+    {
+      "article_id": 1430,
+      "places": []
+    },
+    {
+      "article_id": 1431,
+      "places": []
+    },
+    {
+      "article_id": 1432,
+      "places": []
+    },
+    {
+      "article_id": 1433,
+      "places": [
+        {
+          "nama_tempat": "Indonesia International Pet Expo 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Jabodetabek",
+          "alasan_viral": "Pameran hewan peliharaan bertema Unleash The Energy",
+          "indikasi_waktu": "4-6 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "IMKIDS JIPREMIUM",
+          "kategori": "Pameran",
+          "lokasi_text": "Jabodetabek",
+          "alasan_viral": "Pameran produk premium ibu dan anak",
+          "indikasi_waktu": "4-6 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1434,
+      "places": [
+        {
+          "nama_tempat": "Nagri Utara",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Kemang Selatan VIII No. 55, Kemang, Jakarta Selatan",
+          "alasan_viral": "Kuliner warung Mamak Malaysia dengan nasi kandar",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Kandar Bros",
+          "kategori": "Restoran",
+          "lokasi_text": "Apartemen Kalibata City Tower Ebony, Kalibata, Jakarta Selatan",
+          "alasan_viral": "Kedai nasi kandar khas Malaysia",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Nasi Kandar Bharat Chicken",
+          "kategori": "Restoran",
+          "lokasi_text": "Tebet, Jakarta Selatan dan Tanjung Duren, Jakarta Barat",
+          "alasan_viral": "Nasi kandar briyani dengan ayam goreng rempah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1435,
+      "places": [
+        {
+          "nama_tempat": "Restoran Garuda",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan H. Agus Salim Nomor 59, Menteng, Jakarta Pusat",
+          "alasan_viral": "Restoran Padang sejak 1976 yang banyak dikunjungi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Natrabu Minang Restaurant",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan H. Agus Salim Raya Nomor 29A, Menteng, Jakarta Pusat",
+          "alasan_viral": "Restoran Padang terkemuka dengan resep tradisional Minang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1436,
+      "places": [
+        {
+          "nama_tempat": "RM Sinar Gakong",
+          "kategori": "Restoran",
+          "lokasi_text": "Wijaya Grand Centre, Jl. Wijaya II No.40 Blok C, Jakarta Selatan",
+          "alasan_viral": "Restoran Chinese food klasik asal Bandung",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Nasi Uduk Bahagia",
+          "kategori": "Restoran",
+          "lokasi_text": "Tendean, Jakarta Selatan",
+          "alasan_viral": "Warung nasi uduk kekinian populer dari Gading Serpong",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1437,
+      "places": [
+        {
+          "nama_tempat": "RM Pondok Djaja",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. KH. Hasyim Ashari No.13B, Petojo Utara, Gambir, Jakarta Pusat",
+          "alasan_viral": "RM Padang tertua sejak 1969",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "RM Sepakat",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Melawai 9, Melawai, Kebayoran Baru, Jakarta Selatan",
+          "alasan_viral": "RM Padang sejak 1967 dengan gulai gajebo",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Gado-Gado Bon Bin",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Cikini IV No.5, Cikini, Menteng, Jakarta Pusat",
+          "alasan_viral": "Gado-gado siram legendaris sejak 1960",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Soto Betawi H. Ma'ruf",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. RP. Soeroso No.36A, Gondangdia, Menteng, Jakarta Pusat",
+          "alasan_viral": "Soto Betawi legendaris sejak 1940",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Opor Ayam Kuning H. Sa'adih",
+          "kategori": "Restoran",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Tempat makan lawas legendaris",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1438,
+      "places": []
+    },
+    {
+      "article_id": 1439,
+      "places": [
+        {
+          "nama_tempat": "Kedai Katsudon Melawai",
+          "kategori": "Restoran",
+          "lokasi_text": "Melawai, Blok M, Jakarta Selatan",
+          "alasan_viral": "Masuk daftar tempat makan viral dan unik di Blok M",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "results": [
+    {
+      "article_id": 1290,
+      "places": [
+        {
+          "nama_tempat": "Piaynemo Raja Ampat",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Perairan Piaynemo, Kabupaten Raja Ampat, Papua Barat Daya",
+          "alasan_viral": "WNA asal China diduga berburu dan makan penyu di kawasan wisata bahari unggulan (isu negatif)",
+          "indikasi_waktu": "14 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1291,
+      "places": []
+    },
+    {
+      "article_id": 1292,
+      "places": [
+        {
+          "nama_tempat": "Dungo Kauman",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Cakra Nomor 36, Kauman, Kecamatan Pasar Kliwon, Kota Surakarta",
+          "alasan_viral": "Rekomendasi tempat ngopi kalcer di Solo dengan kopi dan cake",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Loske Coffee Service",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Teuku Umar Nomor 48, Keprabon, Kecamatan Banjarsari, Kota Surakarta",
+          "alasan_viral": "Rekomendasi tempat ngopi santai dengan menu kopi dan pastry",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1293,
+      "places": []
+    },
+    {
+      "article_id": 1294,
+      "places": []
+    },
+    {
+      "article_id": 1295,
+      "places": [
+        {
+          "nama_tempat": "Kepulauan Fam Raja Ampat",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Perairan Kepulauan Fam, Kabupaten Raja Ampat, Papua Barat Daya",
+          "alasan_viral": "Video perburuan penyu sisik oleh WN China mencoreng wisata Raja Ampat (isu negatif)",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1296,
+      "places": []
+    },
+    {
+      "article_id": 1297,
+      "places": []
+    },
+    {
+      "article_id": 1298,
+      "places": []
+    },
+    {
+      "article_id": 1299,
+      "places": []
+    },
+    {
+      "article_id": 1300,
+      "places": []
+    },
+    {
+      "article_id": 1301,
+      "places": []
+    },
+    {
+      "article_id": 1302,
+      "places": []
+    },
+    {
+      "article_id": 1303,
+      "places": []
+    },
+    {
+      "article_id": 1304,
+      "places": []
+    },
+    {
+      "article_id": 1305,
+      "places": []
+    },
+    {
+      "article_id": 1306,
+      "places": []
+    },
+    {
+      "article_id": 1307,
+      "places": [
+        {
+          "nama_tempat": "International Lantern Spectacular Festival Pertengahan Musim Gugur",
+          "kategori": "Pameran",
+          "lokasi_text": "Victoria Park, Hong Kong",
+          "alasan_viral": "Festival lampion lebih dari 3.000 lampion dari 20 negara, naga LED dan Fire Dragon Dance",
+          "indikasi_waktu": "Hingga 27 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1308,
+      "places": []
+    },
+    {
+      "article_id": 1309,
+      "places": []
+    },
+    {
+      "article_id": 1310,
+      "places": []
+    },
+    {
+      "article_id": 1311,
+      "places": []
+    },
+    {
+      "article_id": 1312,
+      "places": []
+    },
+    {
+      "article_id": 1313,
+      "places": [
+        {
+          "nama_tempat": "Nasi Goreng Siaga Bersaudara",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Minggu, Jakarta Selatan",
+          "alasan_viral": "Masuk daftar makanan favorit Ayu Dewi dalam tren Foods I Can't Stop Thinking About",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Nasi Uduk Mas Dikun",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Minggu, Jakarta Selatan",
+          "alasan_viral": "Nasi uduk legendaris sejak 1991 favorit Regi Datau",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1314,
+      "places": [
+        {
+          "nama_tempat": "Warung Tekko",
+          "kategori": "Restoran",
+          "lokasi_text": "Kawasan Senayan, Jakarta",
+          "alasan_viral": "Rekomendasi makan siang dekat GBK dengan iga penyet dan aneka sambal",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Sate Khas Senayan",
+          "kategori": "Restoran",
+          "lokasi_text": "Kawasan Senayan, Jakarta",
+          "alasan_viral": "Rekomendasi makan siang dekat GBK dengan sate dan masakan Nusantara",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Seribu Rasa",
+          "kategori": "Restoran",
+          "lokasi_text": "Kawasan Senayan, Jakarta",
+          "alasan_viral": "Restoran masakan Nusantara bersuasana elegan dekat GBK",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1315,
+      "places": [
+        {
+          "nama_tempat": "Mallo Trattoria Italiana",
+          "kategori": "Restoran",
+          "lokasi_text": "ASHTA District 8, Jl. Senopati No.83, Senayan, Kebayoran Baru, Jakarta Selatan",
+          "alasan_viral": "Restoran Italia baru dengan konsep open kitchen dan pasta homemade",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Yialos Taverna",
+          "kategori": "Restoran",
+          "lokasi_text": "Menteng, Jakarta",
+          "alasan_viral": "Restoran Yunani Mediterania baru yang fancy",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1316,
+      "places": [
+        {
+          "nama_tempat": "Nasi Mercon Barito",
+          "kategori": "Restoran",
+          "lokasi_text": "Blok M, Jakarta Selatan",
+          "alasan_viral": "Kuliner malam kaki lima nasi pedas di kawasan Melawai Blok M",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Tsuka Ramen Kemang",
+          "kategori": "Restoran",
+          "lokasi_text": "Kemang, Jakarta Selatan",
+          "alasan_viral": "Destinasi ramen halal dengan harga terjangkau",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1317,
+      "places": [
+        {
+          "nama_tempat": "Warung MJS",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Setia Budi Tengah No.11, Kuningan, Setiabudi, Jakarta Selatan",
+          "alasan_viral": "Resto keluarga masakan Jawa dengan harga terjangkau",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Omah Pincuk",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Raya Pasar Minggu No.55, Pejaten Timur, Pasar Minggu, Jakarta Selatan",
+          "alasan_viral": "Resto keluarga dengan saung dan taman yang adem",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Kedai Halaman",
+          "kategori": "Restoran",
+          "lokasi_text": "Jakarta Selatan",
+          "alasan_viral": "Resto keluarga konsep modern bersentuhan tradisional yang homey",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1318,
+      "places": [
+        {
+          "nama_tempat": "Bakmi Gang Kelinci",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Baru, Jakarta Pusat",
+          "alasan_viral": "Kuliner legendaris di kawasan Pasar Baru",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Cakue Ko Atek",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Baru, Jakarta Pusat",
+          "alasan_viral": "Kuliner legendaris di kawasan Pasar Baru",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1319,
+      "places": []
+    }
+  ]
+}

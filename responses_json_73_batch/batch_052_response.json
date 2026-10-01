@@ -1,0 +1,469 @@
+{
+  "results": [
+    {
+      "article_id": 1530,
+      "places": [
+        {
+          "nama_tempat": "Punclut (Puncak Ciumbuleuit)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bandung",
+          "alasan_viral": "Panorama Kota Bandung dari ketinggian, populer lewat konten TikTok dan Instagram, warganet antusias",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1531,
+      "places": [
+        {
+          "nama_tempat": "TJI LAKI 9",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Cilaki No. 9, Cihapit, Bandung",
+          "alasan_viral": "Toko oleh-oleh bolu pisang premium yang viral di bangunan kolonial",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1532,
+      "places": [
+        {
+          "nama_tempat": "The Square Room",
+          "kategori": "Kafe",
+          "lokasi_text": "Pajajaran, Cicendo, Bandung",
+          "alasan_viral": "Toko roti viral konsep serba kotak dengan cubic croissant, spot foto favorit",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Toko Roti Merak",
+          "kategori": "Kafe",
+          "lokasi_text": "Bandung",
+          "alasan_viral": "Toko roti viral roti jadul rasa premium, pembeli antre sejak pagi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1533,
+      "places": [
+        {
+          "nama_tempat": "Terve Chocolate",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Bengawan No. 23, Bandung",
+          "alasan_viral": "Pabrik, toko dan kafe serba cokelat dari kakao lokal dengan workshop",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Briiz Chocolate",
+          "kategori": "Kafe",
+          "lokasi_text": "Bandung",
+          "alasan_viral": "Toko cokelat bean to bar dari kakao petani lokal",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1534,
+      "places": [
+        {
+          "nama_tempat": "BMB Canteen",
+          "kategori": "Restoran",
+          "lokasi_text": "Bandung",
+          "alasan_viral": "Restoran viral untuk sarapan dengan antrean sangat panjang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Game On Arcade",
+          "kategori": "Wahana",
+          "lokasi_text": "Bandung",
+          "alasan_viral": "Arena permainan misi menginjak warna untuk menguji kekompakan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "The Pavlove Rooms",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Pajajaran, Bandung",
+          "alasan_viral": "Kafe hits penuh warna dengan kelas keramik dan photobooth",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1535,
+      "places": [
+        {
+          "nama_tempat": "Pasar Cihapit",
+          "kategori": "Restoran",
+          "lokasi_text": "Cihapit, Bandung",
+          "alasan_viral": "Pasar tradisional berubah jadi hub kuliner modern dengan bake house, masuk daftar tempat makan viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1536,
+      "places": [
+        {
+          "nama_tempat": "Pasar Barukai",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Barukai, Cisarua, Kabupaten Bandung Barat",
+          "alasan_viral": "Video lapak pedagang tersapu angin baling-baling helikopter viral (isu negatif)",
+          "indikasi_waktu": "30 Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 1537,
+      "places": [
+        {
+          "nama_tempat": "Kalcer Market",
+          "kategori": "Pameran",
+          "lokasi_text": "Malang Town Square, Malang",
+          "alasan_viral": "Pesta kuliner kekinian menghadirkan puluhan hidangan hype dan viral",
+          "indikasi_waktu": "6-17 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1538,
+      "places": [
+        {
+          "nama_tempat": "Rumah Makan Lamun Ombak",
+          "kategori": "Restoran",
+          "lokasi_text": "Padang",
+          "alasan_viral": "Rumah makan masakan khas Minangkabau populer untuk makan siang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Rumah Makan Sederhana",
+          "kategori": "Restoran",
+          "lokasi_text": "Padang",
+          "alasan_viral": "Hidangan khas Padang dengan menu lengkap",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Restoran Garuda",
+          "kategori": "Restoran",
+          "lokasi_text": "Padang",
+          "alasan_viral": "Beragam lauk khas Sumatera Barat",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "RM Fuja",
+          "kategori": "Restoran",
+          "lokasi_text": "Padang",
+          "alasan_viral": "Makanan khas Minang dengan beragam lauk",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Rumah Makan Pagi Sore",
+          "kategori": "Restoran",
+          "lokasi_text": "Padang",
+          "alasan_viral": "Rekomendasi tempat makan siang khas Padang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1539,
+      "places": [
+        {
+          "nama_tempat": "Lontong Kak Lin",
+          "kategori": "Restoran",
+          "lokasi_text": "Medan",
+          "alasan_viral": "Sarapan lontong sayur legendaris murah dan enak",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Mie Balap Mail",
+          "kategori": "Restoran",
+          "lokasi_text": "Medan",
+          "alasan_viral": "Warung mie balap legendaris sejak 2007",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1540,
+      "places": [
+        {
+          "nama_tempat": "Petite Terrasse",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Sei Betutu No. 66, Medan Selayang, Medan",
+          "alasan_viral": "Restoran fine dining romantis bernuansa Prancis",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Penthouse on 19th",
+          "kategori": "Restoran",
+          "lokasi_text": "Medan",
+          "alasan_viral": "Restoran semi rooftop lantai 19 dengan city lights dan live music",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1541,
+      "places": [
+        {
+          "nama_tempat": "Fantastic Cafe & Eatery",
+          "kategori": "Kafe",
+          "lokasi_text": "Medan",
+          "alasan_viral": "Kafe yang buka sejak pagi untuk WFC",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1542,
+      "places": [
+        {
+          "nama_tempat": "D'Heritage",
+          "kategori": "Kafe",
+          "lokasi_text": "Grand Cityhall Hotel, Jl. Balai Kota, Medan",
+          "alasan_viral": "Kafe di bangunan kolonial Balai Kota dengan Lontong Medan dan kopi Sidikalang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1543,
+      "places": [
+        {
+          "nama_tempat": "Depot Pard'y",
+          "kategori": "Restoran",
+          "lokasi_text": "Surabaya",
+          "alasan_viral": "Kwetiau Medan halal dari gerobak hingga viral dan jadi rujukan food vlogger",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1544,
+      "places": [
+        {
+          "nama_tempat": "Titik Koma Ayahanda",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Ayahanda No. 61, Medan",
+          "alasan_viral": "Kafe minimalis tenang cocok untuk kerja dan belajar",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Kaldera Toba",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Ayahanda No. 43B, Medan",
+          "alasan_viral": "Resto-cafe family friendly",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "VICI.CO",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Ayahanda, Medan",
+          "alasan_viral": "Kafe kecil berkarakter kuat dengan suasana calm",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1545,
+      "places": [
+        {
+          "nama_tempat": "The Thirty-Six",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Multatuli No. 36, Hamdan, Medan Maimun, Medan",
+          "alasan_viral": "Kafe estetik bernuansa hitam-putih dengan pastry",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Semeja",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Multatuli, Medan",
+          "alasan_viral": "Kafe modern warm lighting dengan area indoor dan outdoor",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1546,
+      "places": [
+        {
+          "nama_tempat": "Wooden Space",
+          "kategori": "Kafe",
+          "lokasi_text": "Medan",
+          "alasan_viral": "Kafe vintage rustic-modern dengan dominasi elemen kayu",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1547,
+      "places": [
+        {
+          "nama_tempat": "Vienna Botanical Living",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jalan Jamin Ginting Km 12, Medan Tuntungan, Medan",
+          "alasan_viral": "Taman bergaya Eropa yang sempat ramai diperbincangkan di media sosial",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Kampoeng Selfie",
+          "kategori": "lainnya",
+          "lokasi_text": "Medan Polonia, Medan",
+          "alasan_viral": "Spot foto gratis",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Taman Sri Deli",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Medan",
+          "alasan_viral": "Ruang terbuka yang cukup dikenal di Medan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1548,
+      "places": [
+        {
+          "nama_tempat": "Taiwan Travel Fair",
+          "kategori": "Pameran",
+          "lokasi_text": "PIK Avenue, Jakarta",
+          "alasan_viral": "Promosi pariwisata Taiwan bagi wisatawan Indonesia",
+          "indikasi_waktu": "30 April - 7 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1549,
+      "places": []
+    },
+    {
+      "article_id": 1550,
+      "places": [
+        {
+          "nama_tempat": "Maru Bake House",
+          "kategori": "Kafe",
+          "lokasi_text": "The Curves, Jl. T. Amir Hamzah No. 8CC, Sei Agul, Medan Barat, Medan",
+          "alasan_viral": "Kafe konsep gua yang ramai diperbincangkan di media sosial dengan Dubai Chewy Donut",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 1551,
+      "places": []
+    },
+    {
+      "article_id": 1552,
+      "places": [
+        {
+          "nama_tempat": "Pesona Colorful Medan",
+          "kategori": "Pameran",
+          "lokasi_text": "Lapangan Benteng, Medan",
+          "alasan_viral": "Perayaan HUT Kota Medan ke-436 dengan seni budaya, bazar UMKM dan rekor MURI kulcapi",
+          "indikasi_waktu": "4 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1553,
+      "places": []
+    },
+    {
+      "article_id": 1554,
+      "places": []
+    },
+    {
+      "article_id": 1555,
+      "places": []
+    },
+    {
+      "article_id": 1556,
+      "places": []
+    },
+    {
+      "article_id": 1557,
+      "places": []
+    },
+    {
+      "article_id": 1558,
+      "places": []
+    },
+    {
+      "article_id": 1559,
+      "places": []
+    }
+  ]
+}

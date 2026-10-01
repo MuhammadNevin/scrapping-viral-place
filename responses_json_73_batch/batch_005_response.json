@@ -1,0 +1,625 @@
+{
+  "results": [
+    {
+      "article_id": 120,
+      "places": []
+    },
+    {
+      "article_id": 121,
+      "places": [
+        {
+          "nama_tempat": "Ba Na Hills",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Vietnam",
+          "alasan_viral": "Kawasan wisata yang dirancang menarik perhatian wisatawan, pariwisata viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Monkey Mountain",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Vietnam",
+          "alasan_viral": "Habitat langur bercak merah yang semakin ramai dikunjungi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 122,
+      "places": [
+        {
+          "nama_tempat": "Kalipangus",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Perbatasan Desa Lerep dan Desa Kalisidi, Kecamatan Ungaran Barat, Kabupaten Semarang",
+          "alasan_viral": "Wisata alam dadakan viral, aliran air jernih dari lereng Gunung Ungaran, konten KKN viral",
+          "indikasi_waktu": "Tiga pekan terakhir sebelum 8 Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 123,
+      "places": [
+        {
+          "nama_tempat": "Lau Debuk-Debuk",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Karo, Sumatera Utara",
+          "alasan_viral": "Jadi sorotan publik karena dugaan pungli di beberapa pos (isu negatif)",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 124,
+      "places": [
+        {
+          "nama_tempat": "Bendungan Kampili",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Gowa, Sulawesi Selatan",
+          "alasan_viral": "Wisata viral karena bebatuan dan aliran air unik saat debit air turun, ramai diperbincangkan di medsos",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 125,
+      "places": [
+        {
+          "nama_tempat": "Wisata berkuda Pererenan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Pererenan, Kecamatan Mengwi, Badung, Bali",
+          "alasan_viral": "Viral karena dugaan eksploitasi kuda, kini berhenti beroperasi (isu negatif)",
+          "indikasi_waktu": "September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 126,
+      "places": [
+        {
+          "nama_tempat": "Glagah Sunset View (Pantai Glagah)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Sisi barat Pantai Glagah, Kulonprogo, Yogyakarta",
+          "alasan_viral": "Spot sunset viral di medsos, dongkrak PAD dan kunjungan",
+          "indikasi_waktu": "Januari-Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 127,
+      "places": []
+    },
+    {
+      "article_id": 128,
+      "places": [
+        {
+          "nama_tempat": "Bendung Karet Sungai Juana",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Bungasrejo, Kecamatan Jakenan, Kabupaten Pati",
+          "alasan_viral": "Wisata dadakan setelah viral sungai kering dan ribuan ikan terdampar, sunset",
+          "indikasi_waktu": "September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 129,
+      "places": [
+        {
+          "nama_tempat": "Raja Ampat",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Papua Barat Daya",
+          "alasan_viral": "Destinasi viral, gugusan pulau karst dan kekayaan bawah laut",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Labuan Bajo",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Nusa Tenggara Timur",
+          "alasan_viral": "Destinasi viral, gerbang Taman Nasional Komodo",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Nusa Penida (Pantai Kelingking)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Nusa Penida, Bali",
+          "alasan_viral": "Viral berkat tebing dramatis Pantai Kelingking",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Kawah Ijen",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Jawa Timur",
+          "alasan_viral": "Destinasi viral dengan fenomena blue fire",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Pulau Derawan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kalimantan Timur",
+          "alasan_viral": "Destinasi viral, laut jernih, berenang bersama penyu",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 130,
+      "places": [
+        {
+          "nama_tempat": "Candi Gedong Songo",
+          "kategori": "Museum",
+          "lokasi_text": "Kabupaten Semarang",
+          "alasan_viral": "Wisata sejarah dan alam yang disukai wisatawan luar kota",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 131,
+      "places": [
+        {
+          "nama_tempat": "Taman Safari Indonesia (Safari Water Park)",
+          "kategori": "Wahana",
+          "lokasi_text": "Bogor",
+          "alasan_viral": "Destinasi wisata keluarga hits di Bogor",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Kebun Raya Bogor",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Bogor",
+          "alasan_viral": "Disebut sebagai ilustrasi wisata Bogor",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 132,
+      "places": [
+        {
+          "nama_tempat": "Bukit Krisna",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kampung Yokiwa, Distrik Ebungfau, Kabupaten Jayapura, Papua",
+          "alasan_viral": "Viral di TikTok, panorama Danau Sentani dan savana",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 133,
+      "places": [
+        {
+          "nama_tempat": "Dataran Tinggi Dieng",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Wonosobo",
+          "alasan_viral": "Destinasi hits dengan Telaga Warna, Kawah Sikidang, Candi Arjuna",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Telaga Menjer",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Garung, Wonosobo",
+          "alasan_viral": "Danau alami dengan latar perbukitan hijau, lagi hits",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Bukit Sikunir",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kawasan Dieng, Wonosobo",
+          "alasan_viral": "Spot sunrise favorit",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Curug Silawe",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Wonosobo",
+          "alasan_viral": "Air terjun dengan suasana alami",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 134,
+      "places": [
+        {
+          "nama_tempat": "Pantai Mutun",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Lampung",
+          "alasan_viral": "Pantai pasir putih ombak tenang, banana boat dan snorkeling",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Danau Ranau",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Perbatasan Lampung dan Sumatera Selatan",
+          "alasan_viral": "Danau terbesar kedua di Sumatera dengan latar Gunung Seminung",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Air Terjun Putri Malu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Lampung Barat",
+          "alasan_viral": "Air terjun berbentuk unik seperti perempuan menunduk",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 135,
+      "places": [
+        {
+          "nama_tempat": "Song Wat",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bangkok, Thailand",
+          "alasan_viral": "Kawasan bersejarah yang viral, disebut Blok M-nya Bangkok",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "SkyFlyers Asiatique Bangkok",
+          "kategori": "Wahana",
+          "lokasi_text": "Asiatique The Riverfront, 2194 Charoenkrung Road, Wat Phraya Krai, Bang Kho Laem, Bangkok, Thailand",
+          "alasan_viral": "Ayunan raksasa tertinggi di Asia Pasifik 135 meter, tengah viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        },
+        {
+          "nama_tempat": "Dib Bangkok",
+          "kategori": "Museum",
+          "lokasi_text": "Bangkok, Thailand",
+          "alasan_viral": "Museum baru yang viral di Bangkok",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 136,
+      "places": [
+        {
+          "nama_tempat": "Taman wisata 22 hektar di Jl. Raya Puncak KM 77",
+          "kategori": "Wahana",
+          "lokasi_text": "Jl. Raya Puncak KM 77, Cilember, Cisarua, Bogor",
+          "alasan_viral": "Wahana permainan, drama musikal, spot foto estetik",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Minimania",
+          "kategori": "Wahana",
+          "lokasi_text": "Jl. Sentul Paradise Park, Bojong Koneng, Babakan Madang, Bogor",
+          "alasan_viral": "Miniatur landmark dunia dan skyride",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Sakura Park",
+          "kategori": "Wahana",
+          "lokasi_text": "Jl. Sentul Paradise Park, Bojong Koneng, Babakan Madang, Bogor",
+          "alasan_viral": "Wahana di kawasan Sentul Paradise Park",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Adventure Land",
+          "kategori": "Wahana",
+          "lokasi_text": "Jl. Sentul Paradise Park, Bojong Koneng, Babakan Madang, Bogor",
+          "alasan_viral": "Wahana di kawasan Sentul Paradise Park",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Lalay (restorasi bekas tambang)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bogor",
+          "alasan_viral": "Restorasi lahan bekas tambang ilegal menjadi destinasi kreatif",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "Melrimba",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bogor",
+          "alasan_viral": "Wisata balon udara premium",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 137,
+      "places": [
+        {
+          "nama_tempat": "Taman Bunga dan Kebun Edukasi",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Solo (Surakarta)",
+          "alasan_viral": "Tempat wisata baru yang viral, hamparan bunga dan kebun edukasi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Pasar Seni dan Kuliner Kekinian",
+          "kategori": "lainnya",
+          "lokasi_text": "Solo (Surakarta)",
+          "alasan_viral": "Wisata baru viral, karya seni dan kuliner tradisional gaya baru",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "Taman Wisata Alam Bukit Pandang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Solo (Surakarta)",
+          "alasan_viral": "Wisata baru viral, pemandangan kota dari ketinggian",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Museum Interaktif Budaya",
+          "kategori": "Museum",
+          "lokasi_text": "Solo (Surakarta)",
+          "alasan_viral": "Wisata baru viral, museum interaktif",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 138,
+      "places": [
+        {
+          "nama_tempat": "Ibarbo Park",
+          "kategori": "Wahana",
+          "lokasi_text": "Jogja",
+          "alasan_viral": "Destinasi wisata baru di Jogja",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 139,
+      "places": [
+        {
+          "nama_tempat": "Mikutopia Batu",
+          "kategori": "Wahana",
+          "lokasi_text": "Kota Batu, Malang Raya",
+          "alasan_viral": "Taman tematik negeri jamur yang viral di medsos, instagramable",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 140,
+      "places": [
+        {
+          "nama_tempat": "Canyoning Bogor",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bogor",
+          "alasan_viral": "Destinasi baru yang viral di kalangan muda, olahraga canyoning",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Curug Tebing",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bogor",
+          "alasan_viral": "Spot canyoning 16 meter untuk pemula",
+          "indikasi_waktu": "Dibuka Agustus 2024",
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Curug Ciampea",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Ciampea, Bogor",
+          "alasan_viral": "Spot canyoning 23 meter",
+          "indikasi_waktu": "Dibuka Januari 2025",
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Curug Bungsu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bogor",
+          "alasan_viral": "Spot canyoning terbaru 27 meter",
+          "indikasi_waktu": "Dibuka Oktober 2025",
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 141,
+      "places": [
+        {
+          "nama_tempat": "Goalpara Tea Park (GTP)",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Sukabumi",
+          "alasan_viral": "Spot paling viral di TikTok, rainbow slide dan ATV di kebun teh",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        },
+        {
+          "nama_tempat": "Situ Gunung Suspension Bridge",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Sukabumi",
+          "alasan_viral": "Jembatan gantung tengah hutan terpanjang di Asia Tenggara",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Wisata Alam OASIS Sukabumi",
+          "kategori": "Wahana",
+          "lokasi_text": "Sukabumi",
+          "alasan_viral": "Arsitektur bergaya Eropa, mini zoo, kolam renang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "UNESCO Global Geopark Ciletuh",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Sukabumi",
+          "alasan_viral": "Bukit batu purba, laut lepas, belasan air terjun",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Curug Cikaso",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Sukabumi",
+          "alasan_viral": "Air terjun tiga aliran dengan kolam hijau toska",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Wisata Bukit Baros",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Sukabumi",
+          "alasan_viral": "Glamping di hutan pinus",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 142,
+      "places": [
+        {
+          "nama_tempat": "Mikutopia",
+          "kategori": "Wahana",
+          "lokasi_text": "Kecamatan Bumiaji, Kota Batu",
+          "alasan_viral": "Viral karena insiden wahana Tiram diduga patah, pengunjung meninggal, dan isu Amdal (isu negatif)",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 143,
+      "places": [
+        {
+          "nama_tempat": "Museum Anti Stres",
+          "kategori": "Museum",
+          "lokasi_text": "Kota Shenzhen, China",
+          "alasan_viral": "Museum viral dengan instalasi seni nyeleneh menyindir tekanan hidup",
+          "indikasi_waktu": "Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 144,
+      "places": [
+        {
+          "nama_tempat": "Museum Terumbu Karang Indonesia",
+          "kategori": "Museum",
+          "lokasi_text": "Kawasan Demangan, Kota Yogyakarta",
+          "alasan_viral": "Museum gratis dan viral yang menyajikan pesona bawah laut",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 145,
+      "places": []
+    },
+    {
+      "article_id": 146,
+      "places": [
+        {
+          "nama_tempat": "Art Dialogue II",
+          "kategori": "Pameran",
+          "lokasi_text": "Galeri di Tasikmalaya",
+          "alasan_viral": "Antrean panjang sebelum galeri buka menjadi viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 147,
+      "places": []
+    },
+    {
+      "article_id": 148,
+      "places": []
+    },
+    {
+      "article_id": 149,
+      "places": []
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "results": [
+    {
+      "article_id": 1200,
+      "places": []
+    },
+    {
+      "article_id": 1201,
+      "places": []
+    },
+    {
+      "article_id": 1202,
+      "places": [
+        {
+          "nama_tempat": "Festival Budaya Lembah Baliem (FBLB) ke-34",
+          "kategori": "Pameran",
+          "lokasi_text": "Distrik Welesi, Kabupaten Jayawijaya, Papua Pegunungan",
+          "alasan_viral": "Penembakan warga sipil di pintu masuk festival (isu negatif)",
+          "indikasi_waktu": "8 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1203,
+      "places": [
+        {
+          "nama_tempat": "Pantai Apparalang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Ara, Kecamatan Bontobahari, Bulukumba",
+          "alasan_viral": "Dijuluki \"Raja Ampat-nya Bulukumba\" dengan tebing karang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1204,
+      "places": []
+    },
+    {
+      "article_id": 1205,
+      "places": []
+    },
+    {
+      "article_id": 1206,
+      "places": []
+    },
+    {
+      "article_id": 1207,
+      "places": []
+    },
+    {
+      "article_id": 1208,
+      "places": [
+        {
+          "nama_tempat": "Pasar Sentral Sanggeng",
+          "kategori": "lainnya",
+          "lokasi_text": "Manokwari, Papua Barat",
+          "alasan_viral": "Viral genangan air di lantai 2 gedung pasar PSN (isu negatif)",
+          "indikasi_waktu": "7 April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1209,
+      "places": [
+        {
+          "nama_tempat": "Festival Budaya Lembah Baliem 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Distrik Welesi, Jayawijaya",
+          "alasan_viral": "Top 10 Karisma Event Nusantara, video pengunjung panik akibat penembakan beredar (isu negatif)",
+          "indikasi_waktu": "7-8 Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1210,
+      "places": []
+    },
+    {
+      "article_id": 1211,
+      "places": []
+    },
+    {
+      "article_id": 1212,
+      "places": []
+    },
+    {
+      "article_id": 1213,
+      "places": [
+        {
+          "nama_tempat": "Museum Budaya Asmat",
+          "kategori": "Museum",
+          "lokasi_text": "Agats, Kabupaten Asmat, Papua Selatan",
+          "alasan_viral": "Dikunjungi Wapres",
+          "indikasi_waktu": "21 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Rumah Makan Anugerah Asmat",
+          "kategori": "Restoran",
+          "lokasi_text": "Agats, Kabupaten Asmat",
+          "alasan_viral": "Lokasi dialog Wapres dengan kepala kampung",
+          "indikasi_waktu": "21 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 1214,
+      "places": []
+    },
+    {
+      "article_id": 1215,
+      "places": []
+    },
+    {
+      "article_id": 1216,
+      "places": []
+    },
+    {
+      "article_id": 1217,
+      "places": []
+    },
+    {
+      "article_id": 1218,
+      "places": [
+        {
+          "nama_tempat": "Geotourism Festival (GeoFest) 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Waterfront City Pangururan, Samosir",
+          "alasan_viral": "Festival dengan Panggung Air Mancur Menari dan penampilan budaya",
+          "indikasi_waktu": "1-2 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Waterfront City Pangururan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Pangururan, Samosir",
+          "alasan_viral": "Kawasan tepi Danau Toba lokasi GeoFest",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1219,
+      "places": []
+    },
+    {
+      "article_id": 1220,
+      "places": [
+        {
+          "nama_tempat": "Kampung Yobeh",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Distrik Sentani, Kabupaten Jayapura",
+          "alasan_viral": "Dikunjungi 70 wisatawan mancanegara untuk atraksi budaya",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Festival Danau Sentani",
+          "kategori": "Pameran",
+          "lokasi_text": "Kabupaten Jayapura",
+          "alasan_viral": "Ajang pelestarian tarian dan budaya lokal",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1221,
+      "places": [
+        {
+          "nama_tempat": "Pabrik Cokelat Mansel",
+          "kategori": "lainnya",
+          "lokasi_text": "Distrik Ransiki, Manokwari Selatan",
+          "alasan_viral": "Pengolahan cokelat asli yang sudah ekspor",
+          "indikasi_waktu": "20 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        },
+        {
+          "nama_tempat": "Asmat Museum of Culture and Progress",
+          "kategori": "Museum",
+          "lokasi_text": "Agats, Kabupaten Asmat",
+          "alasan_viral": "Dijadwalkan dikunjungi Wapres",
+          "indikasi_waktu": "21 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1222,
+      "places": []
+    },
+    {
+      "article_id": 1223,
+      "places": [
+        {
+          "nama_tempat": "Dragon Kidz Play Ground",
+          "kategori": "Wahana",
+          "lokasi_text": "Kawasan wisata Pantai Ladang Tuha, Pasie Raja, Aceh Selatan",
+          "alasan_viral": "Lokasi yang disebut dalam kasus perampokan toko emas viral",
+          "indikasi_waktu": "18 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.3
+        }
+      ]
+    },
+    {
+      "article_id": 1224,
+      "places": []
+    },
+    {
+      "article_id": 1225,
+      "places": []
+    },
+    {
+      "article_id": 1226,
+      "places": []
+    },
+    {
+      "article_id": 1227,
+      "places": []
+    },
+    {
+      "article_id": 1228,
+      "places": []
+    },
+    {
+      "article_id": 1229,
+      "places": []
+    }
+  ]
+}

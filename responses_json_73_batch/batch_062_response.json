@@ -1,0 +1,385 @@
+{
+  "results": [
+    {
+      "article_id": 1830,
+      "places": []
+    },
+    {
+      "article_id": 1831,
+      "places": []
+    },
+    {
+      "article_id": 1832,
+      "places": []
+    },
+    {
+      "article_id": 1833,
+      "places": []
+    },
+    {
+      "article_id": 1834,
+      "places": [
+        {
+          "nama_tempat": "Jatim Park",
+          "kategori": "Wahana",
+          "lokasi_text": "Kota Batu, Malang",
+          "alasan_viral": "Destinasi populer dengan berbagai wahana dan area edukasi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Museum Angkut",
+          "kategori": "Museum",
+          "lokasi_text": "Kota Batu, Malang",
+          "alasan_viral": "Museum tematik koleksi kendaraan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Pantai Balekambang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Malang Selatan",
+          "alasan_viral": "Dikenal karena garis pantai dan pura di kawasan lautnya",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Taman Nasional Bromo Tengger Semeru",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bromo, Malang",
+          "alasan_viral": "Lanskap pegunungan, kawasan Penanjakan dan Lautan Pasir Bromo",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1835,
+      "places": [
+        {
+          "nama_tempat": "Piataland",
+          "kategori": "Wahana",
+          "lokasi_text": "Kota Malang",
+          "alasan_viral": "Wisata ramah anak dengan beragam wahana dan aktivitas seru",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1836,
+      "places": [
+        {
+          "nama_tempat": "Bromo Hillside",
+          "kategori": "Kafe",
+          "lokasi_text": "Jemplang, Kabupaten Malang",
+          "alasan_viral": "Kebakaran hutan Bromo mendekati kafe, pengunjung dievakuasi (isu negatif)",
+          "indikasi_waktu": "12 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Taman Nasional Bromo Tengger Semeru",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Bromo, Kabupaten Malang",
+          "alasan_viral": "Kebakaran hutan dan lahan meluas, akses wisata ditutup total (isu negatif)",
+          "indikasi_waktu": "12 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1837,
+      "places": [
+        {
+          "nama_tempat": "Coban Sewu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Malang",
+          "alasan_viral": "Destinasi unggulan dipromosikan ke pasar internasional di Travel Meet Asia 2026",
+          "indikasi_waktu": "23-24 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Gunung Bromo",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Malang",
+          "alasan_viral": "Destinasi ikonik Kabupaten Malang yang dipromosikan ke pasar internasional",
+          "indikasi_waktu": "23-24 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1838,
+      "places": [
+        {
+          "nama_tempat": "Lights Wonderland",
+          "kategori": "Pameran",
+          "lokasi_text": "GOR Ken Arok, Kota Malang",
+          "alasan_viral": "Festival 5 juta lampu estetik dengan laser interaktif, viral di media sosial",
+          "indikasi_waktu": "12 Juni - 19 Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 1839,
+      "places": [
+        {
+          "nama_tempat": "Kawasan Wisata Wediawu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Malang Selatan",
+          "alasan_viral": "Video penyerangan rombongan wisatawan Surabaya viral di media sosial (isu negatif)",
+          "indikasi_waktu": "5 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1840,
+      "places": []
+    },
+    {
+      "article_id": 1841,
+      "places": [
+        {
+          "nama_tempat": "Pantai Jolangkung",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Desa Gajahrejo, Kecamatan Gedangan, Kabupaten Malang",
+          "alasan_viral": "Pantai eksotis dengan benteng karang alami dan ratusan laguna, tiket murah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 1842,
+      "places": [
+        {
+          "nama_tempat": "Campground & Cottage Wediawu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Malang Selatan, Kabupaten Malang",
+          "alasan_viral": "Kericuhan dan perusakan saat gathering karyawan memicu perdebatan di ruang digital (isu negatif)",
+          "indikasi_waktu": "5 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1843,
+      "places": []
+    },
+    {
+      "article_id": 1844,
+      "places": []
+    },
+    {
+      "article_id": 1845,
+      "places": [
+        {
+          "nama_tempat": "Pantai Wediawu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Tirtoyudo, Kabupaten Malang",
+          "alasan_viral": "Insiden penyerangan wisatawan dan temuan narkotika memicu kecaman (isu negatif)",
+          "indikasi_waktu": "5 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1846,
+      "places": [
+        {
+          "nama_tempat": "Wisata Wendit Malang",
+          "kategori": "Wahana",
+          "lokasi_text": "Malang",
+          "alasan_viral": "Vendor CCTV memviralkan tunggakan pembayaran proyek oleh manajemen (isu negatif)",
+          "indikasi_waktu": "April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1847,
+      "places": []
+    },
+    {
+      "article_id": 1848,
+      "places": []
+    },
+    {
+      "article_id": 1849,
+      "places": []
+    },
+    {
+      "article_id": 1850,
+      "places": [
+        {
+          "nama_tempat": "Museum Mpu Purwa",
+          "kategori": "Museum",
+          "lokasi_text": "Kota Malang",
+          "alasan_viral": "Koleksi masa Hindu-Buddha dikenalkan lewat program Museum Keliling",
+          "indikasi_waktu": "2 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1851,
+      "places": [
+        {
+          "nama_tempat": "HAHA Donut & Coffe",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Kawi, Malang",
+          "alasan_viral": "Toko donat viral dengan varian donat gurih dan desain kafe estetik",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Yume Donut",
+          "kategori": "Kafe",
+          "lokasi_text": "Malang",
+          "alasan_viral": "Toko donat viral berbahan labu kuning yang super lembut",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Kanenakan Donat",
+          "kategori": "Kafe",
+          "lokasi_text": "Malang",
+          "alasan_viral": "Donat kentang premium viral karena topping melimpah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 1852,
+      "places": [
+        {
+          "nama_tempat": "Alun-alun Merdeka Malang",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Malang",
+          "alasan_viral": "Toko beroperasi di dalam toilet umum viral dan ditutup DLH (isu negatif)",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1853,
+      "places": [
+        {
+          "nama_tempat": "Kayutangan Heritage",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kauman, Kecamatan Klojen, Kota Malang",
+          "alasan_viral": "Kawasan heritage yang tengah jadi incaran anak muda dengan banyak toko pernak-pernik",
+          "indikasi_waktu": "18 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1854,
+      "places": [
+        {
+          "nama_tempat": "Malang Town Square (MATOS)",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Malang",
+          "alasan_viral": "Kembali viral karena disebut mall terkecil di dunia",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1855,
+      "places": []
+    },
+    {
+      "article_id": 1856,
+      "places": [
+        {
+          "nama_tempat": "Pasar Klojen",
+          "kategori": "Restoran",
+          "lokasi_text": "Kota Malang",
+          "alasan_viral": "Destinasi wisata kuliner dengan jajanan legend dan kekinian yang sedang viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Yogiyo Donut & Bomboloni",
+          "kategori": "Kafe",
+          "lokasi_text": "Pasar Klojen, Kota Malang",
+          "alasan_viral": "Donat empuk dan bomboloni dengan berbagai varian",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "HeHang Hoheng",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Klojen, Kota Malang",
+          "alasan_viral": "Pisang goreng gula aren murah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 1857,
+      "places": [
+        {
+          "nama_tempat": "Tendo Gyoza",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Klojen, Kota Malang",
+          "alasan_viral": "Gerai gyoza viral di media sosial dengan harga terjangkau",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1858,
+      "places": [
+        {
+          "nama_tempat": "Gultik Pojo",
+          "kategori": "Restoran",
+          "lokasi_text": "Kota Malang",
+          "alasan_viral": "Gulai tikungan khas Blok M yang tengah naik daun sebagai kuliner malam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 1859,
+      "places": []
+    }
+  ]
+}

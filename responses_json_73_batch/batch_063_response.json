@@ -1,0 +1,335 @@
+{
+  "results": [
+    {
+      "article_id": 1860,
+      "places": [
+        {
+          "nama_tempat": "Malang Strudel Bakehouse",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Soekarno-Hatta, Malang",
+          "alasan_viral": "Lini baru salt bread dan sourdough mengikuti tren roti viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 1861,
+      "places": []
+    },
+    {
+      "article_id": 1862,
+      "places": []
+    },
+    {
+      "article_id": 1863,
+      "places": [
+        {
+          "nama_tempat": "Bazaar Kuliner Pesta Rasa",
+          "kategori": "Pameran",
+          "lokasi_text": "Malang Town Square (Matos), Kota Malang",
+          "alasan_viral": "Bazaar 30+ tenant kuliner legendaris dan viral dari berbagai kota",
+          "indikasi_waktu": "29 April - 10 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1864,
+      "places": [
+        {
+          "nama_tempat": "Festival Genitri Tempo Doeloe",
+          "kategori": "Pameran",
+          "lokasi_text": "Jalan Pisang Candi Barat, Kelurahan Pisangcandi, Kecamatan Sukun, Kota Malang",
+          "alasan_viral": "Festival budaya tempo dulu ke-8 dengan kuliner tradisional, legendaris dan viral",
+          "indikasi_waktu": "7 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1865,
+      "places": [
+        {
+          "nama_tempat": "Anasera Batik Experience 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Bumi Kopi Malang",
+          "alasan_viral": "Workshop batik, sharing session dan content creation",
+          "indikasi_waktu": "9 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1866,
+      "places": []
+    },
+    {
+      "article_id": 1867,
+      "places": []
+    },
+    {
+      "article_id": 1868,
+      "places": []
+    },
+    {
+      "article_id": 1869,
+      "places": []
+    },
+    {
+      "article_id": 1870,
+      "places": [
+        {
+          "nama_tempat": "ESKQ Steakhouse & Wine Bar",
+          "kategori": "Restoran",
+          "lokasi_text": "Canggu, Kuta Utara, Badung, Bali",
+          "alasan_viral": "Steakhouse wood fire untuk perayaan keluarga dengan live jazz",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Warung Nasi Ayam Kedewatan Ibu Mangku",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Raya Kedewatan No.18, Kedewatan, Kec. Ubud, Kab. Gianyar, Bali",
+          "alasan_viral": "Warung legendaris sejak 1963 dengan nasi ayam kedewatan spesial",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1871,
+      "places": [
+        {
+          "nama_tempat": "Warung Nasi Tempong Bu Indra",
+          "kategori": "Restoran",
+          "lokasi_text": "Denpasar, Bali",
+          "alasan_viral": "Rekomendasi nasi tempong pedas autentik di Denpasar",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1872,
+      "places": [
+        {
+          "nama_tempat": "Gultik Mpok Ning",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Teuku Umar Barat, Denpasar",
+          "alasan_viral": "Gulai tikungan khas Blok M hadir di Denpasar, seporsi Rp13 ribu, antusias warga tinggi",
+          "indikasi_waktu": "7 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 1873,
+      "places": []
+    },
+    {
+      "article_id": 1874,
+      "places": [
+        {
+          "nama_tempat": "Pasar Malam Sindhu",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Pungutan No. 2, Sanur, Bali",
+          "alasan_viral": "Pasar malam kuliner lokal dengan sate ayam legendaris dan martabak",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Tandjung Sari",
+          "kategori": "Restoran",
+          "lokasi_text": "Sanur, Bali",
+          "alasan_viral": "Restoran di hotel butik bersejarah tepi pantai dengan nasi campur",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1875,
+      "places": []
+    },
+    {
+      "article_id": 1876,
+      "places": []
+    },
+    {
+      "article_id": 1877,
+      "places": [
+        {
+          "nama_tempat": "Kawasan Wisata Sanur",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Sanur, Kota Denpasar",
+          "alasan_viral": "Penataan kawasan wisata lanjutan oleh Pemkot Denpasar",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 1878,
+      "places": [
+        {
+          "nama_tempat": "Pantai Sidakarya",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Sidakarya, Denpasar, Bali",
+          "alasan_viral": "Destinasi baru yang tengah viral di media sosial, dikelola desa adat",
+          "indikasi_waktu": "April 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Pura Uluwatu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Badung, Bali",
+          "alasan_viral": "Pura di atas tebing dengan tari kecak berlatar matahari terbenam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Pantai Pandawa",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Badung, Bali",
+          "alasan_viral": "Pantai tersembunyi dengan tebing kapur menjulang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Pantai Padang-Padang",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Badung, Bali",
+          "alasan_viral": "Surga peselancar dengan lanskap tebing eksotis",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Tirta Empul",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Gianyar, Bali",
+          "alasan_viral": "Tempat pelukatan dengan mata air alami",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Air Terjun Tegenungan",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kabupaten Gianyar, Bali",
+          "alasan_viral": "DTW favorit wisatawan di Gianyar",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 1879,
+      "places": []
+    },
+    {
+      "article_id": 1880,
+      "places": []
+    },
+    {
+      "article_id": 1881,
+      "places": [
+        {
+          "nama_tempat": "Subak Sembung",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Denpasar, Bali",
+          "alasan_viral": "Kawasan ekowisata subak dengan jalur trekking dan sawah di tengah kota",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Subak Teba Majalangu",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Denpasar, Bali",
+          "alasan_viral": "Wisata edukasi pertanian tradisional sistem subak",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Subak Anggabaya",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Denpasar, Bali",
+          "alasan_viral": "Pengembangan konsep agrowisata subak",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1882,
+      "places": []
+    },
+    {
+      "article_id": 1883,
+      "places": [
+        {
+          "nama_tempat": "Food, Hotel and Tourism Bali (FHTB) 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Kabupaten Badung, Bali",
+          "alasan_viral": "Pameran kuliner dan pariwisata, promosi pertanian organik untuk wisata kuliner",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 1884,
+      "places": [
+        {
+          "nama_tempat": "Museum Geopark Batur",
+          "kategori": "Museum",
+          "lokasi_text": "Penelokan, Kecamatan Kintamani, Kabupaten Bangli",
+          "alasan_viral": "Video keributan dua remaja di depan museum viral di media sosial (isu negatif)",
+          "indikasi_waktu": "18 Juni 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 1885,
+      "places": []
+    },
+    {
+      "article_id": 1886,
+      "places": []
+    },
+    {
+      "article_id": 1887,
+      "places": []
+    },
+    {
+      "article_id": 1888,
+      "places": []
+    },
+    {
+      "article_id": 1889,
+      "places": []
+    }
+  ]
+}

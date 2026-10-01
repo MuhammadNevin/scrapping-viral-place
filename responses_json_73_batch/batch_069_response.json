@@ -1,0 +1,300 @@
+{
+  "results": [
+    {
+      "article_id": 2040,
+      "places": []
+    },
+    {
+      "article_id": 2041,
+      "places": [
+        {
+          "nama_tempat": "Le Gita Cakes",
+          "kategori": "Kafe",
+          "lokasi_text": "Pontianak",
+          "alasan_viral": "Toko kue legendaris sejak 1972, kue lapis dan kue kering dikirim hingga Jakarta",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 2042,
+      "places": []
+    },
+    {
+      "article_id": 2043,
+      "places": []
+    },
+    {
+      "article_id": 2044,
+      "places": [
+        {
+          "nama_tempat": "Bakso Lapangan Tembak",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Gerbang Pemuda No.1, Gelora, Tanah Abang, Jakarta Pusat",
+          "alasan_viral": "Kuliner bakso yang melekat dengan kawasan Senayan, harga terjangkau",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Sop Buntut Ibu Samino",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Tentara Pelajar No.22, Grogol Utara, Kebayoran Lama, Jakarta Selatan",
+          "alasan_viral": "Sop buntut favorit banyak orang dengan harga sekitar 20 ribuan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 2045,
+      "places": [
+        {
+          "nama_tempat": "Kapal Wisata Sapta Pesona",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Manado, Sulawesi Utara",
+          "alasan_viral": "Kapal wisata baru diluncurkan Dishub untuk tur wisata bahari Manado Bay hingga Bunaken",
+          "indikasi_waktu": "26 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 2046,
+      "places": []
+    },
+    {
+      "article_id": 2047,
+      "places": []
+    },
+    {
+      "article_id": 2048,
+      "places": [
+        {
+          "nama_tempat": "Manado Town Square",
+          "kategori": "lainnya",
+          "lokasi_text": "Kota Manado, Sulawesi Utara",
+          "alasan_viral": "Pria diduga ODGJ mengamuk menodongkan pisau ke pengunjung mal, video beredar di media sosial (isu negatif)",
+          "indikasi_waktu": "15 Juni 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 2049,
+      "places": []
+    },
+    {
+      "article_id": 2050,
+      "places": []
+    },
+    {
+      "article_id": 2051,
+      "places": []
+    },
+    {
+      "article_id": 2052,
+      "places": []
+    },
+    {
+      "article_id": 2053,
+      "places": []
+    },
+    {
+      "article_id": 2054,
+      "places": []
+    },
+    {
+      "article_id": 2055,
+      "places": []
+    },
+    {
+      "article_id": 2056,
+      "places": []
+    },
+    {
+      "article_id": 2057,
+      "places": []
+    },
+    {
+      "article_id": 2058,
+      "places": []
+    },
+    {
+      "article_id": 2059,
+      "places": [
+        {
+          "nama_tempat": "Teluk Manado",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Manado, Sulawesi Utara",
+          "alasan_viral": "Sunset Manado ramai dibagikan dan raih jutaan tayangan di media sosial",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Pulau Manado Tua",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Manado, Sulawesi Utara",
+          "alasan_viral": "Siluet pulau jadi latar ikonik sunset Manado yang diburu konten kreator",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        },
+        {
+          "nama_tempat": "Kawasan Megamas",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Manado, Sulawesi Utara",
+          "alasan_viral": "Spot festival musik pantai sambil menikmati sunset yang viral di media sosial",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Pohon Kasih",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Kota Manado, Sulawesi Utara",
+          "alasan_viral": "Spot festival musik pantai sambil menikmati sunset yang viral di media sosial",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 2060,
+      "places": [
+        {
+          "nama_tempat": "Warung Bunda",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Kelapa 2 Entrop, belakang Terminal Tipe A Entrop, Jayapura",
+          "alasan_viral": "Destinasi kuliner olahan ikan segar dengan tiga sambal sepuasnya",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 2061,
+      "places": []
+    },
+    {
+      "article_id": 2062,
+      "places": [
+        {
+          "nama_tempat": "Laoban Jayapura",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Amphibi 17 Hamadi, Jayapura",
+          "alasan_viral": "Resto konsep kopitiam baru dibuka dan langsung mencuri minat pecinta kuliner",
+          "indikasi_waktu": "Akhir April 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 2063,
+      "places": [
+        {
+          "nama_tempat": "Kusuka Cafe & Resto",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Kelapa 2 No 18, Entrop, Jayapura Selatan",
+          "alasan_viral": "Menawarkan laksa topping dory dan ebi furai serta ramen",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 2064,
+      "places": [
+        {
+          "nama_tempat": "The Roof Jayapura",
+          "kategori": "Restoran",
+          "lokasi_text": "Lantai 11 Front One Hotel, Ruko Pacific Permai Dok 2, Jayapura",
+          "alasan_viral": "Rooftop dengan pemandangan laut dan Pelabuhan Jayapura",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 2065,
+      "places": [
+        {
+          "nama_tempat": "You Need Mee Jayapura",
+          "kategori": "Restoran",
+          "lokasi_text": "Cibo-Land Entrop, samping Lapangan Trisila, Jayapura",
+          "alasan_viral": "Kuliner mie pedas yang sedang naik daun dengan harga terjangkau",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 2066,
+      "places": [
+        {
+          "nama_tempat": "One Cloud Coffee & Eatery",
+          "kategori": "Kafe",
+          "lokasi_text": "Jayapura",
+          "alasan_viral": "Kafe estetik instagramable favorit nongkrong anak muda, kontennya terus bermunculan di media sosial",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 2067,
+      "places": [
+        {
+          "nama_tempat": "Onigiri Babaibun",
+          "kategori": "Restoran",
+          "lokasi_text": "Doyo, dekat Polres Jayapura",
+          "alasan_viral": "UMKM kuliner Jepang halal dengan 11 varian onigiri",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 2068,
+      "places": [
+        {
+          "nama_tempat": "Rindu Alam Papua",
+          "kategori": "Restoran",
+          "lokasi_text": "Holtekamp, Distrik Muara Tami, Jayapura",
+          "alasan_viral": "Resto cafe konsep healing dengan lesehan di atas air sambil memberi makan ikan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 2069,
+      "places": [
+        {
+          "nama_tempat": "One Cloud Coffee & Eatery",
+          "kategori": "Kafe",
+          "lokasi_text": "Ciboland Entrop, samping Lapangan Trisila, Jayapura",
+          "alasan_viral": "Kafe aesthetic tempat nongkrong dan work from cafe yang mulai mencuri perhatian",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    }
+  ]
+}

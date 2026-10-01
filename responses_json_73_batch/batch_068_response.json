@@ -1,0 +1,297 @@
+{
+  "results": [
+    {
+      "article_id": 2010,
+      "places": [
+        {
+          "nama_tempat": "Kafe Ahmad",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Teuku Umar, Karang Asam Ulu, Kecamatan Sungai Kunjang, Samarinda",
+          "alasan_viral": "Video viral oknum TNI bersitegang dengan Kasatpol PP saat penertiban kafe diduga jual miras (isu negatif)",
+          "indikasi_waktu": "22 September 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 2011,
+      "places": []
+    },
+    {
+      "article_id": 2012,
+      "places": [
+        {
+          "nama_tempat": "Pasar Pagi Samarinda",
+          "kategori": "lainnya",
+          "lokasi_text": "Samarinda",
+          "alasan_viral": "Ucapan media busuk petugas keamanan pasar ke jurnalis ramai diperbincangkan di media sosial (isu negatif)",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 2013,
+      "places": [
+        {
+          "nama_tempat": "Pasar Pagi Samarinda",
+          "kategori": "lainnya",
+          "lokasi_text": "Samarinda",
+          "alasan_viral": "Video perseteruan petugas keamanan dengan jurnalis beredar di media sosial (isu negatif)",
+          "indikasi_waktu": "11 Agustus 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 2014,
+      "places": [
+        {
+          "nama_tempat": "Pasar Pagi Samarinda",
+          "kategori": "lainnya",
+          "lokasi_text": "Samarinda",
+          "alasan_viral": "Pedagang meluber ke koridor pasar sempat viral dan jadi sorotan publik (isu negatif)",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 2015,
+      "places": [
+        {
+          "nama_tempat": "Pasar Tungging",
+          "kategori": "lainnya",
+          "lokasi_text": "Jalan Bung Tomo, Samarinda Seberang, Samarinda",
+          "alasan_viral": "Pasar viral karena unik dan khas di tepi Sungai Mahakam, jadi destinasi wisata baru",
+          "indikasi_waktu": "Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Pasar Pagi Samarinda",
+          "kategori": "lainnya",
+          "lokasi_text": "Samarinda",
+          "alasan_viral": "Viral karena usai revitalisasi ratusan miliar masih sepi penjual dan pembeli (isu negatif)",
+          "indikasi_waktu": "Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Dacoffee",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Bung Tomo, Samarinda Seberang, Samarinda",
+          "alasan_viral": "Kawasan santai tempat anak muda nongkrong malam di tepi Sungai Mahakam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 2016,
+      "places": [
+        {
+          "nama_tempat": "Pasar Pagi Samarinda",
+          "kategori": "lainnya",
+          "lokasi_text": "Samarinda",
+          "alasan_viral": "Polemik petugas keamanan ucapkan media busuk ke reporter viral di media sosial berujung damai (isu negatif)",
+          "indikasi_waktu": "11 Agustus 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "article_id": 2017,
+      "places": []
+    },
+    {
+      "article_id": 2018,
+      "places": [
+        {
+          "nama_tempat": "Pasar Segiri",
+          "kategori": "lainnya",
+          "lokasi_text": "Samarinda",
+          "alasan_viral": "Video viral wanita diduga pencuri sayur diikat di tiang listrik oleh pedagang (isu negatif)",
+          "indikasi_waktu": "30 Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 2019,
+      "places": []
+    },
+    {
+      "article_id": 2020,
+      "places": []
+    },
+    {
+      "article_id": 2021,
+      "places": [
+        {
+          "nama_tempat": "Expo Wonder of Paser",
+          "kategori": "Pameran",
+          "lokasi_text": "Kabupaten Paser",
+          "alasan_viral": "Expo kuliner, cendera mata khas Paser, tari tradisional dan festival band pendukung Porprov Kaltim",
+          "indikasi_waktu": "14-27 November 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 2022,
+      "places": []
+    },
+    {
+      "article_id": 2023,
+      "places": []
+    },
+    {
+      "article_id": 2024,
+      "places": []
+    },
+    {
+      "article_id": 2025,
+      "places": []
+    },
+    {
+      "article_id": 2026,
+      "places": []
+    },
+    {
+      "article_id": 2027,
+      "places": []
+    },
+    {
+      "article_id": 2028,
+      "places": []
+    },
+    {
+      "article_id": 2029,
+      "places": []
+    },
+    {
+      "article_id": 2030,
+      "places": []
+    },
+    {
+      "article_id": 2031,
+      "places": []
+    },
+    {
+      "article_id": 2032,
+      "places": [
+        {
+          "nama_tempat": "Rumah Makan Gratis Habib",
+          "kategori": "Restoran",
+          "lokasi_text": "Pontianak",
+          "alasan_viral": "Dikenal lewat kegiatan makan gratis rutin untuk masyarakat, dikunjungi Wakil Kepala BGN",
+          "indikasi_waktu": "14 Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 2033,
+      "places": [
+        {
+          "nama_tempat": "Che Hun Tiau Ahien",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan WR Supratman, Pontianak",
+          "alasan_viral": "Minuman khas Pontianak che hun tiau dengan beragam topping",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Nasi Kari Kang Ho",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Haji Agus Salim Gang 1, Pontianak",
+          "alasan_viral": "Nasi kari berbumbu kuat ala street food di pinggir gang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Sate Kuah Sunda Rasa",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Haji Agus Salim Gang 1, Pontianak",
+          "alasan_viral": "Sate disajikan dengan kuah khas yang gurih",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "RM Puring Jaya",
+          "kategori": "Restoran",
+          "lokasi_text": "Jalan Khatulistiwa No. 8, Siantan, Pontianak",
+          "alasan_viral": "Rumah makan Padang harga ramah, buka 24 jam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 2034,
+      "places": []
+    },
+    {
+      "article_id": 2035,
+      "places": []
+    },
+    {
+      "article_id": 2036,
+      "places": []
+    },
+    {
+      "article_id": 2037,
+      "places": []
+    },
+    {
+      "article_id": 2038,
+      "places": []
+    },
+    {
+      "article_id": 2039,
+      "places": [
+        {
+          "nama_tempat": "La Gramma",
+          "kategori": "Kafe",
+          "lokasi_text": "Pontianak",
+          "alasan_viral": "Toko kue yang melayani lonjakan pesanan saat Imlek dan Lebaran",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        },
+        {
+          "nama_tempat": "Alfa Lim",
+          "kategori": "lainnya",
+          "lokasi_text": "Pontianak",
+          "alasan_viral": "Toko oleh-oleh khas Pontianak dengan banyak pesanan dari luar kota",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        },
+        {
+          "nama_tempat": "Toko Along",
+          "kategori": "lainnya",
+          "lokasi_text": "Pontianak",
+          "alasan_viral": "Toko oleh-oleh khas Pontianak yang produknya menjangkau berbagai wilayah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.45
+        }
+      ]
+    }
+  ]
+}

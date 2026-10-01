@@ -1,0 +1,443 @@
+{
+  "results": [
+    {
+      "article_id": 750,
+      "places": []
+    },
+    {
+      "article_id": 751,
+      "places": []
+    },
+    {
+      "article_id": 752,
+      "places": []
+    },
+    {
+      "article_id": 753,
+      "places": [
+        {
+          "nama_tempat": "Museum Mega Science Center dan Budaya",
+          "kategori": "Museum",
+          "lokasi_text": "Jatim Park 1, Kota Batu",
+          "alasan_viral": "Museum baru sains, robotika, AI, dan 1.023 artefak budaya tahap trial opening",
+          "indikasi_waktu": "16 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 754,
+      "places": [
+        {
+          "nama_tempat": "Museum Marsinah",
+          "kategori": "Museum",
+          "lokasi_text": "Desa Nglundo, Nganjuk, Jawa Timur",
+          "alasan_viral": "Museum perjuangan buruh yang akan diresmikan Presiden",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 755,
+      "places": [
+        {
+          "nama_tempat": "Museum Mega Science Center & Budaya",
+          "kategori": "Museum",
+          "lokasi_text": "Jatim Park 1, Kota Batu",
+          "alasan_viral": "Trial opening museum baru dengan zona sains, robotik, dan budaya",
+          "indikasi_waktu": "16 September 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 756,
+      "places": [
+        {
+          "nama_tempat": "Museum Marsinah",
+          "kategori": "Museum",
+          "lokasi_text": "Nganjuk, Jawa Timur",
+          "alasan_viral": "Diresmikan Presiden Prabowo",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 757,
+      "places": [
+        {
+          "nama_tempat": "Toko Emas UBS Pasar Atom",
+          "kategori": "lainnya",
+          "lokasi_text": "Pasar Atom, Surabaya",
+          "alasan_viral": "Kasus pencurian oleh cleaning service (isu negatif)",
+          "indikasi_waktu": "Mei-Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.3
+        }
+      ]
+    },
+    {
+      "article_id": 758,
+      "places": []
+    },
+    {
+      "article_id": 759,
+      "places": [
+        {
+          "nama_tempat": "The Beauty Shop (TBSS)",
+          "kategori": "lainnya",
+          "lokasi_text": "Jl. Sigura-Gura, Jl. Sulfat, dan Jl. Supriyadi, Malang",
+          "alasan_viral": "Toko kosmetik dengan skincare viral dan glam studio",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.4
+        },
+        {
+          "nama_tempat": "Mitufaya",
+          "kategori": "lainnya",
+          "lokasi_text": "Malang",
+          "alasan_viral": "Toko kosmetik favorit anak muda dengan produk viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "article_id": 760,
+      "places": [
+        {
+          "nama_tempat": "Pasar Jadul Tawun",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Taman Wisata Tawun, Desa Tawun, Kecamatan Kasreman, Ngawi",
+          "alasan_viral": "Pasar jadul yang viral, transaksi koin kayu setiap Minggu Legi",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Pasar Bandeng Gresik",
+          "kategori": "Pameran",
+          "lokasi_text": "Gresik",
+          "alasan_viral": "Pasar Ramadan tradisi budaya",
+          "indikasi_waktu": "Ramadan",
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 761,
+      "places": [
+        {
+          "nama_tempat": "Pasar Wage Grabagan",
+          "kategori": "lainnya",
+          "lokasi_text": "Kecamatan Grabagan, Kabupaten Tuban",
+          "alasan_viral": "Viral video penangkapan pengedar uang palsu (isu negatif)",
+          "indikasi_waktu": "2 Mei 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "article_id": 762,
+      "places": []
+    },
+    {
+      "article_id": 763,
+      "places": []
+    },
+    {
+      "article_id": 764,
+      "places": [
+        {
+          "nama_tempat": "Pasar Turen",
+          "kategori": "lainnya",
+          "lokasi_text": "Kabupaten Malang",
+          "alasan_viral": "Kebakaran pasar viral di media sosial (isu negatif)",
+          "indikasi_waktu": "13 Juli 2026",
+          "is_explicitly_viral": true,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 765,
+      "places": []
+    },
+    {
+      "article_id": 766,
+      "places": [
+        {
+          "nama_tempat": "Festival Inovasi Produk Daya Tarik Wisata (Pameran Kopi dan Ekraf 2026)",
+          "kategori": "Pameran",
+          "lokasi_text": "Lapangan Atletik Unesa, Surabaya",
+          "alasan_viral": "Festival UMKM kopi dan ekonomi kreatif",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 767,
+      "places": [
+        {
+          "nama_tempat": "Pameran Kopi dan Ekonomi Kreatif 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Gedung Internatio, Kota Lama Surabaya",
+          "alasan_viral": "Festival inovasi produk daya tarik wisata 20 tenant",
+          "indikasi_waktu": "23-24 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 768,
+      "places": [
+        {
+          "nama_tempat": "Festival Kuliner Warisan Rasa Asia (Jangkrik Kuliner)",
+          "kategori": "Pameran",
+          "lokasi_text": "Icon Mall Gresik",
+          "alasan_viral": "Festival kuliner skala nasional pertama di Gresik",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 769,
+      "places": [
+        {
+          "nama_tempat": "Dino Park Jatim Park 3",
+          "kategori": "Wahana",
+          "lokasi_text": "Kota Batu",
+          "alasan_viral": "Wahana edukatif dinosaurus dengan replika fosil",
+          "indikasi_waktu": "Libur sekolah 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 770,
+      "places": [
+        {
+          "nama_tempat": "Pameran Kopi dan Ekonomi Kreatif 2026",
+          "kategori": "Pameran",
+          "lokasi_text": "Ciputra World Surabaya",
+          "alasan_viral": "Festival edisi keempat dengan 30 tenant",
+          "indikasi_waktu": "10-12 Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 771,
+      "places": []
+    },
+    {
+      "article_id": 772,
+      "places": [
+        {
+          "nama_tempat": "Taman Safari Bali",
+          "kategori": "Wahana",
+          "lokasi_text": "Gianyar, Bali",
+          "alasan_viral": "Destinasi wisata margasatwa",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "article_id": 773,
+      "places": [
+        {
+          "nama_tempat": "Bale Udang",
+          "kategori": "Restoran",
+          "lokasi_text": "Bali",
+          "alasan_viral": "Seafood konsep saung di atas kolam, kuliner viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "GigiSusu",
+          "kategori": "Kafe",
+          "lokasi_text": "Canggu, Bali",
+          "alasan_viral": "Coffee shop populer spot foto favorit di media sosial",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Cloud Cakes Cafe",
+          "kategori": "Kafe",
+          "lokasi_text": "Bali",
+          "alasan_viral": "Jajanan yang menarik perhatian food vlogger",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 774,
+      "places": [
+        {
+          "nama_tempat": "Donat Kentang Renon",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Merdeka VIII No.8X, Panjer, Denpasar Selatan",
+          "alasan_viral": "Donat murah mulai Rp6.000",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Warung Mesari Bali",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Tukad Gangga No.33, Dauh Puri Klod, Denpasar Selatan",
+          "alasan_viral": "Kuliner murah nasi campur dan rujak",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Pasukan 36",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Gatot Subroto Timur No.268, Tonja, Denpasar Utara",
+          "alasan_viral": "Chicken steak murah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        },
+        {
+          "nama_tempat": "Bakmi Kien",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Tukad Sanghyang No.7c, Panjer, Denpasar Selatan",
+          "alasan_viral": "Bakmi ayam jamur murah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 775,
+      "places": [
+        {
+          "nama_tempat": "Loloan Coastal",
+          "kategori": "Restoran",
+          "lokasi_text": "Raffles Bali, Jalan Karang Mas Sejahtera 1A, Jimbaran",
+          "alasan_viral": "Restoran baru bercita rasa Peru",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Heydahl",
+          "kategori": "Restoran",
+          "lokasi_text": "Kaba-Kaba, Tabanan, Bali",
+          "alasan_viral": "Restoran baru berkonsep kacang-kacangan",
+          "indikasi_waktu": "Juli 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 776,
+      "places": [
+        {
+          "nama_tempat": "Uncle Pipin Chinese Food",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Dewi Sri II No.18, Legian, Kuta, Badung",
+          "alasan_viral": "Kuliner non halal khas Singkawang",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Majesty Burger",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Ganda Mayu No.4, Mengwi, Badung",
+          "alasan_viral": "Burger fusion",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        },
+        {
+          "nama_tempat": "Standar Lokal",
+          "kategori": "Restoran",
+          "lokasi_text": "Bali",
+          "alasan_viral": "Urutan babi khas Bali",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "article_id": 777,
+      "places": [
+        {
+          "nama_tempat": "Wok This Way",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Raya Canggu No.100, Pererenan, Mengwi, Badung",
+          "alasan_viral": "Restoran Chinese food baru",
+          "indikasi_waktu": "2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Bakmiku",
+          "kategori": "Restoran",
+          "lokasi_text": "Kuta, Bali",
+          "alasan_viral": "Warung bakmi terbaru",
+          "indikasi_waktu": "Mei 2026",
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 778,
+      "places": [
+        {
+          "nama_tempat": "Warung Mek Juwel",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Melati, Sayan, Ubud, Gianyar",
+          "alasan_viral": "Nasi campur murah dengan pemandangan sawah",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "article_id": 779,
+      "places": [
+        {
+          "nama_tempat": "Tuniang Bali",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Kemang Barat No.8, Jakarta Selatan",
+          "alasan_viral": "Nasi Bali halal resep keluarga",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        }
+      ]
+    }
+  ]
+}

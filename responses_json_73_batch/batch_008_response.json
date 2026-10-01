@@ -1,0 +1,361 @@
+{
+  "results": [
+    {
+      "article_id": 210,
+      "places": []
+    },
+    {
+      "article_id": 211,
+      "places": []
+    },
+    {
+      "article_id": 212,
+      "places": []
+    },
+    {
+      "article_id": 213,
+      "places": []
+    },
+    {
+      "article_id": 214,
+      "places": []
+    },
+    {
+      "article_id": 215,
+      "places": [
+        {
+          "nama_tempat": "Tiramisusu",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Anggrek No.48, Cihapit, Kecamatan Bandung Wetan, Kota Bandung",
+          "alasan_viral": "Oleh-oleh viral yang sering diburu, rela antre",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Accra Bakes",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Mandolin No.6, Turangga, Kecamatan Lengkong, Kota Bandung",
+          "alasan_viral": "Toko dessert rumahan drive thru, basque burnt cheesecake; masuk daftar oleh-oleh viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "article_id": 216,
+      "places": [
+        {
+          "nama_tempat": "Sepotong Warisan",
+          "kategori": "Kafe",
+          "lokasi_text": "Jalan Purnawarman, Bandung",
+          "alasan_viral": "Oleh-oleh viral Bandung, toko kue konsep tempo dulu, Kue Warisan bolu marmer",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 217,
+      "places": [
+        {
+          "nama_tempat": "Toko Roti Merak",
+          "kategori": "Kafe",
+          "lokasi_text": "Bandung",
+          "alasan_viral": "Oleh-oleh viral Bandung, antre hingga 3 jam",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "article_id": 218,
+      "places": []
+    },
+    {
+      "article_id": 219,
+      "places": []
+    },
+    {
+      "article_id": 220,
+      "places": []
+    },
+    {
+      "article_id": 221,
+      "places": []
+    },
+    {
+      "article_id": 222,
+      "places": []
+    },
+    {
+      "article_id": 223,
+      "places": []
+    },
+    {
+      "article_id": 224,
+      "places": []
+    },
+    {
+      "article_id": 225,
+      "places": [
+        {
+          "nama_tempat": "Blok M",
+          "kategori": "lainnya",
+          "lokasi_text": "Blok M, Jakarta Selatan",
+          "alasan_viral": "Kawasan naik daun, antrean mengular di toko makanan viral dan photobooth",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "EM Gelato",
+          "kategori": "Kafe",
+          "lokasi_text": "Blok M, Jakarta Selatan",
+          "alasan_viral": "Usaha kuliner di Blok M, strategi viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 226,
+      "places": []
+    },
+    {
+      "article_id": 227,
+      "places": [
+        {
+          "nama_tempat": "Kawasan Cihapit",
+          "kategori": "lainnya",
+          "lokasi_text": "Cihapit, Kec. Bandung Wetan, Kota Bandung",
+          "alasan_viral": "Kawasan naik daun dan viral, dijuluki Blok M-nya Bandung",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Pasar Cihapit",
+          "kategori": "lainnya",
+          "lokasi_text": "Jl. Cihapit Jl. Sabang No.32, Cihapit, Kec. Bandung Wetan, Kota Bandung",
+          "alasan_viral": "Surga kuliner hits dan viral, tempat sarapan",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.85
+        },
+        {
+          "nama_tempat": "Toko Bakmi Feng",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Cihapit, Kota Bandung",
+          "alasan_viral": "Tenant menarik di Pasar Cihapit",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Rama Ramen",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Cihapit, Kota Bandung",
+          "alasan_viral": "Tenant menarik di Pasar Cihapit",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Nasi Telur Sumber Rezeki",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Cihapit, Kota Bandung",
+          "alasan_viral": "Tenant menarik di Pasar Cihapit",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Baso Gepeng 99",
+          "kategori": "Restoran",
+          "lokasi_text": "Pasar Cihapit, Kota Bandung",
+          "alasan_viral": "Tenant menarik di Pasar Cihapit",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.65
+        },
+        {
+          "nama_tempat": "Toko Bubur Dibawah Pohon Rindang",
+          "kategori": "Restoran",
+          "lokasi_text": "Jl. Taman Cibeunying Utara No.24, Cihapit, Kec. Bandung Wetan, Kota Bandung",
+          "alasan_viral": "Tempat paling hits dan viral di Cihapit, antrean mengular setiap hari",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "article_id": 228,
+      "places": [
+        {
+          "nama_tempat": "Jakarta Fair (Pekan Raya Jakarta/PRJ)",
+          "kategori": "Pameran",
+          "lokasi_text": "Jakarta",
+          "alasan_viral": "Pameran tahunan dengan ratusan tenant dan barang viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 229,
+      "places": []
+    },
+    {
+      "article_id": 230,
+      "places": [
+        {
+          "nama_tempat": "Roti Unyil Venus",
+          "kategori": "Kafe",
+          "lokasi_text": "Ruko V Point, Jl. Raya Pajajaran No. 1, Bogor",
+          "alasan_viral": "Ikon oleh-oleh legendaris sejak 1992, selalu ramai antrean",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.8
+        },
+        {
+          "nama_tempat": "Lapis Bogor",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Raya Pajajaran No. 20i, Bogor",
+          "alasan_viral": "Pelopor bolu talas modern",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Strudel Bogor",
+          "kategori": "Kafe",
+          "lokasi_text": "Jl. Pajajaran No. 3F / No. 78K, Bogor",
+          "alasan_viral": "Pastry berlapis dengan isian lokal",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 231,
+      "places": [
+        {
+          "nama_tempat": "The Harvest Cakes",
+          "kategori": "Kafe",
+          "lokasi_text": "Jakarta Pusat",
+          "alasan_viral": "Cheesecake viral, banyak varian",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Kibo Cheese",
+          "kategori": "Kafe",
+          "lokasi_text": "Jakarta Pusat",
+          "alasan_viral": "Molten cheesecake yang unik, masuk daftar cheesecake viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Dapur Cokelat",
+          "kategori": "Kafe",
+          "lokasi_text": "Jakarta Pusat",
+          "alasan_viral": "Toko kue legendaris, masuk daftar cheesecake viral",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": true,
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "article_id": 232,
+      "places": []
+    },
+    {
+      "article_id": 233,
+      "places": [
+        {
+          "nama_tempat": "Pasar Beringharjo",
+          "kategori": "lainnya",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Pusat oleh-oleh legendaris yang selalu ramai",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.75
+        },
+        {
+          "nama_tempat": "Teras Malioboro",
+          "kategori": "lainnya",
+          "lokasi_text": "Yogyakarta",
+          "alasan_viral": "Tempat belanja oleh-oleh",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "article_id": 234,
+      "places": [
+        {
+          "nama_tempat": "Lombok",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Lombok, Nusa Tenggara Barat",
+          "alasan_viral": "Destinasi hidden gem dengan pertumbuhan menginap tercepat",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 235,
+      "places": []
+    },
+    {
+      "article_id": 236,
+      "places": [
+        {
+          "nama_tempat": "Pantai Senggigi",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Lombok, Nusa Tenggara Barat",
+          "alasan_viral": "Disebut sebagai tempat wisatawan menikmati sunset",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "article_id": 237,
+      "places": []
+    },
+    {
+      "article_id": 238,
+      "places": []
+    },
+    {
+      "article_id": 239,
+      "places": [
+        {
+          "nama_tempat": "Danau Kaco",
+          "kategori": "Wisata Alam",
+          "lokasi_text": "Taman Nasional Kerinci Seblat, Jambi",
+          "alasan_viral": "Hidden gem, air biru kristal yang tampak bercahaya di malam hari",
+          "indikasi_waktu": null,
+          "is_explicitly_viral": false,
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}
