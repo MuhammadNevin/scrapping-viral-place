@@ -1,0 +1,84 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "jenis_tempat": "subtipe lebih spesifik, mis. 'rooftop cafe', 'kuliner kaki lima', 'air terjun', 'taman hiburan', dst",
+          "lokasi": "lokasi mentah apa adanya sesuai artikel (alamat/nama jalan/area jika disebut)",
+          "keterangan": "ringkasan singkat ciri khas/daya tarik tempat ini (mis. menu andalan, konsep, fasilitas)",
+          "status_viral": "Disebut viral" (artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet) atau "Rekomendasi" (tempat hanya direkomendasikan/masuk daftar, tanpa disebut eksplisit viral),
+          "viral_sejak": "tanggal/bulan/periode eksplisit terkait mulai viral jika disebut, atau 'Tidak disebut' jika tidak ada",
+          "dasar_viral": "kutipan/alasan singkat dari artikel yang menjadi dasar kenapa tempat ini dianggap viral/direkomendasikan, atau null jika tidak ada dasar eksplisit",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "negara": "nama negara, default 'Indonesia' kecuali artikel jelas menyebut negara lain",
+          "latitude": angka desimal lintang jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "longitude": angka desimal bujur jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "presisi_koordinat": "exact" (alamat persis diketahui), "approximate" (hanya area/kecamatan/kota), atau "unknown" (tidak ada dasar koordinat),
+          "catatan_lokasi": "catatan tambahan soal lokasi, mis. ketidakpastian, patokan terdekat, atau null jika tidak ada"
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 4360
+Judul: Disparpora Balikpapan Yakin Kalender Event 2026 Mampu Dongkrak Sektor Pariwisata - KaltimKita.com
+Isi:
+Kadisparpora Balikpapan, dr. Ratih Kusuma 18 Juni 2026 503 kali dibaca Kaltimkita.com, BALIKPAPAN – Tantangan ekonomi yang masih dirasakan di berbagai sektor tidak menyurutkan optimisme Pemerintah Kota Balikpapan dalam mengembangkan sektor pariwisata. Melalui berbagai agenda kegiatan yang telah disusun sepanjang tahun 2026, Dinas Pariwisata, Pemuda, dan Olahraga (Disparpora) Kota Balikpapan yakin kunjungan wisatawan tetap dapat tumbuh dan memberikan dampak positif bagi perekonomian daerah. Kepala Disparpora Kota Balikpapan, Ratih Kusuma, mengakui kondisi ekonomi saat ini turut memengaruhi industri pariwisata. Dampak tersebut dirasakan oleh pelaku usaha perhotelan, penyelenggara kegiatan, hingga berbagai sektor pendukung yang bergantung pada aktivitas wisata dan mobilitas masyarakat. Meski demikian, menurut Ratih, sektor pariwisata masih memiliki peluang besar untuk terus berkembang apabila didukung dengan penyelenggaraan berbagai kegiatan yang mampu menarik kunjungan dari luar daerah. “Tentu ada dampaknya terhadap sektor pariwisata. Hotel, penyelenggara event, dan pelaku usaha lainnya juga merasakan tantangan ekonomi saat ini. Namun kami tetap optimistis dan terus berupaya menjaga pergerakan wisatawan yang datang ke Balikpapan,” ujarnya, Kamis (18/6/2026). Ratih menjelaskan, salah satu strategi yang terus diperkuat adalah menghadirkan berbagai event yang mampu menarik peserta maupun pengunjung dari berbagai daerah. Menurutnya, kegiatan berskala lokal, nasional, hingga internasional terbukti menjadi faktor penting dalam meningkatkan jumlah kunjungan wisatawan. Selain menghadirkan peserta, berbagai kegiatan tersebut juga memberikan efek berganda bagi perekonomian daerah. Kebutuhan akan akomodasi, transportasi, kuliner, hingga produk UMKM akan meningkat seiring bertambahnya jumlah tamu yang datang ke Balikpapan. “Peningkatan kunjungan wisatawan tentu didorong oleh adanya event-event, kegiatan MICE, pertukaran budaya, maupun berbagai kegiatan lainnya yang menghadirkan banyak orang ke Balikpapan,” katanya. Untuk mendukung target tersebut, Disparpora telah memasukkan sejumlah agenda besar ke dalam kalender kegiatan tahun 2026. Beberapa di antaranya merupakan event yang telah dikenal luas dan memiliki daya tarik tinggi bagi masyarakat maupun pelaku industri. Agenda tersebut meliputi kegiatan UMKM tingkat nasional yang akan mempertemukan pelaku usaha dari berbagai daerah di Indonesia, Balikpapan Fest yang menjadi salah satu agenda unggulan kota, hingga Indonesia International Motor Show (IIMS) yang dikenal sebagai ajang otomotif bergengsi di tingkat nasional. Selain sektor ekonomi kreatif dan pameran, kegiatan olahraga juga menjadi fokus dalam upaya meningkatkan kunjungan wisatawan. Salah satunya melalui penyelenggaraan turnamen bulu tangkis terbuka yang diperkirakan akan diikuti peserta dari berbagai wilayah di Indonesia. “Kami memiliki sejumlah agenda besar seperti kegiatan UMKM se-Indonesia, Balikpapan Fest, kemudian Indonesia International Motor Show
+
+
+### Artikel 4361
+Judul: 16 Rekomendasi Kopitiam di Samarinda yang Wajib Dicoba, Cocok buat Sarapan hingga Nongkrong - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Menikmati secangkir kopi di kopitiam kini menjadi salah satu pilihan masyarakat untuk mengawali hari maupun bersantai bersama...
+
+
+### Artikel 4362
+Judul: 10 Rekomendasi Guest House di Samarinda yang Nyaman untuk Liburan, Lokasi Strategis dan Fasilitas Lengkap - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Sedang mencari guest house di Samarinda untuk tempat menginap saat liburan? Selain menawarkan tarif yang umumnya lebih terjan...
+
+
+### Artikel 4363
+Judul: 12 Rekomendasi Cafe dengan View Sungai Mahakam di Samarinda, Ada yang Buka 24 Jam, Cocok buat Nongkrong Sambil Nikmati Sunset - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Tak hanya menawarkan kopi dan aneka makanan, sejumlah cafe di Samarinda juga menghadirkan panorama Sungai Mahakam yang memanj...
+
+
+### Artikel 4364
+Judul: 15 Rekomendasi Ayam Bakar dan Aneka Bakaran di Samarinda, Ada Ikan Bakar hingga Ayam Panggang Favorit - Arusbawah.co
+Isi:
+ARUSBAWAH.CO - Ayam bakar menjadi salah satu kuliner yang banyak digemari di Samarinda.Perpaduan daging ayam yang empuk, aroma khas hasil pembakaran,...
+
+
+### Artikel 4365
+Judul: 10 Rekomendasi Nasi Campur di Samarinda yang Enak, Lauknya Lengkap dan Bikin Nagih - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Samarinda tidak hanya dikenal dengan beragam kuliner khas Kalimantan, tetapi juga memiliki banyak warung nasi campur yang men...
+
+
+### Artikel 4366
+Judul: 7 Rekomendasi Ayam Geprek di Samarinda yang Wajib Dicoba, Sambalnya Bikin Nagih, Ada yang Buka 24 Jam! - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Ayam geprek menjadi salah satu kuliner favorit yang tidak pernah sepi penggemar.Perpaduan ayam goreng tepung yang renyah deng...
+
+
+### Artikel 4367
+Judul: Rekomendasi 10 Warung Tahu Tek-tek di Samarinda yang Bisa Dicoba, Rasanya Lezat dengan Harga Bersahabat - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Bagi pencinta kuliner malam, tahu tek-tek menjadi salah satu hidangan yang wajib dicoba saat berada di Samarinda.&nbsp;Tahu t...

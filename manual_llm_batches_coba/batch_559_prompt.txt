@@ -1,0 +1,84 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "jenis_tempat": "subtipe lebih spesifik, mis. 'rooftop cafe', 'kuliner kaki lima', 'air terjun', 'taman hiburan', dst",
+          "lokasi": "lokasi mentah apa adanya sesuai artikel (alamat/nama jalan/area jika disebut)",
+          "keterangan": "ringkasan singkat ciri khas/daya tarik tempat ini (mis. menu andalan, konsep, fasilitas)",
+          "status_viral": "Disebut viral" (artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet) atau "Rekomendasi" (tempat hanya direkomendasikan/masuk daftar, tanpa disebut eksplisit viral),
+          "viral_sejak": "tanggal/bulan/periode eksplisit terkait mulai viral jika disebut, atau 'Tidak disebut' jika tidak ada",
+          "dasar_viral": "kutipan/alasan singkat dari artikel yang menjadi dasar kenapa tempat ini dianggap viral/direkomendasikan, atau null jika tidak ada dasar eksplisit",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "negara": "nama negara, default 'Indonesia' kecuali artikel jelas menyebut negara lain",
+          "latitude": angka desimal lintang jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "longitude": angka desimal bujur jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "presisi_koordinat": "exact" (alamat persis diketahui), "approximate" (hanya area/kecamatan/kota), atau "unknown" (tidak ada dasar koordinat),
+          "catatan_lokasi": "catatan tambahan soal lokasi, mis. ketidakpastian, patokan terdekat, atau null jika tidak ada"
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 4464
+Judul: Viral Muda-mudi Nongkrong di Pinggir Jembatan Merah Jayapura, Abaikan Teguran Warga - Victory News - victorynews.id
+Isi:
+JAYAPURA, VICTORYNEWS - Viral di media sosial pasangan muda-mudi yang menghabiskan waktu Minggu pagi di tempat yang berbahaya. Dalam video yang diunggah akun Instagram @eliantiandi, ia menegur seorang pria dan perempuan karena duduk di tepi Jembatan Youtefa atau Jembatan Merah Holtekamp di Jayapura, Papua. Pemilik akun yang sedang bersepeda itu menegur pasangan tersebut karena duduk di bagian luar jembatan yang mengarah ke sungai. “Mas sama Mbak cari mati kah? Kenapa duduk di situ?” ucap pemilik akun dalam video yang diunggahnya pada Minggu 19 Juli 2026. Baca Juga: Tidak Sesuai Perjanjian, Peserta Pelatihan di Centra Efata Kupang Sampaikan Kekecewaan Sebelum akhirnya pasangan muda-mudi tersebut meninggalkan lokasi, rupanya sempat mengabaikan teguran hingga tiga kali. “Video tadi pagi viral, tegur baik tidak diindahkan, tegur ketiga kalinya pakai emosi baru orang berdua itu mendengar,” tulisnya. “Adik-adik berdua itu saya tegur sebelum kejadian, kalian terpeleset jatuh baru bikin susah orang banyak,” lanjutnya. Ingatkan Insiden Orang Terpeleset dari Jembatan Tak hanya menegur, perekam video juga mengingatkan tentang insiden sebelumnya yang menewaskan satu orang warga Kali Acai Jayapura usai terpeleset dari jembatan yang sama pada 14 Juli 2026 lalu. “Saya viralkan ini, baru minggu lalu ada yang meninggal di bawah. Macam tidak ada tempat tongkrongan lain,” tambahnya. Baca Juga: Kantor Dukcapil Manggarai Timur Tergenang Air Hujan, Pelayanan Administrasi Terganggu “Tidak pernah baca berita dan tidak pikir pakai logika kalau di situ tidak aman dan sudah banyak makan korban,” sambungnya. Video viral yang sudah diputar lebih dari satu juta kali itu juga banyak mendapat pujian dari warganet. Pasalnya, tak sedikit yang mengungkapkan kegeramannya karena menggunakan area berbahaya, Editor: Yance Jengamal
+
+
+### Artikel 4465
+Judul: Koffie Kitong, Nongkrong Nyaman dengan Fasilitas Air Mineral Gratis - RRI.co.id
+Isi:
+RRI.CO.ID, Jayapura - Koffie Kitong Jayapura, salah satu destinasi kuliner yang menarik perhatian, lantaran menyediakan air mineral gratis sepuasnya bagi pengunjung. Fasilitas ini menjadi nilai tambah, yang jarang ditemukan di kafe lain di Jayapura. Selain itu, kafe ini berhasil menarik perhatian masyarakat di Kota Jayapura. Berlokasi di kawasan strategis, yakni Jl Percetakan Negara, Gurabesi, Jayapura Utara yang mudah dijangkau oleh warga maupun wisatawan. Kafe ini menawarkan konsep tempat yang nyaman untuk berbagai aktivitas, mulai dari makan santai hingga bekerja dari kafe. Suasana yang tenang dan fasilitas memadai, menjadikannya pilihan tepat untuk work from cafe ( WFC). Salah satu daya tarik utama di tempat ini, adalah penyediaan air mineral gratis sepuasnya bagi pengunjung. Fasilitas ini menjadi nilai tambah yang jarang ditemukan di kafe lain di Jayapura. Dari segi menu, Koffie Kitong Jayapura menyajikan beragam pilihan mulai dari appetizer, main course , hingga dessert . Tidak hanya itu, pilihan minuman juga lengkap, baik kopi maupun non-kopi yang cocok untuk berbagai selera. Beberapa menu yang wajib dicoba, antara lain duck pancak e dengan harga sekitar Rp60.000 yang memiliki cita rasa khas. Selain itu, sup ikan Bali juga menjadi favorit dengan harga yang sama dan rasa yang segar. Untuk pecinta kopi, menu kopi susu Biak seharga Rp35.000 menjadi pilihan menarik dengan rasa yang autentik. Sementara itu, hidangan penutup seperti creme caramel seharga Rp40.000 cocok untuk melengkapi pengalaman kuliner. Kafe ini juga menawarkan paket WFC yang tersedia setiap hari Senin hingga Jumat, dengan harga yang terjangkau. Promo ini menjadi solusi bagi pekerja maupun mahasiswa, yang ingin tetap produktif di luar rumah. Informasi lebih lanjut terkait promo dan menu dapat diakses melalui akun Instagram resmi mereka di Instagram @koffiekitongjpr. Untuk kemudahan transaksi, Koffie Kitong Jayapura menyediakan metode pembayaran tunai, debit maupun QRIS. Memuat berita terbaru.....
+
+
+### Artikel 4466
+Judul: Kuliner Tradisional Nusantara Kue Putu Masih Ada dan Digemari di Jayapura - RRI.co.id
+Isi:
+RRI.CO.ID, Jayapura - Kue putu dikenal luas sebagai jajanan tradisional berbahan dasar tepung beras, diisi gula merah, kemudian dikukus dalam bambu. Setelah matang, kue tersebut ditaburi kelapa parut dan disajikan hangat, menghasilkan cita rasa manis gurih khas Nusantara. Kue Putu memiliki warna khas hijau yang berasal dari penggunaan daun pandan atau daun suji dalam adonannya. Lebih dari sekadar makanan, kue putu menjadi bagian identitas kuliner Nusantara serta mencerminkan budaya dan kearifan lokal turun-temurun. Hal tersebut diakui Pak Tasro, salah seorang penjual kue putu yang telah lama berjualan di Kota Jayapura. Pria lanjut usia tersebut, telah dikaruniai enam anak, tiga di antaranya berkeluarga. Ia mengakui sudah puluhan tahun menjual kue putu. Selain mencari nafkah bagi keluarga, Pak Tasro juga berupaya melestarikan budaya kuliner, khususnya kue putu, agar tetap dikenal. Baginya, berjualan kue putu bukan sekadar mencari penghasilan, tetapi juga menjaga warisan kuliner tradisional bagi generasi mendatang. “Awalnya saya berjualan menggunakan sepeda untuk keliling kompleks dan juga menyusuri depan jalan utama. Namun karena usia, sehingga saya berjualan parkir saja di tempat mengunakan gerobak. Walaupun saya sudah memasuki usia lansia, tapi saya bangga berjualan kue tradisional ini. Saya wariskan ke anak saya, jadi ada satu orang yang bisa membantu saya berjualan," katanya, Selasa. Kue putu memiliki daya tarik melalui bunyi khas menyerupai siulan uap panas, ketika proses pengukusan berlangsung di dalam bambu. Bunyi tersebut menjadi simbol, bahwa kue putu masih ada dan tetap digemari masyarakat Kota Jayapura hingga saat ini. Hal tersebut diakui Ibu Ani, salah seorang warga asli Papua yang mengaku hampir setiap hari membeli kue putu untuk keluarga. Menurutnya, Kue Putu menjadi jajanan favorit karena rasanya disukai seluruh anggota keluarga dan mudah ditemukan di sekitar tempat tinggalnya. “Kuenya enak sih. Terasa sekali di lidah perpaduan tepung beras dan gula merah, ditambah lagi parutan kelapa, jadi cocok sekali. Harganyapun merakyat. Pokoknya cocok dan enaklah, pas di lidah dan keluarga saya suka,” ucapnya. Kue Putu dinilai sebagai kue nostalgia karena bunyi khasnya saat dikukus menjadi daya tarik tersendiri bagi masyarakat Jayapura. Bunyi tersebut menjadi penanda bahwa Kue Putu masih tersedia dan dilestarikan Pak Tarso, penjual asal Jawa Tengah, Jayapura. Jadwal berjualannya mulai dari pukul 15.00 WIT hingga pukul 22.00 WIT. Memuat berita terbaru.....
+
+
+### Artikel 4467
+Judul: Jajanan Pasar Jayapura, Murah Meriah dan Tak Lekang oleh Waktu - RRI.co.id
+Isi:
+RRI.CO.ID, Jayapura - Klepon, gethuk, cenil, ongol-ongol masih setia menghiasi lapak-lapak disudut Kota Jayapura setiap malam. Harganya mulai Rp2.000 namun peminatnya tak pernah surut. Pedagang jajanan pasar Andi, sudah rutin menggelar lapak setiap malam sejak 2018 menjual cemilan murah dan mengenyangkan setelah seharian beraktivitas. "Sudah dari 2018 saya jualan disini dan buka setiap malam, pembeli datang terus dari anak muda sampai orang tua," ujarnya. Jajanan tradisional ini tetap menjadi pilihan utama warga karena harganya yang bersahabat. Dengan Rp10.000 pembeli bisa membawa pulang sekantong kue untuk dinikmati bersama keluarga. Usaha jajanan pasar seperti ini merupakan bagian dari geliat Usaha Mikro Kecil Menengah (UMKM) kuliner tradisional yang terus tumbuh di Jayapura. Dengan modal kecil dan tanpa bahan pengawet para pelaku UMKM ini mampu bertahan dan berkontribusi pada perputaran ekonomi lokal setiap harinya. Meski harga bahan baku terus naik, para pelaku UMKM jajanan pasar ini bertahan demi menjaga harga tetap terjangkau, bagi mereka usaha kecil ini bukan hanya sumber penghasilan tetapi juga cara melestarikan kuliner tradisional di tengah gempuran makanan modern. Memuat berita terbaru.....
+
+
+### Artikel 4468
+Judul: Cerita Pemain PSIS Ini, Tiba di Jayapura Malam Langsung Cari Nasi Kuning Mandra - Cepos Online
+Isi:
+Momen unik mewarnai kedatangan skuad PSIS Semarang jelang laga kontra Persipura Jayapura yang akan digelar di Stadion Lukas Enembe, Sabtu (18/4/2026) malam.
+
+
+### Artikel 4469
+Judul: Mengenal Aerocano, Sensasi Kopi Berbusa yang Sedang Naik Daun di Dunia Kopi - RRI.co.id
+Isi:
+RRI.CO.ID, Jayapura - Dunia kopi terus menghadirkan berbagai inovasi minuman yang menarik perhatian para pecinta kafein, salah satunya adalah aerocano. Minuman ini menjadi tren, karena menawarkan pengalaman menikmati kopi hitam dengan tekstur lembut tanpa tambahan susu. Melansir foodandwine.com, aerocano merupakan pengembangan iced americano. Yakni dibuat melalui aerasi atau pemasukan udara ke dalam campuran espresso dan air. Teknik tersebut, menghasilkan lapisan busa halus yang membuat tampilan kopi lebih menarik sekaligus memberikan sensasi minum yang berbeda. Meski hanya menggunakan espresso, air, dan es batu, aerocano memiliki karakter yang menyerupai nitro cold brew . Gelembung udara mikro yang terbentuk, menciptakan tekstur creamy. Inilah yang membuat kopi terasa lebih lembut ketika diminum, meskipun tidak mengandung susu maupun krimer. Proses pembuatannya, biasanya memanfaatkan steam wand mesin espresso untuk memasukkan udara ke dalam minuman tanpa membuatnya menjadi panas. Hasilnya, kopi dingin dengan busa tebal di atas dan gradasi warna cantik saat disajikan di dalam gelas bening. Selaim tampilannya yang estetik, proses aerasi juga membantu menghadirkan sensasi rasa yang lebih ringan dibandingkan iced Americano biasa. Banyak penikmat kopi menilai aerocano memiliki aftertaste yang lebih halus, sehingga cocok dinikmati tanpa tambahan gula. Popularitas aerocano semakin meningkat berkat media sosial yang dipenuhi video proses pembuatannya. Tampilan busa yang perlahan menyatu dengan espresso, menciptakan efek visual yang menarik. Minuman ini , juga kerap menjadi pilihan konten para barista maupun kreator kopi. Beberapa kedai kopi mulai memasukkan aerocano ke dalam menu, sebagai alternatif kopi hitam dengan karakter lebih lembut. C offee shop di Korea, memperkenalkan aerocano sebagai inovasi menu iced coffee yang menonjolkan tekstur creamy melalui teknik aerasi. Bagi pecinta kopi yang ingin menikmati cita rasa espresso dengan sensasi baru, aerocano layak untuk dicoba. Kehadirannya membuktikan, bahwa inovasi dalam dunia kopi tidak selalu membutuhkan banyak bahan. Tetapi juga dapat lahir dari teknik penyajian, yang mampu menghadirkan pengalaman minum yang berbeda. Memuat berita terbaru.....
+
+
+### Artikel 4470
+Judul: Dinas Pariwisata Kota Jayapura percepat pengembangan kampung wisata - ANTARA News
+Isi:
+Jayapura (ANTARA) - Dinas Pariwisata Kota Jayapura, Papua mempercepat pembangunan kawasan wisata di daerah menjadi desa wisata agar mampu memperluas sumber ekonomi baru bagi masyarakat setempat. "Saat ini kami sedang mempercepat pengembangan kawasan wisata menjadi kampung wisata termasuk di Kampung Kayo Pulau, Kampung Kayo Batu dan beberapa kampung di wilayah Skouw yang sedang didorong menjadi desa wisata," kata Pelaksana Tugas (Plt) Kepala Dinas Pariwisata Kota Jayapura Richard Nahumury di Jayapura, Rabu. Nahumury mengatakan, pelatihan terus dilakukan mencakup pelatihan tata kelola objek wisata bagi masyarakat lokal dan penguatan sinergi dengan kampung adat untuk menjaga nilai budaya yang bisa menjadi daya tarik wisata. "Jadi pengelola wisata kami latih dengan baik dan juga penataan kawasan wisata yang bertujuan meningkatkan daya tarik wisatawan sehingga memberikan dampak ekonomi langsung bagi masyarakat kampung," ujarnya. Pihaknya juga melibatkan masyarakat lokal dalam pengembangan sektor pariwisata agar dapat bersama-sama dengan pemerintah daerah dalam menata destinasi wisata di Kota Jayapura menjadi lebih baik dan para wisatawan merasa nyaman. "Jika Kota Jayapura aman dan destinasi wisata terus dikembangkan maka akan menarik lebih banyak pengunjung ke wilayah ini," katanya. Dia menambahkan tata kelola objek wisata berbasis masyarakat lokal juga penting guna meningkatkan kapasitas kelompok sadar wisata, Usaha Mikro Kecil dan Menengah (UMKM) lokal agar mampu mengelola destinasi wisata secara berkelanjutan. "Dengan demikian masyarakat lokal khususnya anak muda bisa berkontribusi lebih besar untuk mempromosikan setiap potensi wisata di kampung," ujarnya. Pewarta: Ardiles Leloltery Editor: Hanni Sofia Copyright © ANTARA 2026 Dilarang keras mengambil konten, melakukan crawling atau pengindeksan otomatis untuk AI di situs web ini tanpa izin tertulis dari Kantor Berita ANTARA. Kirim Komentar menjadi tanggung-jawab Anda sesuai UU ITE.
+
+
+### Artikel 4471
+Judul: Kapal Pesiar SH Minerva Tiba di Jayapura, Bea Cukai Optimalkan Pengawasan & Pelayanan - JPNN.com
+Isi:
+jpnn.com , JAYAPURA - Kedatangan kapal pesiar internasional SH Minerva di Pelabuhan Jayapura pada Rabu (15/4) menjadi bagian dari meningkatnya aktivitas wisata internasional di Papua. Kapal berbendera Liberia tersebut tiba setelah berlayar dari Madang, Papua Nugini, dan melintasi sejumlah destinasi wisata di Papua serta Papua Barat. Di balik kedatangan wisatawan mancanegara itu, terdapat proses pengawasan dan pelayanan kepabeanan yang disiapkan untuk memastikan perjalanan internasional berlangsung aman, tertib, dan sesuai ketentuan. Sejak kapal sandar, Bea Cukai Jayapura melakukan pengawasan menyeluruh melalui boatzoeking atau pemeriksaan fisik kapal, disertai penelitian dokumen terhadap sarana pengangkut dan barang bawaan. Pengawasan turut diperkuat dengan penggunaan mesin X-ray di Dermaga 1 Terminal Penumpang Jayapura. Pemanfaatan teknologi ini membantu proses pemeriksaan barang berjalan lebih cepat, akurat, dan transparan, sehingga pelayanan kepada penumpang dapat tetap optimal tanpa mengurangi aspek pengawasan. Berdasarkan hasil pemeriksaan, seluruh kondisi kapal dinyatakan sesuai dengan pemberitahuan pabean yang disampaikan. Petugas juga tidak menemukan indikasi penyelundupan narkotika, senjata, maupun barang berbahaya lainnya di bidang kepabeanan dan cukai. Silakan baca konten menarik lainnya dari JPNN.com di Google News

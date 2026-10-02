@@ -1,0 +1,84 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "jenis_tempat": "subtipe lebih spesifik, mis. 'rooftop cafe', 'kuliner kaki lima', 'air terjun', 'taman hiburan', dst",
+          "lokasi": "lokasi mentah apa adanya sesuai artikel (alamat/nama jalan/area jika disebut)",
+          "keterangan": "ringkasan singkat ciri khas/daya tarik tempat ini (mis. menu andalan, konsep, fasilitas)",
+          "status_viral": "Disebut viral" (artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet) atau "Rekomendasi" (tempat hanya direkomendasikan/masuk daftar, tanpa disebut eksplisit viral),
+          "viral_sejak": "tanggal/bulan/periode eksplisit terkait mulai viral jika disebut, atau 'Tidak disebut' jika tidak ada",
+          "dasar_viral": "kutipan/alasan singkat dari artikel yang menjadi dasar kenapa tempat ini dianggap viral/direkomendasikan, atau null jika tidak ada dasar eksplisit",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "negara": "nama negara, default 'Indonesia' kecuali artikel jelas menyebut negara lain",
+          "latitude": angka desimal lintang jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "longitude": angka desimal bujur jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "presisi_koordinat": "exact" (alamat persis diketahui), "approximate" (hanya area/kecamatan/kota), atau "unknown" (tidak ada dasar koordinat),
+          "catatan_lokasi": "catatan tambahan soal lokasi, mis. ketidakpastian, patokan terdekat, atau null jika tidak ada"
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 4480
+Judul: Cek Prakiraan Cuaca di Provinsi Papua Rabu 22 April 2026: Kota Jayapura, Biak, Waropen, Sarmi - TribunWow.com
+Isi:
+TRIBUNWOW.COM - Berikut ini prakiraan cuaca versi BMKG di Provinsi Papua untuk Kamis 23 April 2026, Kota Jayapura , Biak, Waropen, Sarmi dan lima wilayah lainnya. Dilansir TribunWow.com dari laman BMKG, sembilan wilayah di Provinsi Papua bakal mengalami cuaca berawan. Berikut rincian prakiraan cuaca di Provinsi Papua: Baca juga: Cek Prakiraan Cuaca di Provinsi Sumatera Barat Kamis 16 April 2026: Padang, Padang Pariaman, Pasaman Jayapura (Hujan Ringan, suhu 22-30 derajat C) Kepulauan Yapen (Berawan, suhu 22-27 derajat C) Biak Numfor (Berawan, suhu 23-29 derajat C) Sarmi (Cerah Berawan, suhu 21-29 derajat C) Keerom (Hujan Ringan, suhu 22-30 derajat C) Waropen (Hujan Ringan, suhu 21-29 derajat C) Supiori (Berawan, suhu 23-28 derajat C) Mamberamo Raya (Hujan Ringan, suhu 21-29 derajat C) Kota Jayapura (Berawan, suhu 23-29 derajat C). Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
+
+
+### Artikel 4481
+Judul: 9 Wilayah di Provinsi Papua Versi Prakiraan Cuaca BMKG Kamis 16 April 2026: Jayapura, Sarmi, Waropen - TribunWow.com
+Isi:
+TRIBUNWOW.COM - Berikut ini prakiraan cuaca versi BMKG di Provinsi Papua untuk Kamis 16 April 2026, Jayapura , Sarmi , Waropen. Dilansir TribunWow.com dari laman BMKG, empat dari sembilan wilayah di Provinsi Papua bakal mengalami hujan ringan. Termasuk dua wilayah besar di Provinsi Papua, Jayapura dan Kota Jayapura . Berikut rincian prakiraan cuaca di Provinsi Papua: Baca juga: Wajib Sedia Jas Hujan, 7 Wilayah di Papua Diprakirakan Hujan Rabu 22 Oktober 2025: Termasuk Jayapura Jayapura (Hujan Ringan, suhu 22-30 derajat C) Kepulauan Yapen (Berawan, suhu 22-29 derajat C) Biak Numfor (Berawan, suhu 24-29 derajat C) Sarmi (Hujan Ringan, suhu 23-28 derajat C) Keerom (Hujan Ringan, suhu 22-31 derajat C) Waropen (Cerah, suhu 21-31 derajat C) Supiori (Berawan, suhu 24-30 derajat C) Mamberamo Raya (Berawan, suhu 22-30 derajat C) Kota Jayapura (Hujan Ringan, suhu 23-30 derajat C). Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
+
+
+### Artikel 4482
+Judul: Prakiraan Cuaca BMKG di Provinsi Papua Minggu 2 Agustus 2026: Jayapura, Mamberamo Raya & Supiori - TribunWow.com
+Isi:
+TRIBUNWOW.COM - Berikut ini prakiraan cuaca versi BMKG di Provinsi Papua untuk Minggu 2 Agustus 2026. Dilansir TribunWow.com dari laman BMKG, sembilan wilayah di Provinsi Papua bakal mengalami cuaca cerah dan berawan. Lima wilayah bakal mengalami cuaca berawan termasuk Kota Jayapura. Empat wilayah lainnya bakal cerah termasuk Waropen dan Biak Numfor. Berikut rincian prakiraan cuaca di Provinsi Papua: Baca juga: Prakiraan Cuaca di Sumatera Utara Hari Ini Sabtu 1 Agustus 2026: Mayoritas Hujan Ringan Jayapura (Berawan, suhu 22-30 derajat C) Kepulauan Yapen (Berawan, suhu 21-26 derajat C) Biak Numfor (Cerah Berawan, suhu 24-28 derajat C) Sarmi (Cerah, suhu 22-30 derajat C) Keerom (Berawan, suhu 22-30 derajat C) Waropen (Cerah, suhu 21-30 derajat C) Supiori (Supiori, suhu 24-29 derajat C) Mamberamo Raya (Berawan, suhu 21-30 derajat C) Kota Jayapura (Berawan, suhu 23-31 derajat C). Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
+
+
+### Artikel 4483
+Judul: Cek Prakiraan Cuaca di Provinsi Papua Jumat 15 Mei 2026: Jayapura, Keerom, Biak, Waropen & Supiori - TribunWow.com
+Isi:
+TRIBUNWOW.COM - Cek berikut ini prakiraan cuaca versi BMKG di Provinsi Papua untuk Jumat 15 Mei 2026, Kota Jayapura , Keerom , Biak, Waropen dan Supiori . Dilansir TribunWow.com dari laman BMKG, sembilan wilayah di Provinsi Papua bakal alami cuaca berbeda-beda. Satu wilayah di Provinsi Papua bakal dirundung cuaca berawan. Satu lainnya bakal diguyur hujan sedang. Dan tujuh lainnya bakal sama diguyur hujan ringan. Berikut rincian prakiraan cuaca di Provinsi Papua: Jayapura (Hujan Ringan, suhu 23-31 derajat C) Kepulauan Yapen (Hujan Ringan, suhu 22-27 derajat C) Biak Numfor (Hujan Sedang, suhu 24-28 derajat C) Sarmi (Hujan Ringan, suhu 22-30 derajat C) Keerom (Hujan Ringan, suhu 22-31 derajat C) Waropen (Hujan Ringan, suhu 22-31 derajat C) Supiori (Hujan Ringan, suhu 23-27 derajat C) Mamberamo Raya (Hujan Ringan, suhu 22-30 derajat C) Kota Jayapura (Berawan, suhu 24-30 derajat C). Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
+
+
+### Artikel 4484
+Judul: Jadwal kapal laut rute Jakarta – Jayapura untuk Mei 2026 mulai dipadati kapal penumpang Pelni - Tanjung Pinang Today - Tanjung Pinang Today
+Isi:
+TANJUNGPINANG PIKIRAN RAKYAT – Jadwal kapal laut rute Jakarta – Jayapura untuk Mei 2026 resmi mulai terisi. Dua kapal andalan Pelni, KM Ciremai dan KM Gunung Dempo, dipastikan kembali melayani pelayaran panjang lintas Indonesia menuju Papua dengan waktu tempuh hampir sepekan. Baca Juga: Gempuran Kapal Pelni Mei 2026: Rute Jayapura–Sorong Padat, 6 Kapal Bolak-balik Tanpa Henti KM Ciremai menjadi kapal yang berangkat paling awal, yakni pada 17 Mei 2026. Tiga hari kemudian, KM Gunung Dempo menyusul membawa penumpang menuju Jayapura melalui sejumlah kota besar di Indonesia timur. Sementara itu, satu kapal lainnya, KM Dobonsolo, masih belum mengumumkan jadwal resmi. Padahal, kapal ini biasanya juga rutin melayani rute Jakarta – Jayapura hingga dua kali dalam sebulan. Baca Juga: 6 KAPAL PELNI SEKALIGUS RAMAIKAN RUTE SORONG – SURABAYA MEI 2026, PENUMPANG DIIMBAU SIAP-SIAP SERBU TIKET! Berikut jadwal lengkap kapal laut Jakarta – Jayapura Mei 2026: Keberangkatan: Minggu, 17 Mei 2026, pukul 08.00 WIB Tiba: Minggu, 24 Mei 2026, pukul 04.00 WIT Lama perjalanan: 6 hari 20 jam Harga tiket: Rp 1.285.000 Jakarta: 17 Mei 2026, 08.00 Surabaya: 18 Mei 2026, 07.00 – 11.00 Makassar: 19 Mei 2026, 13.00 – 17.00 Baubau: 20 Mei 2026, 07.00 – 10.00 Ambon: 21 Mei 2026, 09.00 – 12.00 Sorong: 22 Mei 2026, 08.00 – 11.00 Serui: 23 Mei 2026, 08.00 – 10.00 Jayapura: 24 Mei 2026, 04.00 Keberangkatan: Rabu, 20 Mei 2026, pukul 23.59 WIB Tiba: Rabu, 27 Mei 2026, pukul 17.00 WIT Lama perjalanan: 6 hari 17 jam 1 menit Harga tiket: Rp 1.285.000 Jakarta: 20 Mei 2026, 23.59 Surabaya: 21 Mei 2026, 23.00 – 22 Mei 2026, 03.00 Makassar: 23 Mei 2026, 05.00 – 09.00 Sorong: 25 Mei 2026, 11.00 – 14.00 Manokwari: 26 Mei 2026, 01.00 – 03.00 Wasior: 26 Mei 2026, 11.00 – 12.00 Nabire: 26 Mei 2026, 18.00 – 20.00 Jayapura: 27 Mei 2026, 17.00 Memasuki akhir Mei, KM Ciremai kembali dijadwalkan berlayar menuju Jayapura pada 31 Mei 2026 dan diperkirakan tiba 7 Juni 2026. Keberangkatan: Minggu, 31 Mei 2026, pukul 06.00 WIB Tiba: Minggu, 7 Juni 2026, pukul 02.00 WIT Lama perjalanan: 6 hari 20 jam Harga tiket: Rp 1.285.000 Jakarta: 31 Mei 2026, 06.00 Surabaya: 1 Juni 2026, 06.00 – 10.00 Makassar: 2 Juni 2026, 12.00 – 16.00 Baubau: 3 Juni 2026, 07.00 – 10.00 Ambon: 4 Juni 2026, 09.00 – 12.00 Sorong: 5 Juni 2026, 07.00 – 10.00 Serui: 6 Juni 2026, 07.00 – 09.00 Jayapura: 7 Juni 2026, 02.00 Sedangkan KM Gunung Dempo kembali berangkat pada 3 Juni 2026 dengan rute yang hampir sama. Keberangkatan: Rabu, 3 Juni 2026, pukul 23.59 WIB Tiba: Rabu, 10 Juni 2026, pukul 17.00 WIT Lama perjalanan: 6 hari 17 jam 1 menit Harga tiket: Rp 1.285.000 Jakarta: 3 Juni 2026, 23.59 Surabaya: 4 Juni 2026, 23.00 – 5 Juni 2026, 03.00 Makassar: 6 Juni 2026, 05.00 – 09.00 Sorong: 8 Juni 2026, 11.00 – 14.00 Manokwari: 9 Juni 2026, 01.00 – 03.00 Wasior: 9 Juni 2026, 11.00 – 12.00 Nabire: 9 Juni 2026, 18.00 – 20.00 Jayapura: 10 Juni 2026, 17.00 Calon penumpang diimbau tetap memantau perkembangan terbaru karena jadwal kapal Pelni bisa beruba
+
+
+### Artikel 4485
+Judul: 2 Wilayah Udara Kabur & Hujan Ringan di Provinsi Papua Versi Prakiraan Cuaca BMKG Kamis 9 April 2026 - TribunWow.com
+Isi:
+TRIBUNWOW.COM - Berikut ini prakiraan cuaca versi BMKG di Provinsi Papua untuk Rabu 7 April 2026, 4 wilayah cuaca tak bersahabat. Dilansir TribunWow.com dari laman BMKG, sembilan wilayah di Provinsi Papua dua di antaranya bakal dilanda hujan. Sementara dua wilayah lainnya di Provinsi Papua bakal udara kabur. Berikut rincian prakiraan cuaca di Provinsi Papua: Baca juga: Wajib Sedia Jas Hujan, 7 Wilayah di Papua Diprakirakan Hujan Rabu 22 Oktober 2025: Termasuk Jayapura Jayapura (Berawan, suhu 23-31 derajat C) Kepulauan Yapen (Udara Kabur, suhu 22-28 derajat C) Biak Numfor (Hujan Ringan, suhu 24-28 derajat C) Sarmi (Berawan, suhu 22-30 derajat C) Keerom (Berawan, suhu 22-30 derajat C) Waropen (Hujan Ringan, suhu 24-28 derajat C) Supiori (Berawan, suhu 24-28 derajat C) Mamberamo Raya (Udara Kabur, suhu 22-29 derajat C) Kota Jayapura (Berawan, suhu 24-31 derajat C). Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
+
+
+### Artikel 4486
+Judul: Dinas Pariwisata Jayapura Percepat Pengembangan Kampung Wisata Demi Ekonomi Warga - news.republika.co.id
+Isi:
+Dinas Pariwisata Kota Jayapura mempercepat pengembangan kawasan menjadi kampung wisata untuk menciptakan sumber ekonomi baru dan melibatkan masyarakat lokal dalam tata kelola destinasi. REPUBLIKA.CO.ID, JAYAPURA, – Dinas Pariwisata Kota Jayapura, Papua, tengah mempercepat pengembangan kawasan wisata menjadi kampung wisata untuk membuka sumber ekonomi baru bagi masyarakat setempat. Langkah strategis ini difokuskan pada sejumlah kampung yang dinilai memiliki potensi wisata unggulan. Pelaksana Tugas (Plt) Kepala Dinas Pariwisata Kota Jayapura, Richard Nahumury , di Jayapura, Rabu, menyatakan bahwa percepatan ini menyasar beberapa lokasi prioritas. "Saat ini kami sedang mempercepat pengembangan kawasan wisata menjadi kampung wisata termasuk di Kampung Kayo Pulau, Kampung Kayo Batu dan beberapa kampung di wilayah Skouw yang sedang didorong menjadi desa wisata," ujarnya. Nahumury menjelaskan bahwa program ini tidak hanya berfokus pada pembangunan fisik, tetapi juga peningkatan kapasitas sumber daya manusia. Pelatihan terus dilakukan mencakup tata kelola objek wisata bagi masyarakat lokal dan penguatan sinergi dengan kampung adat untuk menjaga nilai budaya yang bisa menjadi daya tarik wisata. "Jadi pengelola wisata kami latih dengan baik dan juga penataan kawasan wisata yang bertujuan meningkatkan daya tarik wisatawan sehingga memberikan dampak ekonomi langsung bagi masyarakat kampung," katanya menambahkan. Pemerintah daerah secara aktif melibatkan masyarakat lokal dalam pengembangan sektor pariwisata. Tujuannya adalah agar warga dapat bersama-sama dengan pemerintah menata destinasi wisata di Kota Jayapura menjadi lebih baik, sehingga para wisatawan merasa nyaman saat berkunjung. Richard Nahumury menekankan pentingnya rasa aman dan kenyamanan sebagai faktor kunci. "Jika Kota Jayapura aman dan destinasi wisata terus dikembangkan maka akan menarik lebih banyak pengunjung ke wilayah ini," tegasnya. Lebih lanjut, ia menambahkan bahwa tata kelola objek wisata berbasis masyarakat lokal sangat penting untuk meningkatkan kapasitas kelompok sadar wisata serta Usaha Mikro Kecil dan Menengah (UMKM) lokal. Hal ini diharapkan mampu membuat pengelolaan destinasi wisata berjalan secara berkelanjutan. "Dengan demikian masyarakat lokal khususnya anak muda bisa berkontribusi lebih besar untuk mempromosikan setiap potensi wisata di kampung," pungkasnya. Konten ini diolah dengan bantuan AI.
+
+
+### Artikel 4487
+Judul: Bupati Jayapura Presentasikan Pergelaran FDS Dan Potensi Pariwisata Lewat Audensi Dengan Wakil Menteri Pariwisata - Kilas Papua
+Isi:
+Kilaspapua, Jakarta – Bupati Jayapura, Dr. Yunus Wonda, S.H., M.H., mempresentasikan potensi pariwisata Kabupaten Jayapura dan Master Plan Pengembangan Wisata Bahari Khalkote di Distrik Sentani Timur dalam audiensi bersama Kementerian Pariwisata Republik Indonesia di Gedung Sapta Pesona, Kantor Pusat Kementerian Pariwisata, Jakarta Pusat, Senin (8/6/2026). Dalam audiensi tersebut, Bupati Jayapura didampingi Kepala Dinas Pariwisata Kabupaten Jayapura Elisa Yarusabra, S.Sos., M.PA., Konsultan Pariwisata Agus Jerri S. Aronggear, SST.Par., M.Par., serta Kepala Bagian Humas dan Protokol Setda Kabupaten Jayapura Michael Yewi, S.STP. Rombongan diterima langsung oleh Wakil Menteri Pariwisata Republik Indonesia, Ni Luh Enik Ernawati, S.E., bersama sejumlah Asisten Deputi yang membidangi pengembangan event daerah. Pada kesempatan itu, Bupati Yunus Wonda memaparkan visi pembangunan pariwisata Kabupaten Jayapura yang mengusung semangat “Kasih Mempersatukan Perbedaan, Mewujudkan Jayapura yang Aman, Nyaman, Mandiri, dan Berkeadilan.” Selain mempresentasikan pengembangan kawasan wisata bahari Khalkote, Bupati juga menjelaskan kesiapan Pemerintah Kabupaten Jayapura dalam menggelar kembali Festival Danau Sentani (FDS) 2026, yang merupakan salah satu event pariwisata nasional. Menurut Yunus Wonda, Festival Danau Sentani tidak diselenggarakan pada tahun 2025 karena bertepatan dengan masa awal kepemimpinannya yang baru dilantik, sehingga pemerintah daerah membutuhkan waktu untuk melakukan pembenahan dan persiapan yang lebih matang. “Kami belajar dari penyelenggaraan Festival Danau Sentani selama beberapa tahun terakhir. Setelah event selesai, aktivitas di lokasi juga berhenti. Tahun ini kami ingin mengubah pola itu dengan membangun kawasan festival menjadi pusat kegiatan ekonomi dan wisata yang berkelanjutan,” kata Yunus Wonda. Ia menjelaskan, kawasan Festival Danau Sentani saat ini sedang ditata ulang dan dikembangkan menjadi lokasi permanen yang dapat digunakan sebagai pusat kuliner khas Papua, sentra UMKM, serta lokasi berbagai kegiatan budaya sepanjang tahun. Pemerintah Kabupaten Jayapura juga akan melibatkan kabupaten-kabupaten tetangga seperti Kabupaten Sarmi, Kota Jayapura, dan Kabupaten Keerom untuk membuka stand UMKM pada pelaksanaan festival tahun ini. Bahkan sejumlah kabupaten di wilayah Papua Pegunungan telah menyampaikan minat untuk turut berpartisipasi. Bupati menyampaikan bahwa rangkaian pra-event Festival Danau Sentani akan dimulai pada minggu ketiga Juli 2026 dengan melibatkan seluruh distrik di Kabupaten Jayapura untuk menampilkan kekayaan budaya masing-masing. Puncak festival direncanakan berlangsung pada 3 hingga 5 Agustus 2026. Menariknya, jadwal festival tahun ini sengaja diselaraskan dengan pelaksanaan Festival Lembah Baliem di Wamena agar wisatawan dapat melanjutkan perjalanan wisata dari Sentani menuju Wamena. “Kami ingin wisatawan yang datang ke Sentani dapat melanjutkan perjalanan ke Wamena. Dengan demikian, kunjungan wisata tidak terputus

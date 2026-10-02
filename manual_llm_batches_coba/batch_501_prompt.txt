@@ -1,0 +1,86 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "jenis_tempat": "subtipe lebih spesifik, mis. 'rooftop cafe', 'kuliner kaki lima', 'air terjun', 'taman hiburan', dst",
+          "lokasi": "lokasi mentah apa adanya sesuai artikel (alamat/nama jalan/area jika disebut)",
+          "keterangan": "ringkasan singkat ciri khas/daya tarik tempat ini (mis. menu andalan, konsep, fasilitas)",
+          "status_viral": "Disebut viral" (artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet) atau "Rekomendasi" (tempat hanya direkomendasikan/masuk daftar, tanpa disebut eksplisit viral),
+          "viral_sejak": "tanggal/bulan/periode eksplisit terkait mulai viral jika disebut, atau 'Tidak disebut' jika tidak ada",
+          "dasar_viral": "kutipan/alasan singkat dari artikel yang menjadi dasar kenapa tempat ini dianggap viral/direkomendasikan, atau null jika tidak ada dasar eksplisit",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "negara": "nama negara, default 'Indonesia' kecuali artikel jelas menyebut negara lain",
+          "latitude": angka desimal lintang jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "longitude": angka desimal bujur jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "presisi_koordinat": "exact" (alamat persis diketahui), "approximate" (hanya area/kecamatan/kota), atau "unknown" (tidak ada dasar koordinat),
+          "catatan_lokasi": "catatan tambahan soal lokasi, mis. ketidakpastian, patokan terdekat, atau null jika tidak ada"
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 4000
+Judul: Tokio O! Hadirkan Menu Niku Don dengan Tiga Varian Rasa, Inovasi Kuliner Jepang di Kota Malang - ketik.com
+Isi:
+29 September 2026 13:04 29 Sep 2026 13:04 Tokio O! Malang meluncurkan menu baru "Niku Don" dengan tiga macam varian rasa. (Foto: Tokio O! Malang) KETIK, MALANG – Tokio O! kembali menghadirkan menu baru dengan berjuta sensasi dengan inovasi kuliner Jepang berupa "Niku Don", sebuah hidangan dengan bahan dasar irisan daging sapi dipadukan dengan saus yang menciptakan sensasi meleleh di mulut. Menu ini juga disajikan dengan berbagai toping yang menciptakan cita rasa gurih, lezat, dan menggugah selera di setiap gigitannya. Menu baru ini resmi launching pada 26 September 2026 dengan tiga pilihan rasa, yakni Original, Jigoku, dan Truffle. Pengunjung dapat memilih rasa yang sesuai dengan lidahnya. Tentunya masing-masing rasa memiliki cita rasa sendiri-sendiri. Niku Don Original menghadirkan cita rasa gurih dan savory dari irisan daging sapi yang dipadukan dengan saus khas dari Tokio O!. Varian rasa ini cocok bagi pelanggan yang ingin menikmati rasa asli dari menu baru Niku Don. Niku Don Jigoku menjadi sajian yang cocok bagi para pecinta pedas. Pasalnya sajian ini menghadirkan sensasi yang lebih berani membakar lidah. Varian ini dilengkapi dengan sambal dan saus yang memberikan perpaduan rasa gurih, pedas, dan juga kenikmatan di setiap suapan. Sajian lebih premium akan menciptakan pengalaman bersantap yang mengesankan. Niku Don Truffle menyajikan sajian irisan daging sapi yang diberikan saus truffle gurih dan nikmat dengan aroma khas yang memberikan sensasi istimewa ketika menyantapnya. Selain menu baru yang spesial, Tokio O! juga memperkenalkan menu Niku Don dengan Demo Masak Niku Don secara langsung. Kegiatan ini dihadiri oleh para KOL dan Customer. Mereka tidak hanya sekadar mencicipi, namun juga mendapatkan gambaran proses pembuatan secara lebih dalam dari masing-masing varian Niku Don. Melalui peluncuran menu Niku Don, Tokio O! berkomitmen untuk menjadi restoran ala Jepang yang terus mengeluarkan inovasi terbarunya dalam menyajikan sajian makanan khas negara sakura.(*) Jurnalis Ketik di
+                                            Malang Editor Ketik di
+                                            Malang
+
+
+### Artikel 4001
+Judul: 5 Birthday Treat Restoran di Malang 2026, Ada Sushi Cake hingga Mie Gratis - malang.disway.id - Disway Malang
+Isi:
+Secara umum, pelanggan perlu membawa KTP atau identitas resmi yang menunjukkan tanggal lahir. Beberapa restoran juga mensyaratkan pembelian minimal satu menu, sedangkan periode klaim bisa berbeda, mulai dari hari-H hingga beberapa hari setelah ulang tahun. BACA JUGA: Aston Malang Bawa 60 Seconds to Tokyo ke UM, Kuliner Jepang Hadir di MIICEMA 2026 Untuk Sushi Tei, Ta Wan, Ichiban Sushi dan D'Cost, informasi promo 2026 menunjukkan adanya birthday treat, tetapi detail seperti periode, jenis menu, syarat transaksi dan keanggotaan dapat berubah. Karena itu, sebelum berangkat, calon pengguna promo sebaiknya mengecek kembali ketentuan terbaru melalui outlet atau kanal resmi restoran. Langkah ini penting agar tidak datang dengan mengandalkan informasi promo lama. Pilihan Birthday Treat di Malang Dengan beberapa pilihan tersebut, warga maupun wisatawan yang sedang berada di Kota Malang dapat merayakan ulang tahun sambil mencoba menu gratis dari restoran yang ikut menyediakan program birthday treat. Mulai dari sushi cake, mie ulang tahun hingga spaghetti bolognese, pilihan hadiahnya cukup beragam. Yang terpenting, pastikan membawa identitas dan memahami syarat promo sebelum melakukan pemesanan. © 2026. All Right Reserved.
+
+
+### Artikel 4002
+Judul: Harga Penyediaan Makanan dan Minuman / Restoran di Kota Malang Naik 0,61% - Databoks
+Isi:
+Hubungi KIC untuk permintaan data, riset, dan analisis. Hubungi sekarang » Harga-harga komponen penyumbang inflasi jasa pelayanan makanan dan minuman di Kota Malang pada April sebesar 0,61%. Angka ini lebih tinggi dibandingkan bulan sebelumnya yang tercatat 0,19%. Di antara 10 kelompok inflasi yang diukur di daerah ini, kelompok penyediaan makanan dan minuman per  restoran menyumbang 0,61% inflasi di Kota Malang. (Baca: Jumlah Penduduk dan Persentase Kemiskinan di Kota Cilegon | 2004 - 2025 ) Badan Pusat Statistik (BPS) melaporkan indeks harga konsumen (IHK) penyediaan makanan dan minuman per  restoran di Kota Malang berada di level 106,27 pada April 2026, lebih tinggi dibanding bulan sebelumnya yang tercatat 105,63. Bila dibandingkan dengan bulan yang sama tahun lalu, inflasi penyediaan makanan dan minuman per  restoran telah mencapai 1,61% ( year on year/yoy ). Sementara jika dibandingkan dengan posisi awal tahun, harga-harga komponen penyumbang inflasi di Kota Malang telah mengalami pertumbuhan 0,98% ( year to date/ytd ). Hasil survei BPS, data per April 2026, 11 kelompok inflasi ini berada di urutan 2.5 di bandingkan sub kelompok lainnya. (Baca: Inflasi Kesehatan di Kota Malang Bulan April Sebesar 0,18% ) Berikut ini inflasi subkelompok penyediaan makanan dan minuman per  restoran yang di ukur BPS per April di Kota Malang : Dibandingkan dengan 115 kabupaten/kota lain, inflasi penyediaan makanan dan minuman per  restoran tertinggi terjadi di Indonesia sebesar 0,69% dengan IHK sebesar 109.54 dan terendah terjadi di Kabupaten Nunukan sebesar 1,58% dengan IHK sebesar 124.37. Sementara untuk Kota Malang ini menempati urutan 62. Inflasi (umum) bulan Maret 2025 di tingkat nasional sebesar 1,65% naik dari bulan sebelumnya ( month to month/m-to-m ). Jika dibandingkan dengan posisi awal tahun, inflasi umum nasional telah mencapai 1,22% (ytd) dan jika dibandingkan dengan posisi April 2025, telah terjadi inflasi sebesar 2,42% (yoy). Hubungi KIC untuk permintaan data, riset, dan analisis. Hubungi sekarang »
+
+
+### Artikel 4003
+Judul: Cukup Tunjukkan KTP! Ini 8 Restoran di Malang yang Bagi-Bagi Makanan Gratis saat Kamu Ulang Tahun - radarmalang.jawapos.com
+Isi:
+Rayakan ulang tahun tanpa bikin dompet menipis. Simak 8 restoran dan kafe di Malang yang menawarkan birthday treat berupa makanan dan minuman gratis untuk pelanggan yang sedang berulang tahun.
+
+
+### Artikel 4004
+Judul: Jadi Favorit Semua Kalangan! Ini 5 Restoran Korea yang Wajib Dicoba di Malang - radarmalang.jawapos.com
+Isi:
+Tak perlu jauh-jauh ke Seoul, berbagai restoran Korea di Malang siap memanjakan pencinta drakor dan K-Pop. Mulai dari Korean BBQ hingga tteokbokki, semuanya bisa dinikmati tanpa meninggalkan Kota Malang.
+
+
+### Artikel 4005
+Judul: Rayakan Kelulusan Bersama Orang Tersayang! Ini Tempat Makan yang Cocok untuk Merayakan Wisuda di Malang - radarmalang.jawapos.com
+Isi:
+Setelah mengenakan toga dan mengabadikan momen bersama keluarga, saatnya merayakan kelulusan dengan makan bersama. Deretan tempat makan di Malang ini bisa menjadi pilihan untuk menciptakan momen hangat bersama.
+
+
+### Artikel 4006
+Judul: Bukan Cuma Enak, Dua Kuliner Ayam di Malang Ini Juga Ramah di Kantong - radarmalang.jawapos.com
+Isi:
+Lagi cari ayam geprek murah di Malang? D’Keprek dan Preksu Suhat bisa jadi pilihan. Keduanya menawarkan menu ayam dengan harga ramah di kantong, cocok untuk mahasiswa dan anak kos.
+
+
+### Artikel 4007
+Judul: Beats & Bites Aston Malang, All You Can Eat Rp75 Ribu dan Live Music Tiap Sabtu - malang.disway.id - Disway Malang
+Isi:
+SEJARAH & PENGETAHUAN SEJARAH & PENGETAHUAN SEJARAH & PENGETAHUAN SEJARAH & PENGETAHUAN SEJARAH & PENGETAHUAN SEJARAH & PENGETAHUAN Ilustrasi Beats & Bites, menghadirkan sajian yang dekat dengan selera masyarakat Indonesia, seperti bakso, siomay, dan es dawet-Markom Aston Malang-for Disway Malang LOWOKWARU, DISWAYMALANG.ID - Mencari tempat makan untuk mengisi Sabtu malam di Kota Malang kini punya pilihan baru. Aston Malang Hotel & Conference Center menghadirkan Beats & Bites di Saffron Restaurant dengan konsep all you can eat yang dipadukan live acoustic music. Program tersebut menawarkan beragam makanan yang akrab dengan selera masyarakat Indonesia. Menu yang disajikan antara lain bakso, siomay hingga es dawet yang dapat dinikmati pengunjung dengan harga Rp75.000 nett per orang. Beats & Bites berlangsung setiap Sabtu malam mulai pukul 19.00 hingga 22.30 WIB. Selain menikmati hidangan, pengunjung dapat bersantai bersama keluarga, sahabat maupun orang-orang terdekat sambil mendengarkan musik akustik. All You Can Eat Rp75 Ribu General Manager Aston Malang Hotel & Conference Center Ferdian Indrayana mengatakan Beats & Bites dirancang sebagai pengalaman makan malam yang tidak hanya berfokus pada hidangan. BACA JUGA: Rekomendasi 4 Tempat Grill di Kota Malang, Ada Korean BBQ hingga All You Can Eat “Melalui Beats & Bites, kami ingin menghadirkan pengalaman bersantap yang lebih dari sekadar menikmati hidangan. Kami berharap promo ini dapat menjadi pilihan bagi masyarakat Malang dan sekitarnya untuk menghabiskan waktu bersama keluarga maupun orang-orang terdekat dalam suasana yang hangat dan menyenangkan,” ujarnya, Selasa 29 September 2026. Konsep tersebut menyasar masyarakat yang ingin menikmati suasana santai pada akhir pekan tanpa harus meninggalkan Kota Malang. Perpaduan makanan dan musik menjadi bagian dari pengalaman yang ditawarkan kepada pengunjung. Food & Beverage Manager Aston Malang Hotel & Conference Center Reza Fachrizqi menjelaskan, Beats & Bites memang dikemas dengan menggabungkan kuliner dan hiburan. “Beats & Bites kami hadirkan sebagai perpaduan antara sajian kuliner favorit dan hiburan live acoustic music yang dapat dinikmati setiap Sabtu malam. Dengan harga IDR 75.000 nett per orang, kami ingin memberikan pilihan bersantap yang menarik dan terjangkau, sekaligus menciptakan suasana yang nyaman bagi para tamu untuk berkumpul dan menikmati akhir pekan,” jelasnya. Ada Bakso, Siomay hingga Es Dawet Executive Chef Aston Malang Hotel & Conference Center Aji Martoyo mengatakan pemilihan menu dalam Beats & Bites mempertimbangkan jenis makanan yang sudah familiar bagi masyarakat Indonesia. BACA JUGA: 9 Strategi Menikmati Menu di Resto 'All You Can Eat' (AYCE) agar Tidak Rugi, Puas dan Nyaman Bakso, siomay dan es dawet menjadi beberapa sajian yang ditawarkan dalam program tersebut. Menu tersebut dipilih untuk menghadirkan cita rasa yang dekat dengan keseharian masyarakat sekaligus memberikan variasi dalam pengalaman makan. KULINERAN & PELESIRAN KU

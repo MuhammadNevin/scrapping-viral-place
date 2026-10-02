@@ -1,0 +1,84 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "jenis_tempat": "subtipe lebih spesifik, mis. 'rooftop cafe', 'kuliner kaki lima', 'air terjun', 'taman hiburan', dst",
+          "lokasi": "lokasi mentah apa adanya sesuai artikel (alamat/nama jalan/area jika disebut)",
+          "keterangan": "ringkasan singkat ciri khas/daya tarik tempat ini (mis. menu andalan, konsep, fasilitas)",
+          "status_viral": "Disebut viral" (artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet) atau "Rekomendasi" (tempat hanya direkomendasikan/masuk daftar, tanpa disebut eksplisit viral),
+          "viral_sejak": "tanggal/bulan/periode eksplisit terkait mulai viral jika disebut, atau 'Tidak disebut' jika tidak ada",
+          "dasar_viral": "kutipan/alasan singkat dari artikel yang menjadi dasar kenapa tempat ini dianggap viral/direkomendasikan, atau null jika tidak ada dasar eksplisit",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "negara": "nama negara, default 'Indonesia' kecuali artikel jelas menyebut negara lain",
+          "latitude": angka desimal lintang jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "longitude": angka desimal bujur jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "presisi_koordinat": "exact" (alamat persis diketahui), "approximate" (hanya area/kecamatan/kota), atau "unknown" (tidak ada dasar koordinat),
+          "catatan_lokasi": "catatan tambahan soal lokasi, mis. ketidakpastian, patokan terdekat, atau null jika tidak ada"
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 4376
+Judul: Rekomendasi 16 Mie Ayam di Samarinda yang Wajib Dicoba, Ada yang Legendaris hingga Pangsit Khas Jakarta - Arusbawah.co
+Isi:
+Meski dikenal dengan nama Mie Pangsit Jakarta, tempat ini tetap menjadi salah satu pilihan warga Samarinda yang ingin menikmati mie ayam dengan rasa k...
+
+
+### Artikel 4377
+Judul: 20 Rekomendasi Seblak Enak di Samarinda yang Wajib Dicoba, Pedasnya Bikin Ketagihan sampai Topping Melimpah! - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Buat kamu pencinta makanan pedas, seblak bisa menjadi pilihan kuliner yang sulit ditolak.Perpaduan kerupuk yang kenyal, kuah...
+
+
+### Artikel 4378
+Judul: 5 Rekomendasi Nasi Goreng Buka Pagi di Samarinda, Bisa Buat Sarapan Sebelum Beraktivitas - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Nasi goreng identik sebagai menu makan malam.Namun di Samarinda, ada sejumlah warung yang justru sudah mulai menjual nasi gor...
+
+
+### Artikel 4379
+Judul: 5 Rekomendasi Nasi Kuning Malam di Samarinda, Ada yang Buka Sampai Subuh - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Nasi kuning menjadi salah satu kuliner favorit masyarakat Samarinda, tak hanya saat sarapan tetapi juga pada malam hingga din...
+
+
+### Artikel 4380
+Judul: 12 Rekomendasi Oleh-Oleh Khas Samarinda, Pas untuk Keluarga - popbela.com
+Isi:
+Jika berkunjung ke Samarinda, Kalimantan Timur, tentu tergoda untuk memboyong oleh-oleh khas kota tersebut. Selain makanan, kota yang memiliki perkembangan yang ekspansif ini punya segudang barang khas yang dapat dijadikan buah tangan.Penasaran ada apa saja? Simak daftar oleh-oleh khas Samarinda di bawah ini, yuk! Jika ingin memborong oleh-oleh khas Samarinda hingga kiloan beratnya, maka keminting bisa kamu pertimbangkan. Kata "keminting" memiliki arti kemiri dalam bahasa setempat. Keminting adalah camilan manis bebentuk seperti cangkang kerang. Bahan utamanya terbuat dari campuran gula aren dan tepung sagu.Camilan ini bertekstur renyah dan keras saat digigit. Untuk itu, keminting biasa disantap bersama teh atau kopi hangat agar tetap lembut saat disantap. Sebagai kota yang punya dua pelabuhan tersibuk di Kalimantan Timur, yaitu Pelabuhan Samarinda dan Pelabuhan Pairan, tak heran jika Samarinda punya camilan berbahan seafood.Salah satunya yang terkenal adalan abon kepiting yang punya cita rasa khas. Olahan daging kepiting ini bisa kamu jadikan buah tangan yang tahan lama dan tak mudah basi. Walau bernama 'ilat sapi', kue manis ini justru menggunakan campuran tepung terigu, gula, dan telur sebagai bahan dasarnya. Teksturnya renyah dan bisa menjadi teman minum teh. Sebagai sentuhan akhir, kue lidah sapi ditaburi biji wijen di atasnya. Oleh-oleh khas Samarinda satu ini dikenal dengan Tajong Samarinda, yaitu kain tenunan khas Samarinda. Dibuat dengan cara tradisional menggunakan alat bernama Gedokkan, setidaknya dibutuhkan 15 hari untuk menenun satu buah Sarung SamarindaMeski bertesktur kasar, sarung ini tetap nyaman dipakai sebagai fesyen ataupun selimut. Samarinda punya roti manis yang cukup legendaris, yaitu roti durian panglima. Karena tak menggunakan bahan pengawet, oleh-oleh satu ini hanya dapat bertahan 3-5 hari saja. Selain original, varian topping lainnya adalah cokelat keju. Disarankan untuk segera mengonsumsi roti durian panglima apabila sudah kembali di kota atau kampung halaman. Kembali ke oleh-oleh kain khas Samarinda, karakteristik Batik Kalimantan Timur terlintas dari kombinasi warna yang mencolok dan corak yang beraneka ragam. Menariknya lagi, motif batik ini memuat nuansa etnis Dayak, seperti motif tameng, rumah, dan perahu. Kamu bisa membeli Batik Kalimantan Timur di pasar atau pusat oleh-oleh di Samarinda. Amplang bisa terbilang merupakan kerupuk ikan versi Kalimantan Timur. Kerupuk dengan rasa gurih satu ini mudah dibawa dan cukup awet. Kerupuk amplang terbuat dari adonan daging ikan tenggiri, bumbu khusus, dan tepung yang digoreng hingga kering. Masih soal olahan ikan, Samarinda terkenal akan produksi ikan haruan atau nama lain dari ikan gabus. Selain dimasak sebagai lauk tinggi protein, ikan ini juga bisa diolah sebagai abon. Rasanya gurih dan lembut, cocok menjadi teman makan nasi hangat bersama sambal. Kamu juga bisa membuat isian lemper atau pastel dengan abon ikan haruan. Oleh-oleh khas Samarinda berikutnya untuk penyuka ca
+
+
+### Artikel 4381
+Judul: 9 Rekomendasi Cafe dan Matcha Bar di Samarinda, Wajib Dicoba Para Pecinta Matcha - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Samarinda tak hanya dikenal dengan deretan coffee shop yang terus bermunculan, tetapi juga mulai menjadi destinasi menarik ba...
+
+
+### Artikel 4382
+Judul: Jadwal Pemadaman Listrik Samarinda Hari Ini, 12 September 2026: Jalan Juanda hingga Kadrie Oening Terdampak - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;PT PLN (Persero) melalui PLN ULP Samarinda Kota melaksanakan penghentian sementara pasokan listrik kepada sebagian pelanggan...
+
+
+### Artikel 4383
+Judul: Viral Oknum TNI Bersitegang dengan Kasatpol PP Samarinda saat Penertiban Kafe Remang-remang, Dandim Minta Maaf - Jurnal News - jurnalnews.id
+Isi:
+JurnalNews - Viral video oknum TNI bersitegang dengan Kepala Satuan Polisi Pamong Praja (Kasatpol PP) Samarinda, Anis Siswantini saat penertiban sebuah tempat yang diduga menjual minuman keras (miras). Peristiwa tersebut terjadi di sebuah warung di pinggir Jalan Teuku Umar, Kelurahan Karang Asam Ilir, Kecamatan Sungai Kunjang, Samarinda pada Selasa, 22 September 2026 malam. Dalam video yang beredar, tampak oknum TNI tersebut tak terima adanya penertiban dan berulang kali menyebut bahwa lokasi warung berada di wilayahnya. Baca Juga: Ipda Yayat Sudrajat Disorot KPK: Punya Belasan Aset Mewah hingga Diduga Jadi Broker Suap, Pernah Diperiksa Propam Usai video viral di media sosial, Komandan Kodim (Dandim) 0901/Samarinda Kolonel Inf Arif Hermad buka suara mengenai salah satu anggotanya tersebut. Permintaan Maaf dan Sebut Ada Pemeriksaan pada Oknum Anggota Dandim 0901/Samarinda Kolonel Inf Arif Hermad membenarkan bahwa oknum TNI yang viral adalah salah satu anggotanya dan mengungkapkan permintaan maaf. “Sebagai pimpinan di Kodim 0901 Samarinda mengucapkan permohonan maaf yang sebesar-besarnya atas kejadian yang terjadi tadi malam di salah satu kafe ya, Kafe Ahmad di Jalan Tengku Umar di wilayah Karang Asam Ulu. Itu melibatkan salah satu anggota kami,” ujar Arif saat memberikan keterangan kepada awak media di Kodim 0901/Samarinda pada Rabu, 23 September 2026. Lebih lanjut, oknum tersebut telah dilakukan pemeriksaan sesuai dengan prosedur yang berlaku. “Saat ini yang bersangkutan sudah ditindaklanjuti dengan melaksanakan pemeriksaan oleh staf kami, staf Kodim. Kemudian saat ini yang bersangkutan melaksanakan pemeriksaan lebih lanjut di Denpom 61 Samarinda,” jelasnya. Baca Juga: Bansos PKH dan BPNT Tahap 4 Kapan Cair? Awas Tertahan saat Verifikasi Akibat Faktor Perubahan Data Potensi Sanksi untuk Oknum TNI Mengenai sanksi, Arif menyebut bahwa proses aturan hukumnya akan diberlakukan, sehingga ada potensi sanksi untuk oknum tersebut. “Kami sebagai TNI Angkatan Darat dalam hal ini Kodim 091 Samarinda menyatakan akan memproses sesuai dengan prosedur dan aturan hukum yang berlaku dan kami bisa pastikan bahwa yang bersangkutan nanti akan menerima sanksi,” tegas Arif.

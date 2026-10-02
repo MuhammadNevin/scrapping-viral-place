@@ -1,0 +1,84 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "jenis_tempat": "subtipe lebih spesifik, mis. 'rooftop cafe', 'kuliner kaki lima', 'air terjun', 'taman hiburan', dst",
+          "lokasi": "lokasi mentah apa adanya sesuai artikel (alamat/nama jalan/area jika disebut)",
+          "keterangan": "ringkasan singkat ciri khas/daya tarik tempat ini (mis. menu andalan, konsep, fasilitas)",
+          "status_viral": "Disebut viral" (artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet) atau "Rekomendasi" (tempat hanya direkomendasikan/masuk daftar, tanpa disebut eksplisit viral),
+          "viral_sejak": "tanggal/bulan/periode eksplisit terkait mulai viral jika disebut, atau 'Tidak disebut' jika tidak ada",
+          "dasar_viral": "kutipan/alasan singkat dari artikel yang menjadi dasar kenapa tempat ini dianggap viral/direkomendasikan, atau null jika tidak ada dasar eksplisit",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "negara": "nama negara, default 'Indonesia' kecuali artikel jelas menyebut negara lain",
+          "latitude": angka desimal lintang jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "longitude": angka desimal bujur jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "presisi_koordinat": "exact" (alamat persis diketahui), "approximate" (hanya area/kecamatan/kota), atau "unknown" (tidak ada dasar koordinat),
+          "catatan_lokasi": "catatan tambahan soal lokasi, mis. ketidakpastian, patokan terdekat, atau null jika tidak ada"
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 3104
+Judul: Berinteraksi dengan Kelinci Lucu di Bandung, Jawa Barat - 20detik
+Isi:
+Kita diajak untuk melihat beberapa jenis Kelinci. Terdapat beberapa jenis Kelinci yang sangat lucu. Tidak sengaja Ci Panda terkena air kencing Kelinci Dok : Celebrity on Vacation Trans TV (Ade)
+
+
+### Artikel 3105
+Judul: Bisa Jalan Kaki, Spot Dekat Stasiun Bandung Ini Favorit Warlok! - TripZilla Indonesia
+Isi:
+Halo, para travelers! Baru saja mendarat di Stasiun Bandung dan bingung mau meluncur ke mana? Tenang, Bandung bukan cuma soal Lembang atau Ciwidey. Di jantung kota saja, kamu sudah bisa menemukan banyak tempat wisata dekat stasiun Bandung yang bisa dijangkau dengan jalan kaki atau berkendara singkat. Daftar tempat wisata ini bisa menjadi awal yang bagus buat kamu menjelajah Bandung. Selain karena faktor lokasi dan akses yang mudah, ada banyak fasilitas bagus untuk menunjang semua kebutuhan kamu. Yuk, simak rekomendasi lengkap buat kamu yang ingin eksplorasi efisien namun tetap berkesan! Jalan legendaris ini menyuguhkan atmosfer Eropa klasik dengan bangunan kolonial yang estetik. Kamu bisa jalan santai, hunting foto, atau ngopi cantik di kafe-kafe vintage. Bayangkan bisa berada di nuansa masa silam, menyesap minuman kesukaan Dan camilan favorit sambil menikmati atmosfer cozy. Daya tarik utamanya adalah vibe tempo dulu yang berpadu dengan modernitas. Apalagi, jika berbicara mengenai fasilitas, yang bisa dikatakan super lengkap, mulai dari trotoar lebar hingga deretan galeri seni menawan. Destinasi ini wajib dikunjungi! Alamat: Jalan Braga, Kec. Sumur Bandung, Kota Bandung. Jam Buka: 24 Jam (tergantung toko/kafe). Ingin wisata edukasi yang berkelas? Museum ini menyimpan sejarah penting diplomasi dunia dengan interior bergaya vintage yang memukau. Kamu bisa menelusuri ruang konferensi asli dan belajar sejarah perdamaian. Daya tariknya adalah keaslian artefak dan arsitektur kolonialnya. Dari situ, kamu bisa mencari tahu seperti apa sejarah di balinya. Tersedia juga fasilitas perpustakaan dan ruang pameran edukatif, lho! Alamat: Jl. Asia Afrika No.65, Braga, Kec. Sumur Bandung. Jam Buka: 08.00 – 16.00 WIB (Senin – Jumat). Ikon pusat kota ini punya hamparan rumput sintetis luas yang nyaman untuk bersantai atau piknik tipis bersama teman. Kamu bisa rebahan, menikmati jajanan kaki lima, atau sekadar melihat hiruk-pikuk kota. Daya tariknya adalah area terbuka hijau yang modern dan instagramable. Selain itu, juga tersedia fasilitas bermain anak di sekitarnya. Alamat: Jl. Asia Afrika, Kec. Regol, Kota Bandung. Jam Buka: Setiap hari, 06.00 – 21.00 WIB. Terletak persis di samping Alun-Alun, masjid megah ini memiliki dua menara tinggi yang ikonik. Kamu bisa beribadah dengan tenang atau naik ke puncak menara untuk melihat panorama kota dari ketinggian. Arsitekturnya bergaya Timur Tengah yang dipadu sentuhan lokal. Fasilitasnya lengkap, termasuk area parkir dan toilet bersih. Masjid Raya Bandung menjadi tempat terbaik untuk wisata religi, sekaligus wisata kuliner. Alamat: Jl. Dalem Kaum No.14, Balonggede, Kec. Regol. Jam Buka: Setiap hari, 04.00 – 21.00 WIB. Bagi penyuka gaya hidup modern, mall kekinian ini adalah tempat yang pas untuk recharge . Kamu bisa berbelanja brand internasional, kulineran di food court yang luas, atau menonton film di bioskop canggih. Mengusung konsep one-stop shopping yang sangat lengkap dan nyaman, 23 Pascal Shopping Center memiliki fa
+
+
+### Artikel 3106
+Judul: Bingung Liburan ke Bandung? Ini 5 Tempat Wisata yang Wajib Dikunjungi- Gaya Hidup - MetroTVNews.com
+Isi:
+Jakarta: Bandung masih menjadi salah satu destinasi favorit untuk menghabiskan waktu liburan maupun akhir pekan singkat. Kota yang dikenal dengan udara sejuk dan suasana santainya ini menawarkan banyak pilihan wisata, mulai dari tempat bersejarah, pusat kuliner, hingga kawasan hiburan yang cocok untuk bersantai bersama keluarga atau teman. Banyaknya pilihan tempat wisata di Bandung sering kali membuat wisatawan bingung menentukan destinasi yang wajib dikunjungi, terutama jika waktu liburan terbatas. Karena itu, memilih lokasi wisata yang ikonik dan mudah dijangkau bisa menjadi solusi agar perjalanan tetap menyenangkan dan berkesan.
+
+
+### Artikel 3107
+Judul: Itinerary Bandung 3 Hari 2 Malam saat Libur Sekolah - Mommies Daily
+Isi:
+Sorry, we couldn't find any article matching ' ' Dhevita Wulandari ・ 12 Jun 2026 Sedang merencanakan liburan sekolah? Cek panduan liburan keluarga ke Bandung 3 hari 2 malam berikut ini, lengkap dengan itinerary, rekomendasi destinasi ramah anak, dan tips liburan hemat. Libur sekolah selalu jadi momen yang ditunggu-tunggu anak-anak. Setelah berbulan-bulan berkutat dengan tugas, ujian, dan rutinitas sekolah, rasanya mereka memang pantas mendapatkan waktu untuk bersantai dan bersenang-senang bersama keluarga. Kalau Mommies dan Daddies sedang mencari destinasi yang dekat dari Jakarta, ramah anak, punya banyak pilihan wisata, kuliner, dan penginapan, Bandung masih menjadi salah satu pilihan terbaik. Selain aksesnya semakin mudah dengan kereta cepat maupun kendaraan pribadi, kota ini juga menawarkan banyak aktivitas seru untuk segala usia. Supaya liburan lebih terencana dan budget tetap aman, berikut panduan liburan keluarga ke Bandung 3 hari 2 malam saat libur sekolah yang bisa dijadikan inspirasi dan referensi. Karena musim libur sekolah biasanya identik dengan lonjakan wisatawan dari berbagai kota, ada baiknya beberapa hal berikut sudah dipersiapkan jauh-jauh hari: BACA JUGA: 30 Aktivitas Ayah dan Anak yang Bikin Bonding Makin Kuat dan Kompak Nah, ini dia itinerary yang bisa jadi panduan untuk Mommies dan keluarga saat liburan ke Bandung selama 3 hari 2 malam di masa libur sekolah anak. Setelah tiba di Bandung, jangan langsung memaksakan jadwal yang terlalu padat. Hari pertama sebaiknya diisi dengan aktivitas santai. Pilih hotel di area Setiabudi, Sukajadi, atau Dago agar lebih strategis menuju berbagai tempat wisata keluarga. Farmhouse masih menjadi salah satu destinasi favorit keluarga karena menawarkan suasana ala pedesaan Eropa yang menarik untuk anak-anak. Aktivitas yang bisa dilakukan: Anak-anak biasanya betah karena area wisatanya cukup luas dan banyak spot interaktif. Lanjutkan perjalanan ke Floating Market yang lokasinya tidak terlalu jauh. Di sini, Mommies dan Daddies bisa: Tutup hari pertama dengan menikmati kuliner khas Bandung seperti: Setelah itu, kembali ke hotel untuk beristirahat. Hari kedua biasanya menjadi puncak liburan keluarga karena energi masih penuh dan anak-anak sudah lebih bersemangat. Destinasi ini cocok untuk keluarga yang ingin menggabungkan wisata edukatif dan hiburan. Anak-anak dapat mengenal budaya dari berbagai negara Asia dan Afrika melalui: Selain menyenangkan, tempat ini juga bisa menjadi sarana belajar yang ringan untuk anak. Perjalanan dilanjutkan ke Orchid Forest Cikole yang menawarkan suasana hutan pinus yang sejuk. Aktivitas favorit keluarga: Tempat ini cocok untuk mengurangi paparan gadget dan mengajak anak lebih dekat dengan alam. Cari kafe ramah keluarga di area Lembang untuk beristirahat sejenak sambil menikmati udara pegunungan. Sebelum kembali ke hotel, sempatkan berjalan-jalan di kawasan Braga. Anak-anak biasanya senang melihat suasana kota yang ramai, sementara orang tua bisa menikmati suasana Bandun
+
+
+### Artikel 3108
+Judul: 10 Tempat Wisata Hits Bandung untuk Libur Panjang - detikcom
+Isi:
+Libur panjang Mei 2026, Bandung siap menyambut wisatawan dengan 10 destinasi menarik. Temukan pesona alam dan tempat estetik untuk bersantai bersama keluarga!
+
+
+### Artikel 3109
+Judul: Bandung Barat catat kunjungan wisata sepanjang Mei 2026 capai 83.014 orang - ANTARA News Megapolitan
+Isi:
+Bandung Barat (ANTARA) - Dinas Pariwisata dan Kebudayaan (Disparbud) Kabupaten Bandung Barat (KBB), Jawa Barat, mencatat total kunjungan wisatawan sepanjang Mei 2026 mencapai 83.014 orang yang tersebar di berbagai objek wisata di wilayah tersebut. Kepala Disparbud Bandung Barat, Asep Dendih, di Bandung Barat, Sabtu, mengatakan jumlah kunjungan tersebut menunjukkan Bandung Barat masih menjadi salah satu destinasi favorit wisatawan di Jawa Barat. "Total kunjungan wisatawan ke Bandung Barat selama Mei 2026 ada 83.014 orang. Paling banyak itu memang terjadi pada satu hari kunjungan yang mencapai 23.219 wisatawan," katanya. Ia menjelaskan data kunjungan tersebut dihimpun dari 15 objek wisata yang sebagian besar berada di kawasan utara Bandung Barat, terutama di wilayah Lembang, Parongpong, dan Cisarua. Baca juga: Bandung Barat petakan destinasi wisata di Lembang guna keselamatan turis Menurut dia, kawasan utara masih menjadi magnet utama bagi wisatawan karena memiliki beragam destinasi wisata alam, kuliner, hingga rekreasi keluarga yang telah dikenal luas. "Fokus wisatawan memang masih di wilayah utara kalau melihat data kunjungan. Alhamdulillah Bandung Barat ini ternyata tetap memiliki daya tarik bagi wisatawan untuk berkunjung," ujarnya. Meski demikian, Pemkab Bandung Barat berupaya mendorong pemerataan pengembangan sektor pariwisata ke wilayah barat dan selatan agar aktivitas ekonomi pariwisata tidak hanya terpusat di kawasan utara. Pewarta: Ilham Nugraha Uploader : Naryo COPYRIGHT © ANTARA 2026 Dilarang keras mengambil konten, melakukan crawling atau pengindeksan otomatis untuk AI di situs web ini tanpa izin tertulis dari Kantor Berita ANTARA.
+
+
+### Artikel 3110
+Judul: Menjelajah Rekomendasi Wisata Kuliner Legendaris Bandung Makanan Tempo Doeloe Ikonik - jogja.disway.id - Disway Jogja
+Isi:
+diswayjogja.id - Kota Bandung di Provinsi Jawa Barat selalu berhasil memikat hati para pelancong dari berbagai penjuru tanah air melalui pesona keindahan alamnya yang sejuk serta dinamika kreativitas warganya yang tiada henti. Dikenal luas dengan julukan Paris Van Java, kota kreatif ini tidak hanya menawarkan destinasi wisata belanja dan pemandangan pegunungan yang memanjakan mata, melainkan juga menyimpan kekayaan dunia gastronomi yang luar biasa melimpah. Setiap akhir pekan tiba, ribuan wisatawan berbondong-bondong datang untuk menikmati liburan singkat, menjadikan aktivitas berburu kuliner sebagai agenda utama yang paling dinantikan bersama orang-orang tersayang. Namun, di balik menjamurnya kafe-kafe modern bergaya kekinian dan tempat nongkrong estetik yang merajai media sosial saat ini, Bandung tetap mempertahankan eksistensi harta karun kuliner masa lalunya yang legendaris. Warung-warung makan, kedai sederhana, hingga rumah makan tradisional yang telah berdiri selama puluhan tahun hingga lintas generasi terus menyedot perhatian para pencinta makanan. Keberhasilan tempat-tempat makan tempo doeloe ini bertahan di tengah persaingan industri kuliner modern membuktikan bahwa kualitas rasa otentik, konsistensi bumbu rahasia, serta kenangan emosional memiliki daya tarik magis yang tidak pernah lekang oleh waktu. Menikmati sajian kuliner legendaris di Kota Bandung menawarkan sebuah pengalaman kultural yang sangat mendalam, di mana setiap suapan makanan menghidupkan kembali memori masa kecil dan sejarah lokal yang kaya. Mulai dari menu sarapan hangat yang mengenyangkan perut di pagi hari, jajanan pasar tradisional yang manis legit, hingga hidangan makan siang berkuah segar kaya rempah, semuanya disajikan dengan penuh kehangatan keramahan warga Sunda. Ragam variasi kuliner ini memastikan bahwa setiap pelancong, baik dari kalangan anak muda maupun orang tua, dapat menemukan sajian yang sesuai dengan selera personal mereka. Oleh karena itu, dalam ulasan komprehensif kali ini, kita akan membedah secara mendalam deretan rekomendasi wisata kuliner legendaris di Bandung yang wajib masuk ke dalam daftar kunjungan liburan Anda. Melalui penelusuran profil menu andalan, sejarah singkat berdirinya, hingga tips praktis berburu kuliner, mari kita simak panduan lengkap ini agar agenda liburan akhir pekan Anda di Kota Kembang semakin berkesan, memuaskan, dan memanjakan lidah. BACA JUGA: Surga Wisata Kuliner Bandung Berikut Daftar Tempat Makan Legendaris Favorit Melegenda BACA JUGA: Eksotisme Tahura Djuanda Bandung, Pesona Hutan Raya Ikonik, Goa Jepang Wisata Alam Menjelajahi Ragam Kuliner Legendaris di Kota Bandung yang Wajib Dicoba Memulai petualangan kuliner di Kota Bandung paling pas diawali pada pagi hari dengan mencicipi kelezatan Bubur Ayam Gibbas yang terletak di kawasan Jalan Kebon Jati. Warung bubur legendaris ini sangat terkenal di kalangan warga lokal maupun wisatawan berkat porsinya yang luar biasa royal dan mengenyangkan. Berbeda dengan bubur pada umumn
+
+
+### Artikel 3111
+Judul: Merasakan Sensasi Ayunan Viral di The Lodge Maribaya, Bandung - 20detik
+Isi:
+The Lodge Maribaya adalah salah satu objek wisata andalan di Bandung. Di sini terdapat ayunan yang sangat terkenal. Kini selebriti akan mencoba naik ayunan ini. Dok : Celebrity on Vacation Trans TV (Diki)

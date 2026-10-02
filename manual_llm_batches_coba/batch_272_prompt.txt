@@ -1,0 +1,114 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "jenis_tempat": "subtipe lebih spesifik, mis. 'rooftop cafe', 'kuliner kaki lima', 'air terjun', 'taman hiburan', dst",
+          "lokasi": "lokasi mentah apa adanya sesuai artikel (alamat/nama jalan/area jika disebut)",
+          "keterangan": "ringkasan singkat ciri khas/daya tarik tempat ini (mis. menu andalan, konsep, fasilitas)",
+          "status_viral": "Disebut viral" (artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet) atau "Rekomendasi" (tempat hanya direkomendasikan/masuk daftar, tanpa disebut eksplisit viral),
+          "viral_sejak": "tanggal/bulan/periode eksplisit terkait mulai viral jika disebut, atau 'Tidak disebut' jika tidak ada",
+          "dasar_viral": "kutipan/alasan singkat dari artikel yang menjadi dasar kenapa tempat ini dianggap viral/direkomendasikan, atau null jika tidak ada dasar eksplisit",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "negara": "nama negara, default 'Indonesia' kecuali artikel jelas menyebut negara lain",
+          "latitude": angka desimal lintang jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "longitude": angka desimal bujur jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "presisi_koordinat": "exact" (alamat persis diketahui), "approximate" (hanya area/kecamatan/kota), atau "unknown" (tidak ada dasar koordinat),
+          "catatan_lokasi": "catatan tambahan soal lokasi, mis. ketidakpastian, patokan terdekat, atau null jika tidak ada"
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 2168
+Judul: Mengenal Danau Tanjung Sarai Wisata Air di Kukar, Kini Viral Mengering Imbas Kemarau - Halaman 2 - Tribunkaltim.co
+Isi:
+Belum punya akun? Daftar Akun Download TribunX untuk Android & iOS Kawasan ini dapat dijangkau melalui jalur darat sehingga menjadi salah satu daya tarik tersendiri bagi wisatawan yang ingin menikmati kawasan danau. Pada masa pengembangan destinasi wisata, akses menuju Danau Tanjung Sarai menjadi salah satu keunggulan karena pengunjung dapat mencapai lokasi menggunakan kendaraan darat tanpa harus menyeberangi perairan dengan kapal. Keberadaan Danau Tanjung Sarai juga tidak terlepas dari karakter bentang alam wilayah Kota Bangun yang memiliki hubungan erat dengan kawasan perairan Sungai Mahakam. Danau ini dikenal sebagai bagian dari sistem danau paparan banjir atau floodplain lake. Danau paparan banjir adalah badan air yang memiliki keterkaitan dengan sungai utama dan kawasan dataran rendah di sekitarnya. Karena memiliki karakter seperti itu, tinggi muka air di kawasan danau dapat berubah mengikuti sejumlah faktor, seperti curah hujan, debit sungai, perubahan musim, serta kondisi lingkungan perairan di sekitarnya. Kini Air Danau Menyusut Drastis Kondisi terbaru Danau Tanjung Sarai menunjukkan penyusutan air dalam skala yang cukup besar. Bagian dasar danau yang sebelumnya berada di bawah permukaan air kini terlihat terbuka. Hamparan tanah yang sebelumnya tertutup air berubah menjadi permukaan kering dan memadat. Di sejumlah titik, retakan terlihat membentang di permukaan tanah. Retakan tersebut dapat muncul ketika tanah kehilangan kandungan air dalam jumlah besar. Tanah yang sebelumnya basah dan lunak kemudian mengalami pengeringan sehingga permukaannya menjadi lebih padat dan pecah-pecah. Perubahan tersebut membuat pemandangan Danau Tanjung Sarai saat ini sangat berbeda dibandingkan kondisi ketika debit air berada pada tingkat normal. Dalam video yang beredar, kawasan yang sebelumnya dipenuhi perairan tampak berubah menjadi daratan yang cukup luas. Perubahan inilah yang kemudian menarik perhatian masyarakat dan pengguna media sosial. Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
+
+
+### Artikel 2169
+Judul: Viral, Destinasi Wisata hingga Budaya Kaltim Masuk Nominasi API Awards 2026, Ini Cara Votenya - Tribunkaltim.co
+Isi:
+Belum punya akun? Daftar Akun Download TribunX untuk Android & iOS TRIBUNKALTIM.CO -  Beredar viral destinasi hingga budaya di Kalimantan Timur masuk API Awards 2026 . Anugerah Pesona Indonesia (API) Awards merupakan salah satu ajang penghargaan pariwisata tahunan di Indonesia yang memberikan apresiasi terhadap berbagai destinasi, budaya, serta inovasi promosi wisata dari seluruh daerah. Ajang ini tidak hanya menjadi bentuk penghargaan, tetapi juga wadah promosi besar bagi potensi wisata daerah agar semakin dikenal secara nasional bahkan internasional. Pada tahun 2026, API Awards memasuki penyelenggaraan ke-20, yang menandai dua dekade konsistensi dalam mengangkat potensi pariwisata Nusantara. Dalam edisi kali ini, sebanyak 180 nominasi terbaik telah terpilih dari berbagai daerah di Indonesia dan akan berkompetisi pada tahap penggalangan dukungan suara atau voting. Baca juga: Hasil Perolehan Voting API Awards 2026 per 15 Mei, Bukit Steling Samarinda Masuk 3 Besar! Tahap voting ini menjadi krusial karena menentukan siapa saja yang akan masuk ke dalam tiga besar di masing-masing kategori. Nominasi yang berhasil masuk tiga besar nantinya akan diundang untuk menghadiri Malam Puncak Anugerah Pesona Indonesia 2026 yang rencananya digelar di Kabupaten Klaten. Dalam kompetisi nasional ini, Provinsi Kalimantan Timur turut menunjukkan eksistensinya dengan sejumlah nominasi yang berhasil masuk dalam berbagai kategori. Hal ini menjadi bukti bahwa potensi wisata dan budaya di wilayah tersebut memiliki daya tarik yang kuat dan mampu bersaing di tingkat nasional. Salah satu nominasi datang dari sektor wisata petualangan, yakni Bukit Sultan di Kabupaten Paser yang masuk dalam kategori Wisata Olahraga dan Petualangan. Kategori ini umumnya mencakup destinasi yang menawarkan aktivitas luar ruang seperti hiking, offroad, atau olahraga ekstrem. Selain itu, kekayaan budaya Kalimantan Timur juga diwakili oleh Hudoq, yang masuk dalam kategori Atraksi Budaya. Hudoq sendiri merupakan tradisi ritual khas masyarakat Dayak yang biasanya ditampilkan dalam bentuk tarian dengan topeng unik sebagai simbol perlindungan dan kesuburan. Sementara dari kategori destinasi baru, Bukit Steling di Kota Samarinda berhasil masuk nominasi . Destinasi ini termasuk dalam kategori yang menyoroti tempat wisata yang baru berkembang dan memiliki potensi besar untuk menjadi daya tarik wisata unggulan. Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
+
+
+### Artikel 2170
+Judul: Mengenal Bukit Steling, Destinasi Wisata di Samarinda Viral Masuk Nominasi API Awards 2026 - Tribunkaltim.co
+Isi:
+Belum punya akun? Daftar Akun Download TribunX untuk Android & iOS TRIBUNKALTIM.CO - Bukit Steling atau yang juga dikenal sebagai Puncak Steling Samarinda ramai diperbincangkan publik setelah berhasil menembus nominasi 10 besar dalam ajang Anugerah Pesona Indonesia (API) Awards 2026. Destinasi wisata yang berada di Kelurahan Sungai Dama, Kecamatan Samarinda Ilir, Kota Samarinda , Kalimantan Timur itu dinilai berhasil mencuri perhatian di tengah persaingan ratusan destinasi wisata dari berbagai daerah di Indonesia. Keberhasilan tersebut menjadi momentum penting bagi promosi pariwisata Kota Samarinda di tingkat nasional. Bukit Steling bukan hanya dikenal karena panorama alamnya yang memukau, tetapi juga karena berkembang melalui pengelolaan berbasis masyarakat yang dilakukan secara mandiri oleh warga setempat. Baca juga: Masyarakat Samarinda Bisa Ikut Dukung Bukit Steling Raih API Award 2026, Begini Caranya Berdasarkan informasi yang dikutip dari Jadesta atau Jaringan Desa Wisata milik Kementerian Pariwisata, Bukit Steling merupakan salah satu objek wisata alam yang menawarkan kombinasi panorama Sungai Mahakam, bentang kota Samarinda , hingga suasana perbukitan hijau yang masih asri. Destinasi ini berada di wilayah RT 32 Kelurahan Sungai Dama. Dari puncaknya, pengunjung dapat menyaksikan kapal-kapal besar serta ponton yang melintas di Sungai Mahakam sambil menikmati panorama Kota Samarinda dari ketinggian. Bukit Steling dikenal sebagai salah satu spot favorit warga Samarinda untuk menikmati matahari terbit atau sunrise maupun matahari terbenam atau sunset. Sunrise sendiri merupakan istilah untuk momen matahari terbit di pagi hari, sedangkan sunset berarti pemandangan matahari tenggelam pada sore hari. Banyak pengunjung memilih mendaki bukit ini sejak dini hari sekitar pukul 04.30 WITA demi mendapatkan panorama matahari terbit dari atas perbukitan. Sementara untuk menikmati sunset, waktu ideal pendakian biasanya dimulai sekitar pukul 16.30 WITA. Setibanya di puncak, pengunjung akan disambut panorama 360 derajat yang memperlihatkan Sungai Mahakam berkelok membelah Kota Samarinda . Pemandangan itu dipadukan dengan deretan bangunan perkotaan serta perbukitan hijau yang mengelilingi kawasan tersebut. Saat malam tiba, Bukit Steling menawarkan suasana berbeda. Lampu-lampu kota Samarinda terlihat berkilauan dari kejauhan dan menciptakan panorama city lights yang disebut banyak pengunjung menghadirkan suasana romantis dan menenangkan. Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
+
+
+### Artikel 2171
+Judul: Viral! Destinasi hingga Budaya Kaltim Masuk Nominasi API Awards 2026, Ini Daftarnya - Tribunkaltim.co
+Isi:
+Belum punya akun? Daftar Akun Download TribunX untuk Android & iOS TRIBUNKALTIM.CO - Destinasi hingga budaya di Kalimantan Timur masuk nominasi di API Awards 2026 , berikut daftar selengkapnya. Anugerah Pesona Indonesia (API) Awards merupakan salah satu ajang penghargaan pariwisata tahunan di Indonesia yang memberikan apresiasi terhadap berbagai destinasi, budaya, serta inovasi promosi wisata dari seluruh daerah. Ajang ini tidak hanya menjadi bentuk penghargaan, tetapi juga wadah promosi besar bagi potensi wisata daerah agar semakin dikenal secara nasional bahkan internasional. Pada tahun 2026, API Awards memasuki penyelenggaraan ke-20, yang menandai dua dekade konsistensi dalam mengangkat potensi pariwisata Nusantara. Dalam edisi kali ini, sebanyak 180 nominasi terbaik telah terpilih dari berbagai daerah di Indonesia dan akan berkompetisi pada tahap penggalangan dukungan suara atau voting. Baca juga: Paralayang Jadi Andalan Paser di Porprov Kaltim 2026, Bukit Sultan Disiapkan Tahap voting ini menjadi krusial karena menentukan siapa saja yang akan masuk ke dalam tiga besar di masing-masing kategori. Nominasi yang berhasil masuk tiga besar nantinya akan diundang untuk menghadiri Malam Puncak Anugerah Pesona Indonesia 2026 yang rencananya digelar di Kabupaten Klaten. Dalam kompetisi nasional ini, Provinsi Kalimantan Timur turut menunjukkan eksistensinya dengan sejumlah nominasi yang berhasil masuk dalam berbagai kategori. Hal ini menjadi bukti bahwa potensi wisata dan budaya di wilayah tersebut memiliki daya tarik yang kuat dan mampu bersaing di tingkat nasional. Salah satu nominasi datang dari sektor wisata petualangan, yakni Bukit Sultan di Kabupaten Paser yang masuk dalam kategori Wisata Olahraga dan Petualangan. Kategori ini umumnya mencakup destinasi yang menawarkan aktivitas luar ruang seperti hiking, offroad, atau olahraga ekstrem. Selain itu, kekayaan budaya Kalimantan Timur juga diwakili oleh Hudoq, yang masuk dalam kategori Atraksi Budaya. Hudoq sendiri merupakan tradisi ritual khas masyarakat Dayak yang biasanya ditampilkan dalam bentuk tarian dengan topeng unik sebagai simbol perlindungan dan kesuburan. Sementara dari kategori destinasi baru, Bukit Steling di Kota Samarinda berhasil masuk nominasi . Destinasi ini termasuk dalam kategori yang menyoroti tempat wisata yang baru berkembang dan memiliki potensi besar untuk menjadi daya tarik wisata unggulan. Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
+
+
+### Artikel 2172
+Judul: Sosok Ester Veronika, Wanita Asal Tabang Kukar Raih Top 3 Putri Pariwisata Indonesia 2026 - Tribunkaltim.co
+Isi:
+Belum punya akun? Daftar Akun Download TribunX untuk Android & iOS TRIBUNKALTIM.CO - Nama Ester Veronika menjadi salah satu sosok dari Kalimantan Timur yang mencuri perhatian dalam ajang Putri Pariwisata Indonesia 2026 . Perempuan asal Desa Buluq Sen, Kecamatan Tabang, Kabupaten Kutai Kartanegara atau Kukar, Kalimantan Timur tersebut berhasil mencatatkan sejumlah prestasi dalam ajang nasional Putri Pariwisata Indonesia 2026 . Ester Veronika, yang memiliki akun Instagram @esterrvee_, berhasil meraih posisi 2nd Runner-Up atau Top 3 Putri Pariwisata Indonesia 2026 . Tidak hanya itu, Ester juga dinobatkan sebagai Putri Desa Wisata Indonesia 2026. Baca juga: Viral Mahasiswa Informatika Unmul Dapat Penghargaan NASA, Ini Temuannya Prestasi Ester dalam ajang tersebut tidak berhenti sampai di sana. Wakil Kalimantan Timur itu juga memperoleh sejumlah penghargaan lainnya, yakni Putri Pariwisata Indonesia Kebudayaan 2026, Best Video Tourism, serta masuk dalam jajaran Top 5 Best Talent. Sementara itu, gelar Putri Pariwisata Indonesia 2026 diraih oleh Carmenita Lamba dari Nusa Tenggara Timur atau NTT. Keberhasilan Ester membawa namanya masuk jajaran tiga besar sekaligus memperoleh sejumlah penghargaan menjadi pencapaian tersendiri bagi perempuan muda asal wilayah hulu Kutai Kartanegara tersebut. Perjalanan Ester menuju ajang nasional itu juga menarik perhatian karena perempuan yang berasal dari Desa Buluq Sen di Kecamatan Tabang ini memiliki sejumlah aktivitas dan latar belakang yang kemudian tercantum dalam profil singkatnya. Ester Veronika merupakan perempuan asal Desa Buluq Sen, Kecamatan Tabang, Kabupaten Kutai Kartanegara , Kalimantan Timur. Jarak dari Desa Buluq Sen (Kecamatan Tabang) ke Tenggarong yang merupakan ibu kota Kutai Kartanegara adalah sekitar 231 kilometer jika ditempuh menggunakan kendaraan darat. Ester lahir di Tenggarong pada 20 Agustus 2007. Dalam profil singkatnya, Ester diketahui tengah menempuh pendidikan di SMK Negeri 1 Tenggarong. Selain menjalani pendidikan, Ester memiliki sejumlah hobi. Kegiatan yang menjadi kegemarannya meliputi voli, musik, tari, modeling, hingga make up. Berbagai minat tersebut menjadi bagian dari aktivitas yang digeluti Ester. Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
+
+
+### Artikel 2173
+Judul: Bukit Steling Samarinda Masuk Nominasi API Awards 2026, Saefuddin Zuhri Ajak Warga Vote agar Juara - Tribunkaltim.co
+Isi:
+Belum punya akun? Daftar Akun Download TribunX untuk Android & iOS TRIBUNKALTIM.CO - Bukit Steling atau yang juga dikenal sebagai Puncak Steling Samarinda masuk nominasi destinasi baru di API Awards 2026 . Destinasi wisata alam yang berada di Kelurahan Sungai Dama, Kecamatan Samarinda Ilir, Kota Samarinda , Kalimantan Timur ini sukses menembus 10 besar Anugerah Pesona Indonesia (API) Awards 2026 kategori Destinasi Baru dan kini menjadi salah satu unggulan dalam persaingan tingkat nasional. Popularitas Bukit Steling terus meningkat dalam beberapa bulan terakhir. Tidak hanya ramai dikunjungi wisatawan lokal, kawasan perbukitan yang menawarkan panorama Sungai Mahakam dan bentang Kota Samarinda dari ketinggian itu juga semakin dikenal secara nasional setelah masuk nominasi API Awards 2026 . Keberhasilan tersebut menjadi kebanggaan tersendiri bagi Pemerintah Kota Samarinda dan masyarakat setempat. Baca juga: Hasil Perolehan Voting API Awards 2026 per 15 Mei, Bukit Steling Samarinda Masuk 3 Besar! Di tengah persaingan sekitar 180 nominasi dari 38 provinsi di Indonesia, Bukit Steling mampu mencuri perhatian dan bahkan memimpin hasil sementara perolehan suara pada kategori Destinasi Baru. Dukungan terhadap Bukit Steling pun terus mengalir. Pemerintah Kota Samarinda , Dinas Pemuda, Olahraga dan Pariwisata (Disporapar), hingga masyarakat bersama-sama mengajak publik memberikan suara agar destinasi wisata berbasis masyarakat tersebut mampu meraih gelar terbaik pada API Awards 2026 . Berdasarkan hasil sementara per 30 Juni yang dipublikasikan melalui media sosial resmi Anugerah Pesona Indonesia (API) Awards 2026, Bukit Steling Samarinda berhasil berada di posisi teratas kategori Destinasi Baru. Dalam klasemen sementara tersebut, Bukit Steling mengumpulkan 46,16 persen suara. Persentase tersebut unggul atas Sungai Biru RF2, Kabupaten Penukal Abab Lematang Ilir yang berada di posisi kedua dengan 44,42 persen. Sementara itu, delapan nominasi lainnya memperoleh suara yang cukup jauh di bawah dua besar, yakni: Air Terjun Tingkat Tujuh, Kabupaten Aceh Selatan (5,09 persen) Danau Depati IV, Kabupaten Merangin (3,39 persen) Bukit Seligi, Kabupaten Melawi (0,55 persen) Blessing Stone, Kabupaten Nabire (0,11 persen) Bukit Punggung Kuda, Kabupaten Bombana (0,09 persen) Air Terjun Tiga Bidadari, Kabupaten Halmahera Timur (0,09 persen) Pantai Dato, Kabupaten Majene (0,06 persen) Desa Pincara, Kabupaten Luwu Utara (0,06 persen). Hasil tersebut menunjukkan persaingan kategori Destinasi Baru API Awards 2026 sementara ini didominasi oleh Bukit Steling Samarinda dan Sungai Biru RF2. Dukungan terhadap Bukit Steling juga disampaikan langsung oleh Wakil Wali Kota Samarinda Saefuddin Zuhri . Saat menghadiri Silaturahmi dan Konsultasi Pengelolaan Destinasi Wisata Kota Samarinda di kawasan Bukit Steling pada Sabtu (11/7/2026), Saefuddin menegaskan Pemerintah Kota Samarinda memberikan dukungan penuh terhadap pengembangan destinasi wisata berbasis masyarakat. Isi komentar sepenuhnya 
+
+
+### Artikel 2174
+Judul: 10 Finalis Lomba Desa Wisata Kaltim 2026 Masuki Tahap Presentasi dan Validasi, Siap Berebut Tiga Besar Terbaik - diskominfo.kaltimprov.go.id
+Isi:
+Samarinda – Lomba Desa Wisata Tingkat Provinsi
+Kalimantan Timur Tahun 2026 memasuki tahapan penting. Sebanyak 10 desa wisata
+terbaik dari berbagai kabupaten dan kota di Kaltim mengikuti sesi presentasi
+serta validasi data sebagai bagian dari proses penilaian menuju penetapan Desa
+Wisata Terbaik tingkat provinsi. Kegiatan yang digelar di Ruang Rapat Sapta Pesona Lantai II
+Dinas Pariwisata Provinsi Kalimantan Timur, baru-baru ini menjadi bagian
+krusial dalam memastikan kualitas, kesiapan, serta kesesuaian data desa wisata
+yang masuk dalam jajaran finalis. Kepala Dinas Pariwisata Provinsi Kalimantan Timur, Ririn
+Sari Dewi, didampingi Kepala Bidang Destinasi dan Industri Pariwisata Angit
+Ding, memimpin langsung jalannya kegiatan tersebut sebagai bentuk komitmen
+pemerintah daerah dalam menjaga objektivitas dan standarisasi penilaian. Ririn menegaskan, penilaian tahun ini memiliki nilai
+strategis karena mengintegrasikan sejumlah instrumen utama yang menjadi tolok
+ukur pengembangan desa wisata berkelanjutan. “Penilaian tahun ini menjadi sangat strategis karena
+mengintegrasikan tiga instrumen besar sebagai acuan utama,” ujarnya dikutip dari Detak Kaltim.com. Tiga instrumen tersebut meliputi lima aspek utama indikator
+desa wisata terbaik, dimensi Wonderful Indonesia Awards (WIA) yang
+mencakup aspek manajemen, produk, fasilitas, lingkungan, dan kelembagaan, serta
+implementasi Peraturan Gubernur Kalimantan Timur Nomor 38 Tahun 2025 yang
+menitikberatkan pada keberlanjutan, penguatan kelembagaan, dan pemberdayaan
+ekonomi lokal. Proses penilaian dilakukan secara ketat dan transparan oleh
+tim juri profesional yang telah ditetapkan melalui Keputusan Gubernur, yakni Ir.
+Wied Pratama, CHA, CHRM, CHPO selaku Ketua IHGMA DPD Kaltim, Marliana
+Wahyuningrum, SE., MM dari DPD IPPRISIA sekaligus pemerhati budaya, serta
+akademisi pariwisata I Wayan Lanang Nala, S.ST.Par., M.Par., CHE. Masing-masing finalis diberikan waktu selama 30 menit yang
+terbagi dalam sesi presentasi selama 15 menit dan tanya jawab selama 15 menit
+untuk memaparkan potensi, inovasi, dan pengelolaan desa wisata mereka. Adapun 10 finalis Lomba Desa Wisata Kaltim 2026 terdiri
+atas: Setelah tahapan presentasi dan validasi, dewan juri akan
+menyeleksi tiga desa wisata terbaik yang selanjutnya mengikuti proses visitasi
+lapangan guna memverifikasi kesesuaian data dan kondisi riil di lokasi sebelum
+penetapan juara akhir. Ririn berharap, pelaksanaan lomba ini tidak hanya menjadi
+ajang kompetisi, tetapi juga mampu mendorong semangat inovasi bagi kelompok
+sadar wisata (Pokdarwis) di seluruh Kalimantan Timur.
+
+
+### Artikel 2175
+Judul: Mengunjungi Keindahan Kampung Bena Baru di Kalimantan Timur - 20detik
+Isi:
+Liburan kali ini tempat yang akan dikunjungi adalah Berau, Kalimantan Timur. DI sini ada satu perkampungan yang sangat menarik. Adalah Kampung Bena Baru. Dok : Celebrity on Vacation Trans TV (Ade)

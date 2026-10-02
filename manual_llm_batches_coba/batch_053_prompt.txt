@@ -1,0 +1,86 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "jenis_tempat": "subtipe lebih spesifik, mis. 'rooftop cafe', 'kuliner kaki lima', 'air terjun', 'taman hiburan', dst",
+          "lokasi": "lokasi mentah apa adanya sesuai artikel (alamat/nama jalan/area jika disebut)",
+          "keterangan": "ringkasan singkat ciri khas/daya tarik tempat ini (mis. menu andalan, konsep, fasilitas)",
+          "status_viral": "Disebut viral" (artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet) atau "Rekomendasi" (tempat hanya direkomendasikan/masuk daftar, tanpa disebut eksplisit viral),
+          "viral_sejak": "tanggal/bulan/periode eksplisit terkait mulai viral jika disebut, atau 'Tidak disebut' jika tidak ada",
+          "dasar_viral": "kutipan/alasan singkat dari artikel yang menjadi dasar kenapa tempat ini dianggap viral/direkomendasikan, atau null jika tidak ada dasar eksplisit",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "negara": "nama negara, default 'Indonesia' kecuali artikel jelas menyebut negara lain",
+          "latitude": angka desimal lintang jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "longitude": angka desimal bujur jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "presisi_koordinat": "exact" (alamat persis diketahui), "approximate" (hanya area/kecamatan/kota), atau "unknown" (tidak ada dasar koordinat),
+          "catatan_lokasi": "catatan tambahan soal lokasi, mis. ketidakpastian, patokan terdekat, atau null jika tidak ada"
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 416
+Judul: Efek Viral Pantai Glagah, PAD Pariwisata Kulonprogo Melonjak - BPK RI Perwakilan Provinsi Daerah Istimewa Yogyakarta
+Isi:
+Layanan ini merupakan sarana layanan online bagi pemohon informasi publik sebagai salah satu wujud pelaksanaan keterbukaan informasi publik di Badan Pemeriksa Keuangan RI. Untuk mengajukan permohonan informasi atau menyampaikan pengaduan silakan melakukan pendaftaran terlebih dahulu dengan klik tombol Daftar, atau jika sudah terdaftar, dapat langsung menuju ke halaman Login. 2,935 total views,  5 views today Lonjakan PAD hingga dua digit tak lepas dari viralnya spot sunset di Pantai Glagah yang ramai diburu wisatawan. PAD pariwisata hingga Mei 2026 telah mencapai Rp3,69 miliar. Angka tersebut naik sekitar 14,12 persen dibanding periode yang sama tahun 2025 yang hanya sebesar Rp3,23 miliar. Kenaikan PAD berjalan seiring dengan meningkatnya jumlah kunjungan wisatawan. Sepanjang Januari hingga Mei 2026, tercatat sebanyak 375.926 wisatawan datang ke berbagai destinasi di Kulonprogo. PAD Tahun 2026 dari Pantai Glagah sudah mencapai Rp2,69 miliar, naik dibanding tahun lalu yang berada di angka Rp2,54 miliar. Sementara itu, jumlah kunjungan wisatawan ke Pantai Glagah juga meningkat menjadi 269.046 orang, dari sebelumnya 254.332 pengunjung pada periode yang sama tahun lalu. Ketua Desa Wisata Glagah, Bayu Puspo, menyebut lonjakan kunjungan tidak lepas dari munculnya spot-spot baru yang menarik minat wisatawan. Salah satunya adalah kawasan “Glagah Sunset View” di sisi barat pantai yang kini viral di media sosial. Dengan tren positif ini, sektor pariwisata Kulonprogo diprediksi masih akan terus tumbuh hingga akhir tahun. selengkapnya : tautan Efek Viral Pantai Glagah, PAD Pariwisata Kulonprogo Melonjak 2,936 total views,  6 views today
+
+
+### Artikel 417
+Judul: 7 Wisata Viral dan Hits di Lampung, Wahana Seru hingga City View - IDN Times Lampung
+Isi:
+Bandar Lampung, IDN Times - Lampung punya banyak pilihan wisata lagi hits dan cocok buat mengisi waktu liburan. Gak cuma menawarkan pemandangan alam yang cantik, kini semakin banyak destinasi baru dengan konsep kekinian.Taman bermain keluarga, wisata edukasi, wahana air, hingga tempat nongkrong dengan panorama kota dan laut kini jadi rekomendasi pilihan. Menariknya, beberapa tempat wisata ini bisa dijangkau tanpa harus pergi jauh dari pusat kota. Jadi, mau liburan bareng keluarga, mengajak anak bermain, atau sekadar mencari tempat buat healing dan berburu foto Instagramable, pilihannya cukup beragam. Yuk, simak deretan wisata viral dan hits di Lampung berikut ini. Kalau sedang mencari tempat wisata viral di Lampung untuk menghabiskan waktu bersama keluarga, Navara City Park bisa jadi pilihan. Berada di Jalan Pangeran Tirtayasa, Sukabumi, Kecamatan Sukabumi, Kota Bandar Lampung, tempat wisata ini dibangun di atas lahan sekitar 14 hektare. Lokasinya yang berada di dalam kota juga membuatnya mudah dijangkau dari Bandar Lampung maupun daerah sekitar seperti Metro, Natar, Pesawaran, Pringsewu, dan Lampung Selatan.Navara City Park menawarkan berbagai wahana yang bisa dinikmati anak-anak hingga orang dewasa. Ada kolam renang anak dengan perosotan mini dan area bermain air, mini coaster untuk merasakan sensasi melaju dengan lebih seru, hingga komedi putar yang cocok untuk permainan santai bersama keluarga. Buat yang suka tantangan, tersedia juga kora-kora dengan ayunan yang lebih ekstrem serta bianglala.Tak hanya menawarkan wahana permainan, wisata satu ini juga menghadirkan area waterpark dan foodpark sehingga bisa bermain sekaligus mencari makanan dalam satu tempat. Konsepnya menggabungkan taman bermain, wahana air, dan kuliner membuat Navara City Park menarik untuk masuk daftar destinasi liburan keluarga di Lampung. Cuma modal Rp25 ribu, kamu sudah bisa ajak keluarga seharian main di The Nice Park Lampung. Tempat wisata ini punya lebih dari 80 wahana yang bisa dinikmati anak-anak sampai orang dewasa. Mulai dari rainbow slide, waterboom, kolam ketangkasan, mini outbound, playground indoor, hingga mini zoo, semuanya tersedia dalam satu kawasan. Menariknya, The Nice Park Lampung juga diklaim sebagai area bebas asap rokok.Pilihan wahana banyak membuat tempat ini gak cuma cocok untuk anak-anak. Mau bermain air, mencoba aktivitas outdoor, atau sekadar menemani si kecil bermain, semuanya bisa dilakukan di sini. Apalagi HTM yang ditawarkan cukup terjangkau, yakni Rp25 ribu sudah bisa menikmati berbagai wahana tanpa perlu membayar tiket tambahan. Jadi, cocok banget buat kamu yang ingin mengajak keluarga liburan tanpa menguras kantong.The Nice Park Lampung juga punya lokasi yang cukup mudah dijangkau karena berada di kawasan Kota Bandar Lampung. Tempat wisata ini beralamat di Jalan Wan Abdurrahman, Batu Putuk, Kecamatan Teluk Betung Barat, Kota Bandar Lampung. Kalau dua tempat sebelumnya menawarkan keseruan wahana dalam satu kawasan, Jungle Sea di Kalianda puny
+
+
+### Artikel 418
+Judul: Tagar "China Cool" viral, Chongqing jadi destinasi wisata dunia - antaranews.com
+Isi:
+Chongqing (ANTARA) - Seiring viralnya tagar "China Cool" di media sosial, Chongqing, yang terkenal dengan bentang alam serta pemandangan kotanya yang istimewa, menjadi destinasi populer bagi wisatawan dari seluruh dunia. Menurut Kantor Umum Pemeriksaan Perbatasan Keluar-Masuk Chongqing, lebih dari 610.000 perjalanan inbound dan outbound oleh warga negara asing tercatat di Bandar Udara Internasional Jiangbei Chongqing pada paruh pertama tahun ini, menandai lonjakan 86 persen secara tahunan (year on year). Pewarta: Xinhua Editor: Imam Budilaksono Copyright © ANTARA 2026 Dilarang keras mengambil konten, melakukan crawling atau pengindeksan otomatis untuk AI di situs web ini tanpa izin tertulis dari Kantor Berita ANTARA. Kirim Komentar menjadi tanggung-jawab Anda sesuai UU ITE.
+
+
+### Artikel 419
+Judul: Video: Sungai Serayu Surut, Warga Banyumas Buka Wisata Perahu Dadakan - 20detik
+Isi:
+Scroll atau gunakan tombol
+                                        [ ]
+                                        [ ] serta klik panah di sisi kanan untuk menjelajahi feed video. Surutnya Sungai Serayu akibat kemarau panjang dimanfaatkan warga Desa Srowot, Banyumas, menjadi wisata perahu dadakan yang kini ramai dikunjungi, terutama setelah viral di media sosial.
+
+
+### Artikel 420
+Judul: Wisata Bir Berkonsep Spbu Viral Di Qingdao - SinPo.id
+Isi:
+SinPo.tv - Sebuah atraksi unik berkonsep stasiun pengisian bahan bakar atau SPBU menjadi perbincangan di Kota Qingdao, China. Bukan mengisi bensin, pengunjung justru menuang bir dingin menggunakan nosel layaknya mengisi tangki kendaraan. 27 September 2026 | 05:00 WIB NASIONAL | 4 hari yang lalu NASIONAL | 4 hari yang lalu NASIONAL | 4 hari yang lalu NASIONAL | 3 hari yang lalu INTERNASIONAL | 3 hari yang lalu
+
+
+### Artikel 421
+Judul: Usai Viral di TikTok, Keindahan Bukit Krisna Jayapura Jadi Destinasi Wisata Ikonik Terbaru di Papua - Tribunpapuatengah.com
+Isi:
+Belum punya akun? Daftar Akun Download TribunX untuk Android & iOS TRIBUN-PAPUATENGAH.COM, JAYAPURA - Bukit Krisna di Kampung Yokiwa , Distrik Ebungfau , Kabupaten Jayapura , Papua , kini menjadi tujuan wisata populer setelah videonya viral di TikTok . Keindahan pemandangan dari bukit itu menarik perhatian pengunjung karena perpaduan panorama Danau Sentani dan padang rumput savana yang luas. Untuk tiba di Bukit Krisna , pengujung menempuh jarak tempuh sekitar satu jam perjalanan dari Kota Jayapura dengan kendaraan roda dua atau roda empat. Meskipun jarak dan medan membuat perjalanan terasa melelahkan, banyak pengunjung menyatakan pengalaman mereka terbayarkan oleh panorama yang ditawarkan. Kedatangan wisatawan ke Bukit Krisna mayoritas untuk berfoto dan berswafoto, aktivitas yang semakin menyebarkan nama lokasi melalui media sosial. Di sana warga lokal juga menjajakan berbagai kuliner. Novita, pengunjung asal Timika, Kabupaten Mimika, Papua Tengah, datang bersama keluarga untuk menikmati pemandangan dan mengabadikan momen liburan mereka. "Setelah tiba di sini (Bukit Krisna), wih pemandangannya indah sekali. Terbayarlah meski perjalanan jauh ke sini," ungkap Novita kepada Tribun-PapuaTengah.com. Warga berharap pengelolaan kunjungan dapat ditingkatkan guna menjaga kebersihan dan kelestarian lingkungan sekitar bukit. "Terus kalau bisa ada fasilitas kamar mandi portabel," imbuh Ibu Rahmawati, pengunjung lokal asal Jayapura. Akses ke Bukit Krisna masih beraspal di beberapa bagian dan berbatu di jalur lain, sehingga pengendara disarankan berhati-hati terutama saat musim hujan. Kunjungan ke Bukit Krisna menawarkan alternatif wisata alam dekat Jayapura yang mudah dijangkau dan cocok untuk keluarga maupun pelancong muda. (*) Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
+
+
+### Artikel 422
+Judul: Viral di Media Sosial Bukan Jaminan Destinasi Wisata Bertahan Lama - suara surabaya net
+Isi:
+Fenomena destinasi wisata yang mendadak ramai setelah viral di media sosial semakin sering terjadi dalam beberapa tahun terakhir. Namun di balik meningkatnya jumlah wisatawan dan cepatnya perputaran ekonomi, ada ancaman yang sering luput dari perhatian, yakni overtourism atau kelebihan jumlah wisatawan yang datang dalam waktu bersamaan. Agustinus Lis Indrianto, Dekan Fakultas Kuliner, Teknologi Pangan, dan Pariwisata Universitas Ciputra Surabaya menilai viralitas perlu sebagai pintu masuk untuk memperkenalkan sebuah destinasi ke masyarakat luas. Tapi, popularitas yang muncul secara tiba-tiba tidak bisa jadi fondasi utama pengembangan pariwisata jangka panjang. “Viral itu harus dianggap sebagai pintu masuk saja, bukan jangka panjang. Itu penting memang untuk meningkatkan pemahaman dan informasi orang, tapi itu tidak bisa diandalkan agar tempat menjadi sustain (bertahan), harus ada yang dibangun,” kata Agustinus saat mengudara di Program Wawasan Polling Radio Suara Surabaya , Kamis (25/6/2026). Ia menjelaskan, ada dua jenis viralitas dalam dunia pariwisata. Pertama, viral yang memang dirancang melalui strategi pemasaran. Kedua, viral yang terjadi secara alami karena suatu tempat memiliki keunikan yang menarik perhatian publik lalu dibagikan ke media sosial. Menurutnya, ketika sebuah destinasi wisata sebelumnya kurang dikenal tiba-tiba viral, cenderung memunculkan dampak ekonomi yang positif. Jumlah wisatawan meningkat, eksposur destinasi bertambah, dan aktivitas ekonomi masyarakat sekitar ikut bergerak. “Kalau objek yang dulu (masyarakat) tidak tahu, tapi unik dan menarik lalu viral secara tidak sengaja, dampak ekonominya bagus. Kunjungan wisata naik, eksposur naik, itu positifnya,” ujarnya. Namun, banyak destinasi belum siap menghadapi lonjakan pengunjung secara mendadak. Berbagai fasilitas dasar seperti akses jalan, area parkir, toilet, hingga tempat sampah sering kali tidak mampu menampung jumlah wisatawan yang datang. “Kekurangannya, banyak tempat tidak siap, over capacity. Lalu kita berbicara tentang akses wisatawan, toilet, tempat sampah dan lain-lain. Itu akan terjadi over tourism sehingga tingkat kenyamanan wisatawan atau masyarakat lokal menjadi kurang nyaman,” katanya. Selain berdampak pada kenyamanan, perubahan suasana lingkungan juga dapat memicu persoalan sosial di masyarakat sekitar. “Lalu dampak sosial, dari suasana yang tenang menjadi ramai itu bisa terjadi,” tambahnya. Fenomena tersebut pernah terlihat di sejumlah destinasi yang viral karena media sosial. Di Jawa Timur misalnya, Ranu Manduro di Kecamatan Ngoro, Mojokerto, sempat menjadi perbincangan nasional karena pemandangan perbukitan bekas tambang yang disebut mirip savana di luar negeri. Namun lonjakan wisatawan menyebabkan kemacetan dan munculnya persoalan sampah hingga akhirnya kawasan tersebut ditutup oleh pemilik lahan. Agustinus menegaskan bahwa keberlanjutan harus menjadi perhatian utama dalam pengembangan destinasi wisata, baik yang berbasis alam maupun buatan. “Ketika 
+
+
+### Artikel 423
+Judul: MEDAN DAILY. . Dugaan praktik pungutan liar (pungli) di kawasan wisata Lau Debuk-Debuk, Kabupaten Karo, Sumatera Utara, kembali menjadi sorotan publik setelah sejumlah pengunjung mengeluhkan adanya penarikan uang di beberapa pos sepanjang - facebook.com
+Isi:
+Dugaan praktik pungutan liar (pungli) di kawasan wisata Lau Debuk-Debuk, Kabupaten Karo, Sumatera Utara, kembali menjadi sorotan publik setelah sejumlah...

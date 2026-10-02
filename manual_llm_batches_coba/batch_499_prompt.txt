@@ -1,0 +1,84 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "jenis_tempat": "subtipe lebih spesifik, mis. 'rooftop cafe', 'kuliner kaki lima', 'air terjun', 'taman hiburan', dst",
+          "lokasi": "lokasi mentah apa adanya sesuai artikel (alamat/nama jalan/area jika disebut)",
+          "keterangan": "ringkasan singkat ciri khas/daya tarik tempat ini (mis. menu andalan, konsep, fasilitas)",
+          "status_viral": "Disebut viral" (artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet) atau "Rekomendasi" (tempat hanya direkomendasikan/masuk daftar, tanpa disebut eksplisit viral),
+          "viral_sejak": "tanggal/bulan/periode eksplisit terkait mulai viral jika disebut, atau 'Tidak disebut' jika tidak ada",
+          "dasar_viral": "kutipan/alasan singkat dari artikel yang menjadi dasar kenapa tempat ini dianggap viral/direkomendasikan, atau null jika tidak ada dasar eksplisit",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "negara": "nama negara, default 'Indonesia' kecuali artikel jelas menyebut negara lain",
+          "latitude": angka desimal lintang jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "longitude": angka desimal bujur jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "presisi_koordinat": "exact" (alamat persis diketahui), "approximate" (hanya area/kecamatan/kota), atau "unknown" (tidak ada dasar koordinat),
+          "catatan_lokasi": "catatan tambahan soal lokasi, mis. ketidakpastian, patokan terdekat, atau null jika tidak ada"
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 3984
+Judul: Araya Arcade Garden, Kafe Bergaya Swiss di Malang dengan Spot Foto Estetik - Nusa Daily
+Isi:
+Tempatnya cocok untuk kumpul bareng keluarga karena luas dan nyaman. Apalagi di bagian ijo-ijo rumput itu bisa buat duduk-duduk santai terus anak-anak juga bisa lari-larian. Selain tempatnya luas, tiap sudut juga bisa buat foto cantik
+
+
+### Artikel 3985
+Judul: El-Youm Coffee and Eatery di Aston Malang, Tempat Nongkrong dan WFC Baru Favorit di Kota Malang - ketik.com
+Isi:
+25 April 2026 15:33 25 Apr 2026 15:33 Menu-menu makanan yang menggiurkan di El-Youm Coffee and Eatery, Hotel Aston Malang. (Foto: Aliyah/Ketik.com) KETIK, MALANG – Aston Malang sebagai hotel baru di Kota Malang menawarkan kafe kekinian bernama El-Youm Coffee and Eatery dengan menu-menu makanan yang cocok menjadi tempat Work From Cafe (WFC). Aston Malang sendiri adalah penginapan dengan 101 kamar yang terdiri dari tipe Superior Room, Deluxe Room, Family Room, Junior Suite Room, dan Penthouse. Selain kamar, hotel ini juga menyediakan tempat nongkrong yang tak hanya nyaman tapi juga dengan menu-menu lezat dan unik. El-Youm Coffee and Eatery menjadi tempat yang cozy bagi tamu hotel atau masyarakat umum untuk nongkrong, mengerjakan tugas atau bekerja. Suasananya yang tenang menjadi tempat yang pas bagi para pekerja atau mahasiswa yang ingin menyelesaikan tugasnya dengan chill dan cozy. El-Youm Coffee and Eatery sendiri terletak di lantai L Hotel Aston Malang, tepat di Jalan Sigura - Gura No. 19A, Sumbersari, Kecamatan Lowokwaru, Kota Malang. Pengunjung luar ataupun tamu hotel bisa nongkrong ddan menikmati sajian unik di kafe ini dengan nyaman. Setiap harinya kafe ini buka dari pukul 09.00 WIB hingga 23.00 WIB. Beberapa menu di El-Youm Coffee and Eatery yang wajib dicoba adalah slider black beef burger yang terdiri dari tiga burger mini yang dagingnya tebal dan kentang dengan ukuran cukup besar. Satu porsi menu ini bisa dinikmati hingga tiga orang. Selain itu, tak lupa menu crispy spicy calamari, sajian cumi-cumi goreng dengan ukurannya yang besar namun tidak keras atau alot dipadukan bersama sambal yang menambahkan cita rasa pedas. Menu assorted fritters juga tak kalah lezat dan pas untuk jadi camilan saat nongkrong. Meni ini menyajikan beberapa jenis camilan pada satu piring, seperti sambosa, risoles, dan bitterballen dengan ukuran cukup besar dan mengenyangkan. Sajian ini dihidangkan dengan sausnya, kari mayones, saus aioli, dan saus keju. Tak hanya itu, martabak telur di kafe ini juga memiliki cita rasa yang membuat ketagihan. Menu ini disajikan dengan sausnya dan acar yang asam segar menambah kenikmatan ketika masuk mulut secara bersamaan. Selain cemilan, El-Youm Coffee and Eatery juga menyediakan menu makanan berat yang pas untuk jam makan siang. Kafe ini juga menawarkan berbagai dessert yang tak hanya enak tapi juga memiliki visual yang cantik. Menu-menu makanan ini dibanderol dengan harga mulai Rp25.000. Kafe ini juga menawarkan beragam menu minuman yang cocok sebagai teman nongkrong, mulai dari varian kopi hingga aneka jus buah yang manisnya pas. Untuk menu minuman dibanderol dengan harga mulai Rp25.000. El-Youm Coffee and Eatery juga sering mengeluarkan beragam promo yang pastinya sangat affordable bagi para mahasiswa ataupun para pekerja yang ingin bersantai setelah lelahnya beraktifitas. "Menu-menunya enak, satu porsinya besar, aku sampai kekenyangan. Jus buahnya juga manisnya pas, apalagi jus alpukatnya yang kental sekali," ungkap Suci, sa
+
+
+### Artikel 3986
+Judul: Modus Nota Gantung Rugikan Resto dan Pajak Daerah, ini Penjelasan Bapenda Kota Malang - Malang Pagi
+Isi:
+[caption id="attachment_44728" align="aligncenter" width="1024"]<img class="wp-image-44728 size-large" src="https://malangpagi.com/wp-content/uploads/2026/04/IMG-20260413-WA0013-1024x769.jpg" alt="" width="1024" height="769" /> Kepala Bapenda Kota Malang, Handi Priyanto. (Foto: YD/MP)[/caption] KOTA MALANG - malangpagi.com Fenomena nota gantung yang sempat viral di salah satu kafe di Malang menjadi perhatian Badan Pendapatan Daerah (Bapenda) Kota Malang. Praktik tersebut tidak hanya merugikan pemerintah dari sisi pajak, tetapi juga berdampak besar pada pemilik usaha restoran. Kepala Bapenda Kota Malang, Handi Priyanto menjelaskan, setiap transaksi atau bill di restoran umumnya sudah termasuk komponen pajak sebesar 10 persen. Ketika ada nota yang tidak dimasukkan ke dalam sistem, maka bukan hanya pajak yang hilang, tetapi juga omzet yang seharusnya diterima oleh pemilik usaha. “Sedikit banyak pasti berpengaruh. Tapi yang paling besar dirugikan adalah pemilik. Karena pajak itu melekat dalam bill. Kalau misalnya bill satu juta rupiah, pajaknya seratus ribu. Ketika itu tidak tercatat, pajaknya tidak masuk dan omzet pemilik juga hilang,” jelasnya, Senin (13/4/2026). Handi menyatakan, pihaknya justru kerap menemukan kasus serupa saat melakukan pemantauan dan verifikasi data. Tak jarang, pemilik usaha mengambil langkah tegas terhadap oknum karyawan yang terbukti melakukan kecurangan. “Tidak sedikit pemilik resto yang berterima kasih ke kami. Karena dari temuan itu, akhirnya mereka tahu ada bill yang tidak dimasukkan. Bahkan, berujung pada pemberhentian oknum karyawan,” ujarnya. Namun demikian, Handi menegaskan, tindak lanjut secara hukum sepenuhnya menjadi kewenangan pemilik usaha. Bapenda sendiri hanya sebatas melakukan pengawasan dan memberikan informasi hasil temuan. Kasus ini, lanjutnya, menjadi peringatan bagi para pelaku usaha agar tidak sepenuhnya bergantung pada sistem kasir digital. Meski menggunakan perangkat canggih, celah kecurangan tetap bisa terjadi jika tidak disertai pengawasan langsung dari pemilik. “Secanggih apa pun sistem kasir, tetap ada potensi disalahgunakan oleh yang ada di lokasi. Apalagi kalau pemilik tidak melakukan pengawasan melekat, misalnya jarang mengecek karena berada di luar kota,” tegasnya. Handi menyebut, mayoritas praktik kecurangan dilakukan oleh oknum karyawan dengan cara tidak memasukkan sebagian transaksi ke dalam sistem. Biasanya, lanjut Handi, hal ini terungkap saat proses klarifikasi laporan omzet yang dilaporkan tidak sesuai dengan data yang dimiliki Bapenda melalui sistem e-Tax. “Saat klarifikasi kami tampilkan data dari e-Tax, pemiliknya kaget. Ternyata omzet yang tercatat di sistem kami jauh lebih besar dibanding laporan mereka. Dari situ terungkap adanya transaksi yang tidak dimasukkan,” ungkapnya. Melalui sistem e-Tax, Bapenda mampu mendeteksi ketidaksesuaian data secara lebih akurat. Karena itu, Handi menegaskan pentingnya kolaborasi antara teknologi dan pengawasan langsung dari pemilik usaha guna mence
+
+
+### Artikel 3987
+Judul: Perbandingan Kuliner Eropa Malang, Pilih Resto Mewah atau Kaki Lima? - radarmalang.jawapos.com
+Isi:
+Dinamika kuliner di Kota Malang kini semakin berwarna dengan munculnya persaingan menarik antara sajian khas Eropa kelas atas (fancy) dan kedai sarapan bergaya kebarat-baratan yang lebih terjangkau.
+
+
+### Artikel 3988
+Judul: Sentuhan Baru di My Kopi O! Malang, Hadirkan Konsep Lebih Nyaman dan Menu Asia yang Menggugah Selera - bacamalang.com
+Isi:
+KULWIS · 11 Jul 2026 19:55 WIB · Beef Spicy Gyudon, Caramelized Smoked Chicken dan Thai Chilli Chicken, sebagian dari menu baru "Asia Spicy Selection", yang diluncurkan My Kopi O! Malang termasuk wajah barunya dengan konsep yang lebih segar, nyaman dalam acara Media Lunch Gathering, Sabtu (11/7/2026). (Nedi Putra AW). BACAMALANG.COM – Suasana hangat dan penuh keceriaan mewarnai My Kopi O! Malang dalam acara Media Lunch Gathering yang digelar pada Sabtu (11/7/2026). Pada kesempatan tersebut, My Kopi O! resmi memperkenalkan wajah barunya dengan konsep yang lebih segar, nyaman, dan siap menjadi destinasi favorit untuk berbagai momen spesial. Tak sekadar melakukan pembaruan pada tampilan restoran, My Kopi O! juga memperkenalkan beragam menu terbaru bertajuk “Asia Spicy Selection”. Mengusung cita rasa khas Asia, mulai dari kuliner Thailand hingga Jepang, seluruh hidangan dirancang sebagai comfort food yang memanjakan lidah sekaligus menemani berbagai aktivitas bersama keluarga, sahabat, maupun komunitas. Marketing Communication My Kopi O!, Arvin Danu Ega, mengatakan bahwa transformasi ini merupakan bentuk komitmen My Kopi O! dalam menghadirkan pengalaman bersantap yang lebih berkesan bagi para pelanggan. “Kami ingin My Kopi O! bukan sekadar tempat makan, tetapi menjadi rumah bagi setiap perayaan. Dengan konsep baru ini, kami membuka ruang bagi siapa pun yang ingin merayakan momen bahagia, mulai dari ulang tahun hingga gathering komunitas dengan kapasitas hingga 30 orang,” ujarnya. Acara juga diisi dengan demo kreasi latte art. (Nedi Putra AW) Arvin menambahkan, menu Asia yang dihadirkan merupakan bentuk apresiasi terhadap keinginan pelanggan akan cita rasa yang kaya dan berani, juga sebagai teman yang pas di setiap percakapan hangat di meja makan. Selain menghadirkan suasana baru, My Kopi O! juga menawarkan sejumlah menu andalan yang menjadi rekomendasi bagi para pecinta kuliner. Dipaparkan Arvin, menu tersebut diantaranya Japanese Goma Salad, perpaduan sayuran segar dengan saus wijen khas Jepang yang gurih dan creamy; Caramelized Smoked Chicken, ayam asap dengan sentuhan karamelisasi yang menghasilkan perpaduan rasa manis dan gurih; serta Mala Chicken Wings, sayap ayam dengan bumbu mala bercita rasa pedas yang memberikan sensasi khas di setiap gigitan. “Namun kami juga berkomitmen menghadirkan pengalaman kuliner premium dengan harga yang tetap terjangkau, dimana berbagai menu dapat dinikmati mulai dari Rp50.000,” tukasnya. Sementara bagi pengunjung yang ingin menikmati santapan lengkap, tersedia pula Bundling Lunch Menu seharga Rp150.000 dengan tiga pilihan paket, yakni:Bundling A: Nasi Lemak Ayam Berempah, Mala Chicken Wings, dan Sakura Berry. Bundling B: Smoked Chicken Spaghetti, Mala Chicken Wings, dan Tropical Pineapple Punch, serta Bundling C: Beef Spicy Gyudon, Mala Chicken Wings, dan Purple Haze. “Kami berharap melalui konsep baru, pilihan menu yang semakin beragam, serta suasana yang lebih nyaman, My Kopi O! dapat menjadi pilihan utama masyar
+
+
+### Artikel 3989
+Judul: Rekomendasi Kuliner Italia Autentik di Malang, Pasta Hingga Dessert Lezat! - radarmalang.jawapos.com
+Isi:
+Kota Malang saat ini sedang bertransformasi menjadi pusat destinasi kuliner internasional yang menawarkan kekayaan rasa autentik dari daratan Eropa, khususnya Italia.
+
+
+### Artikel 3990
+Judul: Garang Asem hingga Oyster Omelette, Sari Lambau Malang Sajikan Kuliner Nusantara dengan Konsep Classic Heritage - radarmalang.jawapos.com
+Isi:
+Jika mencari restoran yang cocok untuk makan bersama keluarga besar dengan tempat nyaman dan pilihan menu yang lengkap, Sari Lambau bisa menjadi pilihan. Restoran ini menghadirkan 4 cita rasa kuliner dari budaya berbeda,
+
+
+### Artikel 3991
+Judul: Cari Kuliner Legend di Kidul Dalem Malang? Ini Rekomendasi Grab Bintang 5 - idntimes.com
+Isi:
+Kalau kamu mau coba kuliner legendaris di Malang, Grab Bintang 5 punya beberapa rekomendasi restoran yang bisa jadi pilihan seperti Muncul Chinese Food, Tahwa Mas Agus, dan Rumah Makan Gloria. Ketiga restoran ini sudah jadi favorit warga lokal maupun wisatawan selama puluhan tahun.Kenapa harus ke daerah Kidul Dalem? Meliputi area luar Alun-Alun, Kayutangan, Pecinan, Tugu, sampai Stasiun Kotabaru, kawasan ini sudah jadi pusat perekonomian Malang sejak zaman kolonial. Kuliner legend Malang yang masih bertahan hingga sekarang pun kebanyakan berlokasi di sini.Grab Bintang 5 bakal mempermudah rencanamu buat berburu kuliner, karena badge ini menandakan kurasi daftar makanan terbaik di Malang berdasar kualitas makanan dan pelayanan restoran yang sudah di-rating jutaan pelanggan.Nah, berikut ini beberapa kuliner di area Kidul Dalem yang layak dicoba. Restoran Cocok untuk Menu utama Muncul Chinese Food coba chinese food legendaris yang halal nasi goreng, bakmie goreng, kwetiao Tahwa Mas Agus kuliner malam tahwa, ronde Rumah Makan Gloria makan tengah dan coba olahan babi legendaris cui mie, koloke, suikiao kuah babi *Harga, jam operasional, status merchant, dan ketersediaan menu dapat berubah. Periksa informasi terbaru di aplikasi Grab sebelum berkunjung atau pesan makanan maupun minuman. Kalau mau cicip Chinese food yang enak tanpa olahan daging dan minyak babi, wajib coba masakan Muncul. Muncul adalah salah satu kedai Chinese food dengan menu paling lengkap. Ada puluhan masakan yang bisa dicoba. Namun, beberapa yang jadi favorit pengunjung adalah nasi goreng, bakmie, dan kwetiau siram. Varian nasi gorengnya saja ada belasan. Kalau bingung mau pilih yang mana, coba nasi goreng kekian yang paling populer di sini.Selain menunya yang beragam, kelebihan masakan di kedai ini adalah aroma smokey yang sedap dari teknik pengolahan wok hei yang jadi ciri khas kedai Chinese food di Indonesia.Kedai ini berlokasi di Food Court Mitra I Department Store dan sudah jadi kuliner populer di Malang sejak tahun 1970-an. Karena buka dari jam 10.00–19.30, tempat ini cocok banget buat makan siang dan malam.Kamu bisa datang langsung ke lokasi buat coba masakan Muncul. Kalau lagi mager, tinggal pesan lewat GrabFood dan duduk manis tunggu makan siangmu dikirim.Menu favorit: nasi goreng kekian, bakmie goreng ayam, kwetiao udang jamur goreng, koloke.Kisaran harga makanan: Rp28.000–Rp91.000. Rekomendasi kuliner Malang selanjutnya adalah Tahwa Mas Agus. Berlokasi di Jalan Aries Munandar 20, warung kaki lima ini jadi langganan warga Malang yang mau kulineran malam.Kedai Tahwa Mas Agus cuma punya dua menu utama, yaitu tahwa dan ronde. Keduanya diguyur kuah jahe panas. Pas buat menghangatkan badan saat cuaca dingin atau saat kondisi badan kurang fit.Tahwa dan ronde sama-sama berakar dari kuliner Tiongkok, yaitu douhua dan tangyuan. Tahwa yang juga populer dengan nama kembang tahu mengadopsi douhua gaya selatan yang disajikan dengan kuah manis. Beda dengan douhua di Beijing dan sekitarnya

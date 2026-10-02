@@ -1,0 +1,86 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "jenis_tempat": "subtipe lebih spesifik, mis. 'rooftop cafe', 'kuliner kaki lima', 'air terjun', 'taman hiburan', dst",
+          "lokasi": "lokasi mentah apa adanya sesuai artikel (alamat/nama jalan/area jika disebut)",
+          "keterangan": "ringkasan singkat ciri khas/daya tarik tempat ini (mis. menu andalan, konsep, fasilitas)",
+          "status_viral": "Disebut viral" (artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet) atau "Rekomendasi" (tempat hanya direkomendasikan/masuk daftar, tanpa disebut eksplisit viral),
+          "viral_sejak": "tanggal/bulan/periode eksplisit terkait mulai viral jika disebut, atau 'Tidak disebut' jika tidak ada",
+          "dasar_viral": "kutipan/alasan singkat dari artikel yang menjadi dasar kenapa tempat ini dianggap viral/direkomendasikan, atau null jika tidak ada dasar eksplisit",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "negara": "nama negara, default 'Indonesia' kecuali artikel jelas menyebut negara lain",
+          "latitude": angka desimal lintang jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "longitude": angka desimal bujur jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "presisi_koordinat": "exact" (alamat persis diketahui), "approximate" (hanya area/kecamatan/kota), atau "unknown" (tidak ada dasar koordinat),
+          "catatan_lokasi": "catatan tambahan soal lokasi, mis. ketidakpastian, patokan terdekat, atau null jika tidak ada"
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 3936
+Judul: Deretan Kafe yang Menjual Butter Tteok Viral di Malang - IDN Times Jatim
+Isi:
+Butter tteok masih menjadi salah satu trend kuliner yang hangat dibicarakan. Dessert yang terbuat dari campuran tepung beras ketan, susu, mentega (butter), gula, dan telur ini membuat ngiler siapa saja yang melihatnya lewat di beranda media sosial. Saat ini, sudah banyak kafe dan bakery yang menjual kue ini. Tak ketinggalan, Kota Malang juga menjadi salah satu yang tidak mau ketinggalan. Camilan asal Korea Selatan ini telah menarik banyak peminat dan membuatnya banyak dicari, terutama oleh anak muda di Malang. Nah, bagi kamu warga Malang atau wisatawan yang sedang berkunjung, berikut rekomendasi tempat untuk berburu butter tteok di Kota Malang: Luke Artisan Bakery merupakan salah satu kafe pastry terkenal di Kota Malang. Salah satu menu terbaru yang baru dikeluarkan adalah butter tteok. Menu ini menjadi salah satu andalan mereka dan cukup banyak dicari. Selain butter tteok, mereka juga menawarkan produk pastry dan dessert dengan kualitas premium. Menu favorit mereka di antaranya, croissant, pain au chocolat, canele, roti sourdough, dubai choco brownie dengan kunafah pistachio, serta pilihan cake seperti cashew gianduja, blueberry cream cheese, banana peanut butter, dan masih banyak lagi.Luke Artisan Bakery menjadi bakehouse tapi juga berkonsep seperti kafe. Selain menyediakan makanan manis, mereka juga menyajikan hidangan berat seperti pasta, soup, tom yum, scrambled egg, dan masih banyak lagi. Konsep kafe ini minimalis yang dibuat agar pengunjung betah berlama-lama mengobrol atau melakukan pekerjaan. Selain itu, di sini juga tersedia menu kids friendly sehingga cocok bagi pengunjung yang datang bersama keluarga. Lokasi: Jalan Pahlawan Trip No.11, Oro-oro Dowo, Kec. Klojen, Kota Malang.Jam operasional: 07.00-16.00 WIB Sekitar bulan April lalu, Nerra Bakehouse baru saja mengeluarkan menu terbaru mereka, yakni butter tteok. Menu ini langsung diserbu oleh banyak pelanggan yang menanti. Dengan harga Rp35 ribu, kamu bisa menikmati butter tteok dengan bonus saus khas mereka. Selain menu butter tteok, pengunjung juga bisa mencoba menu viral lain seperti dubai chewy chocolate atau cheesecake creme brulee, dan masih banyak menu pastry lain yang tersedia di sini. Nerra Bakehouse mengusung tema kafe estetik dengan area yang luas sehingga bisa digunakan untuk duduk bersama tema. Saat berkunjung kemari kamu akan menemukan banyak sudut cantik dengan dekorasi yang lucu. Dijamin kamu tidak akan kehabisan ide foto ketika berkunjung kemari.Lokasi: Jalan Welirang No.8, Oro-oro Dowo, Kec. Klojen, Kota Malang. Jam operasional: 08.00-23.00 Selanjutnya ada bakehouse Seasalt by Sae Baker yang juga menawarkan butter tteok dalam daftar menu mereka. Sekotak butter tteok ala Seasalt by Sae Baker akan datang dengan saus vla dan cocolan gula palm. Tampilannya tak hanya cantik, tetapi juga menggugah selera. Sensasi kenyalnya tteok dari tepung ketan berpadu dengan manisnya saus dijamin tidak akan menjadi kombo yang pecah di mulut.Selain menu butter tteok, ada banyak pilihan des
+
+
+### Artikel 3937
+Judul: Rekomendasi Spot Nongkrong di Malang, Arte Coffee & Eatery Sajikan Kopi di Gelas Bersuhu -86°C - ketik.com
+Isi:
+15 Juni 2026 03:00 15 Jun 2026 03:00 Dirty latte -86° menjadi menu andalan yang diincar banyak masyarakat Malang di Arte Coffee & Eatery. (Foto: Google Maps Fulltime Reviewer) KETIK, MALANG – Arte Coffee & Eatery hadir sebagai destinasi nongkrong baru di Kota Malang dengan menawarkan pengalaman yang tidak biasa. Mengusung konsep unik berupa sensasi suhu mencapai -86°C, kafe ini menghadirkan daya tarik tersendiri bagi para pencinta kopi dan pemburu tempat hangout kekinian. Perpaduan suasana nyaman, menu beragam, serta pengalaman berbeda membuat Arte Coffee & Eatery berpotensi menjadi the next spot nongkrong favorit arek Malang. Kehadirannya memberikan warna baru dalam industri kopi di Kota Pendidikan ini. Kota Malang memang dikenal memiliki banyak kafe dengan beragam konsep menarik. Salah satu yang terbaru dan tengah mencuri perhatian adalah Arte Coffee & Eatery yang berlokasi di Jalan Semeru No. 80, Kecamatan Klojen, Kota Malang. Kafe yang beroperasi 24 jam setiap hari ini menawarkan menu unik yang viral di media sosial. Dirty Latte -86°, sebuah minuman dengan sensasi dingin ekstrem. Meskipun menawarkan tingkat dingin yang ekstrem, rasa creamy yang dihadirkan tetap seimbang. Dirty Latte -86° menjadi kopi pertama di Kota Malang yang disajikan menggunakan gelas yang dibekukan hingga suhu -86° Celsius. Minuman ini ramai diburu masyarakat setelah viral di TikTok karena menampilkan perpaduan espresso dan susu dingin bertekstur lembut yang menciptakan gradasi estetik. Untuk menikmati sensasi dingin ekstrem ini, pengunjung disarankan meminumnya dengan cepat agar mendapatkan cita rasa kopi yang kuat (strong) sebelum perlahan berubah didominasi rasa susu (milky). Tak hanya itu, di lapisan terakhir kopi juga akan terbentuk gumpalan es yang unik untuk dinikmati. Menu Dirty Latte ini dibanderol dengan harga Rp40.000. Selain espresso, varian suhu ekstrem ini juga tersedia dalam pilihan rasa lain seperti matcha, berries, hingga pistachio. Jadi, pengunjung yang tidak mengonsumsi kopi tidak perlu khawatir karena tetap bisa merasakan sensasi minuman dingin -86° Celsius ini. Tak hanya minuman ikonik, kafe ini juga menyediakan beragam pilihan camilan, dessert , hingga makanan berat dengan porsi cukup besar yang mengenyangkan. Menunya bervariasi, mulai dari hidangan Nusantara seperti nasi goreng ayam kecombrang, hingga menu Western seperti steak daging dan salmon. Untuk menu reguler lainnya, harga dibanderol mulai dari Rp23.000. Bagi para pencinta kopi, Arte Coffee & Eatery wajib masuk dalam bucket list kunjungan sebagai kafe dengan inovasi paling segar di Kota Malang. (*) Jurnalis Ketik di
+                                            Malang Editor Ketik di
+                                            Malang
+
+
+### Artikel 3938
+Judul: Perpaduan Kuliner dan Suasana Jepang, Tokio O! Cafe Curi Perhatian Warga Malang - radarmalang.jawapos.com
+Isi:
+Perpaduan kuliner Jepang, suasana yang nyaman, dan harga yang terjangkau menjadikan Tokio O! Japanese Cafe sebagai salah satu destinasi kuliner yang semakin diminati masyarakat Malang.
+
+
+### Artikel 3939
+Judul: 3 Cafe Unik Malang: Tempat Nongkrong Tersembunyi yang Menawarkan Ketenangan di Tengah Kota! - radarmalang.jawapos.com
+Isi:
+Rekomendasi tiga cafe unik instagramable populer di Malang meliputi Pipir Lepen, Calathea Garden, dan Selak Cafe yang menawarkan konsep estetika alam luar biasa.
+
+
+### Artikel 3940
+Judul: Black Crane Malang Hadirkan Sensasi Nongkrong Industrial "Warm Vibes" Jadi Daya Tarik Anak Muda! - radarmalang.jawapos.com
+Isi:
+Kuliner Black Crane Malang sukses menetapkan standar baru pengalaman makan mewah di Kota Malang lewat perpaduan keintiman rasa autentik dan kemegahan interior modern.
+
+
+### Artikel 3941
+Judul: Cafe Hopping di Malang! 8 Cafe Instagramable yang Wajib Masuk Bucket List Gen Z - radarmalang.jawapos.com
+Isi:
+Tren cafe hopping semakin digemari Gen Z di Malang. Mulai dari konsep garden, heritage, hingga minimalis modern, delapan cafe ini menawarkan suasana nyaman sekaligus spot foto instagramable yang sayang untuk dilewatkan.
+
+
+### Artikel 3942
+Judul: Bukan Sekadar Nongkrong: 3 Kafe Unik di Malang dengan Konsep Tak Biasa - radarmalang.jawapos.com
+Isi:
+Tren nongkrong di kafe kini bukan lagi sekadar soal kopi enak atau tempat yang estetik untuk foto. Di Malang, banyak tempat nongkrong mulai menghadirkan pengalaman yang lebih unik dan personal
+
+
+### Artikel 3943
+Judul: Kafe Estetik Malang Makin Menjamur, 3 Kawasan Ini Jadi Magnet Nongkrong Anak Muda 2026 - malang.disway.id - Disway Malang
+Isi:
+SEJARAH & PENGETAHUAN SEJARAH & PENGETAHUAN SEJARAH & PENGETAHUAN SEJARAH & PENGETAHUAN SEJARAH & PENGETAHUAN SEJARAH & PENGETAHUAN Kawasan wisata pusat kota Malang, Kayutangan Heritage --Diswaymalang.id MALANG , DISWAYMALANG.ID - Kota MALANG tidak pernah kehabisan cara untuk membuat anak muda betah berlama-lama. Salah satu yang paling mudah terlihat adalah menjamurnya kafe estetik MALANG yang kini tidak lagi sekadar menjual kopi dan makanan. Kafe telah berkembang menjadi ruang sosial baru. Mahasiswa datang untuk mengerjakan tugas, pekerja muda mencari tempat bekerja, komunitas menggelar pertemuan, sementara Generasi Z berburu tempat dengan desain menarik untuk membuat konten media sosial. Fenomena tersebut tidak terlepas dari karakter Malang sebagai kota pendidikan. Universitas Negeri Malang (UM), misalnya, mencatat 57.785 mahasiswa berdasarkan data real-time per 8 Agustus 2026. Jumlah tersebut baru berasal dari satu perguruan tinggi dan menunjukkan besarnya pasar anak muda yang berpotensi menghidupkan bisnis kuliner, kopi dan ruang kreatif di Kota Malang. Salah satu kawasan yang identik dengan aktivitas nongkrong anak muda adalah Sudimoro di Kecamatan Lowokwaru. Karakter kawasan ini berbeda dengan pusat kota. Lingkungannya lebih dekat dengan kantong permukiman dan aktivitas mahasiswa. Konsep tempat nongkrong pun beragam, mulai dari kedai kopi sederhana, angkringan, ruang terbuka hingga kafe dengan konsep yang lebih modern. Salah satu contoh yang masih beroperasi di kawasan tersebut adalah Barakesna Coffee di Jalan Sudimoro. Tempat ini menggabungkan konsep coffee shop dan angkringan, sekaligus menyediakan mini stage untuk pertunjukan. Ada pula sejumlah kedai lain di sepanjang Sudimoro yang menunjukkan bahwa kawasan tersebut bukan hanya menjadi tempat makan, tetapi berkembang sebagai ruang pertemuan anak muda. Karakter seperti ini membuat Sudimoro cocok bagi mahasiswa yang mencari tempat berkumpul dengan suasana lebih santai dan harga yang relatif beragam. Jika Sudimoro menawarkan suasana yang lebih dekat dengan kawasan mahasiswa, Kayutangan Heritage memberikan pengalaman nongkrong dengan latar sejarah Kota Malang. Koridor Jalan Basuki Rahmat menjadi salah satu ruang publik paling menonjol di pusat kota. Bangunan lama, jalur pedestrian, kampung wisata dan aktivitas ekonomi bercampur dalam satu kawasan. Pemkot Malang pada 2026 masih memperkuat penataan Kayutangan Heritage. Kawasan tersebut sebelumnya ditata tidak hanya untuk memperbaiki lingkungan, tetapi juga melestarikan bangunan bersejarah dan mengembangkan destinasi serta paket wisata. Kondisi tersebut ikut menciptakan ruang bagi bisnis kuliner dan kafe untuk berkembang. Sejumlah kafe di kawasan Kayutangan bahkan menjadikan karakter heritage sebagai bagian dari daya tarik. Konsep interior klasik, bangunan lama, furnitur bernuansa vintage hingga lokasi yang berdekatan dengan koridor pedestrian menjadi nilai jual tersendiri. Laporan mengenai perkembangan kuliner Kayutangan pada 2026 juga menunju

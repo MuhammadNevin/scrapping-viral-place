@@ -1,0 +1,48 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "jenis_tempat": "subtipe lebih spesifik, mis. 'rooftop cafe', 'kuliner kaki lima', 'air terjun', 'taman hiburan', dst",
+          "lokasi": "lokasi mentah apa adanya sesuai artikel (alamat/nama jalan/area jika disebut)",
+          "keterangan": "ringkasan singkat ciri khas/daya tarik tempat ini (mis. menu andalan, konsep, fasilitas)",
+          "status_viral": "Disebut viral" (artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet) atau "Rekomendasi" (tempat hanya direkomendasikan/masuk daftar, tanpa disebut eksplisit viral),
+          "viral_sejak": "tanggal/bulan/periode eksplisit terkait mulai viral jika disebut, atau 'Tidak disebut' jika tidak ada",
+          "dasar_viral": "kutipan/alasan singkat dari artikel yang menjadi dasar kenapa tempat ini dianggap viral/direkomendasikan, atau null jika tidak ada dasar eksplisit",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "negara": "nama negara, default 'Indonesia' kecuali artikel jelas menyebut negara lain",
+          "latitude": angka desimal lintang jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "longitude": angka desimal bujur jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "presisi_koordinat": "exact" (alamat persis diketahui), "approximate" (hanya area/kecamatan/kota), atau "unknown" (tidak ada dasar koordinat),
+          "catatan_lokasi": "catatan tambahan soal lokasi, mis. ketidakpastian, patokan terdekat, atau null jika tidak ada"
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 4832
+Judul: Ascott Resmikan Fox Hotel Nagoya Batam, Hotel Modern Baru di Pusat Kota Batam - Beritakota
+Isi:
+Beritakota.id, Jakarta – The Ascott Limited resmi menghadirkan Fox Hotel Nagoya Batam sebagai hotel pertama brand Fox Hotels di Batam. Kehadiran hotel ini sekaligus memperluas jaringan Ascott di destinasi strategis Indonesia yang terus berkembang sebagai pusat bisnis dan pariwisata. Sebagai salah satu kawasan paling dinamis di Kepulauan Riau, kawasan Nagoya Batam dinilai memiliki pertumbuhan pesat di sektor bisnis, gaya hidup, hingga wisata singkat bagi wisatawan domestik maupun internasional. Mengusung konsep modern dan elevated, Fox Hotel Nagoya Batam menghadirkan desain sleek dan kontemporer sejak area lobi. Perpaduan material marmer, aksen metalik, dan pencahayaan artistik menciptakan atmosfer stylish yang tetap nyaman bagi para tamu. Desain tersebut merefleksikan karakter Fox Hotels yang dinamis, adaptif, dan dekat dengan gaya hidup urban masa kini. Fox Hotel Nagoya Batam memiliki 174 kamar yang terdiri dari Deluxe Room hingga Family Suite untuk mendukung kebutuhan traveler modern yang dinamis. Melengkapi pengalaman menginap, hotel ini menghadirkan fasilitas all-day dining dengan pilihan menu lokal dan internasional, lounge bar bergaya retro dengan signature cocktail, fasilitas spa, hingga area Grab & Go yang menyediakan makanan dan minuman praktis. Selain itu, tersedia empat ruang pertemuan fleksibel termasuk ballroom berkapasitas hingga 200 tamu untuk kebutuhan meeting maupun acara sosial. Didukung konektivitas Batam dengan Singapura dan Malaysia, Batam terus berkembang sebagai destinasi favorit untuk perjalanan bisnis maupun liburan singkat. Baca juga: Ascott Region Jakarta–Tangerang–Bekasi Rayakan Global Accessibility Awareness Day, Dorong Inklusivitas di Industri Hospitality Country General Manager Ascott Indonesia, Philip Barnes, mengatakan Batam memiliki potensi besar dalam pertumbuhan sektor hospitality dan pariwisata. “Batam terus menunjukkan perannya sebagai salah satu kota dengan pertumbuhan sektor pariwisata dan bisnis yang semakin berkembang. Kehadiran Fox Hotel Nagoya Batam menjadi bagian dari upaya kami menghadirkan portofolio brand yang beragam di destinasi dengan potensi pertumbuhan kuat seperti Batam,” ujarnya. Ia menambahkan, hingga saat ini Ascott telah mengoperasikan lebih dari 10 properti di Batam dan jumlah tersebut masih akan terus berkembang. Sementara itu, Hotel Manager Fox Hotel Nagoya Batam, Yudie Rafles, menyampaikan hotel ini dirancang agar tamu dapat menikmati pengalaman Batam secara lebih dekat. “Kami bangga dapat menghadirkan Fox Hotel pertama di kawasan Batam. Berada di tengah kawasan Nagoya, hotel ini kami hadirkan untuk membawa para tamu lebih dekat dengan berbagai pengalaman kota, mulai dari kuliner, hiburan, hingga destinasi lokal favorit,” katanya. Fox Hotel Nagoya Batam menawarkan promo menginap mulai dari Rp599.000 net per malam. Melalui program loyalitas gratis Ascott Star Rewards (ASR), tamu juga dapat menikmati berbagai keuntungan eksklusif seperti diskon hingga 30 persen untuk makanan dan minuman 
+
+
+### Artikel 4833
+Judul: Batam Tegaskan Aman dari Hantavirus Meski Kedatangan Wisatawan Menurun - mediaindonesia.com
+Isi:
+Ombudsman berharap Polri kian terbuka atas pengawasan eksternal. ARUS kedatangan wisatawan dari Singapore ke Kota Batam dilaporkan mengalami penurunan dalam beberapa hari terakhir. Kondisi ini terlihat di sejumlah pintu masuk utama di tengah meningkatnya perhatian publik terhadap isu kesehatan di kawasan tersebut. Pantauan Media Indonesia Rabu (13/5), penurunan jumlah penumpang tampak di dua pelabuhan internasional utama, yakni Batam Center International Ferry Terminal dan Harbour Bay Ferry Terminal. Dibandingkan hari-hari normal, kedatangan wisatawan mancanegara, khususnya dari Singapura, terlihat lebih sedikit dari biasanya. Meski demikian, belum ada kebijakan pembatasan perjalanan yang diberlakukan. Aktivitas pelayanan di pelabuhan tetap berjalan normal, termasuk pemeriksaan penumpang sesuai prosedur di pintu masuk internasional. Baca juga : Fluktuasi Bulanan, Namun Tren Wisman Batam Tetap Tumbuh Kepala Dinas Komunikasi dan Informatika Kota Batam, Rudi Panjaitan, mengatakan bahwa penurunan jumlah wisatawan tidak serta-merta berkaitan langsung dengan kondisi kesehatan di Batam. Ia menegaskan bahwa situasi di daerah tersebut masih aman dan terkendali. “Kami memahami adanya kekhawatiran dari sebagian wisatawan, namun kami pastikan bahwa sampai saat ini tidak ada kasus hantavirus di Batam. Aktivitas di pelabuhan dan sektor pariwisata tetap berjalan normal,” katanya. Pemkot Batam mengimbau masyarakat dan pelaku usaha pariwisata untuk tetap tenang serta tidak menyebarkan informasi yang belum terverifikasi agar tidak menimbulkan kepanikan di tengah masyarakat. Baca juga : Bengkong Melejit, Jadi Episentrum Baru Wisata dan Ekonomi Batam Sejumlah pihak menilai penurunan ini lebih dipengaruhi oleh faktor kehati-hatian wisatawan terkait isu kesehatan yang tengah menjadi perhatian, meskipun otoritas kesehatan memastikan situasi tetap terkendali dan belum ditemukan kasus yang mengkhawatirkan. Pemerintah Kota Batam sebelumnya telah mengingatkan masyarakat untuk tetap waspada namun tidak panik. Pemantauan kesehatan terus dilakukan melalui sistem pengawasan seperti Early Warning Alert and Response System (EWARS) dan Sistem Kewaspadaan Dini dan Respons (SKDR), serta koordinasi dengan fasilitas kesehatan dan otoritas di pintu masuk pelabuhan dan bandara. Di sisi lain, perhatian publik terhadap isu Hantavirus turut memengaruhi persepsi sebagian wisatawan. Hantavirus sendiri merupakan kelompok virus yang umumnya ditularkan dari hewan pengerat seperti tikus, dengan penularan antar manusia yang sangat jarang terjadi. Hingga saat ini, Dinas Kesehatan Kota Batam menegaskan belum ada laporan kasus hantavirus di wilayah tersebut. Pemerintah bersama Kementerian Kesehatan RI memastikan pengawasan kesehatan di pintu masuk tetap diperketat untuk menjaga keamanan masyarakat dan wisatawan. (HK/E-4) Transformasi industri manufaktur di Batam mendapat dorongan baru melalui penyelenggaraan Manufacturing Indonesia Series - Batam Chapter 2026 RSB Peduli Mualaf ini merupakan bentuk 

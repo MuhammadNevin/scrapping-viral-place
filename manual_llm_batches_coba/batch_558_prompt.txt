@@ -1,0 +1,84 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "jenis_tempat": "subtipe lebih spesifik, mis. 'rooftop cafe', 'kuliner kaki lima', 'air terjun', 'taman hiburan', dst",
+          "lokasi": "lokasi mentah apa adanya sesuai artikel (alamat/nama jalan/area jika disebut)",
+          "keterangan": "ringkasan singkat ciri khas/daya tarik tempat ini (mis. menu andalan, konsep, fasilitas)",
+          "status_viral": "Disebut viral" (artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet) atau "Rekomendasi" (tempat hanya direkomendasikan/masuk daftar, tanpa disebut eksplisit viral),
+          "viral_sejak": "tanggal/bulan/periode eksplisit terkait mulai viral jika disebut, atau 'Tidak disebut' jika tidak ada",
+          "dasar_viral": "kutipan/alasan singkat dari artikel yang menjadi dasar kenapa tempat ini dianggap viral/direkomendasikan, atau null jika tidak ada dasar eksplisit",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "negara": "nama negara, default 'Indonesia' kecuali artikel jelas menyebut negara lain",
+          "latitude": angka desimal lintang jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "longitude": angka desimal bujur jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "presisi_koordinat": "exact" (alamat persis diketahui), "approximate" (hanya area/kecamatan/kota), atau "unknown" (tidak ada dasar koordinat),
+          "catatan_lokasi": "catatan tambahan soal lokasi, mis. ketidakpastian, patokan terdekat, atau null jika tidak ada"
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 4456
+Judul: Tempat Kekinian Kopi dari Hati & Toast Sentani - RRI.co.id
+Isi:
+RRI.CO.ID, Jayapura – Di tengah aktivitas masyarakat yang semakin padat, kebutuhan akan tempat bersantai yang nyaman menjadi bagian penting. Hadir menjawab kebutuhan tersebut, Kopi dari Hati & Toast Sentani menjadi salah satu destinasi kuliner yang banyak diminati masyarakat. Berlokasi di Jalan Raya Kemiri Nomor 27, Sentani, kafe dan restoran ini menawarkan konsep modern dengan nuansa estetik. Walau tampilan luar terlihat biasa, namun saat masuk pengunjung akan dibuat kagum dengan setiap sudut interiornya. Berada strategis tak jauh dari Bandara Sentani, tempat ini menyediakan 3 lantai lengkap dengan ruangan indoor dan outdoor. Terdapat banyak pilihan spot foto kekinian di setiap sisi untuk memanjakan mata para pengunjung. Yang membuat semakin menarik yaitu lokasi outdoor lantai dua yang langsung berhadapan dengan Gunung Cycloop. Untuk menikmati keindahan ini, pengunjung bisa datang saat pagi sampai sore hari Beragam menu makanan dan minuman tersedia untuk memanjakan lidah para pelanggan. Mulai dari aneka kopi, roti panggang, camilan ringan hingga menu makanan berat disajikan dengan cita rasa yang menggugah selera. Selain menghadirkan menu yang beragam, pelayanan yang ramah menjadi nilai tambah yang membuat pelanggan merasa nyaman. Tersedia pula panggung live akustik untuk menemani pengunjung menghabiskan waktu bersama orang-orang tercinta. Kopi Dari Hati & Toast turut memperkaya pilihan destinasi wisata kuliner khususnya di Kabupaten Jayapura. Kehadirannya menunjukkan bahwa industri kuliner di Papua terus tumbuh dengan menghadirkan konsep yang kreatif bagi masyarakat modern. Tidak hanya mengedepankan kualitas menu, tempat ini juga berupaya membangun kedekatan dengan pelanggan melalui berbagai inovasi layanan. Kopi Dari Hati & Toast Sentani menjadi salah satu tempat yang layak dikunjungi saat berada di Kabupaten Jayapura. Memuat berita terbaru.....
+
+
+### Artikel 4457
+Judul: One Cloud Coffee & Eatery Jayapura: Spot Nongkrong Aesthetic - RRI.co.id
+Isi:
+RRI.CO.ID, Jayapura - One Cloud Coffee & Eatery, menjadi salah satu tempat nongkrong yang mulai mencuri perhatian di Kota Jayapura. Kafe ini menawarkan suasana nyaman dengan konsep modern, yang cocok untuk berbagai aktivitas. Berlokasi di kawasan Ciboland Entrop, tepatnya di samping Lapangan Trisila dan depan Rusunawa TNI AL. Tempat yang cukup mudah dijangkau, membuat One Cloud Coffee & Eatery ramai dikunjungi anak muda hingga pekerja kantoran. Tempat ini tidak hanya cocok untuk sekadar bersantai, tetapi juga ideal untuk work from cafe (WFC). Fasilitas dan suasana yang mendukung, membuat pengunjung betah berlama-lama. Dari segi desain, One Cloud Coffee & Eatery mengusung konsep aesthetic dengan pilihan area indoor ber-AC dan outdoor . Pengunjung bisa memilih tempat sesuai kenyamanan, baik ingin suasana sejuk maupun santai di ruang terbuka. Menu yang ditawarkan cukup beragam, mulai dari makanan berat, snack , hingga dessert . Selain itu tersedia juga berbagai pilihan minuman, baik kopi maupun nonkopi. Untuk harga, menu di kafe ini tergolong terjangkau dengan kisaran mulai dari Rp25.000 hingga Rp95.000. Salah satu menu termahalnya adalah sop iga, yang menjadi favorit bagi pencinta hidangan berkuah. Bagi yang bingung memilih, ada beberapa rekomendasi menu yang patut dicoba. Ricebowl paru rica dengan harga Rp45.000 dan sea salt latte seharga Rp35.000, menjadi pilihan yang banyak diminati pengunjung. Tempat nyaman, menu variatif, dan harga terjangkau, menjadikan One Cloud Coffee & Eatery layak menjadi destinasi kuliner. Tidak heran jika kafe ini menjadi pilihan favorit untuk nongkrong sekaligus bekerja santai. Memuat berita terbaru.....
+
+
+### Artikel 4458
+Judul: Hits di Jayapura, Scorpio Coffee Jadi Favorit Anak Muda - RRI.co.id
+Isi:
+RRI.CO.ID, Jayapura - Scorpio Coffee Shop di Jalan Kelapa 2 No. 18 Entrop, Kota Jayapura kini menjadi salah satu destinasi favorit anak muda Kota Jayapura khususnya saat libur akhir pekan. Kedai kopi yang merupakan bagian dari Kopi Kio Culture ini menawarkan kopi 100% Arabika asli dengan cita rasa khas Papua. Harganya pun ramah dikantong, mulai dari Rp25.000 hingga Rp40.000 per minuman. Tak hanya kopi tersedia pula menu makanan berat serta cemilan manis, matcha latte hingga berbagai varian manual brew seperti V60. Tak heran jika setiap akhir pekan Scorpio slalu dipadati anak-anak muda yang datang bersama teman maupun komunitas. Suasana yang santai dan cozy membuat banyak dari mereka betah berlama-lama sekedar mengobrol, mengerjakan tugas hingga menggelar diskusi kecil sambil menikmati secangkir kopi. Daya tarik lainnya adalah desain tempatnya yang estetik perpaduan panel logam industrial, pencahayaan warm tone yang hangat serta area outdoor berkerikil putih menjadikan setiap sudutnya sebagai spot foto instagramable favorit pengunjung. Scorpio juga dinilai memberi dampak positif bagi ekosistem Usaha Mikro Kecil Menengah (UMKM) lokal, mulai dari petani kopi hingga pelaku usaha kuliner di Jayapura. Cafe ini juga meraih rating 4,5 dari pelanggan atas kualitas kopi dan keramahan pelayanannya. Bagi yang ingin ngopi nyaman dengan suasana cozy di akhir pekan, Scorpio Coffee Shop layak jadi pilihan utama. Memuat berita terbaru.....
+
+
+### Artikel 4459
+Judul: 16 Coffee Papua, Pilihan Tempat Ngopi Tepi Pantai - RRI.co.id
+Isi:
+RRI.CO.ID, Jayapura - Bagi pecinta kopi yang ingin menikmati suasana berbeda, 16 Coffee Shop dapat menjadi pilihan menarik di Kota Jayapura. Kedai kopi ini berlokasi di kawasan Pantai Hamadi Tobati dan menawarkan pengalaman bersantai berlatar pemandangan pantai yang menenangkan. Coffee shop yang mulai beroperasi pada awal Juni 2026 ini, mulai menarik perhatian masyarakat, khususnya kalangan anak muda. Lokasinya yang berada di tepi pantai, membuat pengunjung dapat menikmati semilir angin laut sambil menyeruput secangkir kopi favorit. Salah satu daya tarik utama tempat ini, adalah suasananya santai dan nyaman untuk berkumpul bersama teman maupun keluarga. Pengunjung dapat memilih area duduk indoor ber-AC atau menikmati udara segar di area outdoor yang menghadap ke pantai. Menu yang direkomendasikan, adalah Kopi 16, yakni es kopi susu gula aren yang dibanderol sekitar 35 ribu rupiah. Perpaduan rasa kopi dan manisnya gula aren, menghadirkan cita rasa yang pas untuk menemani waktu bersantai. Selain minuman kopi, tersedia pula camilan ringan berupa pisang cokelat dengan harga sekitar 35 ribu rupiah. Menu tersebut menjadi teman yang cocok untuk dinikmati bersama secangkir kopi pada sore hingga malam hari. Karena masih tergolong baru, 16 Coffee Papua saat ini belum menyediakan menu makanan berat. Meski demikian, pilihan minuman dan kudapan yang tersedia sudah cukup untuk memenuhi kebutuhan pengunjung yang ingin nongkrong santai. Keunggulan lainnya, adalah lokasi yang berada di kawasan wisata pantai sehingga menawarkan panorama alam yang memanjakan mata. Saat cuaca cerah, pengunjung dapat menikmati pemandangan matahari terbit yang indah dari sekitar kawasan Pantai Hamadi. Dengan konsep nyaman berlokasi di tepi pantai, 16 Coffee Papua layak masuk daftar rekomendasi tempat ngopi di Jayapura. Kehadiran area indoor dan outdoor, juga memberikan keleluasaan bagi pengunjung untuk memilih suasana yang paling sesuai. Memuat berita terbaru.....
+
+
+### Artikel 4460
+Judul: Lokasi Pantai Khalkote Bakal di Jadikan Tempat Permanen Kuliner Tradisional Khas Kabupaten Jayapura - Kilas Papua
+Isi:
+Kilaspapua, Sentani – Pemerintah Kabupaten Jayapura akan menjadikan lokasi pantai khalkote yang berada di distrik Sentani Timur, Kabupaten Jayapura sebagai tempat permanen kuliner tradisional makanan khas Kabupaten Jayapura, salah satunya papeda sekaligus tempat destinasi permanen. “ Sekarang masih penimbunan dan harapannya bulan depan sudah bisa dicor semua. Rencana pelaksanaan upacara peringatan Hari Kemerdekaan RI tahun 2026 dilaksanakan dilokasi tersebut ,”kata Bupati Jayapura, Yunus Wonda usai memimpin rapat panitia festival danau Sentani,(FDS) 2026 dan penyerahan pagu indikatif oleh bupati Jayapura di hotel Cartenz Sentani, Rabu (24/6/2026). Makanya, Bupati mengharapkan dukungan masyarakat guna menyukseskan kelancaran proses pembangunan dilokasi itu bukan sekedar event FDS semata tetapi akan menjadi tempat permanen kuliner khas Kabupaten Jayapura. “ Tujuannya supaya ekonomi bisa hidup, masyarakat bisa beraktivitas. Intinya kami ingin menjadikan lokasi itu sebagai destinasi wisata yang modern, Sentani menjadi salah satu tempat budaya masyarakat adat yang ada ,”harap bupati. (Redaksi ) Alamat email Anda tidak akan dipublikasikan. Ruas yang wajib ditandai * Simpan nama, email, dan situs web saya pada peramban ini untuk komentar saya berikutnya.
+
+
+### Artikel 4461
+Judul: Wisata Kuliner Pantai Cibery Jayapura Dorong Pertumbuhan UMKM - RRI.co.id
+Isi:
+RRI.CO.ID, Jayapura - Destinasi wisata kuliner baru hadir di kawasan Pantai Cibery, Kota Jayapura. Berlatar pemandangan Jembatan Merah yang menjadi ikon Kota Jayapura, tempat ini menawarkan pengalaman menikmati kuliner sore hingga malam hari di tepi pantai. Kawasan ini menghadirkan puluhan Usaha Mikro, Kecil dan Menengah (UMKM) yang menyediakan beragam pilihan makanan, minuman hingga kerajinan dan suvenir khas Mama Papua. Dari 38 unit UMKM yang tersedia, sebanyak 17 di antaranya telah resmi beroperasi melayani pengunjung. Pengelola wisata, Ester Melani, menyebut kehadiran destinasi ini membawa dampak nyata bagi warga sekitar. "Dengan hadirnya UMKM bisa meningkatkan ekonomi kami di tempat ini," ujar Ester. Wisata Kuliner Pantai Cibery beroperasi setiap hari mulai pukul 15.00 hingga 24.00 WIT. Untuk retribusi masuk, pengunjung yang datang menggunakan mobil dikenakan tarif Rp20.000, sementara pengguna sepeda motor Rp10.000. Keberadaan destinasi ini diharapkan mampu mendorong pertumbuhan ekonomi lokal sekaligus memperkuat ekosistem UMKM di Kota Jayapura. Memuat berita terbaru.....
+
+
+### Artikel 4462
+Judul: Onigiri Babaibun Jayapura: UMKM Kuliner Jepang Halal dengan Harga Ramah di Kantong - RRI.co.id
+Isi:
+RRI.CO.ID, Jayapura - Onigiri Babaibun Jayapura, hadir sebagai salah satu UMKM kuliner yang menawarkan cita rasa khas Jepang di Jayapura. Berlokasi di kawasan Doyo, dekat Polres Jayapura, tempat ini mulai dikenal sejak berdiri pada tahun 2024. Usaha kuliner ini, mengusung konsep makanan praktis dengan kualitas bahan yang tetap terjaga. Onigiri Babaibun, menjadi pilihan menarik bagi masyarakat yang ingin menikmati makanan ala Jepang dengan jaminan halal. Menu andalan di sini adalah onigiri dengan 11 varian rasa yang beragam. Pilihan tersebut memberikan variasi bagi pelanggan, mulai dari rasa klasik hingga kreasi modern yang lebih kekinian. Selain onigiri, tersedia juga menu dimsum dengan beberapa varian seperti original, mentai, dan bolognese . Tak ketinggalan, menu sushi juga dihadirkan untuk melengkapi pilihan makanan khas Jepang di tempat ini. Dari sisi harga, Onigiri Babaibun tergolong cukup terjangkau untuk semua kalangan. Onigiri dibanderol mulai Rp15.000, dimsum sekitar Rp30.000 per porsi, dan sushi bisa dinikmati mulai Rp3.000 saja. Menariknya, seluruh produk dibuat menggunakan bahan premium dan telah bersertifikat halal. Hal ini menjadi nilai tambah, yang membuat pelanggan merasa lebih aman dan nyaman saat mengonsumsi makanan. Untuk operasional, Onigiri Babaibun buka setiap hari kecuali Selasa dan Kamis. Namun pada dua hari tersebut, layanan tetap tersedia melalui sistem pengantaran kurir hingga ke Kota Jayapura. Bagi masyarakat yang ingin memesan, layanan online bisa dilakukan melalui WhatsApp di akun Instagram @onigiribabaibun. Kehadiran UMKM ini, diharapkan dapat menjadi salah satu rekomendasi kuliner lokal yang terus berkembang di Jayapura. Memuat berita terbaru.....
+
+
+### Artikel 4463
+Judul: Kuliner Dunia Serbu 16 Kota Tuan Rumah Piala Dunia 2026 - RRI.co.id
+Isi:
+RRI.CO.ID, Jayapura - Piala Dunia 2026 yang dimulai pada 11 Juni, tidak hanya menghadirkan pertandingan sepak bola kelas dunia semata. Turnamen ini juga menawarkan pengalaman budaya dan kuliner yang meriah, bagi jutaan pengunjung dari dunia. Sebanyak 16 kota tuan rumah di Amerika Serikat, Kanada, dan Meksiko bersiap menyambut kedatangan para suporter. Berbagai program kuliner disiapkan, untuk memperkenalkan kekayaan cita rasa lokal kepada pengunjung dari berbagai negara. Melansir Travel and Tour World, FIFA Fan Festival menjadikan pengalaman kuliner sebagai bagian penting perayaan turnamen. Kota-kota tuan rumah menghadirkan menu khusus dengan harga terjangkau, agar dapat dinikmati seluruh kalangan pengunjung. Philadelphia, menjadi salah satu kota yang paling siap menghadirkan pengalaman kuliner selama berlangsungnya turnamen dunia. Melansir World Cup Wiki, sebanyak 75 food truck lokal, akan beroperasi bergiliran sepanjang kompetisi berlangsung. Kawasan Fan Festival Philadelphia, dirancang sebagai ruang pertemuan berbagai cita rasa lokal dan internasional menarik. Pengunjung dapat menikmati beragam hidangan, sambil menyaksikan kemeriahan pertandingan bersama ribuan suporter dari dunia. Houston juga menyiapkan festival makanan global, yang berlangsung selama lebih dari satu bulan penuh nantinya. Melansir William Hill News, ribuan hidangan dari berbagai negara akan disajikan kepada para pengunjung. Setiap kota tuan rumah, menampilkan identitas kuliner masing-masing sebagai bagian dari perayaan sepak bola dunia. Berbagai makanan khas lokal diperkenalkan, untuk memberikan pengalaman berbeda kepada wisatawan selama berlangsungnya turnamen. Toronto mengusung tema The World in the City, untuk merayakan keberagaman budaya melalui kuliner internasional. Melansir The World Cup Guide, berbagai hidangan dunia disajikan dalam satu kawasan perayaan yang meriah. Mexico City menjadikan kawasan Zócalo sebagai pusat kegiatan kuliner terbesar sepanjang penyelenggaraan Piala Dunia 2026. Melansir Sports Planning Guide, pengunjung dapat menikmati beragam pilihan makanan, dari berbagai tingkat harga. Piala Dunia 2026, tidak hanya dikenang sebagai ajang olahraga terbesar, tetapi juga perayaan budaya global. Melansir FIFA, perpaduan sepak bola dan kuliner, menciptakan pengalaman berkesan bagi penggemar dari seluruh dunia. Memuat berita terbaru.....

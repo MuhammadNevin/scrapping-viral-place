@@ -1,0 +1,84 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "jenis_tempat": "subtipe lebih spesifik, mis. 'rooftop cafe', 'kuliner kaki lima', 'air terjun', 'taman hiburan', dst",
+          "lokasi": "lokasi mentah apa adanya sesuai artikel (alamat/nama jalan/area jika disebut)",
+          "keterangan": "ringkasan singkat ciri khas/daya tarik tempat ini (mis. menu andalan, konsep, fasilitas)",
+          "status_viral": "Disebut viral" (artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet) atau "Rekomendasi" (tempat hanya direkomendasikan/masuk daftar, tanpa disebut eksplisit viral),
+          "viral_sejak": "tanggal/bulan/periode eksplisit terkait mulai viral jika disebut, atau 'Tidak disebut' jika tidak ada",
+          "dasar_viral": "kutipan/alasan singkat dari artikel yang menjadi dasar kenapa tempat ini dianggap viral/direkomendasikan, atau null jika tidak ada dasar eksplisit",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "negara": "nama negara, default 'Indonesia' kecuali artikel jelas menyebut negara lain",
+          "latitude": angka desimal lintang jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "longitude": angka desimal bujur jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "presisi_koordinat": "exact" (alamat persis diketahui), "approximate" (hanya area/kecamatan/kota), atau "unknown" (tidak ada dasar koordinat),
+          "catatan_lokasi": "catatan tambahan soal lokasi, mis. ketidakpastian, patokan terdekat, atau null jika tidak ada"
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 4176
+Judul: Gurih Berempah! 5 Ketupat Sayur Padang di Jakarta Ini Bikin Nagih - detikFood
+Isi:
+Ketupat sayur Padang bisa menjadi pilihan makan siang yang menarik. Racikan lontong atau ketupat disiram kuah gurih berempah dan lauk memuaskan. Berikut rekomendasinya! Menu makan siang tidak melulu harus nasi atau mie. Sebagai alternatif lain, kamu bisa sajian ketupat atau lontong sayur khas Padang. Beberapa warung makan ketupat sayur Padang buka dari pagi sampai siang hari. Makanan ini bisa menjadi opsi cocok untuk makan siang memuaskan. SCROLL TO CONTINUE WITH CONTENT Biasanya dalam satu porsi terdiri dari potongan ketupat atau lontong, disiram kuah berempah khas, dan dilengkapi sayur nangka, sayur pakis, dan aneka lauk, seperti telur balado, rendang, hingga gulai tunjang. Kalau tertarik menikmati ketupat sayur Padang untuk makan siang, yuk mampir ke 5 tempat ini! Ketupat sayur Padang enak bisa ditemukan di daerah Jakarta Selatan, tepatnya kawasan Gandaria. Warung makan ini tidak hanya menyajikan nasi Padang tetapi juga ketupat sayur nangka pakis. Pilihan lauknya juga beragam, bisa polosan atau dilengkapi aneka lauk. Mulai dari tahu, telur dadar, telur gulai, perkedel, hingga jengkol. Harga seporsi ketupat dibanderol sesuai dengan lauk yang dipesan. Berkisar Rp 14.000 untuk sayur polos sampai Rp 26.000 an untuk ketupat dengan lauk tambahan. Lokasi tepatnya bisa ditemukan di Jl. Gandaria 1, RT.1/RW.10, Kramat Pela, Kec. Kby. Baru, Kota Jakarta Selatan. Buka pukul 10.00 - 21.00 WIB. Di Ragunan, Jakarta Setalan juga ada ketupat sayur Padang yang tak kalah menarik perhatian. Ketupat sayur di sini disajikan dengan kuah santan kental dan rasa rempah yang tercecap kuat di lidah. Seporsi ketupat sayur dilengkapi dengan gulai nangka dan pilihan lauk sesuai selera. Tersedia lauk gulai telur, gulai tahu, rendang, sampai gulai tunjang spesial. Harga seporsinya mulai dari Rp 20.000 sampai Rp 35.000 per porsi. Ketupat Sayur Padang Uni Epi bisa ditemukan di Ragunan, Ps. Minggu, Kota Jakarta Selatan. Buka mulai pukul 06.00 - 13.00 WIB. Ketupat sayur Padang di tempat satu ini istimewa. Mereka menyajikannya dengan gulai nangka yang kental dan berempah. Pilihan laukya juga beragam karena ada telur bulat, rendang, sampai sala lauak atau semacam bakwan gorengan khas Minang. Seporsi ketupat dibanderol seharga Rp 15.000 an saja. Lokasi tepatnya ada di Jl. Tebet Barat Dalam Raya No.122, RT.3/RW.6, Tebet Bar., Kec. Tebet, Kota Jakarta Selatan. Meski buka mulai pukul 07.00 - 15.00 WIB, tetapi lebih baik datang awal karena lauk cepat habis. Pasti sudah tidak asing lagi dengan rumah makan Padang Bopet Mini di Bendungan Hilir. Mereka dieknal tawarkan berbagai pilihan lauk khas Padang. Selain nasi, di sini juga ada ketupat sayurnya yang bisa dicoba. Seporsi ketupat dilengkapi dengan sayur nangka dan sayur pakis yang diiris kasar. Rasa sayurnya gurih asin dengan sayur pakis yang dimasak dengan luah santan. Supaya lebih nikamt, bisa ditambah aneka lauk, seperti telur dan rendang yang empuk. Tak lupa tambahan kerupuk merah yang khas. Seporsi ketupat sayur di sini dibanderol s
+
+
+### Artikel 4177
+Judul: Rekomendasi 10 Nasi Padang Enak di Samarinda yang Wajib Dicoba, Lauknya Lengkap dan Bumbu Meresap - Arusbawah.co
+Isi:
+Beragam lauk khas Minang tersaji setiap hari, mulai dari rendang, ayam gulai, ikan, hingga aneka sayur yang dimasak dengan bumbu khas.Tempat makan ini...
+
+
+### Artikel 4178
+Judul: Lamak Bana! 10 Nasi Padang Lezat di Jakarta yang Wajib Dicoba - detikFood
+Isi:
+Jakarta - Nasi Padang tengah populer karena diincar banyak turis, khususnya Pagi Sore. Selain Pagi Sore, di Jakarta masih banyak nasi Padang lain yang tak kalah nikmat! Anda menyukai artikel ini
+
+
+### Artikel 4179
+Judul: Ini dia lima tempat sarapan legendaris dan enak di Padang - sumbar.antaranews.com
+Isi:
+Padang (ANTARA) - Pagi di kota Padang selalu ada cerita yang tak sekadar tentang matahari terbit, tetapi juga tentang aroma masakan yang menggoda dari beberapa tempat sarapan legendaris. Tempat sarapan legendaris di Kota Padang telah menjadi pilihan masyarakat untuk memulai aktivitas di pagi hari, dengan sajian khas yang mempertahankan cita rasa turun-temurun. Dibalik kesederhanaannya, jejak rasa yang telah diwariskan lintas generasi tersebut menjadi bagian dari rutinitas masyarakat sekaligus daya tarik sendiri bagi para penikmat kuliner. Berikut lima tempat sarapan legendaris di Padang dihimpun dari berbagai sumber 1. Bofet Radjawali Juanda Warung sarapan legendaris ini berdiri sejak 1985 yang pertama kali didirikan oleh HAG Muhammad Yusuf bersama dengan Hj. Yusmah Hanum. Awalnya tempat sarapan ini hanya berupa kios kecil yang berada di Padang tepatnya di Jalan Muhammad Yamin. Setelah beberapa perjalanan yang dilewati oleh Yusuf dan Istrinya, gudang yang dimilikinya di Jalan Ir. Juanda 33 dijadikan tempat sarapan cabang pada 2001. Salah satu menu istimewa adalah soto yang bumbunya diracik sendiri dan tidak pernah memakai penyedap. Selain itu, penggunaan kaldu yang berasal dari tulang sengkel sapi semakin membuat soto semakin enak. Untuk kuahnya sendiri dibuat tanpa santan membuat soto ini semakin segar dan cocok sebagai menu sarapan. Selain menjual soto, bofet Rajawali ini menyediakan beragam menu mulai dari gado-gado, nasi soto paru, sup buntut, sup daging, sup tulang, kacang padi serta minuman khas yaitu es cendol air mata penganten, dan menu makan serta minuman yang lainnya. Bofet Rajawali buka pada Selasa sampai Minggu dimulai pukul 06.00 pagi hingga pukul 14.30 siang. 2. Katupek Pitalah Purus 3 Tempat sarapan legendaris ini menyediakan katupek. Katupek merupakan hidangan yang berbentuk ketupat sayur khas dari kota Padang. Hidangan ini terdiri atas beberapa potongan ketupat, nangka muda, rebung dan juga kuah santan. Cara penyajiannya ditambahkan dengan kerupuk merah muda yang diletakan di atas ketupat. Katupek Pitalah ini berdiri sejak tahun 1983 yang berlokasi di Jalan Purus 3 ini berada di Jalan Purus III nomor 24 di buka pukul 06.00 pagi sampai dengan pukul 09.30 pagi. Selain menyajikan masakan lontong pical dan ketupat sayur, Katupek Pitalah 3 juga menghidangkan lupis, bubur kampiun, kolak, nasi goreng padang, teh telur, aneka gorengan dan sebagainya. Untuk harga dimulai dari Rp15.000 hingga Rp25.000 per porsinya. Tempat sarapan satu ini sudah berdiri sejak 1976 . Berlokasi di Jalan S Parman No.110 Padang. Sampai saat ini, Soto Garuda ini sudah mempunyai 3 cabang, namun yang paling terkenal yakni di Jalan S Parman dan Jalan Pattimura. Isian dari soto ini bervariasi, mulai dari daging sapi, daging ayam, hingga jeroan yang dimasak dengan bumbu istimewa. Ditambah dengan nasi, perkedel, serta taburan bawang goreng, soto ini semakin menggugah selera. Tak heran, Soto Garuda selalu ramai dikunjungi warga lokal maupun wisatawan. Selain cita rasa
+
+
+### Artikel 4180
+Judul: Rekomendasi 10 Nasi Padang Enak di Samarinda yang Wajib Dicoba, Lauknya Lengkap dan Bumbu Meresap - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Masakan Padang selalu menjadi salah satu kuliner favorit masyarakat Indonesia.Perpaduan bumbu yang kaya rempah, pilihan lauk...
+
+
+### Artikel 4181
+Judul: Restoran Sederhana Ekspansi ke Australia, Nasi Padang Siap Go International! - detikFood
+Isi:
+Ekspansi kuliner Indonesia banyak dilakukan di Australia. Salah satunya oleh Restoran Sederhana yang menawarkan masakan Padang bercita rasa autentik. Australia belakangan menjadi tujuan favorit bagi pemilik restoran Indonesia yang ingin melakukan ekspansi. Kabar terbaru datang dari restoran yang menyajikan makanan khas Padang legendaris di Jakarta. Restoran yang dimaksud adalah Restoran Sederhana. Hal ini disampaikan lewat akun Instagram @sederhana.australia. SCROLL TO CONTINUE WITH CONTENT Belum ada tanggal pasti kapan Sederhana Australia akan buka di benua kanguru itu. Namun, pemberitahuannya sudah terpampang. "Restoran Sederhana akan buka segera. Sajikan cita rasa legendaris dari Indonesia," tulis keterangan dalam sebuah unggahan. Restoran yang sudah memiliki 200 cabang di Indonesia ini memang terkenal sejak dulu. Jika ingin makan di sini, sajian menunya sudah dihidang di atas meja. Pelanggan bisa memilih lauk apa yang dinikmati. Mulai dari ayam pop, rendang, gulai, dan lainnya. Restoran Padang yang akan buka di Australia ini juga mengungkapkan kalau mereka akan tetap menggunakan resep original dari H. Bustaman, sang pemilik. Jadi, cita rasanya bisa dipastikan autentik. Diaspora Indonesia yang tinggal di Australia tak akan kesulitan lagi mencari tempat makan nasi padang yag enak. Ini juga bisa meminimalisir kerinduan mereka terhadap masakan khas Padang. Diketahui kalau Restoran Sederhana Australia akan bertempat di Queen Street, Melbourne. Sudah banyak diaspora Indonesia yang menunggu dibukanya Sederhana Australia. "Nggak sabar sate Padang," komentar seorang netizen. "Demi apa?" sahut netizen lain. "Lebih takut pilih-pilih lauk jadi 100 dollar sih," komentar lainnya. Restoran Sederhana yang didirikan oleh H. Bustaman ini sudah ada sejak Februari 1972. Awalnya hanya berupa warung tenda kecil di kawasan Bendungan Hilir. Kemudian, H. Bustaman mematenkan merek datang Restoran Sederhana itu pada 1997. Kini restorannya sudah memiliki 100 lebih cabang di Indonesia, bahkan sampai ekspansi ke Australia. Dalam wawancara bersama akun Instagram @sosokbisnis (19/8/2025), H. Bustaman mengungkap strategi bisnisnya. Ia menciptakan sistem dapur pusat, melakukan standarisasi resep termasuk untuk menu legendaris Ayam Pop. Hal menarik lainnya, H. Bustaman tidak memakai sistem gaji untuk karyawan, melainkan bagi hasil. Setiap 100 hari, keuntungan akan dibagi sesuai poin kerja yang diperoleh masing-masing karyawan. Sistem ini membuat semua pihak merasa memiliki, bekerja lebih giat, dan tumbuh versama. Ia bahkan tak keberatan berbagi resep dan ilmu kepada juru masaknya. H. Bustaman berprinsip bahwa sukses harus dibagi agar semua bisa maju. Menyoal kehadiran Sederhana Australia, tim detikFood telah menghubungi via Direct Message (DM) Instagram untuk informasi lebih lanjut. Namun, sampai saat ini belum mendapatkan jawaban. Anda menyukai artikel ini
+
+
+### Artikel 4182
+Judul: Sejak 1969! RM Padang Tertua di Jakarta Punya Menu Unik Wajib Dicoba - detikFood
+Isi:
+Jakarta - Rumah Makan Padang Pondok Djaja sejak 1969 disebut sebagai rumah makan (RM) Padang tertua di Jakarta. Pilihan menunya unik khas Peranakan. Ini rekomendasinya! Anda menyukai artikel ini
+
+
+### Artikel 4183
+Judul: Sempat Tutup, Restoran Nasi Padang Tertua di Singapura Akan Buka Lagi - Kompas.com
+Isi:
+Sempat Tutup, Restoran Nasi Padang Tertua di Singapura Akan Buka Lagi KOMPAS.COM - Setelah sempat menutup operasional permanennya pada Januari 2026, Warong Nasi Pariaman, yang dikenal sebagai restoran nasi Padang tertua di Singapura, dipastikan akan kembali hadir. Namun, kembalinya rumah makan legendaris ini masih bersifat sementara melalui sebuah acara pop-up selama tiga hari di festival kuliner The Great Food Assembly yang berlangsung di Suntec Singapore Convention & Exhibition Centre pada 3–5 Juli 2026. Mengutip dari 8Days.sg , pada Rabu (25/6/26) Kabar tersebut menjadi angin segar bagi para pelanggan setia yang sebelumnya mengira Warong Nasi Pariaman telah mengakhiri perjalanannya setelah beroperasi selama 78 tahun. Lenny Emrin, pemilik generasi ketiga Warong Nasi Pariaman, mengatakan bahwa keluarganya menerima undangan dari penyelenggara festival untuk menghadirkan kembali cita rasa khas restoran tersebut. Baca juga: Resep Sop Daging Berempah ala Rumahan, Enak dan Mudah Baca juga: 10 Hidangan Sup Terbaik di Dunia Versi TasteAtlas 2026, Soto Betawi Masuk Peringkat! "Setelah penutupan toko Warong Pariaman, kami diundang oleh penyelenggara, The Great Food Assembly, untuk menjadi bagian dari pameran mereka di Suntec dari tanggal 3 hingga 5 Juli," katanya. "Acara ini memberi kami kesempatan untuk terus berbagi warisan dan resep tradisional Warong Pariaman yang kaya dengan pelanggan lama dan audiens baru,” jelasnya. Menurutnya, setelah restoran resmi tutup pada akhir Januari lalu, banyak pelanggan yang terus berharap Warong Nasi Pariaman bisa kembali beroperasi, meski hanya dalam bentuk sementara. Momentum festival tersebut akhirnya menjadi kesempatan bagi keluarga untuk kembali menyajikan resep-resep warisan yang telah dikenal lintas generasi sekaligus memperkenalkan kuliner mereka kepada pengunjung baru. Baca juga: Restoran Sederhana Buka Cabang Pertama di Singapura, Sajikan Nasi Padang Autentik Baca juga: 6 Warung Nasi Padang Enak di Yogyakarta yang Punya Rasa Autentik Menurut Lenny, undangan itu datang pada saat banyak pelanggan masih berharap untuk melihat warung makan kesayangan mereka kembali dalam bentuk apa pun. "Banyak pelanggan meminta kami untuk buka kembali. Ini memberi kami kesempatan untuk melakukannya lagi, meskipun hanya untuk tiga hari," katanya. Warong Nasi Pariaman didirikan pada 1948 oleh Haji Isrin, perantau asal Pariaman, Sumatera Barat. Selama puluhan tahun, restoran ini menjadi salah satu ikon kuliner Minang di Singapura . Baca juga: Gaya Makan Nasi Padang ala Chef Renatta, Dicocol Roti Perancis Baca juga: Warung Nasi Padang Tertua di Singapura Tutup Besok, Menteri Turun Tangan Meski banyak spekulasi bermunculan saat restoran tersebut tutup, pihak keluarga akhirnya mengungkapkan bahwa keputusan tersebut lebih disebabkan oleh faktor internal. Lenny menjelaskan bahwa aktivitas memasak dalam jumlah besar setiap hari dengan persiapan sejak dini hari telah menjadi pekerjaan yang sangat melelahkan bagi keluarga. Selain faktor us

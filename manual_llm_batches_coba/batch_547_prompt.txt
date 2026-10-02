@@ -1,0 +1,84 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "jenis_tempat": "subtipe lebih spesifik, mis. 'rooftop cafe', 'kuliner kaki lima', 'air terjun', 'taman hiburan', dst",
+          "lokasi": "lokasi mentah apa adanya sesuai artikel (alamat/nama jalan/area jika disebut)",
+          "keterangan": "ringkasan singkat ciri khas/daya tarik tempat ini (mis. menu andalan, konsep, fasilitas)",
+          "status_viral": "Disebut viral" (artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet) atau "Rekomendasi" (tempat hanya direkomendasikan/masuk daftar, tanpa disebut eksplisit viral),
+          "viral_sejak": "tanggal/bulan/periode eksplisit terkait mulai viral jika disebut, atau 'Tidak disebut' jika tidak ada",
+          "dasar_viral": "kutipan/alasan singkat dari artikel yang menjadi dasar kenapa tempat ini dianggap viral/direkomendasikan, atau null jika tidak ada dasar eksplisit",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "negara": "nama negara, default 'Indonesia' kecuali artikel jelas menyebut negara lain",
+          "latitude": angka desimal lintang jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "longitude": angka desimal bujur jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "presisi_koordinat": "exact" (alamat persis diketahui), "approximate" (hanya area/kecamatan/kota), atau "unknown" (tidak ada dasar koordinat),
+          "catatan_lokasi": "catatan tambahan soal lokasi, mis. ketidakpastian, patokan terdekat, atau null jika tidak ada"
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 4368
+Judul: Rekomendasi 6 Warung Nasi Kuning 24 Jam di Samarinda, Cocok untuk Kulineran Tengah Malam - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Nasi kuning menjadi salah satu pilihan kuliner yang mudah ditemukan di Samarinda.&nbsp;Hidangan berupa nasi gurih berwarna ku...
+
+
+### Artikel 4369
+Judul: Rekomendasi 16 Mie Ayam di Samarinda yang Wajib Dicoba, Ada yang Legendaris hingga Pangsit Khas Jakarta - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Mie ayam menjadi salah satu kuliner favorit yang mudah ditemukan di berbagai sudut Kota Samarinda.Perpaduan mie kenyal, poton...
+
+
+### Artikel 4370
+Judul: Rekomendasi 10 Nasi Uduk Enak di Samarinda yang Wajib Dicoba, Lauknya Lengkap dan Gurih Bikin Nagih - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Nasi uduk menjadi salah satu kuliner khas Indonesia yang selalu punya tempat di hati pencinta makanan gurih.Perpaduan nasi ya...
+
+
+### Artikel 4371
+Judul: Rekomendasi 12 Soto Lamongan di Samarinda, Ada Koya Gurih hingga Kuah Khas Jawa Timur - Arusbawah.co
+Isi:
+ARUSBAWAH.CO - Soto Lamongan merupakan salah satu kuliner khas Jawa Timur yang dikenal dengan kuah kuning gurih, suwiran ayam, serta taburan koya yang...
+
+
+### Artikel 4372
+Judul: Rekomendasi 6 Tahu Campur di Samarinda yang Wajib Dicoba, Kuah Gurih Khas Lamongan Bikin Nagih - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Tahu campur menjadi salah satu kuliner khas Jawa Timur yang cukup mudah ditemukan di berbagai daerah, termasuk Samarinda.Hida...
+
+
+### Artikel 4373
+Judul: 10 Rekomendasi Cafe 24 Jam di Samarinda, Ada yang Dekat Kampus hingga Pusat Kota - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Samarinda memiliki semakin banyak pilihan cafe yang beroperasi selama 24 jam.&nbsp;Kehadiran cafe 24 jam menjadi solusi bagi...
+
+
+### Artikel 4374
+Judul: 6 Rekomendasi Ayam Geprek di Area Pramuka Samarinda, Sambalnya Pedas dan Harga Bersahabat - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Buat kamu yang sedang mencari ayam geprek di Pramuka Samarinda, kawasan Jalan Pramuka punya banyak pilihan tempat makan yang...
+
+
+### Artikel 4375
+Judul: Rekomendasi 12 Warung Bakso di Samarinda, Kuah Gurih dan Baksonya Bikin Nagih - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Semangkuk bakso hangat masih menjadi salah satu kuliner favorit masyarakat Samarinda.Dengan kuah gurih, bakso kenyal, serta p...

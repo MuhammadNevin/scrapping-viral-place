@@ -1,0 +1,85 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata Alam/Museum/Wahana/Pameran/lainnya",
+          "jenis_tempat": "subtipe lebih spesifik, mis. 'rooftop cafe', 'kuliner kaki lima', 'air terjun', 'taman hiburan', dst",
+          "lokasi": "lokasi mentah apa adanya sesuai artikel (alamat/nama jalan/area jika disebut)",
+          "keterangan": "ringkasan singkat ciri khas/daya tarik tempat ini (mis. menu andalan, konsep, fasilitas)",
+          "status_viral": "Disebut viral" (artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet) atau "Rekomendasi" (tempat hanya direkomendasikan/masuk daftar, tanpa disebut eksplisit viral),
+          "viral_sejak": "tanggal/bulan/periode eksplisit terkait mulai viral jika disebut, atau 'Tidak disebut' jika tidak ada",
+          "dasar_viral": "kutipan/alasan singkat dari artikel yang menjadi dasar kenapa tempat ini dianggap viral/direkomendasikan, atau null jika tidak ada dasar eksplisit",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "negara": "nama negara, default 'Indonesia' kecuali artikel jelas menyebut negara lain",
+          "latitude": angka desimal lintang jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "longitude": angka desimal bujur jika kamu bisa simpulkan/cari dari nama tempat & lokasi, atau null jika tidak yakin,
+          "presisi_koordinat": "exact" (alamat persis diketahui), "approximate" (hanya area/kecamatan/kota), atau "unknown" (tidak ada dasar koordinat),
+          "catatan_lokasi": "catatan tambahan soal lokasi, mis. ketidakpastian, patokan terdekat, atau null jika tidak ada"
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 4248
+Judul: Tinggal Sebulan di Pekanbaru, Warga Palembang Dibuat Terpukau dengan Tarif Parkir dan Pengamen: Good Job Banget - Ayo Palembang - Ayo Palembang
+Isi:
+AYOPALEMBANG.COM -- Seorang warga Kota Palembang membagikan pengalamannya tinggal di Pekanbaru yang baru sebulan tapi sudah memberikan kesan yang cukup baik. Dia pun membandingkan perbedaan tinggal di Kota Palembang dengan tempat barunya yang ternyata cukup jauh khususnya mengenai tarif parkir dan pengamen. Sebagaimana diketahui jika permasalahan yang sering dikeluhkan oleh warga hingga wisatawan di Kota Palembang mengenai tukang parkir dan pengamen. Baca Juga: Sempat Kekeringan, Sungai Ogan di OKU Sumsel Kini Meluap Usai Diguyur Hujan, Warga Perlihatkan Kondisi Terbarunya Dikutip AYOPALEMBANG.COM dari unggahan akun Threads @diane21275, tapi warga dibuat cukup terkejut saat pindah ke Pekanbaru. “Pindah dari Palembang ke Pekanbaru baru sebulan tapi sudah terlihat yang bikin wow ya,” katanya. Dia menjelaskan jika tarif parkir di tempat barunya lebih murah dibandingkan tempat lamanya bahkan sampai ada kembalian karena memberikan lebih. Baca Juga: Sehari Diguyur Hujan, Palembang Langsung Banjir hingga Terjadi Kemacetan dan Kendaraan Banyak Mogok, Sopir Angkot: Kacau “Parkir. Waktu mau bayar karena takut salah kita kasih uang Rp5.000 biar tahu ya kembaliannya berapa. Ternyata parkir motor itu Rp1.000. Kalau di Palembang rata-rata Rp2.000 bahkan kadang Rp3.000 atau malah lebih,” ucap pemilik akun @diane21275. Hal lain yang membuatnya nyaman di Pekanbaru yaitu tidak adanya pengamen yang datang sehingga merasa lebih tenang saat makan di luar. Selain itu, pedagang asongannya juga disebutkan tidak memaksa sehingga tidak merasa kurang enak saat menolak untuk membelinya. Baca Juga: Konsentrasi Majukan Sektor Pertanian, Bupati OKU Pastikan Sejumlah Bantuan Fasilitas Irigasi Tersalurkan Tepat Sasaran “Belum pernah ketemu pengamen saat makan di warung, rumah makan. Yang ada pedagang yang jual keripik atau apalah. Good job banget! Kalau kita gak beli gak maksa,” ungkap pemilik akun @diane21275. Jika mencari rumah makan Padang di Pekanbaru juga menurutnya lebih mudah karena masih akan ramai sampai malam hari yang membuatnya salut. Editor: Mela Puspita
+
+
+### Artikel 4249
+Judul: Rekomendasi Wisata Petik Buah Segar di Pekanbaru: Harga dan Lokasi - riau.indozone.id
+Isi:
+Lemo (Ramadhan Kurniawan putra) RIAU - Wisata petik buah segar kini menjadi salah satu pilihan favorit masyarakat Pekanbaru untuk menghabiskan waktu bersama keluarga. Selain menikmati suasana alam, pengunjung juga dapat memetik buah langsung dari pohonnya sekaligus belajar mengenai budidaya tanaman modern. Beberapa destinasi agrowisata di Pekanbaru menawarkan pengalaman tersebut dengan konsep yang berbeda, mulai dari kebun melon hidroponik hingga taman edukasi pertanian yang ramah anak. Salah satu destinasi yang paling banyak dikunjungi adalah Agrowisata Evergreen House Pekanbaru. Tempat ini menghadirkan kebun melon hidroponik modern dengan berbagai varietas melon premium seperti Sweet Lavender, White Kirin, Sweet Net 9, dan Inthanon yang memiliki cita rasa manis serta tekstur renyah. Baca juga: Serunya Agrowisata Kebun Petik Buah di Pekanbaru Untuk Liburan Keluarga Menariknya, pengunjung tidak dikenakan biaya masuk. Wisatawan hanya membayar melon yang dipetik dengan harga sekitar Rp50.000 hingga Rp55.000 per kilogram. Lokasinya berada di Jalan Pesantren, Kulim, Kecamatan Tenayan Raya, tepat di seberang Rumah Makan Lintau. Evergreen House buka setiap hari dalam dua sesi, yakni pukul 08.00–11.00 WIB dan 14.00–18.00 WIB. Fasilitas yang tersedia meliputi area parkir gratis, kafe, serta pembayaran tunai maupun non-tunai. Pilihan lainnya adalah Bukit Melon Pekanbaru yang berada di Jalan Taman Karya, Gang Masjid, Perumahan Citra Kencana, Kecamatan Tampan. Destinasi ini juga menggratiskan tiket masuk, sementara pengunjung hanya membayar buah melon yang dipetik sesuai beratnya. Bukit Melon terkenal dengan varietas Golden Alisha yang memiliki rasa manis dan tekstur daging buah yang renyah. Kebun ini beroperasi setiap hari mulai pukul 07.30 hingga 17.30 WIB. Bagi keluarga yang ingin menikmati wisata sekaligus edukasi, Taman Agrowisata Tenayan Raya menjadi pilihan menarik. Aktivitas petik buah di lokasi ini bersifat musiman, menyesuaikan masa panen tanaman anggur maupun hortikultura lainnya. Selain kebun buah, taman ini juga menyediakan berbagai fasilitas seperti wahana permainan anak, area pemancingan, outbound, aula terbuka, hingga camping ground. Tiket masuk dibanderol mulai sekitar Rp15.000 per orang. Sebelum berkunjung, wisatawan disarankan mengecek jadwal panen melalui media sosial resmi masing-masing destinasi agar dapat menikmati pengalaman memetik buah secara maksimal. Datang pada pagi hari juga menjadi pilihan terbaik karena cuaca lebih sejuk dan buah yang matang masih tersedia dalam jumlah lebih banyak. Dilarang mengambil dan/atau menayangkan ulang sebagian atau keseluruhan artikel  di atas untuk konten akun media sosial komersil tanpa seizin redaksi
+
+
+### Artikel 4250
+Judul: Viral Video Keributan di Kafe Pekanbaru, Diduga Libatkan Ketua dan Mantan Ketua Pemuda Pancasila - Gotvnews
+Isi:
+GOTVNEWS, Pekanbaru – Beredar video memperlihatkan keributan di salah satu kafe di Kota Pekanbaru, sejumlah orang tampak terlibat aksi saling dorong hingga baku hantam, membuat suasana di dalam kafe mendadak ricuh. Keributan diduga melibatkan Ketua Pemuda Pancasila (PP) Kota Pekanbaru, Iwan Pansa, dan mantan Ketua PP Pekanbaru, Jufrizal Tanjung, bersama sejumlah rekannya. Namun, hingga saat ini informasi tersebut masih berupa dugaan dan belum ada keterangan resmi dari pihak-pihak yang disebutkan. Dalam unggahan video tersebut, suasana awalnya tampak berjalan normal. Tidak lama kemudian terjadi adu mulut yang berujung pada aksi saling dorong dan baku hantam. Beberapa kursi dan meja di dalam kafe terlihat berhamburan akibat keributan tersebut. Beredar narasi yang menyebut Iwan Pansa diduga sempat menerima pukulan terlebih dahulu dari Jufrizal Tanjung sebelum keributan pecah. Namun informasi itu belum dapat dipastikan kebenarannya dan masih menunggu hasil klarifikasi dari pihak terkait. (yh) Sumber: IG | Cakaplah Ikuti Berita gotvnews.co.id di Google News Alamat email Anda tidak akan dipublikasikan. Ruas yang wajib ditandai * Simpan nama, email, dan situs web saya pada peramban ini untuk komentar saya berikutnya.
+
+
+### Artikel 4251
+Judul: Kebakaran Coffee Shop di Pekanbaru, 5 Unit Damkar Dikerahkan - RiauAktual.com
+Isi:
+PEKANBARU (RA) - Kebakaran melanda sebuah coffee shop di Jalan Kuini, Kecamatan Marpoyan Damai, Pekanbaru, Selasa (5/5/2025) sekitar pukul 21.50 WIB. Api membakar bangunan coffee shop bernama Suar. Warga yang melihat kejadian tersebut langsung melaporkan ke petugas pemadam kebakaran. Tim dari Dinas Pemadam Kebakaran dan Penyelamatan (DPKP) Kota Pekanbaru mengerahkan lima unit mobil pemadam ke lokasi. Proses pemadaman berlangsung sekitar satu jam hingga api berhasil dikendalikan. Petugas DPKP di lapangan, Dul Gamar, mengatakan pihaknya langsung bergerak cepat setelah menerima laporan. "Tim kita menurunkan lima unit armada untuk melakukan pemadaman. Api berhasil dipadamkan sekitar satu jam setelah penanganan," ujarnya. Berdasarkan dugaan awal, api berasal dari area dapur coffee shop. Namun, penyebab pasti kebakaran masih dalam penyelidikan pihak berwenang. Tidak ada korban jiwa dalam peristiwa ini. Sementara itu, kerugian materiil masih dalam proses pendataan.
+
+
+### Artikel 4252
+Judul: Kafe Cofe Suar di Jalan Kuini Pekanbaru Terbakar - CAKAPLAH.com
+Isi:
+PEKANBARU (CAKAPLAH) - Kebakaran terjadi di Kafe Cofe Suar di Jalan Kuini, Kelurahan Wonorejo, Kecamatan Marpoyan Damai, Pekanbaru Selasa (5/5/2026) malam. Peristiwa  itu langsung direspons cepat oleh Dinas Pemadam Kebakaran dan Penyelamatan Kota Pekanbaru. Kepala Dinas Pemadam Kebakaran dan Penyelamatan Kota Pekanbaru, Zarman Candra, mengatakan petugas menerima laporan kebakaran dari warga dan langsung mengerahkan armada menuju lokasi. “Begitu menerima laporan, tim langsung bergerak ke lokasi. Setibanya di sana, petugas segera melakukan pemadaman, melokalisir area yang terbakar, serta melakukan pendinginan agar api tidak kembali menyala,” ujar Zarman Candra, Rabu (6/5/2026) pagi kepada CAKAPLAH.com. Dalam penanganan kebakaran ini, Damkar Pekanbaru mengerahkan satu peleton dari Pos 13 beserta sejumlah mobil pemadam. Petugas tiba di lokasi dan berhasil mengendalikan kobaran api sehingga tidak merambat ke bangunan lain di sekitar lokasi. Bangunan kafe yang terbakar memiliki luas sekitar 10 x 15 meter persegi, dengan area yang terdampak api diperkirakan mencapai 8 x 8 meter persegi. Meski di sekitar lokasi terdapat permukiman warga, rumah-rumah yang berada di sisi kiri, kanan, dan belakang bangunan dipastikan aman. “Tidak ada korban jiwa maupun korban luka dalam kejadian ini. Saat ini penyebab kebakaran masih dalam pendataan petugas,” tutup Zarman.
+
+
+### Artikel 4253
+Judul: Viral di Medsos, Diduga Perkelahian Ketua Organisasi Pemuda di Pekanbaru - AmiraRiau
+Isi:
+Kamis, 18 Juni 2026 | 17:27
+                                WIB PEKANBARU, AmiraRiau.com - Viral di media sosial video yang memperlihatkan keributan di salah satu kafe di Kota Pekanbaru. Dalam rekaman tersebut, diduga keributan melibatkan Ketua Pemuda Pancasila (PP) Pekanbaru, Iwan Pansa, serta mantan Ketua PP Pekanbaru, Jufrizal Tanjung (JT) , bersama sejumlah rekannya. Awalnya, suasana di dalam kafe terlihat normal seperti aktivitas pengunjung pada umumnya. Namun, situasi berubah tegang setelah terjadi cekcok antara beberapa pihak yang kemudian memicu keributan. Dalam video yang beredar, sejumlah orang tampak terlibat aksi saling dorong hingga berujung baku hantam. Keributan semakin memanas ketika kursi dan meja di lokasi terlihat berhamburan akibat insiden tersebut. Sejumlah pengunjung yang berada di tempat kejadian tampak panik dan berusaha menjauh untuk menghindari keributan. Sementara itu, beberapa orang lainnya terlihat mencoba melerai pihak-pihak yang terlibat. Berdasarkan narasi yang beredar, Iwan Pansa yang saat itu berada di lokasi bersama rekannya diduga sempat menerima pukulan lebih dahulu dari Jufrizal Tanjung sebelum insiden semakin membesar. Hingga saat ini belum ada keterangan resmi dari pihak-pihak yang diduga terlibat.*** Editor: Alseptri Ady
+
+
+### Artikel 4254
+Judul: Diduga Ketua dan Mantan Ketua PP Pekanbaru Terlibat Keributan, Kursi dan Meja Berhamburan - RiauAktual.com
+Isi:
+PEKANBARU (RA) - Video yang memperlihatkan keributan di salah satu kafe di Kota Pekanbaru beredar di  grup percakapan. Dalam video tersebut, keributan diduga melibatkan Ketua Pemuda Pancasila (PP) Pekanbaru, Iwan Pansa, dan mantan Ketua PP Pekanbaru, Jufrizal Tanjung, bersama sejumlah rekannya. Berdasarkan rekaman video yang beredar, suasana di lokasi awalnya terlihat normal sebelum terjadi cekcok yang kemudian memicu keributan. Sejumlah orang tampak terlibat aksi saling dorong hingga berujung baku hantam. Keributan semakin memanas ketika kursi dan meja di area kafe terlihat berhamburan. Beberapa pengunjung yang berada di lokasi tampak berusaha menjauh untuk menghindari insiden tersebut, sementara sebagian lainnya mencoba melerai pihak-pihak yang terlibat. Dari narasi yang beredar, Iwan Pansa yang saat itu terlihat bersama salah seorang rekannya diduga sempat menerima pukulan terlebih dahulu dari Jufrizal Tanjung sebelum keributan pecah. Namun informasi tersebut masih sebatas berdasarkan video dan keterangan yang beredar dan belum mendapat konfirmasi dari pihak terkait. Hingga berita ini diterbitkan, belum diketahui secara pasti penyebab keributan tersebut. RiauAktual.com masih berupaya mengonfirmasi Iwan Pansa, Jufrizal Tanjung, maupun pihak kepolisian terkait kronologi kejadian tersebut. Belum ada informasi mengenai adanya korban luka maupun laporan polisi yang telah dibuat terkait insiden tersebut.
+
+
+### Artikel 4255
+Judul: Viral! Keributan Ketua MPC PP Pekanbaru dengan Mantan Bupati Rohul di Kedai Kopi - RiauAktual.com
+Isi:
+PEKANBARU (RA) - Video keributan antara Ketua Majelis Pimpinan Cabang, Pemuda Pancasila (MPC-PP ) Kota Pekanbaru, Iwan Pansa dengan mantan Bupati Rokan Hulu, Suparman, viral di media sosial. Peristiwa itu disebut terjadi di salah satu kedai kopi di Jalan Arifin Achmad, Kota Pekanbaru, Riau dan langsung menyita perhatian. Dalam video yang beredar, terlihat suasana kedai kopi yang awalnya tenang mendadak memanas. Iwan Pansa tampak terlibat adu mulut, bahkan nyaris terjadi kontak fisik. Bukan hanya kepada Suparman, Iwan juga tampak mengherdik H.Taufik Tambusai yang coba menenangkan suasana. Sejumlah saksi menyebutkan, keributan diduga dipicu oleh kesalahpahaman yang terjadi saat kedua pihak berada di tempat yang sama. Namun hingga kini, belum ada keterangan terkait penyebab pasti insiden tersebut. "Awalnya biasa saja, tiba-tiba suara mereka meninggi. Pengunjung lain langsung mencoba melerai supaya tidak terjadi hal yang lebih parah," ujar salah satu pengunjung kepada Riauaktual yang mengaku berada dilokasi saat kejadian. Video itu pun dengan cepat menyebar luas di berbagai platform media sosial, memicu beragam reaksi dari warganet. Hingga berita ini diturunkan, belum ada keterangan baik dari pihak Iwan Pansa maupun Suparman terkait insiden tersebut.
