@@ -1,0 +1,249 @@
+{
+ "results": [
+  {
+   "article_id": 296,
+   "places": [
+    {
+     "nama_tempat": "Good Measure",
+     "kategori": "Kafe",
+     "jenis_tempat": "kedai kopi sekaligus bar",
+     "lokasi": "Melbourne, Australia",
+     "keterangan": "Pencipta Mont Blanc Coffee pada 2022; terjual sekitar 800 gelas tiap akhir pekan (2024)",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Menciptakan Mont Blanc Coffee yang cepat viral di media sosial",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Melbourne",
+     "provinsi": "Victoria",
+     "negara": "Australia",
+     "latitude": -37.8136,
+     "longitude": 144.9631,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat pusat Melbourne"
+    },
+    {
+     "nama_tempat": "Little Joy",
+     "kategori": "Kafe",
+     "jenis_tempat": "kedai kopi",
+     "lokasi": "Minnesota, Amerika Serikat",
+     "keterangan": "Menghadirkan Mont Blanc Coffee setelah melihatnya viral di internet",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Pemilik tertarik setelah melihat Mont Blanc viral",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": null,
+     "provinsi": "Minnesota",
+     "negara": "Amerika Serikat",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": "Kota tidak disebut"
+    }
+   ]
+  },
+  {
+   "article_id": 297,
+   "places": []
+  },
+  {
+   "article_id": 298,
+   "places": []
+  },
+  {
+   "article_id": 299,
+   "places": [
+    {
+     "nama_tempat": "Gigi Susu",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe viral asal Bali, pop up di Pakuwon Mall Yogyakarta",
+     "lokasi": "Canggu, Bali; pop up di Pakuwon Mall Yogyakarta",
+     "keterangan": "Kopi dan pastry mulai Rp40 ribu; croissant Rp60 ribu disorot netizen",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Kafe viral asal Bali yang hadir pop up di Yogyakarta, harga disorot netizen",
+     "kelurahan_desa": null,
+     "kecamatan": "Kuta Utara",
+     "kota_kabupaten": "Kabupaten Badung",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.65,
+     "longitude": 115.137,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Gerai asal Canggu; pop up sementara di Pakuwon Mall Yogyakarta"
+    }
+   ]
+  },
+  {
+   "article_id": 300,
+   "places": []
+  },
+  {
+   "article_id": 301,
+   "places": []
+  },
+  {
+   "article_id": 302,
+   "places": [
+    {
+     "nama_tempat": "LN Fortunate Coffee",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe vegan nabati",
+     "lokasi": "Jl. Boulevard Utara 8, Komplek Cemara Asri",
+     "keterangan": "Semua menu berbasis nabati; banana milkshake, burger vegan, es krim homemade",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk rekomendasi 5 kafe hits di Komplek Cemara Asri Medan",
+     "kelurahan_desa": null,
+     "kecamatan": "Percut Sei Tuan",
+     "kota_kabupaten": "Kabupaten Deli Serdang",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.633,
+     "longitude": 98.724,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan Komplek Cemara Asri"
+    },
+    {
+     "nama_tempat": "Sixer's Cafe",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe dua lantai dengan live music",
+     "lokasi": "Jl. Boulevard Timur No.66-68, Komplek Cemara Asri",
+     "keterangan": "Kebuli Rice with Lamb Curry, Prawn Bisque Pasta, Matcha Strawberry; lantai dua lounge live music",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk rekomendasi 5 kafe hits di Komplek Cemara Asri Medan",
+     "kelurahan_desa": null,
+     "kecamatan": "Percut Sei Tuan",
+     "kota_kabupaten": "Kabupaten Deli Serdang",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.633,
+     "longitude": 98.724,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan Komplek Cemara Asri"
+    },
+    {
+     "nama_tempat": "Bolumom Coffee",
+     "kategori": "Kafe",
+     "jenis_tempat": "coffee shop minimalis putih-pink",
+     "lokasi": "Komplek Cemara Asri (alamat terpotong)",
+     "keterangan": "Kopi 100% Arabika; Butterscotch Seasalt Latte, Pistachio Seasalt Latte, Yuzu Americano",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk rekomendasi 5 kafe hits di Komplek Cemara Asri Medan",
+     "kelurahan_desa": null,
+     "kecamatan": "Percut Sei Tuan",
+     "kota_kabupaten": "Kabupaten Deli Serdang",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.633,
+     "longitude": 98.724,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Alamat terpotong"
+    }
+   ]
+  },
+  {
+   "article_id": 303,
+   "places": [
+    {
+     "nama_tempat": "Kopi Nako",
+     "kategori": "Kafe",
+     "jenis_tempat": "coffee shop outdoor tepi danau",
+     "lokasi": "Senayan Park, Senayan",
+     "keterangan": "Coffee shop di pinggir danau; es kopi susu; sebaiknya sore hari",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk rekomendasi 5 coffee shop di Senayan",
+     "kelurahan_desa": "Gelora",
+     "kecamatan": "Tanah Abang",
+     "kota_kabupaten": "Kota Jakarta Pusat",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.226,
+     "longitude": 106.801,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Toko Kopi Tuku GBK",
+     "kategori": "Kafe",
+     "jenis_tempat": "coffee shop",
+     "lokasi": "Kompleks Gelora Bung Karno (GBK)",
+     "keterangan": "Gerai besar dan luas; Kopi Susu Tetangga Rp25 ribu, donat, onigiri",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk rekomendasi 5 coffee shop di Senayan",
+     "kelurahan_desa": "Gelora",
+     "kecamatan": "Tanah Abang",
+     "kota_kabupaten": "Kota Jakarta Pusat",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.2183,
+     "longitude": 106.8018,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Second Floor",
+     "kategori": "Kafe",
+     "jenis_tempat": "coffee shop homey",
+     "lokasi": "Senayan City",
+     "keterangan": "Asal Bali; single origin; Mankay dan Yuziutto Rp40-150 ribu",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk rekomendasi 5 coffee shop di Senayan",
+     "kelurahan_desa": "Senayan",
+     "kecamatan": "Kebayoran Baru",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.2274,
+     "longitude": 106.797,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Kurasu Kissaten",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe kissaten Jepang",
+     "lokasi": "Plaza Senayan",
+     "keterangan": "Dirty matcha, filter coffee, espresso; Rp55-60 ribu",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk rekomendasi 5 coffee shop di Senayan",
+     "kelurahan_desa": "Senayan",
+     "kecamatan": "Kebayoran Baru",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.225,
+     "longitude": 106.799,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "The Wolf Espresso",
+     "kategori": "Kafe",
+     "jenis_tempat": "coffee shop",
+     "lokasi": "Kompleks Gelora Bung Karno (GBK), dekat restoran Sentosa Senayan",
+     "keterangan": "Pemandangan ke gedung perkantoran",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk rekomendasi 5 coffee shop di Senayan",
+     "kelurahan_desa": "Gelora",
+     "kecamatan": "Tanah Abang",
+     "kota_kabupaten": "Kota Jakarta Pusat",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.219,
+     "longitude": 106.803,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area GBK"
+    }
+   ]
+  }
+ ]
+}

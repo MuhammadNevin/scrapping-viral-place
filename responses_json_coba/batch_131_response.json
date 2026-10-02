@@ -1,0 +1,155 @@
+{
+ "results": [
+  {
+   "article_id": 1040,
+   "places": []
+  },
+  {
+   "article_id": 1041,
+   "places": [
+    {
+     "nama_tempat": "Bika Cafe",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe hotel (malam berubah seperti bar)",
+     "lokasi": "Hotel Mercure, Kota Bengkulu",
+     "keterangan": "Sidak DPRD menemukan banyak remaja berjoget dengan musik disko",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "10 Mei 2026",
+     "dasar_viral": null,
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bengkulu",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.794,
+     "longitude": 102.257,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan Mercure Bengkulu"
+    },
+    {
+     "nama_tempat": "Bar Black Rock",
+     "kategori": "lainnya",
+     "jenis_tempat": "tempat hiburan malam (bar)",
+     "lokasi": "Hotel Mercure, Kota Bengkulu",
+     "keterangan": "Disidak Komisi IV DPRD Bengkulu soal pelajar di tempat hiburan malam",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "10 Mei 2026",
+     "dasar_viral": null,
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bengkulu",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.794,
+     "longitude": 102.257,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan Mercure Bengkulu"
+    }
+   ]
+  },
+  {
+   "article_id": 1042,
+   "places": [
+    {
+     "nama_tempat": "Kraving Coffee Sukarami",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe",
+     "lokasi": "Sukarami, Kota Bengkulu",
+     "keterangan": "Promo Work From Cafe Deals Rp49.500: kentang goreng dan Butterscotch Sea Salt Latte; free Wi-Fi",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Mei 2026",
+     "dasar_viral": "Promo untuk pekerja dan mahasiswa",
+     "kelurahan_desa": "Sukarami",
+     "kecamatan": "Selebar",
+     "kota_kabupaten": "Kota Bengkulu",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.82,
+     "longitude": 102.32,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Sukarami"
+    }
+   ]
+  },
+  {
+   "article_id": 1043,
+   "places": [
+    {
+     "nama_tempat": "Bar Black Rock",
+     "kategori": "lainnya",
+     "jenis_tempat": "tempat hiburan malam (bar)",
+     "lokasi": "Hotel Mercure, Jl. S. Parman, Kota Bengkulu",
+     "keterangan": "Dua insiden kekerasan dalam 48 jam, 19-20 Mei 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Mei 2026",
+     "dasar_viral": null,
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bengkulu",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.794,
+     "longitude": 102.257,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan Mercure Bengkulu"
+    }
+   ]
+  },
+  {
+   "article_id": 1044,
+   "places": [
+    {
+     "nama_tempat": "Bika Coffee",
+     "kategori": "Kafe",
+     "jenis_tempat": "coffee shop hotel",
+     "lokasi": "Mercure Bengkulu",
+     "keterangan": "Diskon 20 persen semua minuman Minggu-Kamis selama Piala Dunia",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Juni 2026",
+     "dasar_viral": "Program diskon Piala Dunia",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bengkulu",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.794,
+     "longitude": 102.257,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan Mercure Bengkulu"
+    }
+   ]
+  },
+  {
+   "article_id": 1045,
+   "places": []
+  },
+  {
+   "article_id": 1046,
+   "places": []
+  },
+  {
+   "article_id": 1047,
+   "places": [
+    {
+     "nama_tempat": "Bika Coffee",
+     "kategori": "Kafe",
+     "jenis_tempat": "coffee shop modern",
+     "lokasi": "Mercure Bengkulu",
+     "keterangan": "Live music setiap malam; program Winning Smile Rabu-Kamis",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Direkomendasikan sebagai tempat nongkrong nyaman di Bengkulu",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bengkulu",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.794,
+     "longitude": 102.257,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan Mercure Bengkulu"
+    }
+   ]
+  }
+ ]
+}

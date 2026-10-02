@@ -1,0 +1,309 @@
+{
+ "results": [
+  {
+   "article_id": 800,
+   "places": [
+    {
+     "nama_tempat": "Camping Ground Pulau Tongah",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "camping ground tepi sungai",
+     "lokasi": "Desa Tanjung Belit, Kec. Kampar Kiri Hulu, Kampar",
+     "keterangan": "Camping tepi Sungai Subayang, paket Rp250 ribu, nominasi API Awards 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Mei 2026",
+     "dasar_viral": "Satu-satunya wakil Riau di nominasi API Awards 2026 kategori olahraga petualangan",
+     "kelurahan_desa": "Tanjung Belit",
+     "kecamatan": "Kampar Kiri Hulu",
+     "kota_kabupaten": "Kabupaten Kampar",
+     "provinsi": "Riau",
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": "Akses pompong menyeberang Sungai Subayang"
+    },
+    {
+     "nama_tempat": "Air Terjun Batu Dinding",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "air terjun",
+     "lokasi": "Kampar Kiri Hulu, Kampar",
+     "keterangan": "Tujuan field trip paket camping Pulau Tongah",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Salah satu destinasi alam populer di Kampar Kiri Hulu",
+     "kelurahan_desa": null,
+     "kecamatan": "Kampar Kiri Hulu",
+     "kota_kabupaten": "Kabupaten Kampar",
+     "provinsi": "Riau",
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 801,
+   "places": [
+    {
+     "nama_tempat": "Danau Bakuok",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "danau revitalisasi, ruang publik",
+     "lokasi": "Desa Aur Sati, Kec. Tambang, Kampar, 45 menit dari Pekanbaru",
+     "keterangan": "Danau seluas sekitar 21 ha hasil revitalisasi Kementerian PU; pedestrian, waterfront, sunset",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Wisata baru, makin ramai terutama akhir pekan",
+     "kelurahan_desa": "Aur Sati",
+     "kecamatan": "Tambang",
+     "kota_kabupaten": "Kabupaten Kampar",
+     "provinsi": "Riau",
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": "Koordinat tidak diketahui pasti"
+    }
+   ]
+  },
+  {
+   "article_id": 802,
+   "places": [
+    {
+     "nama_tempat": "Danau Bakuok",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "danau revitalisasi, ruang publik",
+     "lokasi": "Desa Aur Sati, Kec. Tambang, Kampar, 45 menit dari Pekanbaru",
+     "keterangan": "Bekas sungai mati Sungai Kampar jadi wisata dan pengendali banjir",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Makin ramai dikunjungi terutama akhir pekan",
+     "kelurahan_desa": "Aur Sati",
+     "kecamatan": "Tambang",
+     "kota_kabupaten": "Kabupaten Kampar",
+     "provinsi": "Riau",
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": "Koordinat tidak diketahui pasti"
+    }
+   ]
+  },
+  {
+   "article_id": 803,
+   "places": [
+    {
+     "nama_tempat": "Jewel Changi Airport",
+     "kategori": "lainnya",
+     "jenis_tempat": "kompleks atraksi bandara",
+     "lokasi": "Singapura",
+     "keterangan": "LEGO Botanicals di Jewel",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Atraksi baru dan destinasi keluarga yang ditawarkan STB",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Singapura",
+     "provinsi": null,
+     "negara": "Singapura",
+     "latitude": 1.3602,
+     "longitude": 103.9893,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Alamat tidak disebut; koordinat perkiraan"
+    },
+    {
+     "nama_tempat": "Singapore Oceanarium",
+     "kategori": "Wahana",
+     "jenis_tempat": "akuarium",
+     "lokasi": "Singapura",
+     "keterangan": "POP MART CRY ME AN OCEAN",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Atraksi baru dan destinasi keluarga yang ditawarkan STB",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Singapura",
+     "provinsi": null,
+     "negara": "Singapura",
+     "latitude": 1.2557,
+     "longitude": 103.82,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Alamat tidak disebut; koordinat perkiraan"
+    },
+    {
+     "nama_tempat": "Mandai Wildlife Reserve",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "taman margasatwa",
+     "lokasi": "Singapura",
+     "keterangan": "Minecraft Experience: Villager Rescue",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Atraksi baru dan destinasi keluarga yang ditawarkan STB",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Singapura",
+     "provinsi": null,
+     "negara": "Singapura",
+     "latitude": 1.4043,
+     "longitude": 103.793,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Alamat tidak disebut; koordinat perkiraan"
+    },
+    {
+     "nama_tempat": "Floral Fantasy Gardens by the Bay",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "taman bunga",
+     "lokasi": "Singapura",
+     "keterangan": "Disney Garden of Wonder",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Atraksi baru dan destinasi keluarga yang ditawarkan STB",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Singapura",
+     "provinsi": null,
+     "negara": "Singapura",
+     "latitude": 1.2816,
+     "longitude": 103.8636,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Alamat tidak disebut; koordinat perkiraan"
+    },
+    {
+     "nama_tempat": "Children's Museum Singapore",
+     "kategori": "Museum",
+     "jenis_tempat": "museum anak",
+     "lokasi": "Singapura",
+     "keterangan": "Destinasi edukatif keluarga",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Atraksi baru dan destinasi keluarga yang ditawarkan STB",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Singapura",
+     "provinsi": null,
+     "negara": "Singapura",
+     "latitude": 1.2982,
+     "longitude": 103.8484,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Alamat tidak disebut; koordinat perkiraan"
+    },
+    {
+     "nama_tempat": "Museum of Ice Cream",
+     "kategori": "Museum",
+     "jenis_tempat": "museum interaktif",
+     "lokasi": "Singapura",
+     "keterangan": "Destinasi edukatif keluarga",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Atraksi baru dan destinasi keluarga yang ditawarkan STB",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Singapura",
+     "provinsi": null,
+     "negara": "Singapura",
+     "latitude": 1.2993,
+     "longitude": 103.8453,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Alamat tidak disebut; koordinat perkiraan"
+    },
+    {
+     "nama_tempat": "ArtScience Museum",
+     "kategori": "Museum",
+     "jenis_tempat": "museum seni dan sains",
+     "lokasi": "Singapura",
+     "keterangan": "Pameran Van Gogh Inside dan Monet Inside",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Atraksi baru dan destinasi keluarga yang ditawarkan STB",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Singapura",
+     "provinsi": null,
+     "negara": "Singapura",
+     "latitude": 1.2863,
+     "longitude": 103.8593,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Alamat tidak disebut; koordinat perkiraan"
+    }
+   ]
+  },
+  {
+   "article_id": 804,
+   "places": [
+    {
+     "nama_tempat": "Wisata Sungai Misland",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "wisata sungai",
+     "lokasi": "Desa Sialang Kubang, Kec. Perhentian Raja, Kampar",
+     "keterangan": "Sungai jernih, tempat ganti, sewa tikar, pedagang; ramai akhir pekan",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Ramai dikunjungi warga Kampar dan Pekanbaru",
+     "kelurahan_desa": "Sialang Kubang",
+     "kecamatan": "Perhentian Raja",
+     "kota_kabupaten": "Kabupaten Kampar",
+     "provinsi": "Riau",
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": "Koordinat tidak diketahui pasti"
+    }
+   ]
+  },
+  {
+   "article_id": 805,
+   "places": [
+    {
+     "nama_tempat": "Wisata Batu Belah",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "wisata batu alami",
+     "lokasi": "Desa Anak Talang, Kec. Batang Cenaku, Indragiri Hulu",
+     "keterangan": "Terbentuk alami jutaan tahun, 60 km dari pusat kecamatan, diarahkan jadi desa wisata unggulan",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Potensi baru pariwisata Inhu",
+     "kelurahan_desa": "Anak Talang",
+     "kecamatan": "Batang Cenaku",
+     "kota_kabupaten": "Kabupaten Indragiri Hulu",
+     "provinsi": "Riau",
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": "Koordinat tidak diketahui pasti"
+    }
+   ]
+  },
+  {
+   "article_id": 806,
+   "places": [
+    {
+     "nama_tempat": "Tourism Seminar Destination 3S Malaysia",
+     "kategori": "Pameran",
+     "jenis_tempat": "seminar promosi pariwisata",
+     "lokasi": "Bono Hotel Pekanbaru",
+     "keterangan": "Seminar Hydramas Travel promosi Semenanjung, Sabah, Sarawak, 28 Juli 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "28 Juli 2026",
+     "dasar_viral": "Bagian promosi Visit Malaysia Year 2026",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Pekanbaru",
+     "provinsi": "Riau",
+     "negara": "Indonesia",
+     "latitude": -0.507,
+     "longitude": 101.447,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan pusat Pekanbaru"
+    }
+   ]
+  },
+  {
+   "article_id": 807,
+   "places": []
+  }
+ ]
+}

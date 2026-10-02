@@ -1,0 +1,136 @@
+{
+ "results": [
+  {
+   "article_id": 768,
+   "places": []
+  },
+  {
+   "article_id": 769,
+   "places": []
+  },
+  {
+   "article_id": 770,
+   "places": [
+    {
+     "nama_tempat": "Kampung Nelayan Merah Putih (KNMP) Katapiang",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "kampung nelayan wisata",
+     "lokasi": "Nagari Katapiang, Padang Pariaman",
+     "keterangan": "Resmi jadi destinasi wisata baru yang mulai ramai menarik wisatawan",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Resmi jadi destinasi wisata baru yang mulai ramai",
+     "kelurahan_desa": "Katapiang",
+     "kecamatan": "Batang Anai",
+     "kota_kabupaten": "Kabupaten Padang Pariaman",
+     "provinsi": "Sumatera Barat",
+     "negara": "Indonesia",
+     "latitude": -0.785,
+     "longitude": 100.278,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan dekat BIM; kecamatan perkiraan"
+    }
+   ]
+  },
+  {
+   "article_id": 771,
+   "places": [
+    {
+     "nama_tempat": "Jam Gadang",
+     "kategori": "lainnya",
+     "jenis_tempat": "ikon kota, menara jam",
+     "lokasi": "Bukittinggi",
+     "keterangan": "Disebut destinasi wisata halal unggulan Sumatera Barat",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Keterangan foto: salah satu destinasi wisata halal unggulan",
+     "kelurahan_desa": null,
+     "kecamatan": "Guguk Panjang",
+     "kota_kabupaten": "Kota Bukittinggi",
+     "provinsi": "Sumatera Barat",
+     "negara": "Indonesia",
+     "latitude": -0.3052,
+     "longitude": 100.3697,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Hanya muncul di keterangan foto"
+    }
+   ]
+  },
+  {
+   "article_id": 772,
+   "places": [
+    {
+     "nama_tempat": "Kampung Nelayan Merah Putih (KNMP) Katapiang",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "kampung nelayan wisata",
+     "lokasi": "Nagari Katapiang, Padang Pariaman",
+     "keterangan": "Dijadikan destinasi wisata baru; meningkatkan kunjungan dan ekonomi warga",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Pengunjung ramai menikmati kawasan, 10 Mei 2026",
+     "kelurahan_desa": "Katapiang",
+     "kecamatan": "Batang Anai",
+     "kota_kabupaten": "Kabupaten Padang Pariaman",
+     "provinsi": "Sumatera Barat",
+     "negara": "Indonesia",
+     "latitude": -0.785,
+     "longitude": 100.278,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan dekat BIM; kecamatan perkiraan"
+    }
+   ]
+  },
+  {
+   "article_id": 773,
+   "places": [
+    {
+     "nama_tempat": "Masjid Al Fauzan",
+     "kategori": "lainnya",
+     "jenis_tempat": "masjid berbentuk kapal, wisata religi",
+     "lokasi": "Nagari Katapiang, Padang Pariaman",
+     "keterangan": "Masjid kapal setinggi 28 m dekat BIM, ikon baru wisata religi dan simbol budaya maritim",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "7 Juni 2026",
+     "dasar_viral": "Resmi jadi ikon baru wisata religi Sumbar",
+     "kelurahan_desa": "Katapiang",
+     "kecamatan": "Batang Anai",
+     "kota_kabupaten": "Kabupaten Padang Pariaman",
+     "provinsi": "Sumatera Barat",
+     "negara": "Indonesia",
+     "latitude": -0.785,
+     "longitude": 100.278,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Dekat landasan Bandara BIM; koordinat perkiraan"
+    }
+   ]
+  },
+  {
+   "article_id": 774,
+   "places": []
+  },
+  {
+   "article_id": 775,
+   "places": [
+    {
+     "nama_tempat": "ANTAM Presents Jakarta Marketing Week 2026",
+     "kategori": "Pameran",
+     "jenis_tempat": "forum pemasaran dan peluncuran city branding Mentawai",
+     "lokasi": "Grand Atrium Kota Kasablanka, Jakarta",
+     "keterangan": "Tempat peluncuran city branding Mentawai 'The Sacred Ground of Surfing', 7 Mei 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "7 Mei 2026",
+     "dasar_viral": "Panggung peluncuran city branding Mentawai bersama Hermawan Kartajaya",
+     "kelurahan_desa": "Menteng Dalam",
+     "kecamatan": "Tebet",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.2244,
+     "longitude": 106.8429,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat Kota Kasablanka"
+    }
+   ]
+  }
+ ]
+}

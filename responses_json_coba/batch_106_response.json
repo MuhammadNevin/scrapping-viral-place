@@ -1,0 +1,153 @@
+{
+ "results": [
+  {
+   "article_id": 840,
+   "places": []
+  },
+  {
+   "article_id": 841,
+   "places": []
+  },
+  {
+   "article_id": 842,
+   "places": [
+    {
+     "nama_tempat": "Treasure Bay Bintan",
+     "kategori": "Wahana",
+     "jenis_tempat": "taman rekreasi air / Crystal Lagoon",
+     "lokasi": "Lagoi, Pulau Bintan",
+     "keterangan": "Crystal Lagoon air asin 800 m setara 50 kolam renang Olimpiade; buka 09.00-18.00; tiket Rp120-750 ribu",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi anti-mainstream, magnet turis domestik dan mancanegara sejak 2011",
+     "kelurahan_desa": "Lagoi",
+     "kecamatan": "Teluk Sebong",
+     "kota_kabupaten": "Kabupaten Bintan",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 1.083,
+     "longitude": 104.24,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan kawasan Lagoi"
+    }
+   ]
+  },
+  {
+   "article_id": 843,
+   "places": [
+    {
+     "nama_tempat": "Kawasan Tepi Laut Tanjungpinang",
+     "kategori": "lainnya",
+     "jenis_tempat": "kawasan wisata tepi laut",
+     "lokasi": "Jl. H. Agus Salim, Jl. Hang Tuah, hingga Jl. Samudera, Tanjungpinang",
+     "keterangan": "Menghadap Selat Riau dan Pulau Penyengat; sunset, taman bermain, kuliner",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Wajib masuk daftar liburan sekolah 2026 keluarga",
+     "kelurahan_desa": null,
+     "kecamatan": "Tanjungpinang Kota",
+     "kota_kabupaten": "Kota Tanjungpinang",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 0.919,
+     "longitude": 104.456,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Kawasan membentang beberapa jalan"
+    },
+    {
+     "nama_tempat": "Laman Boenda",
+     "kategori": "Restoran",
+     "jenis_tempat": "pusat kuliner",
+     "lokasi": "Kawasan Tepi Laut Tanjungpinang",
+     "keterangan": "Pusat kuliner diresmikan akhir 2022; gonggong, otak-otak, ikan bakar, permainan listrik malam hari",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Pusat kuliner yang menyajikan menu khas",
+     "kelurahan_desa": null,
+     "kecamatan": "Tanjungpinang Kota",
+     "kota_kabupaten": "Kota Tanjungpinang",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 0.9185,
+     "longitude": 104.457,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan kawasan Tepi Laut"
+    },
+    {
+     "nama_tempat": "Gedung Gonggong",
+     "kategori": "lainnya",
+     "jenis_tempat": "ikon pariwisata / gedung arsitektur biota laut",
+     "lokasi": "Kawasan Tepi Laut Tanjungpinang",
+     "keterangan": "Ikon pariwisata Tanjungpinang sejak 2016, arsitektur khas biota laut",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Ikon pariwisata Tanjungpinang sejak 2016",
+     "kelurahan_desa": null,
+     "kecamatan": "Tanjungpinang Kota",
+     "kota_kabupaten": "Kota Tanjungpinang",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 0.919,
+     "longitude": 104.456,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 844,
+   "places": []
+  },
+  {
+   "article_id": 845,
+   "places": []
+  },
+  {
+   "article_id": 846,
+   "places": []
+  },
+  {
+   "article_id": 847,
+   "places": [
+    {
+     "nama_tempat": "Pulau Penyengat",
+     "kategori": "lainnya",
+     "jenis_tempat": "pulau wisata sejarah, budaya, dan religi",
+     "lokasi": "Pulau Penyengat, Kota Tanjungpinang",
+     "keterangan": "Pusat peradaban Melayu-Islam, cagar budaya nasional, tempat Raja Ali Haji; destinasi wisata halal",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi strategis berbasis sejarah, budaya, dan religi",
+     "kelurahan_desa": "Penyengat",
+     "kecamatan": "Tanjungpinang Kota",
+     "kota_kabupaten": "Kota Tanjungpinang",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 0.9272,
+     "longitude": 104.4166,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Masjid Raya Sultan Riau",
+     "kategori": "lainnya",
+     "jenis_tempat": "masjid bersejarah",
+     "lokasi": "Pulau Penyengat, Tanjungpinang",
+     "keterangan": "Masjid ikonik di Pulau Penyengat",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Ikon wisata religi Pulau Penyengat",
+     "kelurahan_desa": "Penyengat",
+     "kecamatan": "Tanjungpinang Kota",
+     "kota_kabupaten": "Kota Tanjungpinang",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 0.9289,
+     "longitude": 104.417,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Disebut dalam keterangan foto"
+    }
+   ]
+  }
+ ]
+}

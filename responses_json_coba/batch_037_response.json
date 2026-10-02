@@ -1,0 +1,172 @@
+{
+ "results": [
+  {
+   "article_id": 288,
+   "places": [
+    {
+     "nama_tempat": "The Square Room Bandung",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe konsep serba kotak, donat sourdough",
+     "lokasi": "Jalan Dr. Djunjunan No. 153, Pajajaran, Kecamatan Cicendo, Kota Bandung",
+     "keterangan": "Konsep kotak oranye; donat sourdough kotak Rp22-40 ribu, sandwich kotak mulai Rp66 ribu",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Donat kotaknya viral dan membuat banyak orang penasaran",
+     "kelurahan_desa": "Pajajaran",
+     "kecamatan": "Cicendo",
+     "kota_kabupaten": "Kota Bandung",
+     "provinsi": "Jawa Barat",
+     "negara": "Indonesia",
+     "latitude": -6.915,
+     "longitude": 107.588,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 289,
+   "places": [
+    {
+     "nama_tempat": "Cafe Alya",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe bertingkat",
+     "lokasi": "Jalan Mattirotasi, Kelurahan Kampung Baru, Kecamatan Bacukiki Barat, Kota Parepare",
+     "keterangan": "Kafe di Parepare; insiden dugaan percobaan gantung diri di lantai 4 viral lalu diklarifikasi",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "28 April 2026",
+     "dasar_viral": "Insiden di lantai 4 sempat viral di media sosial",
+     "kelurahan_desa": "Kampung Baru",
+     "kecamatan": "Bacukiki Barat",
+     "kota_kabupaten": "Kota Parepare",
+     "provinsi": "Sulawesi Selatan",
+     "negara": "Indonesia",
+     "latitude": -4.025,
+     "longitude": 119.62,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan kecamatan"
+    }
+   ]
+  },
+  {
+   "article_id": 290,
+   "places": []
+  },
+  {
+   "article_id": 291,
+   "places": []
+  },
+  {
+   "article_id": 292,
+   "places": []
+  },
+  {
+   "article_id": 293,
+   "places": [
+    {
+     "nama_tempat": "Social Affair",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe industrial di dalam mal",
+     "lokasi": "Dalam mal di kawasan PIK, Jakarta Utara",
+     "keterangan": "Menu luas: Martabak Croissant, Nasi Gila, Ice Coffee Pandan, Hot Latte",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar 10 kafe hits dan viral di PIK",
+     "kelurahan_desa": null,
+     "kecamatan": "Penjaringan",
+     "kota_kabupaten": "Kota Jakarta Utara",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.11,
+     "longitude": 106.737,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Mal tidak disebut; koordinat area PIK"
+    },
+    {
+     "nama_tempat": "70 Fahrenheit",
+     "kategori": "Kafe",
+     "jenis_tempat": "coffee shop industrial",
+     "lokasi": "Kawasan PIK, Jakarta Utara",
+     "keterangan": "Interior industrial redup, cocok WFH; Signature Coffee, Luwak Coffee",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar 10 kafe hits dan viral di PIK",
+     "kelurahan_desa": null,
+     "kecamatan": "Penjaringan",
+     "kota_kabupaten": "Kota Jakarta Utara",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.11,
+     "longitude": 106.737,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Alamat tepat tidak disebut"
+    },
+    {
+     "nama_tempat": "Raum Cream Cafe",
+     "kategori": "Kafe",
+     "jenis_tempat": "boutique cafe ala Korea, cream dessert",
+     "lokasi": "Kawasan PIK, Jakarta Utara",
+     "keterangan": "Signature Cream Cakes, Cream Puffs, Raum Signature Cream Coffee",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar 10 kafe hits dan viral di PIK",
+     "kelurahan_desa": null,
+     "kecamatan": "Penjaringan",
+     "kota_kabupaten": "Kota Jakarta Utara",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.11,
+     "longitude": 106.737,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Alamat tepat tidak disebut"
+    },
+    {
+     "nama_tempat": "Riverwalk Island PIK 2",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "spot sunset gratis",
+     "lokasi": "Riverwalk Island, PIK 2",
+     "keterangan": "Spot matahari terbenam gratis berlatar hutan mangrove",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar 10 kafe hits dan viral di PIK",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Tangerang",
+     "provinsi": "Banten",
+     "negara": "Indonesia",
+     "latitude": -6.07,
+     "longitude": 106.69,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area PIK 2"
+    },
+    {
+     "nama_tempat": "LIMA",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe",
+     "lokasi": "Kawasan PIK",
+     "keterangan": "Artikel terpotong",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar 10 kafe hits dan viral di PIK",
+     "kelurahan_desa": null,
+     "kecamatan": "Penjaringan",
+     "kota_kabupaten": "Kota Jakarta Utara",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.11,
+     "longitude": 106.737,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Artikel terpotong; lokasi tidak jelas"
+    }
+   ]
+  },
+  {
+   "article_id": 294,
+   "places": []
+  },
+  {
+   "article_id": 295,
+   "places": []
+  }
+ ]
+}

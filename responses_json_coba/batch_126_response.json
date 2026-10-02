@@ -1,0 +1,173 @@
+{
+ "results": [
+  {
+   "article_id": 1000,
+   "places": []
+  },
+  {
+   "article_id": 1001,
+   "places": [
+    {
+     "nama_tempat": "Pantai Tanjung Tinggi",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai berbatu granit",
+     "lokasi": "Desa Ciput, Kecamatan Sijuk, Kabupaten Belitung",
+     "keterangan": "Pasir putih, air tosca, batu granit raksasa, lokasi syuting Laskar Pelangi; tiket gratis",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Sejak film Laskar Pelangi",
+     "dasar_viral": "Populer sejak jadi lokasi film Laskar Pelangi; ramai tahun baru dan Lebaran",
+     "kelurahan_desa": "Ciput",
+     "kecamatan": "Sijuk",
+     "kota_kabupaten": "Kabupaten Belitung",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -2.566,
+     "longitude": 107.762,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 1002,
+   "places": [
+    {
+     "nama_tempat": "Lempah Kuning Muara",
+     "kategori": "Restoran",
+     "jenis_tempat": "rumah makan lempah kuning",
+     "lokasi": "Ketapang, Kecamatan Pangkal Balam, kawasan Pelabuhan Pangkal Balam, Pangkalpinang",
+     "keterangan": "Lempah kuning ikan laut segar dengan suasana tepi pelabuhan",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Salah satu destinasi kuliner lempah kuning paling populer",
+     "kelurahan_desa": "Ketapang",
+     "kecamatan": "Pangkal Balam",
+     "kota_kabupaten": "Kota Pangkalpinang",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -2.12,
+     "longitude": 106.14,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Warung Lempah Kuning Bang Agoes",
+     "kategori": "Restoran",
+     "jenis_tempat": "warung lempah kuning",
+     "lokasi": "Jl. Lembawai (Jl. Len Listrik), Gabek Satu, Kecamatan Gabek, Pangkalpinang",
+     "keterangan": "Pilihan ikan tenggiri, kakap, kerisi, ikan bulat; bumbu meresap",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Favorit pecinta kuliner, banyak direkomendasikan pelanggan",
+     "kelurahan_desa": "Gabek Satu",
+     "kecamatan": "Gabek",
+     "kota_kabupaten": "Kota Pangkalpinang",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -2.129,
+     "longitude": 106.123,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Lempah Kuning Muket",
+     "kategori": "Restoran",
+     "jenis_tempat": "restoran lempah kuning dan seafood",
+     "lokasi": "Kawasan Batin Tikal, Pangkalpinang",
+     "keterangan": "Kuah lempah kuning segar, seafood beragam, nyaman untuk keluarga",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Dikenal dengan kuah lempah kuning yang segar",
+     "kelurahan_desa": "Batin Tikal",
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Pangkalpinang",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -2.133,
+     "longitude": 106.11,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan pusat Pangkalpinang"
+    },
+    {
+     "nama_tempat": "Lempah Kuning PC46",
+     "kategori": "Restoran",
+     "jenis_tempat": "rumah makan lempah kuning",
+     "lokasi": "Pangkalpinang",
+     "keterangan": "Masuk daftar rekomendasi lempah kuning di Pangkalpinang; artikel terpotong",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar rekomendasi tempat makan lempah kuning",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Pangkalpinang",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -2.1291,
+     "longitude": 106.109,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Alamat terpotong; koordinat pusat Pangkalpinang"
+    }
+   ]
+  },
+  {
+   "article_id": 1003,
+   "places": []
+  },
+  {
+   "article_id": 1004,
+   "places": []
+  },
+  {
+   "article_id": 1005,
+   "places": [
+    {
+     "nama_tempat": "Mie Ayam Bangka Fina",
+     "kategori": "Restoran",
+     "jenis_tempat": "kedai bakmi halal",
+     "lokasi": "Jl. KH. Ali Mustafa, Kecamatan Rangkui, seberang SMPN 1 Pangkalpinang",
+     "keterangan": "Bakmi halal legendaris; Mie Ayam Spesial best seller, kuah kaldu bakso sapi dan pangsit ayam",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Disebut kedai mi legendaris di Bangka",
+     "kelurahan_desa": null,
+     "kecamatan": "Rangkui",
+     "kota_kabupaten": "Kota Pangkalpinang",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -2.128,
+     "longitude": 106.112,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 1006,
+   "places": []
+  },
+  {
+   "article_id": 1007,
+   "places": [
+    {
+     "nama_tempat": "Coffee Shop Antara",
+     "kategori": "Kafe",
+     "jenis_tempat": "kedai kopi Aceh konsep satu atap",
+     "lokasi": "Jl. Abdul Addari, depan Kantor Kelurahan Masjid Jamik, Pangkalpinang",
+     "keterangan": "Kopi biji Aceh, barista asal Aceh; Americano, Butterscotch Latte, taichan, nasi bistik",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "2026",
+     "dasar_viral": "Disebut destinasi nongkrong baru di Pangkalpinang 2026",
+     "kelurahan_desa": "Masjid Jamik",
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Pangkalpinang",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -2.1291,
+     "longitude": 106.109,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan pusat Pangkalpinang"
+    }
+   ]
+  }
+ ]
+}

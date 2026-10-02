@@ -1,0 +1,76 @@
+{
+ "results": [
+  {
+   "article_id": 848,
+   "places": []
+  },
+  {
+   "article_id": 849,
+   "places": []
+  },
+  {
+   "article_id": 850,
+   "places": [
+    {
+     "nama_tempat": "Penyengat Heritage 2026",
+     "kategori": "Pameran",
+     "jenis_tempat": "festival warisan budaya",
+     "lokasi": "Pulau Penyengat, Tanjungpinang",
+     "keterangan": "Bagian rangkaian agenda wisata Kepri 2026 pendukung kunjungan wisman",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Disebut sebagai bagian agenda wisata penjaga pertumbuhan wisman",
+     "kelurahan_desa": "Penyengat",
+     "kecamatan": "Tanjungpinang Kota",
+     "kota_kabupaten": "Kota Tanjungpinang",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 0.9272,
+     "longitude": 104.4166,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 851,
+   "places": []
+  },
+  {
+   "article_id": 852,
+   "places": [
+    {
+     "nama_tempat": "Taman Gurindam 12",
+     "kategori": "lainnya",
+     "jenis_tempat": "taman waterfront / ruang publik",
+     "lokasi": "Taman Gurindam 12, Tanjungpinang",
+     "keterangan": "Lokasi favorit warga olahraga dan menikmati panorama laut; pedestrian atas-bawah, jalur jogging, podium sunset; penataan lanjutan Rp12 miliar (Zona C hingga Tunjuk Langit)",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Salah satu lokasi favorit warga untuk berolahraga dan menikmati panorama laut",
+     "kelurahan_desa": "Tanjungpinang Kota",
+     "kecamatan": "Tanjungpinang Kota",
+     "kota_kabupaten": "Kota Tanjungpinang",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 0.9188,
+     "longitude": 104.4553,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Penataan lanjutan direncanakan rampung Desember 2026"
+    }
+   ]
+  },
+  {
+   "article_id": 853,
+   "places": []
+  },
+  {
+   "article_id": 854,
+   "places": []
+  },
+  {
+   "article_id": 855,
+   "places": []
+  }
+ ]
+}

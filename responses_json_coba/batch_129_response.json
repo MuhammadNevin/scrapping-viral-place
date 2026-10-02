@@ -1,0 +1,291 @@
+{
+ "results": [
+  {
+   "article_id": 1024,
+   "places": [
+    {
+     "nama_tempat": "Taman Bintang Samudra",
+     "kategori": "lainnya",
+     "jenis_tempat": "wisata religi Kristen dengan konsep cinta alam",
+     "lokasi": "Perbukitan di Kota Sungailiat, Kabupaten Bangka",
+     "keterangan": "Wisata religi di bukit granit, spot foto, kafe pemandangan laut, tersedia musholla",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Juni 2026",
+     "dasar_viral": "Disambut baik Wakil Bupati sebagai warna baru wisata Bangka",
+     "kelurahan_desa": null,
+     "kecamatan": "Sungailiat",
+     "kota_kabupaten": "Kabupaten Bangka",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -1.85,
+     "longitude": 106.12,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Sungailiat"
+    }
+   ]
+  },
+  {
+   "article_id": 1025,
+   "places": [
+    {
+     "nama_tempat": "Aik Biru Bukit Senja",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "wisata edukasi alam",
+     "lokasi": "Desa Pedindang, Kecamatan Pangkalan Baru, Kabupaten Bangka Tengah",
+     "keterangan": "Edu trip pengenalan kelekak bersama Bukit Senja Experience Babel",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "11 April 2026",
+     "dasar_viral": "Lokasi edu trip kearifan lokal kelekak",
+     "kelurahan_desa": "Pedindang",
+     "kecamatan": "Pangkalan Baru",
+     "kota_kabupaten": "Kabupaten Bangka Tengah",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 1026,
+   "places": [
+    {
+     "nama_tempat": "Pantai Tanjung Pesona",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai",
+     "lokasi": "Sungailiat, Kabupaten Bangka",
+     "keterangan": "Pantai pasir putih luas, lokasi Sungailiat Triathlon 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Venue ajang triathlon tahunan",
+     "kelurahan_desa": null,
+     "kecamatan": "Sungailiat",
+     "kota_kabupaten": "Kabupaten Bangka",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -1.83,
+     "longitude": 106.15,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Sungailiat"
+    },
+    {
+     "nama_tempat": "Sungailiat Triathlon 2026",
+     "kategori": "Pameran",
+     "jenis_tempat": "event olahraga triathlon",
+     "lokasi": "Pantai Tanjung Pesona, Bangka",
+     "keterangan": "Ajang triathlon 15-17 Mei 2026 untuk promosi pariwisata Bangka ke pasar internasional",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "15-17 Mei 2026",
+     "dasar_viral": "Agenda tahunan diminati wisatawan dalam dan luar negeri",
+     "kelurahan_desa": null,
+     "kecamatan": "Sungailiat",
+     "kota_kabupaten": "Kabupaten Bangka",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -1.83,
+     "longitude": 106.15,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Event di Pantai Tanjung Pesona"
+    }
+   ]
+  },
+  {
+   "article_id": 1027,
+   "places": [
+    {
+     "nama_tempat": "Alun-alun Simpang Lima Toboali",
+     "kategori": "lainnya",
+     "jenis_tempat": "alun-alun / ruang publik",
+     "lokasi": "Toboali, Kabupaten Bangka Selatan",
+     "keterangan": "Digelar permainan tradisional era 1990-an oleh Komunitas LIBAS, dibidik jadi daya tarik wisata",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "18 September 2026",
+     "dasar_viral": "Dibidik pemda sebagai daya tarik wisata lokal",
+     "kelurahan_desa": null,
+     "kecamatan": "Toboali",
+     "kota_kabupaten": "Kabupaten Bangka Selatan",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -3.012,
+     "longitude": 106.469,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan pusat Toboali"
+    }
+   ]
+  },
+  {
+   "article_id": 1028,
+   "places": [
+    {
+     "nama_tempat": "Desa Wisata Kolong Cepakek",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "desa wisata",
+     "lokasi": "Desa Air Limau, Kecamatan Mentok, Kabupaten Bangka Barat",
+     "keterangan": "Lokasi Festival Namul Hasil Bumi Jering dengan tarian, gangsing, makan bersama",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "11 Juli 2026",
+     "dasar_viral": "Festival menarik wisatawan dari Jakarta, Batam, Jawa, hingga Palembang",
+     "kelurahan_desa": "Air Limau",
+     "kecamatan": "Mentok",
+     "kota_kabupaten": "Kabupaten Bangka Barat",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -2.07,
+     "longitude": 105.17,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Mentok"
+    },
+    {
+     "nama_tempat": "Festival Namul Hasil Bumi Jering",
+     "kategori": "Pameran",
+     "jenis_tempat": "festival tradisi budaya",
+     "lokasi": "Desa Wisata Kolong Cepakek, Air Limau, Mentok",
+     "keterangan": "Festival tradisi hasil bumi jering dengan kesenian dan makan bersama",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "11 Juli 2026",
+     "dasar_viral": "Menarik wisatawan dari luar Pulau Bangka",
+     "kelurahan_desa": "Air Limau",
+     "kecamatan": "Mentok",
+     "kota_kabupaten": "Kabupaten Bangka Barat",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -2.07,
+     "longitude": 105.17,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Event di Desa Wisata Kolong Cepakek"
+    }
+   ]
+  },
+  {
+   "article_id": 1029,
+   "places": [
+    {
+     "nama_tempat": "Pantai Wisata Tanjung Pendam",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai kota",
+     "lokasi": "Tanjung Pandan, Kabupaten Belitung",
+     "keterangan": "Venue Grand Final Bujang Dayang Belitung 2026, dipadati ribuan warga",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "26 Juni 2026",
+     "dasar_viral": "Ribuan masyarakat memadati acara grand final",
+     "kelurahan_desa": null,
+     "kecamatan": "Tanjung Pandan",
+     "kota_kabupaten": "Kabupaten Belitung",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -2.744,
+     "longitude": 107.63,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan"
+    },
+    {
+     "nama_tempat": "Grand Final Bujang Dayang Belitung 2026",
+     "kategori": "Pameran",
+     "jenis_tempat": "event pemilihan duta wisata",
+     "lokasi": "Pantai Wisata Tanjung Pendam, Belitung",
+     "keterangan": "Puncak pemilihan duta wisata dengan seni, musik, dan tari tradisional",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "26 Juni 2026",
+     "dasar_viral": "Ribuan masyarakat memadati lokasi",
+     "kelurahan_desa": null,
+     "kecamatan": "Tanjung Pandan",
+     "kota_kabupaten": "Kabupaten Belitung",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -2.744,
+     "longitude": 107.63,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Event di Pantai Tanjung Pendam"
+    }
+   ]
+  },
+  {
+   "article_id": 1030,
+   "places": [
+    {
+     "nama_tempat": "Ketoprak Lapangan Golf",
+     "kategori": "Restoran",
+     "jenis_tempat": "kedai ketoprak",
+     "lokasi": "Jl. Lingkar Barat, Kecamatan Gading Cempaka, Kota Bengkulu",
+     "keterangan": "Berjualan keliling sejak 1999, kedai di samping lapangan golf sejak 2009",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Banyak pelanggan menyebut rasanya paling enak di Kota Bengkulu",
+     "kelurahan_desa": null,
+     "kecamatan": "Gading Cempaka",
+     "kota_kabupaten": "Kota Bengkulu",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.8,
+     "longitude": 102.27,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan"
+    },
+    {
+     "nama_tempat": "Ketoprak Pos",
+     "kategori": "Restoran",
+     "jenis_tempat": "kedai ketoprak",
+     "lokasi": "Kebun Kenanga, Kecamatan Ratu Agung, Kota Bengkulu",
+     "keterangan": "Porsi banyak, kuah berlimpah, bisa tambah telur",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Salah satu favorit warga Kota Bengkulu",
+     "kelurahan_desa": "Kebun Kenanga",
+     "kecamatan": "Ratu Agung",
+     "kota_kabupaten": "Kota Bengkulu",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.805,
+     "longitude": 102.27,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan"
+    }
+   ]
+  },
+  {
+   "article_id": 1031,
+   "places": [
+    {
+     "nama_tempat": "Dangau Datuk",
+     "kategori": "Restoran",
+     "jenis_tempat": "pusat jajanan dan oleh-oleh",
+     "lokasi": "Kota Bengkulu",
+     "keterangan": "Pusat jajanan dan oleh-oleh dengan gerai makanan khas hasil laut",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Pusat jajanan dan oleh-oleh Bengkulu",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bengkulu",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.7928,
+     "longitude": 102.2608,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat pusat Kota Bengkulu"
+    },
+    {
+     "nama_tempat": "Kedai Pesonk",
+     "kategori": "Restoran",
+     "jenis_tempat": "kedai olahan gurita",
+     "lokasi": "Jl. Putri Gading Cempaka, Penurunan, Kecamatan Ratu Samban, Kota Bengkulu",
+     "keterangan": "Sate gurita Rp20 ribu, nasi goreng hitam tinta gurita, seblak gurita",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Rekomendasi tempat makan wajib dikunjungi",
+     "kelurahan_desa": "Penurunan",
+     "kecamatan": "Ratu Samban",
+     "kota_kabupaten": "Kota Bengkulu",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.79,
+     "longitude": 102.26,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan"
+    }
+   ]
+  }
+ ]
+}

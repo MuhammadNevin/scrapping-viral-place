@@ -1,0 +1,173 @@
+{
+ "results": [
+  {
+   "article_id": 504,
+   "places": []
+  },
+  {
+   "article_id": 505,
+   "places": []
+  },
+  {
+   "article_id": 506,
+   "places": [
+    {
+     "nama_tempat": "Kelok 23",
+     "kategori": "lainnya",
+     "jenis_tempat": "jalur/panorama jalan baru",
+     "lokasi": "Sekitar Kalurahan Girijati, Gunungkidul (Bantul-Gunungkidul)",
+     "keterangan": "Jalur baru Kretek-Girijati; sekitar kawasannya direncanakan jadi destinasi wisata",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Girijati",
+     "kecamatan": "Panggang",
+     "kota_kabupaten": "Kabupaten Gunungkidul",
+     "provinsi": "DI Yogyakarta",
+     "negara": "Indonesia",
+     "latitude": -7.99,
+     "longitude": 110.37,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan"
+    },
+    {
+     "nama_tempat": "Ibarbo Park 2",
+     "kategori": "Wahana",
+     "jenis_tempat": "objek wisata buatan (rencana)",
+     "lokasi": "Sekitar Kelok 23, Kalurahan Girijati, Gunungkidul",
+     "keterangan": "Rencana taman wisata buatan oleh PT Bintang Ibarbo Boga; masih tahap perizinan",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Diproyeksikan jadi alternatif destinasi buatan di barat Gunungkidul",
+     "kelurahan_desa": "Girijati",
+     "kecamatan": "Panggang",
+     "kota_kabupaten": "Kabupaten Gunungkidul",
+     "provinsi": "DI Yogyakarta",
+     "negara": "Indonesia",
+     "latitude": -7.99,
+     "longitude": 110.37,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Belum dibangun; koordinat perkiraan area Kelok 23"
+    }
+   ]
+  },
+  {
+   "article_id": 507,
+   "places": []
+  },
+  {
+   "article_id": 508,
+   "places": [
+    {
+     "nama_tempat": "Kelok 23",
+     "kategori": "lainnya",
+     "jenis_tempat": "jalur/panorama jalan baru",
+     "lokasi": "Antara Kretek (Bantul) dan Girijati (Gunungkidul)",
+     "keterangan": "Akses baru Bantul-Gunungkidul, waktu tempuh Kretek-Girijati dari 30 menit jadi 7-8 menit; panorama menarik",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Bisa membuka koridor wisata baru kawasan selatan DIY",
+     "kelurahan_desa": "Girijati",
+     "kecamatan": "Panggang",
+     "kota_kabupaten": "Kabupaten Gunungkidul",
+     "provinsi": "DI Yogyakarta",
+     "negara": "Indonesia",
+     "latitude": -7.99,
+     "longitude": 110.37,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan; masih uji coba"
+    },
+    {
+     "nama_tempat": "Parangtritis",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai",
+     "lokasi": "Kretek, Bantul",
+     "keterangan": "Pantai selatan Bantul yang diuntungkan akses Kelok 23",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Parangtritis",
+     "kecamatan": "Kretek",
+     "kota_kabupaten": "Kabupaten Bantul",
+     "provinsi": "DI Yogyakarta",
+     "negara": "Indonesia",
+     "latitude": -8.0256,
+     "longitude": 110.3292,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 509,
+   "places": [
+    {
+     "nama_tempat": "Mega Science Center dan Budaya Jatim Park 1",
+     "kategori": "Wahana",
+     "jenis_tempat": "wahana edukasi sains dan budaya",
+     "lokasi": "Jatim Park 1, Kelurahan Sisir, Kota Batu",
+     "keterangan": "Zona fisika, antariksa, robotik dan AI, simulasi bencana, budaya; Gravity Coaster; trial opening 16 Sep 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "16 September 2026",
+     "dasar_viral": "Wisata baru edukasi sains dan budaya di Jatim Park 1",
+     "kelurahan_desa": "Sisir",
+     "kecamatan": "Batu",
+     "kota_kabupaten": "Kota Batu",
+     "provinsi": "Jawa Timur",
+     "negara": "Indonesia",
+     "latitude": -7.8883,
+     "longitude": 112.529,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 510,
+   "places": []
+  },
+  {
+   "article_id": 511,
+   "places": [
+    {
+     "nama_tempat": "Jembatan Ampera",
+     "kategori": "lainnya",
+     "jenis_tempat": "jembatan ikonik/cagar budaya nasional",
+     "lokasi": "Sungai Musi, Palembang",
+     "keterangan": "Ditetapkan cagar budaya nasional; menara disiapkan jadi destinasi wisata baru",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Ikon Palembang, ditetapkan cagar budaya nasional September 2026",
+     "kelurahan_desa": "Seberang Ulu",
+     "kecamatan": "Seberang Ulu I",
+     "kota_kabupaten": "Kota Palembang",
+     "provinsi": "Sumatera Selatan",
+     "negara": "Indonesia",
+     "latitude": -2.9969,
+     "longitude": 104.7632,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Kelurahan dan kecamatan perkiraan; membentang di atas Sungai Musi"
+    },
+    {
+     "nama_tempat": "Benteng Kuto Besak",
+     "kategori": "lainnya",
+     "jenis_tempat": "benteng bersejarah",
+     "lokasi": "Palembang",
+     "keterangan": "Dikunjungi Menteri Kebudayaan bersama Wali Kota, 11 Sep 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "19 Ilir",
+     "kecamatan": "Bukit Kecil",
+     "kota_kabupaten": "Kota Palembang",
+     "provinsi": "Sumatera Selatan",
+     "negara": "Indonesia",
+     "latitude": -2.9918,
+     "longitude": 104.7673,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  }
+ ]
+}

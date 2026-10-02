@@ -1,0 +1,290 @@
+{
+ "results": [
+  {
+   "article_id": 1616,
+   "places": [
+    {
+     "nama_tempat": "Pantai Sepanjang",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai",
+     "lokasi": "Kawasan Pantai Sepanjang, Gunungkidul",
+     "keterangan": "Pantai yang sedang ditata; kunjungan naik di atas 100 persen dibanding 2025",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Penataan kawasan membuat kunjungan naik signifikan di atas 100 persen dibanding 2025",
+     "kelurahan_desa": "Kemadang",
+     "kecamatan": "Tanjungsari",
+     "kota_kabupaten": "Kabupaten Gunungkidul",
+     "provinsi": "DI Yogyakarta",
+     "negara": "Indonesia",
+     "latitude": -8.138,
+     "longitude": 110.57,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Kelurahan/koordinat perkiraan"
+    },
+    {
+     "nama_tempat": "Pantai Drini Park",
+     "kategori": "Wahana",
+     "jenis_tempat": "wahana wisata kawasan pantai",
+     "lokasi": "Kawasan Pantai Drini, Gunungkidul",
+     "keterangan": "Wahana baru di kawasan Pantai Drini yang mulai ramai dikunjungi",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi wisata baru yang viral di media sosial",
+     "kelurahan_desa": "Banjarejo",
+     "kecamatan": "Tanjungsari",
+     "kota_kabupaten": "Kabupaten Gunungkidul",
+     "provinsi": "DI Yogyakarta",
+     "negara": "Indonesia",
+     "latitude": -8.135,
+     "longitude": 110.579,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Jungwok",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "destinasi wisata baru pantai",
+     "lokasi": "Gunungkidul",
+     "keterangan": "Destinasi wisata baru yang mulai ramai dikunjungi",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi wisata baru yang viral di media sosial",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Gunungkidul",
+     "provinsi": "DI Yogyakarta",
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": "Lokasi persis tidak disebut; kemungkinan kawasan Pantai Jungwok"
+    },
+    {
+     "nama_tempat": "On the Rock",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "wisata tebing karst dan pantai",
+     "lokasi": "Kawasan Pantai Drini, Gunungkidul",
+     "keterangan": "Destinasi baru dengan panorama laut dari tebing karst",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi wisata baru yang viral di media sosial",
+     "kelurahan_desa": "Banjarejo",
+     "kecamatan": "Tanjungsari",
+     "kota_kabupaten": "Kabupaten Gunungkidul",
+     "provinsi": "DI Yogyakarta",
+     "negara": "Indonesia",
+     "latitude": -8.136,
+     "longitude": 110.58,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 1617,
+   "places": []
+  },
+  {
+   "article_id": 1618,
+   "places": [
+    {
+     "nama_tempat": "Jalan Malioboro",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "kawasan wisata ikonik (jalan)",
+     "lokasi": "Jalan Malioboro, Yogyakarta",
+     "keterangan": "Spot estetik gratis tanpa tiket masuk",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi gratis dan ikonik",
+     "kelurahan_desa": null,
+     "kecamatan": "Gedongtengen",
+     "kota_kabupaten": "Kota Yogyakarta",
+     "provinsi": "DI Yogyakarta",
+     "negara": "Indonesia",
+     "latitude": -7.7926,
+     "longitude": 110.3658,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Titik 0 Km Jogja",
+     "kategori": "lainnya",
+     "jenis_tempat": "landmark kota",
+     "lokasi": "Pusat Kota Yogyakarta",
+     "keterangan": "Spot estetik gratis tanpa tiket masuk",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi gratis dan ikonik",
+     "kelurahan_desa": null,
+     "kecamatan": "Gondomanan",
+     "kota_kabupaten": "Kota Yogyakarta",
+     "provinsi": "DI Yogyakarta",
+     "negara": "Indonesia",
+     "latitude": -7.8011,
+     "longitude": 110.3647,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Alun-Alun Kidul",
+     "kategori": "lainnya",
+     "jenis_tempat": "alun-alun/ruang publik",
+     "lokasi": "Yogyakarta",
+     "keterangan": "Spot estetik gratis tanpa tiket masuk",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi gratis dan ikonik",
+     "kelurahan_desa": "Patehan",
+     "kecamatan": "Kraton",
+     "kota_kabupaten": "Kota Yogyakarta",
+     "provinsi": "DI Yogyakarta",
+     "negara": "Indonesia",
+     "latitude": -7.8109,
+     "longitude": 110.3641,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Pasar Beringharjo",
+     "kategori": "lainnya",
+     "jenis_tempat": "pasar tradisional oleh-oleh",
+     "lokasi": "Yogyakarta",
+     "keterangan": "Tempat beli bakpia atau kerajinan dengan harga kompetitif",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Disarankan untuk membeli oleh-oleh dengan harga kompetitif",
+     "kelurahan_desa": null,
+     "kecamatan": "Gondomanan",
+     "kota_kabupaten": "Kota Yogyakarta",
+     "provinsi": "DI Yogyakarta",
+     "negara": "Indonesia",
+     "latitude": -7.7988,
+     "longitude": 110.3665,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 1619,
+   "places": [
+    {
+     "nama_tempat": "Kawasan Malioboro",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "kawasan wisata kota",
+     "lokasi": "Kota Jogja",
+     "keterangan": "Tetap jadi destinasi favorit wisatawan domestik dan mancanegara saat long weekend Mei 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi favorit wisatawan Jogja",
+     "kelurahan_desa": null,
+     "kecamatan": "Gedongtengen",
+     "kota_kabupaten": "Kota Yogyakarta",
+     "provinsi": "DI Yogyakarta",
+     "negara": "Indonesia",
+     "latitude": -7.7926,
+     "longitude": 110.3658,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 1620,
+   "places": [
+    {
+     "nama_tempat": "On The Rock",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "wisata alam perbukitan/tebing pantai",
+     "lokasi": "Jalan Drini Timur, Wonosobo, Banjarejo, Tanjungsari, Gunungkidul",
+     "keterangan": "Wisata alam terbuka dengan pemandangan perbukitan Gunungkidul; ramai sore hari",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Spot baru yang sedang hits dan mulai ramai dikunjungi",
+     "kelurahan_desa": "Banjarejo",
+     "kecamatan": "Tanjungsari",
+     "kota_kabupaten": "Kabupaten Gunungkidul",
+     "provinsi": "DI Yogyakarta",
+     "negara": "Indonesia",
+     "latitude": -8.136,
+     "longitude": 110.58,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 1621,
+   "places": [
+    {
+     "nama_tempat": "K'Ville Kaliurang",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "taman wisata bergaya Eropa",
+     "lokasi": "Kaliurang, lereng Gunung Merapi, Sleman",
+     "keterangan": "Wisata bernuansa kota Eropa berlatar Merapi, spot foto Instagramable",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "2026",
+     "dasar_viral": "Disebut destinasi viral di Jogja dengan nuansa Eropa",
+     "kelurahan_desa": "Hargobinangun",
+     "kecamatan": "Pakem",
+     "kota_kabupaten": "Kabupaten Sleman",
+     "provinsi": "DI Yogyakarta",
+     "negara": "Indonesia",
+     "latitude": -7.601,
+     "longitude": 110.425,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Kelurahan/koordinat perkiraan"
+    }
+   ]
+  },
+  {
+   "article_id": 1622,
+   "places": [
+    {
+     "nama_tempat": "Alun-Alun Selatan (Alkid) Yogyakarta",
+     "kategori": "lainnya",
+     "jenis_tempat": "alun-alun/area kuliner",
+     "lokasi": "Alun-alun Selatan, Kota Yogyakarta",
+     "keterangan": "Lokasi dugaan pungli terhadap pedagang food truck; video TikTok viral",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Video TikTok pedagang soal dugaan pungli viral",
+     "kelurahan_desa": "Patehan",
+     "kecamatan": "Kraton",
+     "kota_kabupaten": "Kota Yogyakarta",
+     "provinsi": "DI Yogyakarta",
+     "negara": "Indonesia",
+     "latitude": -7.8109,
+     "longitude": 110.3641,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Yang viral adalah video dugaan pungli, bukan atraksi tempat"
+    }
+   ]
+  },
+  {
+   "article_id": 1623,
+   "places": [
+    {
+     "nama_tempat": "Kaliurang Park",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "taman wisata hutan pinus",
+     "lokasi": "Kaliurang, lereng Gunung Merapi, Sleman",
+     "keterangan": "Taman wisata terpadu dengan hutan pinus, area bermain, spot Instagramable",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Juni 2026",
+     "dasar_viral": "Tetap jadi favorit; informasi tiket Juni 2026",
+     "kelurahan_desa": "Hargobinangun",
+     "kecamatan": "Pakem",
+     "kota_kabupaten": "Kabupaten Sleman",
+     "provinsi": "DI Yogyakarta",
+     "negara": "Indonesia",
+     "latitude": -7.602,
+     "longitude": 110.427,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  }
+ ]
+}

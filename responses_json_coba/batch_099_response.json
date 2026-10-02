@@ -1,0 +1,136 @@
+{
+ "results": [
+  {
+   "article_id": 784,
+   "places": []
+  },
+  {
+   "article_id": 785,
+   "places": []
+  },
+  {
+   "article_id": 786,
+   "places": [
+    {
+     "nama_tempat": "Kafe Izaa",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe malam",
+     "lokasi": "Telukkuantan, Kabupaten Kuantan Singingi",
+     "keterangan": "Dirumorkan jadi lokasi aktivitas LGBT; Satpol PP akan menindaklanjuti",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "24 Juli 2026",
+     "dasar_viral": "Isu cepat menyebar di masyarakat dan memicu keresahan warga",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Kuantan Singingi",
+     "provinsi": "Riau",
+     "negara": "Indonesia",
+     "latitude": -0.4417,
+     "longitude": 101.5333,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan Teluk Kuantan; isu belum terbukti"
+    }
+   ]
+  },
+  {
+   "article_id": 787,
+   "places": [
+    {
+     "nama_tempat": "Kafe de'Clan Signature",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe (Cafe de'Clan / The Club)",
+     "lokasi": "Kawasan Cipete, Kebayoran Baru, Jakarta Selatan",
+     "keterangan": "Brankas rahasia di dinding kafe dibongkar polisi dalam kasus korupsi dan TPPU",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Juli 2026",
+     "dasar_viral": null,
+     "kelurahan_desa": "Cipete Utara",
+     "kecamatan": "Kebayoran Baru",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.264,
+     "longitude": 106.801,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan kawasan Cipete"
+    }
+   ]
+  },
+  {
+   "article_id": 788,
+   "places": [
+    {
+     "nama_tempat": "Cafe & Bar Hangout",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe dan bar",
+     "lokasi": "Jl. Aisyah Sulaiman, RT 001 RW 004, Dompak, Tanjungpinang",
+     "keterangan": "Lokasi anggota Polresta Tanjungpinang dipukul manajemen, viral",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "23 Mei 2026",
+     "dasar_viral": "Aksi pemukulan viral di media sosial",
+     "kelurahan_desa": "Dompak",
+     "kecamatan": "Bukit Bestari",
+     "kota_kabupaten": "Kota Tanjungpinang",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 0.88,
+     "longitude": 104.435,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan Dompak"
+    }
+   ]
+  },
+  {
+   "article_id": 789,
+   "places": [
+    {
+     "nama_tempat": "Kedai Kopi K Tiga",
+     "kategori": "Kafe",
+     "jenis_tempat": "kedai kopi dan makan keluarga",
+     "lokasi": "Jl. Dr Soetomo, Kel. Tanjung Rhu, Kec. Lima Puluh, Pekanbaru, dekat Agung Toyota Soetomo",
+     "keterangan": "Grand opening 10 Juni 2026; nasi ayam tempong, soto, bakmi, kwetiaw seafood",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "10 Juni 2026",
+     "dasar_viral": "Beragam menu enak dengan harga terjangkau",
+     "kelurahan_desa": "Tanjung Rhu",
+     "kecamatan": "Lima Puluh",
+     "kota_kabupaten": "Kota Pekanbaru",
+     "provinsi": "Riau",
+     "negara": "Indonesia",
+     "latitude": -0.516,
+     "longitude": 101.464,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan Jl. Dr Soetomo"
+    }
+   ]
+  },
+  {
+   "article_id": 790,
+   "places": [
+    {
+     "nama_tempat": "Sugu Collective",
+     "kategori": "Kafe",
+     "jenis_tempat": "coffee shop 24 jam",
+     "lokasi": "Jl. Ir. H. Juanda No.32, Citarum, kawasan Dago, Bandung",
+     "keterangan": "Suasana elegan, sofa empuk, cocok WFC malam",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar coffee shop 24 jam terbaik Bandung 2026",
+     "kelurahan_desa": "Citarum",
+     "kecamatan": "Bandung Wetan",
+     "kota_kabupaten": "Kota Bandung",
+     "provinsi": "Jawa Barat",
+     "negara": "Indonesia",
+     "latitude": -6.904,
+     "longitude": 107.613,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan; daftar 11 tempat terpotong"
+    }
+   ]
+  },
+  {
+   "article_id": 791,
+   "places": []
+  }
+ ]
+}

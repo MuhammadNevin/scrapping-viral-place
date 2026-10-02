@@ -1,0 +1,272 @@
+{
+ "results": [
+  {
+   "article_id": 1056,
+   "places": [
+    {
+     "nama_tempat": "Pantai Panjang",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai",
+     "lokasi": "Pantai Panjang, Kota Bengkulu",
+     "keterangan": "Penerima bantuan lima gazebo gratis untuk wisatawan",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Lokasi penyerahan gazebo gratis bagi wisatawan",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bengkulu",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.8225,
+     "longitude": 102.2615,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat area pantai"
+    }
+   ]
+  },
+  {
+   "article_id": 1057,
+   "places": [
+    {
+     "nama_tempat": "Danau Hijau Kepahiang",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "danau",
+     "lokasi": "Jalan Ring Road pusat perkantoran Pemkab Kepahiang, Desa Taba Tebelet",
+     "keterangan": "Danau berair hijau toska dikelilingi pepohonan, spot berfoto akhir pekan",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Pernah ramai di media sosial, kini 'sudah tidak seramai dulu'",
+     "kelurahan_desa": "Taba Tebelet",
+     "kecamatan": "Kepahiang",
+     "kota_kabupaten": "Kabupaten Kepahiang",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.6405,
+     "longitude": 102.5835,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Judul menyebut 'tak lagi viral'; koordinat area Kepahiang"
+    }
+   ]
+  },
+  {
+   "article_id": 1058,
+   "places": [
+    {
+     "nama_tempat": "Pantai Panjang",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai",
+     "lokasi": "Pantai Panjang, Kota Bengkulu",
+     "keterangan": "Ikon wisata Bengkulu, pasir putih, pantai membentang sekitar 7 km",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Disebut ikon wisata Bengkulu",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bengkulu",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.8225,
+     "longitude": 102.2615,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat area pantai"
+    },
+    {
+     "nama_tempat": "Pantai Sungai Suci",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai",
+     "lokasi": "Bengkulu Tengah",
+     "keterangan": "Panorama laut dengan pulau kecil yang dapat diakses jembatan gantung",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar 6 wisata Bengkulu",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Bengkulu Tengah",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.7,
+     "longitude": 102.3,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan"
+    },
+    {
+     "nama_tempat": "Bukit Kandis",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "bukit",
+     "lokasi": "Bengkulu",
+     "keterangan": "Panorama perbukitan hijau, udara sejuk, lokasi fotografi",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar 6 wisata Bengkulu",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": null,
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.7,
+     "longitude": 102.35,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Lokasi tidak dirinci; koordinat perkiraan area Bengkulu"
+    },
+    {
+     "nama_tempat": "Benteng Marlborough",
+     "kategori": "lainnya",
+     "jenis_tempat": "wisata sejarah (benteng peninggalan Inggris)",
+     "lokasi": "Kota Bengkulu",
+     "keterangan": "Salah satu benteng terbesar di Asia, arsitektur megah",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar 6 wisata Bengkulu",
+     "kelurahan_desa": "Malabero",
+     "kecamatan": "Teluk Segara",
+     "kota_kabupaten": "Kota Bengkulu",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.7914,
+     "longitude": 102.2517,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Pulau Tikus",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pulau/wisata bahari",
+     "lokasi": "Bengkulu",
+     "keterangan": "Air jernih dan terumbu karang, snorkeling",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar 6 wisata Bengkulu",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bengkulu",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.9,
+     "longitude": 102.1,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan, lepas pantai Bengkulu"
+    }
+   ]
+  },
+  {
+   "article_id": 1059,
+   "places": [
+    {
+     "nama_tempat": "Pantai Panjang",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai",
+     "lokasi": "Pantai Panjang, Kota Bengkulu",
+     "keterangan": "Lokasi patroli dialogis Ditpamobvit Polda Bengkulu",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Kawasan wisata yang dipatroli",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bengkulu",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.8225,
+     "longitude": 102.2615,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat area pantai"
+    }
+   ]
+  },
+  {
+   "article_id": 1060,
+   "places": [
+    {
+     "nama_tempat": "Beta Agrowisata",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "agrowisata taman bunga",
+     "lokasi": "Curup, Kabupaten Rejang Lebong",
+     "keterangan": "Hamparan bunga ungu-pink, tiket terjangkau, rating 4,3; mekar sekitar tiga minggu",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Beberapa waktu terakhir (2026)",
+     "dasar_viral": "Viral berkat video hamparan bunga di TikTok, jadi perbincangan di media sosial",
+     "kelurahan_desa": null,
+     "kecamatan": "Curup",
+     "kota_kabupaten": "Kabupaten Rejang Lebong",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.4686,
+     "longitude": 102.5195,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat pusat Curup"
+    }
+   ]
+  },
+  {
+   "article_id": 1061,
+   "places": [
+    {
+     "nama_tempat": "Benteng Marlborough",
+     "kategori": "lainnya",
+     "jenis_tempat": "wisata sejarah (benteng peninggalan Inggris)",
+     "lokasi": "Kota Bengkulu",
+     "keterangan": "Situs sejarah hubungan Bengkulu-Inggris, dasar usulan sister city dengan London",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Disebut sebagai kekuatan wisata sejarah Kota Bengkulu",
+     "kelurahan_desa": "Malabero",
+     "kecamatan": "Teluk Segara",
+     "kota_kabupaten": "Kota Bengkulu",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.7914,
+     "longitude": 102.2517,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 1062,
+   "places": [
+    {
+     "nama_tempat": "Danau Hijau Kepahiang",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "danau",
+     "lokasi": "Jalan Ring Road pusat perkantoran Pemkab Kepahiang, Desa Taba Tebelet",
+     "keterangan": "Air hijau toska dikelilingi pepohonan, latar favorit berfoto",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Beberapa pekan terakhir (Mei 2026)",
+     "dasar_viral": "Foto/video beredar luas, 'FYP', memicu penasaran warganet",
+     "kelurahan_desa": "Taba Tebelet",
+     "kecamatan": "Kepahiang",
+     "kota_kabupaten": "Kabupaten Kepahiang",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.6405,
+     "longitude": 102.5835,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat area Kepahiang"
+    }
+   ]
+  },
+  {
+   "article_id": 1063,
+   "places": [
+    {
+     "nama_tempat": "Pantai Panjang",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai",
+     "lokasi": "Pantai Panjang, Kota Bengkulu",
+     "keterangan": "Lokasi patroli dialogis akhir pekan Ditpamobvit",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Kawasan wisata ramai dikunjungi akhir pekan",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bengkulu",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.8225,
+     "longitude": 102.2615,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat area pantai"
+    }
+   ]
+  }
+ ]
+}

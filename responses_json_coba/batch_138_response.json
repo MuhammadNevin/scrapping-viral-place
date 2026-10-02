@@ -1,0 +1,329 @@
+{
+ "results": [
+  {
+   "article_id": 1096,
+   "places": [
+    {
+     "nama_tempat": "Pantai Pasir Putih",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai",
+     "lokasi": "Kota Bengkulu",
+     "keterangan": "Penataan dan rencana 35 gazebo gratis dengan dukungan CSR",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Kawasan wisata unggulan yang sedang ditata",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bengkulu",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.8,
+     "longitude": 102.25,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan"
+    }
+   ]
+  },
+  {
+   "article_id": 1097,
+   "places": [
+    {
+     "nama_tempat": "Danau Dendam Tak Sudah",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "danau (kawasan wisata alam)",
+     "lokasi": "Kelurahan Dusun Besar, Kota Bengkulu",
+     "keterangan": "Revitalisasi tahap pertama Rp35 miliar dari total Rp100 miliar; lokasi ditutup selama konstruksi",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Disiapkan jadi ikon wisata baru Bengkulu",
+     "kelurahan_desa": "Dusun Besar",
+     "kecamatan": "Singaran Pati",
+     "kota_kabupaten": "Kota Bengkulu",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.827,
+     "longitude": 102.318,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area danau"
+    }
+   ]
+  },
+  {
+   "article_id": 1098,
+   "places": [
+    {
+     "nama_tempat": "Pulau Pahawang",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pulau/wisata bahari",
+     "lokasi": "Kabupaten Pesawaran, Lampung",
+     "keterangan": "Air jernih, terumbu karang, snorkeling dan diving",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar wisata hits Lampung 2026",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Pesawaran",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -5.67,
+     "longitude": 105.22,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan pulau"
+    },
+    {
+     "nama_tempat": "Pantai Kyokko",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai",
+     "lokasi": "Kabupaten Lampung Selatan",
+     "keterangan": "Pasir putih, air biru jernih; tiket Rp60-100 ribu",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi alam populer di Lampung",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Lampung Selatan",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -5.6,
+     "longitude": 105.5,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan, tidak yakin"
+    },
+    {
+     "nama_tempat": "Bukit Aslan",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "bukit/wisata alam",
+     "lokasi": "Jalan Way Gubak, Sukabumi, Bandar Lampung",
+     "keterangan": "Pemandangan 360 derajat, ATV, camping, hiking; tiket Rp30-50 ribu",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Spot wisata hits di Lampung",
+     "kelurahan_desa": "Sukabumi",
+     "kecamatan": "Sukabumi",
+     "kota_kabupaten": "Kota Bandar Lampung",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -5.404,
+     "longitude": 105.314,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan kecamatan Sukabumi"
+    },
+    {
+     "nama_tempat": "Teluk Kiluan",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "teluk/wisata bahari",
+     "lokasi": "Kabupaten Tanggamus, 3-4 jam dari Bandar Lampung",
+     "keterangan": "Wisata teluk di Tanggamus",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar wisata hits Lampung 2026",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Tanggamus",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -5.7,
+     "longitude": 105.07,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan; artikel terpotong"
+    }
+   ]
+  },
+  {
+   "article_id": 1099,
+   "places": [
+    {
+     "nama_tempat": "Ceker Kerang Pedas Nona",
+     "kategori": "Restoran",
+     "jenis_tempat": "kedai kuliner pedas",
+     "lokasi": "Jalan Pahlawan No. 119, Surabaya, Kedaton, Bandar Lampung",
+     "keterangan": "Ceker, kerang, usus mix sayap pedas Rp16 ribu; konsep lesehan vintage, sapaan 'Tuan, Nona'",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Belum lama beroperasi, ramai dan viral di media sosial",
+     "kelurahan_desa": "Surabaya",
+     "kecamatan": "Kedaton",
+     "kota_kabupaten": "Kota Bandar Lampung",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -5.399,
+     "longitude": 105.27,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan kawasan Kedaton"
+    }
+   ]
+  },
+  {
+   "article_id": 1100,
+   "places": [
+    {
+     "nama_tempat": "Kampung Daun Culture Gallery & Cafe",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe dan galeri budaya",
+     "lokasi": "Lembang, Kabupaten Bandung Barat",
+     "keterangan": "Wisata kuliner suasana alam menenangkan",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk rekomendasi wisata kuliner Lembang paling hits",
+     "kelurahan_desa": null,
+     "kecamatan": "Lembang",
+     "kota_kabupaten": "Kabupaten Bandung Barat",
+     "provinsi": "Jawa Barat",
+     "negara": "Indonesia",
+     "latitude": -6.824,
+     "longitude": 107.619,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Lembang"
+    },
+    {
+     "nama_tempat": "Sapulidi",
+     "kategori": "Restoran",
+     "jenis_tempat": "restoran Sunda/nusantara",
+     "lokasi": "Lembang, Kabupaten Bandung Barat",
+     "keterangan": "Nasi liwet kastrol, gurame bakar madu, ayam penyet, karedok, sop buntut",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk rekomendasi wisata kuliner Lembang paling hits",
+     "kelurahan_desa": null,
+     "kecamatan": "Lembang",
+     "kota_kabupaten": "Kabupaten Bandung Barat",
+     "provinsi": "Jawa Barat",
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": "Alamat tidak disebut"
+    },
+    {
+     "nama_tempat": "Imah Seniman",
+     "kategori": "Restoran",
+     "jenis_tempat": "restoran saung di atas kolam",
+     "lokasi": "Jalan Kolonel Masturi No. VIII, Sukajaya, Lembang, Kabupaten Bandung Barat",
+     "keterangan": "Saung kayu di atas kolam ikan, musik angklung, ayam bakakak hayam",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Selalu dipenuhi pengunjung; masuk rekomendasi Lembang",
+     "kelurahan_desa": "Sukajaya",
+     "kecamatan": "Lembang",
+     "kota_kabupaten": "Kabupaten Bandung Barat",
+     "provinsi": "Jawa Barat",
+     "negara": "Indonesia",
+     "latitude": -6.8,
+     "longitude": 107.633,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan"
+    }
+   ]
+  },
+  {
+   "article_id": 1101,
+   "places": [
+    {
+     "nama_tempat": "Warung Nasi Omar",
+     "kategori": "Restoran",
+     "jenis_tempat": "warung nasi",
+     "lokasi": "Jl. Ki Maja No. 66, Way Halim, Bandar Lampung (samping Planet Ban)",
+     "keterangan": "Nasi nila bumbu hitam Rp23 ribu; buka 09.00-16.30, malam nasi goreng Pabo",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Rekomendasi makan siang enak dan terjangkau",
+     "kelurahan_desa": "Way Halim",
+     "kecamatan": "Way Halim",
+     "kota_kabupaten": "Kota Bandar Lampung",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -5.383,
+     "longitude": 105.279,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan Way Halim"
+    }
+   ]
+  },
+  {
+   "article_id": 1102,
+   "places": [
+    {
+     "nama_tempat": "Sarapan 10 Ribu by Dapoer Radira",
+     "kategori": "Restoran",
+     "jenis_tempat": "warung sarapan murah",
+     "lokasi": "Jalan Raden Intan, seberang Hotel Amalia, Bandar Lampung",
+     "keterangan": "Paket nasi lauk Rp10 ribu, buka Senin-Jumat 06.00-09.00",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk 7 tempat makan murah Bandar Lampung",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bandar Lampung",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -5.44,
+     "longitude": 105.265,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan"
+    },
+    {
+     "nama_tempat": "Cerita Dadar",
+     "kategori": "Restoran",
+     "jenis_tempat": "warung telur dadar",
+     "lokasi": "Jalan Nangka, Korpri Raya No. E1, Harapan Jaya, Sukarame, Bandar Lampung",
+     "keterangan": "Telur dadar dengan cumi/teri oseng, budget Rp15 ribuan",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk 7 tempat makan murah Bandar Lampung",
+     "kelurahan_desa": "Harapan Jaya",
+     "kecamatan": "Sukarame",
+     "kota_kabupaten": "Kota Bandar Lampung",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -5.373,
+     "longitude": 105.295,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan Korpri Raya"
+    },
+    {
+     "nama_tempat": "Ceker Kerang Pedas Nona",
+     "kategori": "Restoran",
+     "jenis_tempat": "kedai kuliner pedas",
+     "lokasi": "Jalan Pahlawan No. 119, Surabaya, Kedaton, Bandar Lampung",
+     "keterangan": "Olahan pedas Rp16 ribu per porsi, udang pedas Rp21 ribu",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk 7 tempat makan murah Bandar Lampung",
+     "kelurahan_desa": "Surabaya",
+     "kecamatan": "Kedaton",
+     "kota_kabupaten": "Kota Bandar Lampung",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -5.399,
+     "longitude": 105.27,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan kawasan Kedaton"
+    }
+   ]
+  },
+  {
+   "article_id": 1103,
+   "places": [
+    {
+     "nama_tempat": "Resto Lamban Sabah",
+     "kategori": "Restoran",
+     "jenis_tempat": "resto khas Lampung bernuansa pedesaan",
+     "lokasi": "Jalan Padat Karya, Korpri Raya, Kecamatan Sukarame, Bandar Lampung",
+     "keterangan": "Pepenyok, gulai taboh, pindang; rumah panggung, ATV, ruang pertemuan; buka 11.00-22.00",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Konsep Authentic, Nature, and Culture",
+     "kelurahan_desa": null,
+     "kecamatan": "Sukarame",
+     "kota_kabupaten": "Kota Bandar Lampung",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -5.373,
+     "longitude": 105.295,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan Korpri Raya"
+    }
+   ]
+  }
+ ]
+}

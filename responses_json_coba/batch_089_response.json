@@ -1,0 +1,156 @@
+{
+ "results": [
+  {
+   "article_id": 704,
+   "places": []
+  },
+  {
+   "article_id": 705,
+   "places": []
+  },
+  {
+   "article_id": 706,
+   "places": [
+    {
+     "nama_tempat": "Mie Gacoan (Marelan)",
+     "kategori": "Restoran",
+     "jenis_tempat": "restoran mi pedas",
+     "lokasi": "Marelan, Kota Medan",
+     "keterangan": "Chat karyawan diminta resign usai ajukan cuti orang tua sakit viral; supervisor minta maaf",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "8 April 2026",
+     "dasar_viral": "Percakapan WhatsApp karyawan viral di Instagram @undercover.id",
+     "kelurahan_desa": "Marelan",
+     "kecamatan": "Medan Marelan",
+     "kota_kabupaten": "Kota Medan",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.67,
+     "longitude": 98.65,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Gerai di Marelan; koordinat perkiraan area kecamatan"
+    }
+   ]
+  },
+  {
+   "article_id": 707,
+   "places": [
+    {
+     "nama_tempat": "Mie Gacoan (Marelan)",
+     "kategori": "Restoran",
+     "jenis_tempat": "restoran mi pedas",
+     "lokasi": "Marelan, Kota Medan",
+     "keterangan": "Chat karyawan diminta resign usai ajukan cuti orang tua sakit viral; supervisor minta maaf",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "8 April 2026",
+     "dasar_viral": "Percakapan WhatsApp karyawan viral di Instagram @undercover.id",
+     "kelurahan_desa": "Marelan",
+     "kecamatan": "Medan Marelan",
+     "kota_kabupaten": "Kota Medan",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.67,
+     "longitude": 98.65,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Gerai di Marelan; koordinat perkiraan area kecamatan"
+    }
+   ]
+  },
+  {
+   "article_id": 708,
+   "places": [
+    {
+     "nama_tempat": "Tugu Raja Sitanggang",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "spot wisata tugu dan panorama",
+     "lokasi": "Jalan Gereja, Sait Nihuta, Kecamatan Pangururan, Samosir",
+     "keterangan": "Panorama Gunung Pusuk Buhit dan Danau Toba, bangku kayu, ramai akhir pekan",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Sekitar sebulan sebelum artikel",
+     "dasar_viral": "Sudah viral di media sosial sejak sekitar sebulan lalu",
+     "kelurahan_desa": "Sait Nihuta",
+     "kecamatan": "Pangururan",
+     "kota_kabupaten": "Kabupaten Samosir",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 2.6,
+     "longitude": 98.69,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Pangururan"
+    }
+   ]
+  },
+  {
+   "article_id": 709,
+   "places": [
+    {
+     "nama_tempat": "Bukit Anduhur",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "spot wisata bukit pemandangan",
+     "lokasi": "Kecamatan Sianjur Mula-Mula, Samosir",
+     "keterangan": "Spot foto baru dikenal; kasus pungli parkir Rp20 ribu 17 Mei 2026 viral",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "17 Mei 2026",
+     "dasar_viral": "Video cekcok pungli dengan wisatawan viral",
+     "kelurahan_desa": null,
+     "kecamatan": "Sianjur Mula-Mula",
+     "kota_kabupaten": "Kabupaten Samosir",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 2.57,
+     "longitude": 98.62,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Sianjur Mula-Mula"
+    }
+   ]
+  },
+  {
+   "article_id": 710,
+   "places": [
+    {
+     "nama_tempat": "Kawasan wisata Danau Toba Paropo",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "kawasan wisata danau",
+     "lokasi": "Kecamatan Silahisabungan, Dairi",
+     "keterangan": "Pungli modus stiker HUT RI Rp50 ribu menuju kawasan Paropo, 15 Agustus 2026",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "15 Agustus 2026",
+     "dasar_viral": "Video pungli pemotor menuju Paropo viral di media sosial",
+     "kelurahan_desa": "Paropo",
+     "kecamatan": "Silahisabungan",
+     "kota_kabupaten": "Kabupaten Dairi",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 2.75,
+     "longitude": 98.52,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Silahisabungan"
+    }
+   ]
+  },
+  {
+   "article_id": 711,
+   "places": [
+    {
+     "nama_tempat": "Pemandian Air Panas Doulu",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pemandian air panas",
+     "lokasi": "Desa Semangat, Kabupaten Karo",
+     "keterangan": "Pungutan retribusi berlapis di jalur wisata viral; Pemkab Karo minta maaf dan menutup retribusi",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Awal Juni 2026",
+     "dasar_viral": "Video kreator Medan Dinda Anwar ditonton hampir jutaan kali",
+     "kelurahan_desa": "Semangat Gunung",
+     "kecamatan": "Merdeka",
+     "kota_kabupaten": "Kabupaten Karo",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.24,
+     "longitude": 98.52,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Artikel menyebut Desa Semangat/Doulu; koordinat perkiraan area Berastagi"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "results": [
+  {
+   "article_id": 168,
+   "places": []
+  },
+  {
+   "article_id": 169,
+   "places": [
+    {
+     "nama_tempat": "Summer Food Market",
+     "kategori": "Pameran",
+     "jenis_tempat": "festival kuliner UMKM",
+     "lokasi": "Piazza Ground Floor Gandaria City, Jakarta",
+     "keterangan": "37 tenant kuliner mayoritas UMKM: olahan cokelat, es kimo, makanan viral; hiburan musik akhir pekan",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "5-16 Agustus 2026",
+     "dasar_viral": "Menghadirkan makanan yang sedang viral dan ramai diperbincangkan di media sosial",
+     "kelurahan_desa": "Kebayoran Lama Utara",
+     "kecamatan": "Kebayoran Lama",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.2443,
+     "longitude": 106.7836,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat Gandaria City"
+    }
+   ]
+  },
+  {
+   "article_id": 170,
+   "places": []
+  },
+  {
+   "article_id": 171,
+   "places": []
+  },
+  {
+   "article_id": 172,
+   "places": []
+  },
+  {
+   "article_id": 173,
+   "places": [
+    {
+     "nama_tempat": "Semesta by Remboelan",
+     "kategori": "Restoran",
+     "jenis_tempat": "restoran Indonesia modern",
+     "lokasi": "Jalan Senopati No.83, Senayan, Kebayoran Baru, Jakarta Selatan",
+     "keterangan": "Masakan Nusantara modern; nasi bakul ayam Klungkung, rujak pengantin, bihun kampung Gunung Tidar; Rp35-145 ribu",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar kuliner viral & hidden gem Senopati",
+     "kelurahan_desa": "Senayan",
+     "kecamatan": "Kebayoran Baru",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.229,
+     "longitude": 106.8085,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat area Jl. Senopati"
+    },
+    {
+     "nama_tempat": "DEMIE Bakmie 69",
+     "kategori": "Restoran",
+     "jenis_tempat": "kedai bakmi street food",
+     "lokasi": "Jalan Senopati Raya No.64, Selong, Kebayoran Baru, Jakarta Selatan",
+     "keterangan": "Bakmi keriting dengan chasiu empuk, chili oil dan garlic oil; dine-in di tangga gedung; Rp15-58 ribu",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar kuliner viral & hidden gem Senopati",
+     "kelurahan_desa": "Selong",
+     "kecamatan": "Kebayoran Baru",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.2338,
+     "longitude": 106.8082,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Nama gerai terpotong di artikel; koordinat area Jl. Senopati"
+    },
+    {
+     "nama_tempat": "Grains of Glory Senopati",
+     "kategori": "Restoran",
+     "jenis_tempat": "restoran healthy bowl",
+     "lokasi": "Jalan Senopati Raya 27-29, Senayan, Kebayoran Baru, Jakarta Selatan",
+     "keterangan": "Healthy bowl yang bisa dikustom; Rp55-125 ribu",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar kuliner viral & hidden gem Senopati",
+     "kelurahan_desa": "Senayan",
+     "kecamatan": "Kebayoran Baru",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.231,
+     "longitude": 106.8075,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat area Jl. Senopati"
+    }
+   ]
+  },
+  {
+   "article_id": 174,
+   "places": [
+    {
+     "nama_tempat": "Festival Kuliner Gang Senggol Jakarta Viral",
+     "kategori": "Pameran",
+     "jenis_tempat": "festival kuliner",
+     "lokasi": "Lobi Barat PTC Mall Palembang; juga di Palembang Indah Mall",
+     "keterangan": "Sekitar 45 tenant dengan ratusan menu kuliner, buka 10.00-22.00 WIB",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "25 Juni - 5 Juli 2026",
+     "dasar_viral": "Dipadati pengunjung; pengunjung datang untuk makanan yang ramai di media sosial",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Palembang",
+     "provinsi": "Sumatera Selatan",
+     "negara": "Indonesia",
+     "latitude": -2.9722,
+     "longitude": 104.7599,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat PTC Mall; juga digelar di Palembang Indah Mall"
+    }
+   ]
+  },
+  {
+   "article_id": 175,
+   "places": [
+    {
+     "nama_tempat": "O Donut",
+     "kategori": "Kafe",
+     "jenis_tempat": "gerai donat",
+     "lokasi": "Pedestrian Blok M, Jakarta Selatan",
+     "keterangan": "Gerai estetik dengan papan 'Fresh Donut Daily'",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "17 Mei 2026",
+     "dasar_viral": "Antrean mengular saat libur panjang Kenaikan Yesus Kristus",
+     "kelurahan_desa": "Melawai",
+     "kecamatan": "Kebayoran Baru",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.2442,
+     "longitude": 106.7989,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat area Blok M"
+    },
+    {
+     "nama_tempat": "House of Ninette",
+     "kategori": "Kafe",
+     "jenis_tempat": "gerai kue/roti",
+     "lokasi": "Pedestrian Blok M, Jakarta Selatan",
+     "keterangan": "Gerai estetik, antrean membelah trotoar",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "17 Mei 2026",
+     "dasar_viral": "Antrean mengular saat libur panjang",
+     "kelurahan_desa": "Melawai",
+     "kecamatan": "Kebayoran Baru",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.2442,
+     "longitude": 106.7989,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat area Blok M"
+    },
+    {
+     "nama_tempat": "Hoomie Dough",
+     "kategori": "Kafe",
+     "jenis_tempat": "gerai roti",
+     "lokasi": "Pedestrian Blok M, Jakarta Selatan",
+     "keterangan": "Roti dengan mentega lumer yang naik daun di media sosial",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "17 Mei 2026",
+     "dasar_viral": "Antrean mengular; roti sedang naik daun di media sosial",
+     "kelurahan_desa": "Melawai",
+     "kecamatan": "Kebayoran Baru",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.2442,
+     "longitude": 106.7989,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat area Blok M"
+    }
+   ]
+  }
+ ]
+}

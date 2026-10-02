@@ -1,0 +1,152 @@
+{
+ "results": [
+  {
+   "article_id": 1880,
+   "places": [
+    {
+     "nama_tempat": "Jatiluwih",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "sawah terasering warisan dunia",
+     "lokasi": "Jatiluwih, Tabanan, Bali",
+     "keterangan": "Warisan budaya dunia; lokasi perdana Bali Tourism Run 1.700 peserta, penginapan warga okupansi 100 persen",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Lokasi Bali Tourism Run, 1.700 peserta dalam sebulan pendaftaran",
+     "kelurahan_desa": "Jatiluwih",
+     "kecamatan": "Penebel",
+     "kota_kabupaten": "Kabupaten Tabanan",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.3695,
+     "longitude": 115.1318,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Tanah Lot",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pura di atas karang/pantai",
+     "lokasi": "Tabanan, Bali",
+     "keterangan": "Disebut Wabup sebagai calon lokasi ajang lari",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Dibidik Wabup Tabanan sebagai lokasi ajang lari wisata",
+     "kelurahan_desa": "Beraban",
+     "kecamatan": "Kediri",
+     "kota_kabupaten": "Kabupaten Tabanan",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.6212,
+     "longitude": 115.0868,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Yeh Gangga",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai",
+     "lokasi": "Tabanan, Bali",
+     "keterangan": "Disebut Wabup sebagai calon lokasi ajang lari",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Dibidik Wabup Tabanan sebagai lokasi ajang lari wisata",
+     "kelurahan_desa": "Sudimara",
+     "kecamatan": "Tabanan",
+     "kota_kabupaten": "Kabupaten Tabanan",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.5889,
+     "longitude": 115.101,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan"
+    },
+    {
+     "nama_tempat": "Soka",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai/kawasan wisata",
+     "lokasi": "Tabanan, Bali",
+     "keterangan": "Disebut Wabup sebagai calon lokasi ajang lari",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Dibidik Wabup Tabanan sebagai lokasi ajang lari wisata",
+     "kelurahan_desa": null,
+     "kecamatan": "Selemadeg Timur",
+     "kota_kabupaten": "Kabupaten Tabanan",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": "Hanya disebut 'Soka'; kemungkinan Pantai Soka"
+    },
+    {
+     "nama_tempat": "Pura Ulun Danu",
+     "kategori": "lainnya",
+     "jenis_tempat": "pura/wisata religi",
+     "lokasi": "Tabanan, Bali",
+     "keterangan": "Disebut Wabup sebagai calon lokasi ajang lari",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Dibidik Wabup Tabanan sebagai lokasi ajang lari wisata",
+     "kelurahan_desa": null,
+     "kecamatan": "Baturiti",
+     "kota_kabupaten": "Kabupaten Tabanan",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.2753,
+     "longitude": 115.1667,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Kemungkinan Ulun Danu Beratan; artikel hanya menyebut 'Ulun Danu'"
+    }
+   ]
+  },
+  {
+   "article_id": 1881,
+   "places": []
+  },
+  {
+   "article_id": 1882,
+   "places": [
+    {
+     "nama_tempat": "Satu Asa Coffee",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe",
+     "lokasi": "Kota Serang, Banten",
+     "keterangan": "Lokasi peluncuran logo Banten Muda Penggiat Pariwisata (BMPP)",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": null,
+     "kecamatan": "Serang",
+     "kota_kabupaten": "Kota Serang",
+     "provinsi": "Banten",
+     "negara": "Indonesia",
+     "latitude": -6.12,
+     "longitude": 106.15,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Hanya disebut Kota Serang; koordinat pusat kota"
+    }
+   ]
+  },
+  {
+   "article_id": 1883,
+   "places": []
+  },
+  {
+   "article_id": 1884,
+   "places": []
+  },
+  {
+   "article_id": 1885,
+   "places": []
+  },
+  {
+   "article_id": 1886,
+   "places": []
+  },
+  {
+   "article_id": 1887,
+   "places": []
+  }
+ ]
+}

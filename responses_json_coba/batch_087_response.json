@@ -1,0 +1,270 @@
+{
+ "results": [
+  {
+   "article_id": 688,
+   "places": []
+  },
+  {
+   "article_id": 689,
+   "places": [
+    {
+     "nama_tempat": "Wooden Space",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe vintage rustic-modern",
+     "lokasi": "Jalan KL. Yos Sudarso No. 23, Medan Deli",
+     "keterangan": "Elemen kayu dan pencahayaan hangat, nyaman untuk kerja dan nongkrong; Rp22-27 ribu; buka 09.00-23.00",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar 10 kafe vintage di Medan",
+     "kelurahan_desa": null,
+     "kecamatan": "Medan Deli",
+     "kota_kabupaten": "Kota Medan",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.63,
+     "longitude": 98.69,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Warung Lawas",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe vintage / museum mini",
+     "lokasi": "Jalan Sunggal No. 345, Medan Sunggal",
+     "keterangan": "Perabotan jadul, pajangan antik, poster lama; harga sangat terjangkau; buka 09.00-22.00",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar 10 kafe vintage di Medan",
+     "kelurahan_desa": null,
+     "kecamatan": "Medan Sunggal",
+     "kota_kabupaten": "Kota Medan",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.58,
+     "longitude": 98.635,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Dapuraja",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe vintage dapur tradisional",
+     "lokasi": "Medan",
+     "keterangan": "Konsep dapur nenek dengan rantang tua, toples kaleng, perabot kayu",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar 10 kafe vintage di Medan",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Medan",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.5952,
+     "longitude": 98.6722,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Alamat terpotong; koordinat pusat Kota Medan"
+    }
+   ]
+  },
+  {
+   "article_id": 690,
+   "places": [
+    {
+     "nama_tempat": "Nasi Kapau Hj. Uni Emi",
+     "kategori": "Restoran",
+     "jenis_tempat": "rumah makan nasi kapau Minang",
+     "lokasi": "Medan",
+     "keterangan": "Rumah makan nasi kapau legendaris di Medan",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Disebut legendaris, salah satu tempat nasi kapau populer",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Medan",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.5952,
+     "longitude": 98.6722,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Alamat terpotong; koordinat pusat Kota Medan"
+    }
+   ]
+  },
+  {
+   "article_id": 691,
+   "places": [
+    {
+     "nama_tempat": "Ayam Geprek Kriwow",
+     "kategori": "Restoran",
+     "jenis_tempat": "warung ayam geprek",
+     "lokasi": "Jalan Belibis No. 10A, Jalan Cendrawasih No. 6A, dan kawasan Patenggangan, Air Tawar Barat, Padang",
+     "keterangan": "Ayam geprek dengan pilihan sambal, mulai Rp13 ribu; favorit mahasiswa UNP",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Selalu ramai saat jam makan siang, favorit mahasiswa",
+     "kelurahan_desa": "Air Tawar Barat",
+     "kecamatan": "Padang Utara",
+     "kota_kabupaten": "Kota Padang",
+     "provinsi": "Sumatera Barat",
+     "negara": "Indonesia",
+     "latitude": -0.904,
+     "longitude": 100.348,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Tiga cabang di sekitar UNP; koordinat area kampus UNP"
+    }
+   ]
+  },
+  {
+   "article_id": 692,
+   "places": []
+  },
+  {
+   "article_id": 693,
+   "places": [
+    {
+     "nama_tempat": "Soto Kesawan",
+     "kategori": "Restoran",
+     "jenis_tempat": "warung soto Medan",
+     "lokasi": "Kawasan Kesawan, Medan",
+     "keterangan": "Soto santan dengan ayam, sapi, atau udang",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Ikon kuliner Medan yang sudah melegenda",
+     "kelurahan_desa": "Kesawan",
+     "kecamatan": "Medan Barat",
+     "kota_kabupaten": "Kota Medan",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.588,
+     "longitude": 98.674,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Rumah Makan Sinar Pagi (Soto Medan H. Sinar Pagi)",
+     "kategori": "Restoran",
+     "jenis_tempat": "warung soto Medan",
+     "lokasi": "Medan; cabang di kawasan Simpang Gatot Subroto",
+     "keterangan": "Berdiri sejak 1962; kuah santan rempah, sapi, ayam kampung, paru, perkedel",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Hampir selalu masuk daftar rekomendasi Soto Medan",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Medan",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.5952,
+     "longitude": 98.6722,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Punya cabang; koordinat pusat Kota Medan"
+    },
+    {
+     "nama_tempat": "Soto Bening H. Anwar Sulaiman",
+     "kategori": "Restoran",
+     "jenis_tempat": "warung soto kuah bening",
+     "lokasi": "Medan",
+     "keterangan": "Soto kuah bening dengan daging sapi melimpah dan bawang goreng",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Pilihan berbeda dengan kuah bening",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Medan",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.5952,
+     "longitude": 98.6722,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Alamat tidak disebut; koordinat pusat Kota Medan"
+    },
+    {
+     "nama_tempat": "Soto Medan Pak Haji",
+     "kategori": "Restoran",
+     "jenis_tempat": "warung soto Medan",
+     "lokasi": "Medan",
+     "keterangan": "Kuah santan gurih dan rempah meresap, ada menu pendamping",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Banyak direkomendasikan pencinta kuliner lokal",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Medan",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.5952,
+     "longitude": 98.6722,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Alamat tidak disebut; koordinat pusat Kota Medan"
+    }
+   ]
+  },
+  {
+   "article_id": 694,
+   "places": [
+    {
+     "nama_tempat": "Mie Aceh Bobrok",
+     "kategori": "Restoran",
+     "jenis_tempat": "kedai mie Aceh",
+     "lokasi": "Jl. Setia Budi No.17 D, Sei Sikambing B, Medan Sunggal",
+     "keterangan": "Sejak 1996, open kitchen; Mie Aceh Kepiting dan Udang, Rp25 ribu; buka 11.00-22.00",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Tempat makan legendaris sejak 1996",
+     "kelurahan_desa": "Sei Sikambing B",
+     "kecamatan": "Medan Sunggal",
+     "kota_kabupaten": "Kota Medan",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.574,
+     "longitude": 98.64,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Rumah Makan Tabona",
+     "kategori": "Restoran",
+     "jenis_tempat": "rumah makan kari",
+     "lokasi": "Jalan Mangkubumi No. 17, Medan",
+     "keterangan": "Sejak 1983; Kari Ayam Kampung, Kari Daging Sapi, mi ayam khas Medan",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Salah satu tempat makan legendaris paling diburu di Medan",
+     "kelurahan_desa": null,
+     "kecamatan": "Medan Maimun",
+     "kota_kabupaten": "Kota Medan",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.576,
+     "longitude": 98.684,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 695,
+   "places": [
+    {
+     "nama_tempat": "Sumatera Coffee Journey (Karya Kreatif Sumatera Utara)",
+     "kategori": "Pameran",
+     "jenis_tempat": "kompetisi dan pameran kopi UMKM",
+     "lokasi": "Salah satu pusat perbelanjaan di Kota Medan",
+     "keterangan": "Kompetisi dan pameran kopi sekitar 300 UMKM, talkshow, business matching, 15-26 Juli 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "15-26 Juli 2026",
+     "dasar_viral": "Memperluas posisi kopi Sumut ke pasar nasional dan global",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Medan",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.5952,
+     "longitude": 98.6722,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Nama mal tidak disebut; koordinat pusat Kota Medan"
+    }
+   ]
+  }
+ ]
+}

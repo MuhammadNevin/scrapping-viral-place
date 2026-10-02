@@ -1,0 +1,348 @@
+{
+ "results": [
+  {
+   "article_id": 928,
+   "places": [
+    {
+     "nama_tempat": "Jembatan Gentala Arasy",
+     "kategori": "lainnya",
+     "jenis_tempat": "jembatan pedestrian",
+     "lokasi": "Kota Jambi, Sungai Batanghari",
+     "keterangan": "Ikon wisata tepian Sungai Batanghari",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk rekomendasi tempat wisata di Jambi",
+     "kelurahan_desa": null,
+     "kecamatan": "Pelayangan",
+     "kota_kabupaten": "Kota Jambi",
+     "provinsi": "Jambi",
+     "negara": "Indonesia",
+     "latitude": -1.5925,
+     "longitude": 103.6195,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Hanya disebut pada keterangan foto"
+    }
+   ]
+  },
+  {
+   "article_id": 929,
+   "places": [
+    {
+     "nama_tempat": "Taman Wisata Jambi Paradise",
+     "kategori": "Wahana",
+     "jenis_tempat": "taman wisata keluarga",
+     "lokasi": "Kawasan Palmerah, Simpang Acai, Kota Jambi",
+     "keterangan": "Taman, area bermain, banyak spot foto; tiket terjangkau, ramai akhir pekan",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi favorit wisatawan, ramai saat akhir pekan dan libur",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Jambi",
+     "provinsi": "Jambi",
+     "negara": "Indonesia",
+     "latitude": -1.61,
+     "longitude": 103.6,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Lokasi persis tidak diketahui; koordinat perkiraan Kota Jambi"
+    },
+    {
+     "nama_tempat": "Candi Muaro Jambi",
+     "kategori": "lainnya",
+     "jenis_tempat": "kompleks candi Buddha",
+     "lokasi": "Kabupaten Muaro Jambi",
+     "keterangan": "Kompleks percandian Kerajaan Melayu Kuno dan Sriwijaya; sewa sepeda dan kendaraan listrik",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk rekomendasi tempat wisata di Jambi",
+     "kelurahan_desa": "Muaro Jambi",
+     "kecamatan": "Maro Sebo",
+     "kota_kabupaten": "Kabupaten Muaro Jambi",
+     "provinsi": "Jambi",
+     "negara": "Indonesia",
+     "latitude": -1.4783,
+     "longitude": 103.6683,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Danau Gunung Tujuh",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "danau vulkanik",
+     "lokasi": "Kawasan Kerinci",
+     "keterangan": "Danau tertinggi di Asia Tenggara, dikelilingi tujuh gunung; bisa berkemah",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk rekomendasi tempat wisata di Jambi",
+     "kelurahan_desa": null,
+     "kecamatan": "Kayu Aro",
+     "kota_kabupaten": "Kabupaten Kerinci",
+     "provinsi": "Jambi",
+     "negara": "Indonesia",
+     "latitude": -1.7019,
+     "longitude": 101.2928,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Danau Kaco",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "danau",
+     "lokasi": "Taman Nasional Kerinci Seblat",
+     "keterangan": "Air biru jernih, harus trekking hutan; dipercaya bercahaya malam hari",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk rekomendasi tempat wisata di Jambi",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Kerinci",
+     "provinsi": "Jambi",
+     "negara": "Indonesia",
+     "latitude": -2.28,
+     "longitude": 101.45,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan"
+    },
+    {
+     "nama_tempat": "Perkebunan Teh Kayu Aro",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "perkebunan teh",
+     "lokasi": "Kayu Aro, kaki Gunung Kerinci",
+     "keterangan": "Hamparan kebun teh dan panorama Gunung Kerinci",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk rekomendasi tempat wisata di Jambi",
+     "kelurahan_desa": null,
+     "kecamatan": "Kayu Aro",
+     "kota_kabupaten": "Kabupaten Kerinci",
+     "provinsi": "Jambi",
+     "negara": "Indonesia",
+     "latitude": -1.728,
+     "longitude": 101.287,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 930,
+   "places": [
+    {
+     "nama_tempat": "Aek Tumpah",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "air terjun buatan (dalam pembangunan)",
+     "lokasi": "Muara Bulian, Kabupaten Batanghari",
+     "keterangan": "Air terjun buatan senilai Rp3,5 miliar dari APBD 2026, target selesai sekitar 150 hari kerja",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Dibangun sebagai destinasi wisata baru dan pendukung UMKM",
+     "kelurahan_desa": null,
+     "kecamatan": "Muara Bulian",
+     "kota_kabupaten": "Kabupaten Batanghari",
+     "provinsi": "Jambi",
+     "negara": "Indonesia",
+     "latitude": -1.7333,
+     "longitude": 103.2,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Belum beroperasi; lokasi tepat tidak disebut"
+    }
+   ]
+  },
+  {
+   "article_id": 931,
+   "places": [
+    {
+     "nama_tempat": "Wonderlab",
+     "kategori": "Wahana",
+     "jenis_tempat": "tempat bermain anak dalam ruangan",
+     "lokasi": "Senayan City, Jakarta",
+     "keterangan": "Playground interaktif penuh petualangan untuk anak hingga usia pra remaja",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi liburan dalam ruangan terbaru di Jakarta",
+     "kelurahan_desa": "Gelora",
+     "kecamatan": "Tanah Abang",
+     "kota_kabupaten": "Kota Jakarta Pusat",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.2274,
+     "longitude": 106.7973,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Di dalam Senayan City"
+    }
+   ]
+  },
+  {
+   "article_id": 932,
+   "places": [
+    {
+     "nama_tempat": "Kawasan Wisata Kuliner Kota Tua Pasar Jambi",
+     "kategori": "lainnya",
+     "jenis_tempat": "kawasan wisata kuliner dan sejarah",
+     "lokasi": "Depan Hotel Duta, Kecamatan Pasar, Kota Jambi",
+     "keterangan": "Diluncurkan 3 April 2026; zona religi, kuliner, fashion; kuliner Melayu dan India seperti nasi minyak",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "3 April 2026",
+     "dasar_viral": "Diresmikan Pemkot Jambi sebagai destinasi wisata kuliner dan penggerak ekonomi",
+     "kelurahan_desa": null,
+     "kecamatan": "Pasar Jambi",
+     "kota_kabupaten": "Kota Jambi",
+     "provinsi": "Jambi",
+     "negara": "Indonesia",
+     "latitude": -1.5977,
+     "longitude": 103.6129,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Kegiatan berbasis event, tidak setiap malam"
+    }
+   ]
+  },
+  {
+   "article_id": 933,
+   "places": [
+    {
+     "nama_tempat": "Danau Kaco",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "danau",
+     "lokasi": "Taman Nasional Kerinci Seblat, Kerinci",
+     "keterangan": "Air biru jernih seperti kaca; trekking lebih mudah saat kemarau",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Salah satu destinasi favorit wisatawan",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Kerinci",
+     "provinsi": "Jambi",
+     "negara": "Indonesia",
+     "latitude": -2.28,
+     "longitude": 101.45,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan"
+    },
+    {
+     "nama_tempat": "Telaga Biru Jangkat",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "telaga pegunungan",
+     "lokasi": "Kecamatan Jangkat, Kabupaten Merangin",
+     "keterangan": "Telaga tenang dikelilingi hutan, spot fotografi alam",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk 5 wisata alam Jambi paling eksotis",
+     "kelurahan_desa": null,
+     "kecamatan": "Jangkat",
+     "kota_kabupaten": "Kabupaten Merangin",
+     "provinsi": "Jambi",
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": "Koordinat tidak diketahui pasti"
+    },
+    {
+     "nama_tempat": "Gunung Kerinci",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "gunung berapi",
+     "lokasi": "Kerinci",
+     "keterangan": "Puncak tertinggi Sumatra 3.805 mdpl",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi wajib dicoba pencinta petualangan",
+     "kelurahan_desa": null,
+     "kecamatan": "Kayu Aro",
+     "kota_kabupaten": "Kabupaten Kerinci",
+     "provinsi": "Jambi",
+     "negara": "Indonesia",
+     "latitude": -1.697,
+     "longitude": 101.264,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Kebun Teh Kayu Aro",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "perkebunan teh",
+     "lokasi": "Kaki Gunung Kerinci",
+     "keterangan": "Salah satu perkebunan teh tertinggi di dunia",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk 5 wisata alam Jambi paling eksotis",
+     "kelurahan_desa": null,
+     "kecamatan": "Kayu Aro",
+     "kota_kabupaten": "Kabupaten Kerinci",
+     "provinsi": "Jambi",
+     "negara": "Indonesia",
+     "latitude": -1.728,
+     "longitude": 101.287,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Danau Gunung Tujuh",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "danau vulkanik",
+     "lokasi": "Dataran tinggi Kerinci",
+     "keterangan": "Salah satu danau vulkanik tertinggi di Asia Tenggara, dikelilingi tujuh puncak",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk 5 wisata alam Jambi paling eksotis",
+     "kelurahan_desa": null,
+     "kecamatan": "Kayu Aro",
+     "kota_kabupaten": "Kabupaten Kerinci",
+     "provinsi": "Jambi",
+     "negara": "Indonesia",
+     "latitude": -1.7019,
+     "longitude": 101.2928,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 934,
+   "places": [
+    {
+     "nama_tempat": "Kebun Kelengkeng Nur Usman",
+     "kategori": "lainnya",
+     "jenis_tempat": "wisata petik buah kelengkeng",
+     "lokasi": "Desa Pulai Rengas, Kecamatan Bangko Barat, Kabupaten Merangin",
+     "keterangan": "Petik langsung kelengkeng New Crystal dan Itoh Super, Rp40 ribu per kg, edukasi budidaya",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi wisata baru yang ramai dikunjungi warga (Mei 2026)",
+     "kelurahan_desa": "Pulai Rengas",
+     "kecamatan": "Bangko Barat",
+     "kota_kabupaten": "Kabupaten Merangin",
+     "provinsi": "Jambi",
+     "negara": "Indonesia",
+     "latitude": -2.0924,
+     "longitude": 102.1445,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat mengacu ke Bangko"
+    }
+   ]
+  },
+  {
+   "article_id": 935,
+   "places": [
+    {
+     "nama_tempat": "Pekan Budaya Pariwisata Jambi Elok Nian 2026",
+     "kategori": "Pameran",
+     "jenis_tempat": "festival budaya dan pariwisata",
+     "lokasi": "Taman Mini Melayu Jambi (Eks Arena MTQ), Kota Jambi",
+     "keterangan": "Menampilkan budaya, kuliner, dan produk unggulan Kota Sungai Penuh; tema 'Menjaga Warisan Budaya, Menjemput Sungai Penuh Juara'",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "17 Juli 2026",
+     "dasar_viral": "Dibuka Gubernur Jambi 17 Juli 2026",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Jambi",
+     "provinsi": "Jambi",
+     "negara": "Indonesia",
+     "latitude": -1.6101,
+     "longitude": 103.6131,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat pusat Kota Jambi"
+    }
+   ]
+  }
+ ]
+}

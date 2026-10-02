@@ -1,0 +1,215 @@
+{
+ "results": [
+  {
+   "article_id": 1472,
+   "places": [
+    {
+     "nama_tempat": "Embung Bumiayu",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "danau buatan/embung wisata desa",
+     "lokasi": "Desa Bumiayu, Kecamatan Weleri, Kabupaten Kendal",
+     "keterangan": "Embung seluas sekitar 1 ha dikelola BUMDes Bumi Mandiri; deretan pedagang kuliner, spot foto, WiFi gratis",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Danau estetik yang diam-diam jadi tempat santai keluarga, ramai saat akhir pekan",
+     "kelurahan_desa": "Bumiayu",
+     "kecamatan": "Weleri",
+     "kota_kabupaten": "Kabupaten Kendal",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": -6.9737,
+     "longitude": 110.0994,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Weleri"
+    }
+   ]
+  },
+  {
+   "article_id": 1473,
+   "places": [
+    {
+     "nama_tempat": "Wisata Alam Posong",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "wisata alam lereng gunung",
+     "lokasi": "Kaki Gunung Sindoro, Kabupaten Temanggung",
+     "keterangan": "Golden sunrise, lanskap pegunungan, udara sangat dingin dan kabut tipis",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Panorama matahari terbit jadi magnet utama",
+     "kelurahan_desa": null,
+     "kecamatan": "Kledung",
+     "kota_kabupaten": "Kabupaten Temanggung",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": -7.3,
+     "longitude": 110.05,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Kledung"
+    },
+    {
+     "nama_tempat": "Lokawisata Baturraden",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "lokawisata pegunungan",
+     "lokasi": "Lereng selatan Gunung Slamet, Banyumas",
+     "keterangan": "Kolam alami, sepeda air, pemandian air panas belerang; buka 07.00-16.00",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi liburan legendaris warga Purwokerto dan Banyumas",
+     "kelurahan_desa": "Kemutug Lor",
+     "kecamatan": "Baturraden",
+     "kota_kabupaten": "Kabupaten Banyumas",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": -7.31,
+     "longitude": 109.23,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 1474,
+   "places": [
+    {
+     "nama_tempat": "Negeri Kahyangan",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "wisata alam lereng Gunung Merbabu",
+     "lokasi": "Lereng Gunung Merbabu, Kabupaten Magelang",
+     "keterangan": "Jalan menanjak 'Tol Khayangan', sunrise, spot foto dan wahana, panorama banyak gunung",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Mei 2026",
+     "dasar_viral": "Viral di media sosial lewat jalan menanjak 'Tol Khayangan'",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Magelang",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": -7.42,
+     "longitude": 110.43,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Kecamatan/desa tidak disebut; koordinat perkiraan lereng Merbabu Magelang"
+    }
+   ]
+  },
+  {
+   "article_id": 1475,
+   "places": [
+    {
+     "nama_tempat": "Solo Safari",
+     "kategori": "Wahana",
+     "jenis_tempat": "kebun binatang modern",
+     "lokasi": "Jalan Ir. Sutami No.109, Jebres, Kecamatan Jebres, Kota Surakarta",
+     "keterangan": "Zoo modern interaktif, orang utan Didi yang viral; buka 08.30-16.30",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Orang utan Didi kabur dan viral dibicarakan di media sosial; tempat wisata baru yang sedang naik daun",
+     "kelurahan_desa": "Jebres",
+     "kecamatan": "Jebres",
+     "kota_kabupaten": "Kota Surakarta",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": -7.557,
+     "longitude": 110.857,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 1476,
+   "places": [
+    {
+     "nama_tempat": "Gunung Merapi jalur pendakian Selo",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "gunung/jalur pendakian",
+     "lokasi": "Jalur Selo, Kecamatan Selo, Kabupaten Boyolali",
+     "keterangan": "Pendakian sekitar 200 warga saat status Siaga, jalur resmi masih ditutup",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "30 Juni 2026",
+     "dasar_viral": "Video pendakian warga viral dan banyak diperbincangkan warganet",
+     "kelurahan_desa": "Selo",
+     "kecamatan": "Selo",
+     "kota_kabupaten": "Kabupaten Boyolali",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": -7.53,
+     "longitude": 110.44,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan basecamp Selo"
+    }
+   ]
+  },
+  {
+   "article_id": 1477,
+   "places": [
+    {
+     "nama_tempat": "Wisata Perahu Sungai Serayu Srowot",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "wisata perahu dadakan di sungai surut",
+     "lokasi": "Desa Srowot, Kecamatan Kalibagor, Kabupaten Banyumas",
+     "keterangan": "Perahu kayu tradisional susuri Serayu yang surut, sunset, lapak pedagang dadakan",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Video di TikTok dan Instagram langsung viral",
+     "kelurahan_desa": "Srowot",
+     "kecamatan": "Kalibagor",
+     "kota_kabupaten": "Kabupaten Banyumas",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": -7.46,
+     "longitude": 109.28,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Kemungkinan sama dengan kawasan Wadas Cinta Carik"
+    }
+   ]
+  },
+  {
+   "article_id": 1478,
+   "places": [
+    {
+     "nama_tempat": "Pony Park Klaten",
+     "kategori": "Wahana",
+     "jenis_tempat": "mini zoo ramah anak",
+     "lokasi": "Klaten, Jawa Tengah (alamat tidak disebut)",
+     "keterangan": "Mini zoo: kuda poni, alpaca, burung; wahana dengan kartu Pony Pay; opening 28 Juni 2026",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "28 Juni 2026",
+     "dasar_viral": "Disebut tempat wisata baru dan viral",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Klaten",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": -7.7058,
+     "longitude": 110.6064,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Alamat tidak tersedia; koordinat pusat Klaten"
+    }
+   ]
+  },
+  {
+   "article_id": 1479,
+   "places": [
+    {
+     "nama_tempat": "Wadas Cinta Carik",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "wisata sungai dadakan/perahu",
+     "lokasi": "Desa Srowot, Kecamatan Kalibagor, Kabupaten Banyumas",
+     "keterangan": "Wisata perahu di Sungai Serayu surut, sunset, tenda swafoto, tarif Rp5 ribu",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Juli 2026",
+     "dasar_viral": "Ramai dikunjungi setelah viral di media sosial (TikTok)",
+     "kelurahan_desa": "Srowot",
+     "kecamatan": "Kalibagor",
+     "kota_kabupaten": "Kabupaten Banyumas",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": -7.46,
+     "longitude": 109.28,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  }
+ ]
+}

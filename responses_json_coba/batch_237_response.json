@@ -1,0 +1,76 @@
+{
+ "results": [
+  {
+   "article_id": 1888,
+   "places": []
+  },
+  {
+   "article_id": 1889,
+   "places": []
+  },
+  {
+   "article_id": 1890,
+   "places": [
+    {
+     "nama_tempat": "Nuanu Park",
+     "kategori": "lainnya",
+     "jenis_tempat": "taman publik/kawasan kreatif",
+     "lokasi": "Gerbang utama Nuanu Creative City, Tabanan, Bali",
+     "keterangan": "Taman 1,6 hektare: amphitheatre, playground, Botanical Garden, Kids Academy, ropes course, zipline, Nuanu Art Village",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi baru Bali yang menarik perhatian wisatawan keluarga",
+     "kelurahan_desa": "Pangkung Tibah",
+     "kecamatan": "Kediri",
+     "kota_kabupaten": "Kabupaten Tabanan",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.5906,
+     "longitude": 115.1197,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Lokasi kota/kecamatan tidak disebut; disimpulkan dari Nuanu Creative City; koordinat perkiraan"
+    }
+   ]
+  },
+  {
+   "article_id": 1891,
+   "places": []
+  },
+  {
+   "article_id": 1892,
+   "places": [
+    {
+     "nama_tempat": "Turyapada Tower",
+     "kategori": "lainnya",
+     "jenis_tempat": "menara wisata dan gondola",
+     "lokasi": "Desa Pegayaman, Kecamatan Sukasada, Kabupaten Buleleng, Bali",
+     "keterangan": "Menara wisata baru Bali utara; gondola 940 m dari China tiba akhir Juni 2026; tahap kedua target selesai November 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Diharapkan jadi magnet wisata baru Bali utara",
+     "kelurahan_desa": "Pegayaman",
+     "kecamatan": "Sukasada",
+     "kota_kabupaten": "Kabupaten Buleleng",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.217,
+     "longitude": 115.125,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Dalam pembangunan; koordinat perkiraan"
+    }
+   ]
+  },
+  {
+   "article_id": 1893,
+   "places": []
+  },
+  {
+   "article_id": 1894,
+   "places": []
+  },
+  {
+   "article_id": 1895,
+   "places": []
+  }
+ ]
+}

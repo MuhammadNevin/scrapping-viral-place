@@ -1,0 +1,210 @@
+{
+ "results": [
+  {
+   "article_id": 816,
+   "places": []
+  },
+  {
+   "article_id": 817,
+   "places": [
+    {
+     "nama_tempat": "Golden Prawn",
+     "kategori": "Restoran",
+     "jenis_tempat": "restoran seafood",
+     "lokasi": "Restoran Golden Prawn, Batam, Kepulauan Riau",
+     "keterangan": "Restoran hidangan laut di Batam, lokasi pertemuan PWI dan KJK pada 4 Agustus 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Batam",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 1.1301,
+     "longitude": 104.0529,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Alamat tidak disebut; koordinat pusat Kota Batam"
+    }
+   ]
+  },
+  {
+   "article_id": 818,
+   "places": []
+  },
+  {
+   "article_id": 819,
+   "places": []
+  },
+  {
+   "article_id": 820,
+   "places": [
+    {
+     "nama_tempat": "Festival Kompang",
+     "kategori": "Pameran",
+     "jenis_tempat": "festival budaya",
+     "lokasi": "Akau Taman Kota Kijang (Kijang Food Court), Kabupaten Bintan",
+     "keterangan": "Festival Kompang 1 Agustus 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Kijang Kota",
+     "kecamatan": "Bintan Timur",
+     "kota_kabupaten": "Kabupaten Bintan",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 0.9189,
+     "longitude": 104.6005,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat sekitar Kijang"
+    },
+    {
+     "nama_tempat": "Gelar Budaya Pulau Penyengat",
+     "kategori": "Pameran",
+     "jenis_tempat": "festival seni budaya Melayu",
+     "lokasi": "Pulau Penyengat, Tanjungpinang",
+     "keterangan": "Pertunjukan seni budaya Melayu 1-2 Agustus 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Penyengat",
+     "kecamatan": "Tanjungpinang Kota",
+     "kota_kabupaten": "Kota Tanjungpinang",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 0.9272,
+     "longitude": 104.4166,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Bintan Resort Night Parade",
+     "kategori": "Pameran",
+     "jenis_tempat": "parade malam",
+     "lokasi": "Plaza Lagoi, Bintan",
+     "keterangan": "Parade 200+ kostum tematik, bazar, musik; 7-10 Agustus 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Lagoi",
+     "kecamatan": "Teluk Sebong",
+     "kota_kabupaten": "Kabupaten Bintan",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 1.087,
+     "longitude": 104.226,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat sekitar Lagoi"
+    },
+    {
+     "nama_tempat": "Dekranasda Tanjungpinang Fun and Run 5K & 10K",
+     "kategori": "Pameran",
+     "jenis_tempat": "event lari dan bazar",
+     "lokasi": "Kawasan Gedung Gonggong, Tepi Laut, Tanjungpinang",
+     "keterangan": "Lari 5K/10K, bazar UMKM, kuliner Melayu; 9 Agustus 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": null,
+     "kecamatan": "Tanjungpinang Kota",
+     "kota_kabupaten": "Kota Tanjungpinang",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 0.919,
+     "longitude": 104.456,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Festival Kopi Merdeka",
+     "kategori": "Pameran",
+     "jenis_tempat": "festival kopi dan kuliner",
+     "lokasi": "Jalan Merdeka, Tanjungpinang",
+     "keterangan": "Promosi kopi lokal, kuliner, seni, musik; 20-23 Agustus 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": null,
+     "kecamatan": "Tanjungpinang Kota",
+     "kota_kabupaten": "Kota Tanjungpinang",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 0.919,
+     "longitude": 104.45,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Tour de Bintan 2026",
+     "kategori": "Pameran",
+     "jenis_tempat": "balap sepeda internasional",
+     "lokasi": "Kawasan Lagoi Bay, Bintan Resorts, Kabupaten Bintan",
+     "keterangan": "Balap sepeda internasional (UCI 1.2), 21-23 Agustus 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Lagoi",
+     "kecamatan": "Teluk Sebong",
+     "kota_kabupaten": "Kabupaten Bintan",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 1.087,
+     "longitude": 104.226,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Indonesia Tourism & Trade Investment Expo (ITTIE) 2026",
+     "kategori": "Pameran",
+     "jenis_tempat": "pameran pariwisata, perdagangan, investasi",
+     "lokasi": "Mega Mall Batam",
+     "keterangan": "ITTIE ke-24, 27-30 Agustus 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Belian",
+     "kecamatan": "Batam Kota",
+     "kota_kabupaten": "Kota Batam",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 1.1291,
+     "longitude": 104.053,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 821,
+   "places": [
+    {
+     "nama_tempat": "Tour de Bintan 2026",
+     "kategori": "Pameran",
+     "jenis_tempat": "balap sepeda internasional",
+     "lokasi": "Kawasan Lagoi Bay, Bintan Resorts, Kabupaten Bintan",
+     "keterangan": "Balap sepeda internasional UCI 1.2, kategori Gran Fondo; 21-23 Agustus 2026, target 700 peserta",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Lagoi",
+     "kecamatan": "Teluk Sebong",
+     "kota_kabupaten": "Kabupaten Bintan",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 1.087,
+     "longitude": 104.226,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 822,
+   "places": []
+  },
+  {
+   "article_id": 823,
+   "places": []
+  }
+ ]
+}

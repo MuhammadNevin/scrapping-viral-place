@@ -1,0 +1,271 @@
+{
+ "results": [
+  {
+   "article_id": 1864,
+   "places": [
+    {
+     "nama_tempat": "Food, Hotel and Tourism Bali (FHTB) 2026",
+     "kategori": "Pameran",
+     "jenis_tempat": "pameran kuliner dan perhotelan",
+     "lokasi": "Kabupaten Badung, Bali",
+     "keterangan": "Pameran kuliner tempat Dispar Bali memaparkan pengembangan pertanian organik dan wisata kuliner",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Badung",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": "Venue pasti tidak disebut, hanya Kabupaten Badung"
+    }
+   ]
+  },
+  {
+   "article_id": 1865,
+   "places": [
+    {
+     "nama_tempat": "Panggung Budaya Praharsacitta",
+     "kategori": "lainnya",
+     "jenis_tempat": "panggung budaya",
+     "lokasi": "Desa Adat Ungasan, Pantai Melasti, Ungasan, Kecamatan Kuta Selatan, Bali",
+     "keterangan": "Panggung budaya di kawasan Pantai Melasti, disebut dalam keterangan foto",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Bagian dari spot wisata viral di Bali yang dijelajahi penulis",
+     "kelurahan_desa": "Ungasan",
+     "kecamatan": "Kuta Selatan",
+     "kota_kabupaten": "Kabupaten Badung",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.8369,
+     "longitude": 115.1625,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Hanya muncul di keterangan foto; koordinat kawasan Pantai Melasti"
+    }
+   ]
+  },
+  {
+   "article_id": 1866,
+   "places": [
+    {
+     "nama_tempat": "Gunung Bromo",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "gunung berapi",
+     "lokasi": "Jawa Timur",
+     "keterangan": "Destinasi alam yang makin populer bagi wisatawan Tiongkok",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Mengalami peningkatan popularitas dalam beberapa tahun terakhir",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": null,
+     "provinsi": "Jawa Timur",
+     "negara": "Indonesia",
+     "latitude": -7.9425,
+     "longitude": 112.953,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Kawasan lintas kabupaten; koordinat puncak/kaldera"
+    },
+    {
+     "nama_tempat": "Kawah Ijen",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "kawah gunung berapi",
+     "lokasi": "Jawa Timur",
+     "keterangan": "Destinasi alam dengan fenomena unik yang diminati wisatawan Tiongkok",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Mengalami peningkatan popularitas dalam beberapa tahun terakhir",
+     "kelurahan_desa": null,
+     "kecamatan": "Licin",
+     "kota_kabupaten": null,
+     "provinsi": "Jawa Timur",
+     "negara": "Indonesia",
+     "latitude": -8.0584,
+     "longitude": 114.242,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Berada di perbatasan Banyuwangi-Bondowoso"
+    }
+   ]
+  },
+  {
+   "article_id": 1867,
+   "places": [
+    {
+     "nama_tempat": "Pantai Gunung Payung",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai",
+     "lokasi": "Jl. Gunung Payung, Desa Kutuh, Kuta Selatan, Badung, Bali",
+     "keterangan": "Pantai hidden gem tenang di bawah tebing; ada mobil shuttle dari parkir; HTM WNI dewasa Rp10 ribu",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar pantai Bali dengan akses mudah, ada shuttle",
+     "kelurahan_desa": "Kutuh",
+     "kecamatan": "Kuta Selatan",
+     "kota_kabupaten": "Kabupaten Badung",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.8326,
+     "longitude": 115.1895,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Pantai Kelan",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai pasir putih dekat bandara",
+     "lokasi": "Desa Adat Kelan, Kelurahan Tuban, Kuta, Badung, Bali",
+     "keterangan": "Pantai pasir putih dengan pemandangan pesawat, bersebelahan dengan bandara; buka 24 jam",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar pantai Bali dengan akses mudah",
+     "kelurahan_desa": "Tuban",
+     "kecamatan": "Kuta",
+     "kota_kabupaten": "Kabupaten Badung",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.7473,
+     "longitude": 115.1666,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Nama pantai disimpulkan dari alamat Desa Adat Kelan"
+    },
+    {
+     "nama_tempat": "Pantai Mengiat",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai",
+     "lokasi": "Kawasan ITDC Nusa Dua, Jalan Pantai Mengiat, Benoa, Kuta Selatan, Badung, Bali",
+     "keterangan": "Pantai ramah wisatawan, jalan aspal mulus, jalur ramah kursi roda; buka 06.00-22.00 Wita",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar pantai Bali dengan akses mudah",
+     "kelurahan_desa": "Benoa",
+     "kecamatan": "Kuta Selatan",
+     "kota_kabupaten": "Kabupaten Badung",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.801,
+     "longitude": 115.234,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Nama disimpulkan dari alamat Jalan Pantai Mengiat"
+    },
+    {
+     "nama_tempat": "Pantai Balangan",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai selancar",
+     "lokasi": "Kawasan Bali Pecatu Graha, Jalan Pantai Balangan No. 54, Pecatu, Kuta Selatan, Badung, Bali",
+     "keterangan": "Populer bagi peselancar, dikelilingi tebing karang; akses landai ramah anak dan lansia",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar pantai Bali dengan akses mudah",
+     "kelurahan_desa": "Pecatu",
+     "kecamatan": "Kuta Selatan",
+     "kota_kabupaten": "Kabupaten Badung",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.7916,
+     "longitude": 115.1243,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 1868,
+   "places": []
+  },
+  {
+   "article_id": 1869,
+   "places": [
+    {
+     "nama_tempat": "Marine Safari Bali",
+     "kategori": "Wahana",
+     "jenis_tempat": "taman laut/konservasi satwa",
+     "lokasi": "Dalam kawasan Taman Safari Bali, Gianyar, Bali",
+     "keterangan": "Taman laut terbesar di Indonesia, 10.000+ satwa, enam zona, Ray Bay, Varuna underwater dining; buka 09.00-17.00 WITA",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi liburan sekolah yang disorot ICPI",
+     "kelurahan_desa": null,
+     "kecamatan": "Gianyar",
+     "kota_kabupaten": "Kabupaten Gianyar",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.5985,
+     "longitude": 115.341,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat kawasan Taman Safari Bali"
+    }
+   ]
+  },
+  {
+   "article_id": 1870,
+   "places": [
+    {
+     "nama_tempat": "De Cafa",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe pantai payung putih",
+     "lokasi": "Kawasan pemecah ombak antara Pantai Glagah dan Pantai Congot, Kulon Progo",
+     "keterangan": "Payung putih di atas pasir menghadap laut selatan, suasana mirip Bali; sore hari jingga",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Lewat TikTok, caption 'Dikira Bali, ternyata ini Glagah' membuat orang berdatangan",
+     "kelurahan_desa": "Glagah",
+     "kecamatan": "Temon",
+     "kota_kabupaten": "Kabupaten Kulon Progo",
+     "provinsi": "DI Yogyakarta",
+     "negara": "Indonesia",
+     "latitude": -7.9125,
+     "longitude": 110.042,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Glagah-Congot"
+    },
+    {
+     "nama_tempat": "Pantai Glagah",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai",
+     "lokasi": "Kulon Progo, DI Yogyakarta",
+     "keterangan": "Pantai pasir hitam dengan tetrapod dan laguna; ramai pengunjung, antrean kendaraan hingga 1,5 km",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Mendadak ramai dijuluki 'Bali-nya Jogja' setelah muncul kafe De Cafa",
+     "kelurahan_desa": "Glagah",
+     "kecamatan": "Temon",
+     "kota_kabupaten": "Kabupaten Kulon Progo",
+     "provinsi": "DI Yogyakarta",
+     "negara": "Indonesia",
+     "latitude": -7.91,
+     "longitude": 110.05,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 1871,
+   "places": [
+    {
+     "nama_tempat": "Marine Safari Bali",
+     "kategori": "Wahana",
+     "jenis_tempat": "taman laut/konservasi satwa",
+     "lokasi": "Dalam kawasan Taman Safari Bali, Gianyar, Bali",
+     "keterangan": "Taman laut terbesar di Indonesia, 10.000+ satwa, Ray Bay, Gills and Thrills Shark Encounter, keeper talk",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Direkomendasikan untuk liburan sekolah keluarga",
+     "kelurahan_desa": null,
+     "kecamatan": "Gianyar",
+     "kota_kabupaten": "Kabupaten Gianyar",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.5985,
+     "longitude": 115.341,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat kawasan Taman Safari Bali"
+    }
+   ]
+  }
+ ]
+}

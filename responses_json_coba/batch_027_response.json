@@ -1,0 +1,193 @@
+{
+ "results": [
+  {
+   "article_id": 208,
+   "places": [
+    {
+     "nama_tempat": "Obihiro Nikudon",
+     "kategori": "Restoran",
+     "jenis_tempat": "restoran Jepang bernuansa gang kecil",
+     "lokasi": "Kawasan Blok M, Jakarta Selatan",
+     "keterangan": "Niku Salad, Gyu-Niku Kushiyaki, Tori Truffle Don; Rp50-120 ribu; hidden gem dengan antrean panjang",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Lagi ramai dibicarakan; antrean panjang, orang rela menunggu berjam-jam",
+     "kelurahan_desa": "Melawai",
+     "kecamatan": "Kebayoran Baru",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.2442,
+     "longitude": 106.7989,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat area Blok M"
+    }
+   ]
+  },
+  {
+   "article_id": 209,
+   "places": [
+    {
+     "nama_tempat": "Festival Mitela dan Kuliner Viral (Kampus UHB)",
+     "kategori": "Pameran",
+     "jenis_tempat": "festival edukasi & kuliner",
+     "lokasi": "Kampus Universitas Harapan Bangsa, Purwokerto",
+     "keterangan": "Festival PMR SMA Banyumas plus kuliner kekinian, influencer, musik, kembang api; gratis",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "21-24 Mei 2026",
+     "dasar_viral": "Menu festival kuliner disebut enak dan viral",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Banyumas",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": -7.441,
+     "longitude": 109.234,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area kampus UHB Purwokerto"
+    }
+   ]
+  },
+  {
+   "article_id": 210,
+   "places": []
+  },
+  {
+   "article_id": 211,
+   "places": [
+    {
+     "nama_tempat": "Festival Kuliner Viral dari Jakarta (Go Market)",
+     "kategori": "Pameran",
+     "jenis_tempat": "festival kuliner roadshow",
+     "lokasi": "Komplek My Home Sintang, Kabupaten Sintang",
+     "keterangan": "Roadshow Go Market; perayaan Anniversary ke-10 My Home Group; tenant wajib bahan baku pasar lokal",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "29 April - 10 Mei 2026",
+     "dasar_viral": "Kuliner viral dari Jakarta; jumlah pengunjung membludak sejak hari pertama",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Sintang",
+     "provinsi": "Kalimantan Barat",
+     "negara": "Indonesia",
+     "latitude": 0.0698,
+     "longitude": 111.496,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat pusat kota Sintang"
+    }
+   ]
+  },
+  {
+   "article_id": 212,
+   "places": [
+    {
+     "nama_tempat": "Warung Taburai",
+     "kategori": "Restoran",
+     "jenis_tempat": "warung masakan rumahan Padang-Jawa (milik Praz Teguh)",
+     "lokasi": "Tidak disebut (punya cabang)",
+     "keterangan": "Tambusu cabe hijau, ayam kecap Taburai; mulai Rp15 ribuan; cabang di Jakarta, Bogor, Bandung, Surabaya",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar bisnis kuliner milik artis",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": null,
+     "provinsi": null,
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": "Lokasi tidak disebut"
+    },
+    {
+     "nama_tempat": "Nasi Bejeg Wijaya",
+     "kategori": "Restoran",
+     "jenis_tempat": "warung nasi bejeg (milik Ussy Sulistiawaty)",
+     "lokasi": "Tidak disebut (punya cabang)",
+     "keterangan": "Nasi bejeg dengan sambal pedas dan ayam kampung goreng; mulai Rp10 ribuan; akan ditutup",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar bisnis kuliner milik artis",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": null,
+     "provinsi": null,
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": "Lokasi tidak disebut"
+    },
+    {
+     "nama_tempat": "Dadar Beredar",
+     "kategori": "Restoran",
+     "jenis_tempat": "warung telur dadar krispi & sambal",
+     "lokasi": "Tidak disebut (punya cabang)",
+     "keterangan": "Telur dadar krispi, telur bakar, aneka sambal; mulai Rp13 ribuan",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar bisnis kuliner milik artis",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": null,
+     "provinsi": null,
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": "Lokasi tidak disebut"
+    }
+   ]
+  },
+  {
+   "article_id": 213,
+   "places": [
+    {
+     "nama_tempat": "Kopi Kalyan",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe kopi artisan & brunch",
+     "lokasi": "Kawasan Senopati, Jakarta Selatan",
+     "keterangan": "Suasana tenang minimalis industrial; Oxtail Fried Rice dan pastry",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar tempat makan siang kuliner viral & hidden gem di Senopati",
+     "kelurahan_desa": null,
+     "kecamatan": "Kebayoran Baru",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.233,
+     "longitude": 106.8082,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Alamat tidak disebut; koordinat area Senopati"
+    },
+    {
+     "nama_tempat": "Bakmi Tjo Kin",
+     "kategori": "Restoran",
+     "jenis_tempat": "kedai bakmi",
+     "lokasi": "Kawasan Senopati, Jakarta Selatan",
+     "keterangan": "Kuliner bakmi sederhana dengan eksekusi sempurna",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar tempat makan siang kuliner viral & hidden gem di Senopati",
+     "kelurahan_desa": null,
+     "kecamatan": "Kebayoran Baru",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.233,
+     "longitude": 106.8082,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Alamat tidak disebut; koordinat area Senopati"
+    }
+   ]
+  },
+  {
+   "article_id": 214,
+   "places": []
+  },
+  {
+   "article_id": 215,
+   "places": []
+  }
+ ]
+}

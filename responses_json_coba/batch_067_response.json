@@ -1,0 +1,290 @@
+{
+ "results": [
+  {
+   "article_id": 528,
+   "places": [
+    {
+     "nama_tempat": "D'Sabru (De Sabang Ru')",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "wisata mangrove dan hutan pesisir edukasi",
+     "lokasi": "Desa Pembaharuan, Kecamatan Kelapa Kampit, Belitung Timur",
+     "keterangan": "Wisata alam & edukasi di hutan pesisir bakau dekat pantai; habitat burung migrasi; diresmikan 7 Mei 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "7 Mei 2026",
+     "dasar_viral": "Selama sebulan uji coba ramai dikunjungi wisatawan lokal dan konten kreator",
+     "kelurahan_desa": "Pembaharuan",
+     "kecamatan": "Kelapa Kampit",
+     "kota_kabupaten": "Kabupaten Belitung Timur",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -2.8,
+     "longitude": 108.1,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Kelapa Kampit"
+    }
+   ]
+  },
+  {
+   "article_id": 529,
+   "places": [
+    {
+     "nama_tempat": "Jembatan Kaca Bromo Seruni Point",
+     "kategori": "Wahana",
+     "jenis_tempat": "jembatan kaca wisata",
+     "lokasi": "Seruni Point, Desa Ngadisari, Kecamatan Sukapura, Probolinggo",
+     "keterangan": "Ikon wisata baru berupa jembatan kaca; pre-launching 27 Juni 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "27 Juni 2026",
+     "dasar_viral": "Ikon wisata baru kawasan Bromo",
+     "kelurahan_desa": "Ngadisari",
+     "kecamatan": "Sukapura",
+     "kota_kabupaten": "Kabupaten Probolinggo",
+     "provinsi": "Jawa Timur",
+     "negara": "Indonesia",
+     "latitude": -7.929,
+     "longitude": 112.961,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Seruni Point"
+    }
+   ]
+  },
+  {
+   "article_id": 530,
+   "places": []
+  },
+  {
+   "article_id": 531,
+   "places": [
+    {
+     "nama_tempat": "La Vela Green Lake City",
+     "kategori": "lainnya",
+     "jenis_tempat": "pusat gaya hidup bertema Eropa",
+     "lokasi": "Dalam kawasan Green Lake City, perbatasan Jakarta Barat dan Tangerang",
+     "keterangan": "Lahan 4 ha; promenade, air mancur, Alfresco Dining, Riverside Promenade, GrandLucky Superstore, fitness center",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Disebut ikon baru gaya hidup urban Jakarta Barat",
+     "kelurahan_desa": "Gondrong",
+     "kecamatan": "Cipondoh",
+     "kota_kabupaten": "Kota Tangerang",
+     "provinsi": "Banten",
+     "negara": "Indonesia",
+     "latitude": -6.202,
+     "longitude": 106.718,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Artikel menyebut perbatasan Jakarta Barat-Tangerang; administrasi perkiraan"
+    }
+   ]
+  },
+  {
+   "article_id": 532,
+   "places": [
+    {
+     "nama_tempat": "Candi Borobudur",
+     "kategori": "lainnya",
+     "jenis_tempat": "candi warisan dunia",
+     "lokasi": "Kabupaten Magelang, Jawa Tengah",
+     "keterangan": "Diproyeksikan jadi hub penghubung wisata Keburejo-Gelangmanggung",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Borobudur",
+     "kecamatan": "Borobudur",
+     "kota_kabupaten": "Kabupaten Magelang",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": -7.6079,
+     "longitude": 110.2038,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 533,
+   "places": [
+    {
+     "nama_tempat": "Family Mart Trinity Tower",
+     "kategori": "Kafe",
+     "jenis_tempat": "minimarket/kopi dengan pemandangan kota",
+     "lokasi": "Trinity Tower, Kuningan, Jakarta",
+     "keterangan": "Ngopi sambil melihat gedung tinggi dan LRT yang melintas",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Karet Kuningan",
+     "kecamatan": "Setiabudi",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.2187,
+     "longitude": 106.8303,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Di dalam gedung Trinity Tower"
+    },
+    {
+     "nama_tempat": "UP at Thamrin Nine",
+     "kategori": "Wahana",
+     "jenis_tempat": "observation deck/wahana ketinggian",
+     "lokasi": "Autograph Tower, Jl. M.H. Thamrin, Jakarta Pusat",
+     "keterangan": "Gedung 385 m, 109 lantai; glass floor, ayunan ekstrem, panorama hingga Kepulauan Seribu",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Kebon Melati",
+     "kecamatan": "Tanah Abang",
+     "kota_kabupaten": "Kota Jakarta Pusat",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.195,
+     "longitude": 106.823,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Thamrin Nine"
+    },
+    {
+     "nama_tempat": "Taman Literasi Martha Christina Tiahahu",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "taman literasi/ruang publik",
+     "lokasi": "Blok M, Jakarta Selatan",
+     "keterangan": "Taman direvitalisasi: ruang baca terbuka, amfiteater mini, area bermain anak, kafe",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Selong",
+     "kecamatan": "Kebayoran Baru",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.244,
+     "longitude": 106.799,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Blok M"
+    },
+    {
+     "nama_tempat": "One Satrio",
+     "kategori": "lainnya",
+     "jenis_tempat": "open-air retail dan taman",
+     "lokasi": "Mega Kuningan, Jakarta Selatan",
+     "keterangan": "Retail terbuka dengan taman, restoran dan kafe, pet-friendly, jogging track",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Tempat yang sedang naik daun",
+     "kelurahan_desa": "Kuningan Timur",
+     "kecamatan": "Setiabudi",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.223,
+     "longitude": 106.829,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Mega Kuningan"
+    }
+   ]
+  },
+  {
+   "article_id": 534,
+   "places": [
+    {
+     "nama_tempat": "Waduk Tirto Agung (Waduk Prangi)",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "waduk",
+     "lokasi": "Desa Prangi, Kecamatan Padangan, Bojonegoro",
+     "keterangan": "Lokasi peluncuran paket wisata Padangan Wonderful; titik awal rute",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Prangi",
+     "kecamatan": "Padangan",
+     "kota_kabupaten": "Kabupaten Bojonegoro",
+     "provinsi": "Jawa Timur",
+     "negara": "Indonesia",
+     "latitude": -7.15,
+     "longitude": 111.85,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Padangan"
+    },
+    {
+     "nama_tempat": "Padangan Heritage",
+     "kategori": "lainnya",
+     "jenis_tempat": "rumah tua bersejarah",
+     "lokasi": "Kecamatan Padangan, Bojonegoro",
+     "keterangan": "Rumah tua bersejarah dalam rute paket Padangan Wonderful",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": null,
+     "kecamatan": "Padangan",
+     "kota_kabupaten": "Kabupaten Bojonegoro",
+     "provinsi": "Jawa Timur",
+     "negara": "Indonesia",
+     "latitude": -7.15,
+     "longitude": 111.85,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Padangan"
+    },
+    {
+     "nama_tempat": "Waduk Ngradin",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "waduk, wisata memancing",
+     "lokasi": "Kecamatan Padangan, Bojonegoro",
+     "keterangan": "Wisata memancing dan panorama alam",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": null,
+     "kecamatan": "Padangan",
+     "kota_kabupaten": "Kabupaten Bojonegoro",
+     "provinsi": "Jawa Timur",
+     "negara": "Indonesia",
+     "latitude": -7.15,
+     "longitude": 111.85,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Padangan"
+    },
+    {
+     "nama_tempat": "Waduk Sonorejo",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "waduk, wisata memancing",
+     "lokasi": "Kecamatan Padangan, Bojonegoro",
+     "keterangan": "Wisata memancing dan panorama alam",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": null,
+     "kecamatan": "Padangan",
+     "kota_kabupaten": "Kabupaten Bojonegoro",
+     "provinsi": "Jawa Timur",
+     "negara": "Indonesia",
+     "latitude": -7.15,
+     "longitude": 111.85,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Padangan"
+    }
+   ]
+  },
+  {
+   "article_id": 535,
+   "places": [
+    {
+     "nama_tempat": "Citra Niaga",
+     "kategori": "lainnya",
+     "jenis_tempat": "kawasan bersejarah/pusat niaga",
+     "lokasi": "Samarinda",
+     "keterangan": "Kawasan bersejarah yang diusulkan direvitalisasi dan masuk RIPPARDA 2025-2045",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": null,
+     "kecamatan": "Samarinda Kota",
+     "kota_kabupaten": "Kota Samarinda",
+     "provinsi": "Kalimantan Timur",
+     "negara": "Indonesia",
+     "latitude": -0.504,
+     "longitude": 117.149,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan"
+    }
+   ]
+  }
+ ]
+}

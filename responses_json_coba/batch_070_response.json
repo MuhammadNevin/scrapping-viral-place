@@ -1,0 +1,194 @@
+{
+ "results": [
+  {
+   "article_id": 552,
+   "places": []
+  },
+  {
+   "article_id": 553,
+   "places": [
+    {
+     "nama_tempat": "Dino Playland",
+     "kategori": "Wahana",
+     "jenis_tempat": "taman bermain bertema dinosaurus",
+     "lokasi": "Malang (alamat tidak disebut di cuplikan)",
+     "keterangan": "Taman bermain dinosaurus dengan wahana interaktif anak; tiket mulai Rp25 ribu",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Wisata baru di Malang untuk keluarga",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Malang",
+     "provinsi": "Jawa Timur",
+     "negara": "Indonesia",
+     "latitude": -7.98,
+     "longitude": 112.63,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Alamat tidak ada; koordinat pusat Malang, kota/kabupaten belum pasti"
+    }
+   ]
+  },
+  {
+   "article_id": 554,
+   "places": [
+    {
+     "nama_tempat": "Rumah Betang Kotawaringin Barat",
+     "kategori": "lainnya",
+     "jenis_tempat": "rumah adat Dayak/situs budaya",
+     "lokasi": "Kabupaten Kotawaringin Barat",
+     "keterangan": "Bagian pengembangan wisata budaya Jejak Peradaban",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Kotawaringin Barat",
+     "provinsi": "Kalimantan Tengah",
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": "Lokasi tepat tidak disebut"
+    },
+    {
+     "nama_tempat": "Makam Kyai Gede",
+     "kategori": "lainnya",
+     "jenis_tempat": "makam bersejarah/wisata religi",
+     "lokasi": "Kotawaringin Lama, Kabupaten Kotawaringin Barat",
+     "keterangan": "Situs jejak peradaban yang disiapkan jadi daya tarik wisata budaya",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Kotawaringin Hulu",
+     "kecamatan": "Kotawaringin Lama",
+     "kota_kabupaten": "Kabupaten Kotawaringin Barat",
+     "provinsi": "Kalimantan Tengah",
+     "negara": "Indonesia",
+     "latitude": -2.47,
+     "longitude": 111.41,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Kotawaringin Lama"
+    }
+   ]
+  },
+  {
+   "article_id": 555,
+   "places": []
+  },
+  {
+   "article_id": 556,
+   "places": [
+    {
+     "nama_tempat": "China Town Samarinda",
+     "kategori": "lainnya",
+     "jenis_tempat": "kawasan pecinan bersejarah",
+     "lokasi": "Pasar Pagi, Jl. Yos Sudarso, Jl. Mulawarman hingga Jl. Niaga Timur, Samarinda",
+     "keterangan": "Kampung pecinan tertua di Samarinda, diyakini jadi ikon wisata baru",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Diyakini Kagama dapat jadi ikon baru wisata Samarinda",
+     "kelurahan_desa": "Pasar Pagi",
+     "kecamatan": "Samarinda Kota",
+     "kota_kabupaten": "Kota Samarinda",
+     "provinsi": "Kalimantan Timur",
+     "negara": "Indonesia",
+     "latitude": -0.504,
+     "longitude": 117.15,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan koridor Pasar Pagi-Yos Sudarso"
+    },
+    {
+     "nama_tempat": "Kelenteng Thien Ie Kong",
+     "kategori": "lainnya",
+     "jenis_tempat": "kelenteng bersejarah",
+     "lokasi": "Kawasan China Town, Samarinda",
+     "keterangan": "Titik pusat rute susur sejarah pecinan",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Pasar Pagi",
+     "kecamatan": "Samarinda Kota",
+     "kota_kabupaten": "Kota Samarinda",
+     "provinsi": "Kalimantan Timur",
+     "negara": "Indonesia",
+     "latitude": -0.504,
+     "longitude": 117.15,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Artikel menulis Thien Ie/Le Kong"
+    }
+   ]
+  },
+  {
+   "article_id": 557,
+   "places": [
+    {
+     "nama_tempat": "Titik Nol Singaraja (Tugu Singa Ambara Raja)",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "taman kota/ruang publik bersejarah",
+     "lokasi": "Depan Kantor Bupati Buleleng, Singaraja",
+     "keterangan": "Taman sekeliling Tugu Singa Ambara Raja direnovasi bergaya kolonial; dipadati pengunjung 28 Jun 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "28 Juni 2026",
+     "dasar_viral": "Dipadati lautan pengunjung, ramai berjubel setelah renovasi",
+     "kelurahan_desa": null,
+     "kecamatan": "Buleleng",
+     "kota_kabupaten": "Kabupaten Buleleng",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.112,
+     "longitude": 115.088,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan pusat Singaraja"
+    }
+   ]
+  },
+  {
+   "article_id": 558,
+   "places": [
+    {
+     "nama_tempat": "Adventure World Shirahama",
+     "kategori": "Wahana",
+     "jenis_tempat": "taman satwa/safari park",
+     "lokasi": "Shirahama, Prefektur Wakayama, Jepang",
+     "keterangan": "Pusat konservasi panda; kini menonjolkan singa, gajah, penguin imersif, kafe view kandang",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Panda dipulangkan Juni 2025; atraksi lain dipromosikan",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Shirahama",
+     "provinsi": "Prefektur Wakayama",
+     "negara": "Jepang",
+     "latitude": 33.689,
+     "longitude": 135.368,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Di luar Indonesia"
+    }
+   ]
+  },
+  {
+   "article_id": 559,
+   "places": [
+    {
+     "nama_tempat": "Nuanu Park",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "taman/ruang terbuka hijau",
+     "lokasi": "Nuanu Creative City, Desa Beraban, Tabanan",
+     "keterangan": "Taman 1,6 ha dari kawasan 4,4 ha: arena bermain, kebun raya, akademi anak, seluncur tali, lokakarya seni; buka musim panas",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Disebut destinasi wisata baru Bali",
+     "kelurahan_desa": "Beraban",
+     "kecamatan": "Kediri",
+     "kota_kabupaten": "Kabupaten Tabanan",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.603,
+     "longitude": 115.117,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan; dekat Canggu/Tanah Lot"
+    }
+   ]
+  }
+ ]
+}

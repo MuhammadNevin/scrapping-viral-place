@@ -1,0 +1,289 @@
+{
+ "results": [
+  {
+   "article_id": 976,
+   "places": []
+  },
+  {
+   "article_id": 977,
+   "places": [
+    {
+     "nama_tempat": "Bingxue Sukabangun",
+     "kategori": "Kafe",
+     "jenis_tempat": "gerai es krim dan dessert",
+     "lokasi": "Sukabangun, Palembang",
+     "keterangan": "Gerai Bingxue di Sukabangun, masuk daftar rekomendasi waffle ice cream enak di Palembang",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar rekomendasi waffle ice cream enak di Palembang",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Palembang",
+     "provinsi": "Sumatera Selatan",
+     "negara": "Indonesia",
+     "latitude": -2.94,
+     "longitude": 104.73,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Daftar terpotong; titik koordinat perkiraan area Sukabangun"
+    }
+   ]
+  },
+  {
+   "article_id": 978,
+   "places": []
+  },
+  {
+   "article_id": 979,
+   "places": [
+    {
+     "nama_tempat": "Desa Wisata Gunung Dempo",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "desa wisata kaki gunung",
+     "lokasi": "Kaki Gunung Dempo, Kota Pagar Alam",
+     "keterangan": "Desa wisata di kawasan PTPN I Regional 7; dibuka kembali 13 Mei 2026 dengan izin sementara tiga bulan",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Mei 2026",
+     "dasar_viral": "Penutupannya sempat viral dan menuai sorotan publik",
+     "kelurahan_desa": null,
+     "kecamatan": "Dempo Utara",
+     "kota_kabupaten": "Kota Pagar Alam",
+     "provinsi": "Sumatera Selatan",
+     "negara": "Indonesia",
+     "latitude": -4.03,
+     "longitude": 103.15,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan kawasan kaki Gunung Dempo"
+    }
+   ]
+  },
+  {
+   "article_id": 980,
+   "places": [
+    {
+     "nama_tempat": "Sawah Namang Pelangi",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "agrowisata persawahan dan spot foto",
+     "lokasi": "Desa Namang, Kecamatan Namang, Kabupaten Bangka Tengah",
+     "keterangan": "Sawah wisata dengan spot foto, kopi di tepi sawah, sunset; didukung CSR Bank Sumsel Babel dan pembayaran QRIS",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "2025",
+     "dasar_viral": "Unggahan kades viral di kalangan anak muda dan memicu ledakan kunjungan sejak 2025",
+     "kelurahan_desa": "Namang",
+     "kecamatan": "Namang",
+     "kota_kabupaten": "Kabupaten Bangka Tengah",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -2.23,
+     "longitude": 106.08,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Desa Namang"
+    },
+    {
+     "nama_tempat": "Tan Kopi",
+     "kategori": "Kafe",
+     "jenis_tempat": "kedai kopi UMKM di area sawah",
+     "lokasi": "Area Sawah Namang Pelangi, Desa Namang, Bangka Tengah",
+     "keterangan": "UMKM kopi lokal yang awalnya memakai gerobak sepeda listrik di tepi sawah",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Salah satu UMKM kopi perintis di Sawah Namang",
+     "kelurahan_desa": "Namang",
+     "kecamatan": "Namang",
+     "kota_kabupaten": "Kabupaten Bangka Tengah",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -2.23,
+     "longitude": 106.08,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan mengikuti Sawah Namang"
+    },
+    {
+     "nama_tempat": "Zyla Coffee",
+     "kategori": "Kafe",
+     "jenis_tempat": "kedai kopi UMKM di area sawah",
+     "lokasi": "Area Sawah Namang Pelangi, Desa Namang, Bangka Tengah",
+     "keterangan": "UMKM kopi lokal yang awalnya memakai gerobak sepeda listrik di tepi sawah",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Salah satu UMKM kopi perintis di Sawah Namang",
+     "kelurahan_desa": "Namang",
+     "kecamatan": "Namang",
+     "kota_kabupaten": "Kabupaten Bangka Tengah",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -2.23,
+     "longitude": 106.08,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan mengikuti Sawah Namang"
+    }
+   ]
+  },
+  {
+   "article_id": 981,
+   "places": [
+    {
+     "nama_tempat": "Air Lintang Indah",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "objek wisata sungai",
+     "lokasi": "Desa Muara Danau, Kabupaten Empat Lawang",
+     "keterangan": "Objek wisata di Sungai Lintang yang rusak parah akibat banjir bandang 21 Mei 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Muara Danau",
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Empat Lawang",
+     "provinsi": "Sumatera Selatan",
+     "negara": "Indonesia",
+     "latitude": -3.78,
+     "longitude": 102.86,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Empat Lawang"
+    }
+   ]
+  },
+  {
+   "article_id": 982,
+   "places": [
+    {
+     "nama_tempat": "Pantai Mutun",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai",
+     "lokasi": "Lampung (Kabupaten Pesawaran)",
+     "keterangan": "Pasir putih bersih, ombak tenang, banana boat dan snorkeling",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar 17 tempat wisata favorit di Lampung",
+     "kelurahan_desa": null,
+     "kecamatan": "Teluk Pandan",
+     "kota_kabupaten": "Kabupaten Pesawaran",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -5.57,
+     "longitude": 105.217,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Danau Ranau",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "danau",
+     "lokasi": "Perbatasan Lampung dan Sumatera Selatan",
+     "keterangan": "Danau terbesar kedua di Sumatera dengan latar Gunung Seminung",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar 17 tempat wisata favorit di Lampung",
+     "kelurahan_desa": null,
+     "kecamatan": "Lumbok Seminung",
+     "kota_kabupaten": "Kabupaten Lampung Barat",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -4.877,
+     "longitude": 103.922,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Danau berada di perbatasan Lampung dan Sumsel"
+    },
+    {
+     "nama_tempat": "Air Terjun Putri Malu",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "air terjun",
+     "lokasi": "Lampung Barat",
+     "keterangan": "Air terjun berbentuk unik menyerupai perempuan menunduk, lingkungan alami",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar 17 tempat wisata favorit di Lampung",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Lampung Barat",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": "Koordinat tidak diketahui"
+    },
+    {
+     "nama_tempat": "Bukit Sakura",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "taman bukit bernuansa Jepang",
+     "lokasi": "Menghadap Kota Bandar Lampung",
+     "keterangan": "Pemandangan kota dari ketinggian, taman bernuansa Jepang, banyak spot foto",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar 17 tempat wisata favorit di Lampung",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bandar Lampung",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -5.4292,
+     "longitude": 105.261,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat mengacu pusat Kota Bandar Lampung"
+    },
+    {
+     "nama_tempat": "Pulau Kelagian",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pulau",
+     "lokasi": "Seberang dari Dermaga Ketapang, Lampung",
+     "keterangan": "Pulau kecil pasir putih dan air jernih, cocok snorkeling; 20-30 menit dengan perahu",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar 17 tempat wisata favorit di Lampung",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Pesawaran",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -5.68,
+     "longitude": 105.24,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Taman Nasional Way Kambas",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "taman nasional",
+     "lokasi": "Lampung",
+     "keterangan": "Kawasan konservasi terkenal di Lampung",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk daftar 17 tempat wisata favorit di Lampung",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Lampung Timur",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -4.9,
+     "longitude": 105.75,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Artikel terpotong; koordinat perkiraan"
+    }
+   ]
+  },
+  {
+   "article_id": 983,
+   "places": [
+    {
+     "nama_tempat": "Air Terjun Cuhup Pendahatan",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "air terjun",
+     "lokasi": "Cuhup Pendahatan, Kecamatan Mulak Ulu, Kabupaten Lahat",
+     "keterangan": "Kawasan wisata air terjun; ramai disorot setelah video 36 detik pasangan di balik batu besar beredar",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "September 2026",
+     "dasar_viral": "Video berdurasi 36 detik di lokasi viral di media sosial dan memicu sorotan warganet",
+     "kelurahan_desa": null,
+     "kecamatan": "Mulak Ulu",
+     "kota_kabupaten": "Kabupaten Lahat",
+     "provinsi": "Sumatera Selatan",
+     "negara": "Indonesia",
+     "latitude": -3.95,
+     "longitude": 103.4,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Mulak Ulu"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,270 @@
+{
+ "results": [
+  {
+   "article_id": 496,
+   "places": [
+    {
+     "nama_tempat": "Pantai Bulak Baru",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai",
+     "lokasi": "Desa Bulak Baru, Kecamatan Kedung, Jepara",
+     "keterangan": "Destinasi wisata pantai; aksesnya akan diperbaiki 2027",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Bulak Baru",
+     "kecamatan": "Kedung",
+     "kota_kabupaten": "Kabupaten Jepara",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": -6.699,
+     "longitude": 110.792,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan di pesisir Kedung"
+    }
+   ]
+  },
+  {
+   "article_id": 497,
+   "places": [
+    {
+     "nama_tempat": "Kawasan Gelora Bung Karno (GBK)",
+     "kategori": "lainnya",
+     "jenis_tempat": "kompleks olahraga dan destinasi MICE",
+     "lokasi": "Kawasan GBK, Senayan, Jakarta",
+     "keterangan": "Kawasan olahraga berubah jadi destinasi gaya hidup dan MICE, usia ke-64",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Gelora",
+     "kecamatan": "Tanah Abang",
+     "kota_kabupaten": "Kota Jakarta Pusat",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.2185,
+     "longitude": 106.8018,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat area GBK"
+    },
+    {
+     "nama_tempat": "Stadion Utama GBK",
+     "kategori": "lainnya",
+     "jenis_tempat": "stadion",
+     "lokasi": "Kawasan GBK, Senayan, Jakarta",
+     "keterangan": "Panggung utama pertandingan sepak bola nasional dan internasional",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Gelora",
+     "kecamatan": "Tanah Abang",
+     "kota_kabupaten": "Kota Jakarta Pusat",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.2183,
+     "longitude": 106.8014,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat area GBK"
+    },
+    {
+     "nama_tempat": "Indonesia Arena",
+     "kategori": "lainnya",
+     "jenis_tempat": "arena olahraga dan konser",
+     "lokasi": "Kawasan GBK, Senayan, Jakarta",
+     "keterangan": "Ruang pertandingan olahraga dan konser",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Gelora",
+     "kecamatan": "Tanah Abang",
+     "kota_kabupaten": "Kota Jakarta Pusat",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.221,
+     "longitude": 106.8026,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat area GBK"
+    },
+    {
+     "nama_tempat": "Istora Senayan",
+     "kategori": "lainnya",
+     "jenis_tempat": "arena olahraga dan hiburan",
+     "lokasi": "Kawasan GBK, Senayan, Jakarta",
+     "keterangan": "Bagian penting aktivitas olahraga dan hiburan",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Gelora",
+     "kecamatan": "Tanah Abang",
+     "kota_kabupaten": "Kota Jakarta Pusat",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.2229,
+     "longitude": 106.8035,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat area GBK"
+    },
+    {
+     "nama_tempat": "Jakarta International Convention Center (JICC)",
+     "kategori": "lainnya",
+     "jenis_tempat": "pusat konvensi",
+     "lokasi": "Kawasan GBK, Senayan, Jakarta",
+     "keterangan": "Memperkuat sisi MICE Senayan lewat konferensi, pameran, expo",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Gelora",
+     "kecamatan": "Tanah Abang",
+     "kota_kabupaten": "Kota Jakarta Pusat",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.2178,
+     "longitude": 106.8068,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat area GBK"
+    }
+   ]
+  },
+  {
+   "article_id": 498,
+   "places": [
+    {
+     "nama_tempat": "Kejurnas Sprint Rally Putaran 4 KITB",
+     "kategori": "Pameran",
+     "jenis_tempat": "event balap sprint rally",
+     "lokasi": "Kawasan Industri Terpadu Batang (KITB), Kabupaten Batang",
+     "keterangan": "Event 26-27 Sep 2026, lintasan terpanjang di Indonesia 5,3 km dengan pemandangan laut lepas",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "26-27 September 2026",
+     "dasar_viral": "Lintasan terpanjang di Indonesia, 5,3 km",
+     "kelurahan_desa": "Ponowareng",
+     "kecamatan": "Tulis",
+     "kota_kabupaten": "Kabupaten Batang",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": -6.95,
+     "longitude": 109.87,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area KITB"
+    }
+   ]
+  },
+  {
+   "article_id": 499,
+   "places": [
+    {
+     "nama_tempat": "Masjid Pantai Bali",
+     "kategori": "lainnya",
+     "jenis_tempat": "masjid wisata religi",
+     "lokasi": "Desa Cupel, Kecamatan Negara, Jembrana, Bali",
+     "keterangan": "Masjid wisata religi maritim, bagian Bali Manasik Center; pembangunan belum tuntas; dikunjungi wisatawan mancanegara",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Mulai dikenal wisatawan domestik maupun mancanegara",
+     "kelurahan_desa": "Cupel",
+     "kecamatan": "Negara",
+     "kota_kabupaten": "Kabupaten Jembrana",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.35,
+     "longitude": 114.59,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan di pesisir Jembrana"
+    }
+   ]
+  },
+  {
+   "article_id": 500,
+   "places": []
+  },
+  {
+   "article_id": 501,
+   "places": [
+    {
+     "nama_tempat": "Pangandaran Air Show 2026",
+     "kategori": "Pameran",
+     "jenis_tempat": "festival atraksi udara",
+     "lokasi": "Pantai Pangandaran, Kabupaten Pangandaran",
+     "keterangan": "Atraksi 60+ pesawat, joy flight, public walkaround, Festival UMKM, 4-6 Sep 2026; oleh Susi Air",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "4-6 September 2026",
+     "dasar_viral": "Dijuluki magnet wisata baru",
+     "kelurahan_desa": "Pangandaran",
+     "kecamatan": "Pangandaran",
+     "kota_kabupaten": "Kabupaten Pangandaran",
+     "provinsi": "Jawa Barat",
+     "negara": "Indonesia",
+     "latitude": -7.695,
+     "longitude": 108.655,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Susi International Beach Strip",
+     "kategori": "lainnya",
+     "jenis_tempat": "kawasan pantai/landasan",
+     "lokasi": "Pangandaran",
+     "keterangan": "Lokasi Festival UMKM rangkaian Air Show",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Pangandaran",
+     "kecamatan": "Pangandaran",
+     "kota_kabupaten": "Kabupaten Pangandaran",
+     "provinsi": "Jawa Barat",
+     "negara": "Indonesia",
+     "latitude": -7.695,
+     "longitude": 108.655,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Pantai Pangandaran"
+    },
+    {
+     "nama_tempat": "Pantai Pangandaran",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai",
+     "lokasi": "Pangandaran",
+     "keterangan": "Pemandangan pantai dari udara lewat joy flight",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Pangandaran",
+     "kecamatan": "Pangandaran",
+     "kota_kabupaten": "Kabupaten Pangandaran",
+     "provinsi": "Jawa Barat",
+     "negara": "Indonesia",
+     "latitude": -7.695,
+     "longitude": 108.655,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 502,
+   "places": [
+    {
+     "nama_tempat": "Situs Warisan Dunia My Son",
+     "kategori": "lainnya",
+     "jenis_tempat": "situs warisan budaya candi Cham",
+     "lokasi": "Komune Thu Bon, Kota Da Nang, Vietnam",
+     "keterangan": "Peluncuran produk wisata baru: kebun herbal hutan, kerajinan tradisional, pameran alat musik Cham (25 Sep 2026)",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": null,
+     "kecamatan": "Thu Bon",
+     "kota_kabupaten": "Da Nang",
+     "provinsi": null,
+     "negara": "Vietnam",
+     "latitude": 15.764,
+     "longitude": 108.124,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Di luar Indonesia; provinsi tidak berlaku"
+    }
+   ]
+  },
+  {
+   "article_id": 503,
+   "places": []
+  }
+ ]
+}

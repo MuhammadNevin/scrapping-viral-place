@@ -1,0 +1,230 @@
+{
+ "results": [
+  {
+   "article_id": 1872,
+   "places": [
+    {
+     "nama_tempat": "Taman Wisata Kertha Gosa",
+     "kategori": "lainnya",
+     "jenis_tempat": "wisata budaya/situs sejarah",
+     "lokasi": "Klungkung, Bali",
+     "keterangan": "Situs sejarah dengan arsitektur khas; rata-rata 150 wisman per hari; papan informasi pudar dikeluhkan turis",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Ramai dikunjungi wisman sejak Mei, andalan Dispar Klungkung",
+     "kelurahan_desa": "Semarapura Kelod Kangin",
+     "kecamatan": "Klungkung",
+     "kota_kabupaten": "Kabupaten Klungkung",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.5331,
+     "longitude": 115.4048,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Kelurahan perkiraan; koordinat kawasan Kertha Gosa"
+    },
+    {
+     "nama_tempat": "Museum Semara Jaya",
+     "kategori": "Museum",
+     "jenis_tempat": "museum",
+     "lokasi": "Area Taman Wisata Kertha Gosa, Klungkung, Bali",
+     "keterangan": "Museum di kawasan Kertha Gosa; papan keterangan di depannya luntur",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Semarapura Kelod Kangin",
+     "kecamatan": "Klungkung",
+     "kota_kabupaten": "Kabupaten Klungkung",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.533,
+     "longitude": 115.4046,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Berada di kompleks Kertha Gosa"
+    }
+   ]
+  },
+  {
+   "article_id": 1873,
+   "places": []
+  },
+  {
+   "article_id": 1874,
+   "places": []
+  },
+  {
+   "article_id": 1875,
+   "places": []
+  },
+  {
+   "article_id": 1876,
+   "places": []
+  },
+  {
+   "article_id": 1877,
+   "places": [
+    {
+     "nama_tempat": "Water Blow Nusa Dua",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "wisata alam deburan ombak di karang",
+     "lokasi": "Peninsula Island, Nusa Dua, Kabupaten Badung, Bali",
+     "keterangan": "Ombak memecah karang menghasilkan buih alami, digemari wisatawan dan fotografer; akses sedang ditata",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": null,
+     "kecamatan": "Kuta Selatan",
+     "kota_kabupaten": "Kabupaten Badung",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.8044,
+     "longitude": 115.229,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Berada dalam kawasan Peninsula Island"
+    },
+    {
+     "nama_tempat": "Peninsula Island Nusa Dua",
+     "kategori": "lainnya",
+     "jenis_tempat": "kawasan wisata/ruang publik",
+     "lokasi": "Nusa Dua, Kabupaten Badung, Bali",
+     "keterangan": "Kawasan ITDC yang sedang ditata: amphitheatre, helipad, jalan ke Pulau Nusa Dharma; kemajuan sekitar 23 persen",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Benoa",
+     "kecamatan": "Kuta Selatan",
+     "kota_kabupaten": "Kabupaten Badung",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.803,
+     "longitude": 115.231,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan"
+    }
+   ]
+  },
+  {
+   "article_id": 1878,
+   "places": [
+    {
+     "nama_tempat": "Pantai Lovina",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai pasir hitam",
+     "lokasi": "Buleleng, Bali Utara",
+     "keterangan": "Ikon wisata Bali Utara, pasir hitam vulkanis, wisata lumba-lumba liar saat sunrise naik jukung",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Ikon utama pariwisata Bali Utara",
+     "kelurahan_desa": null,
+     "kecamatan": "Buleleng",
+     "kota_kabupaten": "Kabupaten Buleleng",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.1613,
+     "longitude": 115.0242,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Air Terjun Sekumpul",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "air terjun",
+     "lokasi": "Buleleng, Bali Utara",
+     "keterangan": "Beberapa air terjun dikelilingi tebing hijau; trekking ratusan anak tangga",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Sering disebut salah satu air terjun terindah di Bali",
+     "kelurahan_desa": "Lemukih",
+     "kecamatan": "Sawan",
+     "kota_kabupaten": "Kabupaten Buleleng",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.1832,
+     "longitude": 115.1771,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Danau Tamblingan",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "danau",
+     "lokasi": "Buleleng, Bali Utara",
+     "keterangan": "Danau kembar paling sunyi, ada Pura Ulun Danu Tamblingan, cocok berkemah",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Munduk",
+     "kecamatan": "Banjar",
+     "kota_kabupaten": "Kabupaten Buleleng",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.2573,
+     "longitude": 115.0958,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Air Terjun Gitgit",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "air terjun",
+     "lokasi": "Buleleng, Bali Utara",
+     "keterangan": "Air terjun legendaris setinggi sekitar 35 meter, akses relatif mudah, kebun cengkih dan kopi",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Gitgit",
+     "kecamatan": "Sukasada",
+     "kota_kabupaten": "Kabupaten Buleleng",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.1883,
+     "longitude": 115.1336,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Pura Meduwe Karang",
+     "kategori": "lainnya",
+     "jenis_tempat": "pura/wisata religi",
+     "lokasi": "Buleleng, Bali Utara",
+     "keterangan": "Pura di Bali Utara dalam daftar wisata Bali Utara; deskripsi terpotong",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Kubutambahan",
+     "kecamatan": "Kubutambahan",
+     "kota_kabupaten": "Kabupaten Buleleng",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.1025,
+     "longitude": 115.1612,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Teks artikel terpotong"
+    }
+   ]
+  },
+  {
+   "article_id": 1879,
+   "places": [
+    {
+     "nama_tempat": "Lovina Festival 2026",
+     "kategori": "Pameran",
+     "jenis_tempat": "festival",
+     "lokasi": "Pantai Lovina, Buleleng, Bali",
+     "keterangan": "Festival lima hari tema 'Theatre of Dolphins', target 25 ribu pengunjung, 250 pengisi acara, 82 UMKM",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "2026",
+     "dasar_viral": null,
+     "kelurahan_desa": null,
+     "kecamatan": "Buleleng",
+     "kota_kabupaten": "Kabupaten Buleleng",
+     "provinsi": "Bali",
+     "negara": "Indonesia",
+     "latitude": -8.1613,
+     "longitude": 115.0242,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Tanggal pasti tidak disebut"
+    }
+   ]
+  }
+ ]
+}

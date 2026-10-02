@@ -1,0 +1,116 @@
+{
+ "results": [
+  {
+   "article_id": 1048,
+   "places": [
+    {
+     "nama_tempat": "Kampung Kecil Resto Bengkulu",
+     "kategori": "Restoran",
+     "jenis_tempat": "restoran",
+     "lokasi": "Bengkulu",
+     "keterangan": "Restoran yang namanya dicatut modus penipuan reservasi online sejak Maret 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Maret 2026",
+     "dasar_viral": null,
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bengkulu",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.7928,
+     "longitude": 102.2608,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat pusat Kota Bengkulu; alamat tidak disebut"
+    }
+   ]
+  },
+  {
+   "article_id": 1049,
+   "places": []
+  },
+  {
+   "article_id": 1050,
+   "places": [
+    {
+     "nama_tempat": "Bulan Resto",
+     "kategori": "Restoran",
+     "jenis_tempat": "resto keluarga",
+     "lokasi": "Jl. Raya Solo-Sukoharjo KM 9, Pandeyan, Grogol, Sukoharjo",
+     "keterangan": "Ayam penyet sambal pedas, ikan bakar, sop buntut, nasi goreng; buka 09.00-21.00",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk 5 pilihan resto keluarga untuk makan malam di Sukoharjo",
+     "kelurahan_desa": "Pandeyan",
+     "kecamatan": "Grogol",
+     "kota_kabupaten": "Kabupaten Sukoharjo",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": -7.59,
+     "longitude": 110.813,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Grogol"
+    }
+   ]
+  },
+  {
+   "article_id": 1051,
+   "places": [
+    {
+     "nama_tempat": "Raflesia Beach Resto",
+     "kategori": "Restoran",
+     "jenis_tempat": "restoran tepi pantai",
+     "lokasi": "Kawasan pantai, Kota Bengkulu",
+     "keterangan": "Soup Iga Sapi kaldu bening, emping, sambal hijau",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Juni 2026",
+     "dasar_viral": "Soup iga sapi menu favorit pengunjung",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bengkulu",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.825,
+     "longitude": 102.278,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Pantai Panjang"
+    }
+   ]
+  },
+  {
+   "article_id": 1052,
+   "places": []
+  },
+  {
+   "article_id": 1053,
+   "places": [
+    {
+     "nama_tempat": "Raflesia Beach Resto",
+     "kategori": "Restoran",
+     "jenis_tempat": "restoran tepi pantai",
+     "lokasi": "Tepi pantai, Kota Bengkulu",
+     "keterangan": "Promo Makan Siang Super Hemat Rp30 ribu termasuk es teh",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Promo makan siang hemat di tepi pantai",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bengkulu",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.825,
+     "longitude": 102.278,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Pantai Panjang"
+    }
+   ]
+  },
+  {
+   "article_id": 1054,
+   "places": []
+  },
+  {
+   "article_id": 1055,
+   "places": []
+  }
+ ]
+}

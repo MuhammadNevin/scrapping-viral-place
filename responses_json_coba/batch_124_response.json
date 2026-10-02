@@ -1,0 +1,135 @@
+{
+ "results": [
+  {
+   "article_id": 984,
+   "places": [
+    {
+     "nama_tempat": "Bukit Tungguan",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "bukit wisata dengan sky deck",
+     "lokasi": "Jalur menuju Tugu Rimau Gunung Dempo, sebelum Kampung III Gunung Dempo, Pagar Alam",
+     "keterangan": "Sky Deck foto 360 derajat, kebun teh dan puncak Dempo; tiket Rp10 ribu; ketinggian 1.000-1.200 mdpl",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Juni 2026",
+     "dasar_viral": "Disebut sedang viral dan naik daun sebagai tempat wisata baru; sebelumnya viral jadi lokasi syuting film lokal",
+     "kelurahan_desa": null,
+     "kecamatan": "Dempo Utara",
+     "kota_kabupaten": "Kota Pagar Alam",
+     "provinsi": "Sumatera Selatan",
+     "negara": "Indonesia",
+     "latitude": -4.04,
+     "longitude": 103.16,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan jalur Gunung Dempo"
+    }
+   ]
+  },
+  {
+   "article_id": 985,
+   "places": [
+    {
+     "nama_tempat": "Persawahan Kertapati (Lorong Abu Yasin)",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "sawah wisata dadakan spot sunset",
+     "lokasi": "Jl. Mayjen Yusuf Singadekane, Lorong Abu Yasin, RT 27/RW 09, Kel. Karya Jaya, Kec. Kertapati, Palembang",
+     "keterangan": "Hamparan sawah dengan sunset, ramai tiap sore, gratis; pengunjung diminta jaga kebersihan",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Viral di media sosial, sering muncul di FYP, dipadati pengunjung setiap sore",
+     "kelurahan_desa": "Karya Jaya",
+     "kecamatan": "Kertapati",
+     "kota_kabupaten": "Kota Palembang",
+     "provinsi": "Sumatera Selatan",
+     "negara": "Indonesia",
+     "latitude": -3.01,
+     "longitude": 104.72,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Nama resmi tidak disebut; koordinat perkiraan area Kertapati"
+    }
+   ]
+  },
+  {
+   "article_id": 986,
+   "places": []
+  },
+  {
+   "article_id": 987,
+   "places": [
+    {
+     "nama_tempat": "Bukit Sulap",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "bukit wisata kota",
+     "lokasi": "Kota Lubuklinggau, Sumatera Selatan",
+     "keterangan": "Bukit dengan pemandangan Kota Lubuklinggau; fasilitas kurang terawat, dikelola BUMD PT Linggau Bisa",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "10 Agustus 2026",
+     "dasar_viral": "Unggahan aktor Haykal Kamil soal fasilitas kurang terawat viral",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Lubuklinggau",
+     "provinsi": "Sumatera Selatan",
+     "negara": "Indonesia",
+     "latitude": -3.29,
+     "longitude": 102.865,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Lubuklinggau"
+    }
+   ]
+  },
+  {
+   "article_id": 988,
+   "places": [
+    {
+     "nama_tempat": "Bukit Sulap",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "bukit wisata kota",
+     "lokasi": "Kota Lubuklinggau, Sumatera Selatan",
+     "keterangan": "Tiket Rp2.000, pendapatan sebulan hanya Rp40-150 ribu sehingga perawatan seadanya",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "10 Agustus 2026",
+     "dasar_viral": "Kembali viral setelah Haykal Kamil menyoroti fasilitasnya kurang terawat",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Lubuklinggau",
+     "provinsi": "Sumatera Selatan",
+     "negara": "Indonesia",
+     "latitude": -3.29,
+     "longitude": 102.865,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Lubuklinggau"
+    },
+    {
+     "nama_tempat": "Air Terjun Temam",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "air terjun",
+     "lokasi": "Kota Lubuklinggau, Sumatera Selatan",
+     "keterangan": "Kondisi relatif lebih baik, pendapatan Rp4 juta untuk 14 pegawai; dikelola PT Linggau Bisa",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Lubuklinggau",
+     "provinsi": "Sumatera Selatan",
+     "negara": "Indonesia",
+     "latitude": -3.27,
+     "longitude": 102.89,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Lubuklinggau"
+    }
+   ]
+  },
+  {
+   "article_id": 989,
+   "places": []
+  },
+  {
+   "article_id": 990,
+   "places": []
+  },
+  {
+   "article_id": 991,
+   "places": []
+  }
+ ]
+}

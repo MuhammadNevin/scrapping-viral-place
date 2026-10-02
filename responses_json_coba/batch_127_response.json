@@ -1,0 +1,250 @@
+{
+ "results": [
+  {
+   "article_id": 1008,
+   "places": []
+  },
+  {
+   "article_id": 1009,
+   "places": [
+    {
+     "nama_tempat": "Bebek Stania",
+     "kategori": "Restoran",
+     "jenis_tempat": "restoran bebek muda",
+     "lokasi": "Jl. Stania, Bukit Baru, Kota Pangkalpinang",
+     "keterangan": "Bebek muda empuk berbumbu rempah, ayam kampung bakar, area indoor ber-AC dan outdoor",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Disebut 'surga kuliner Pangkalpinang' dan destinasi kuliner wajib akhir pekan",
+     "kelurahan_desa": "Bukit Baru",
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Pangkalpinang",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -2.118,
+     "longitude": 106.13,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Bukit Baru"
+    }
+   ]
+  },
+  {
+   "article_id": 1010,
+   "places": [
+    {
+     "nama_tempat": "Restoran Gale-Gale",
+     "kategori": "Restoran",
+     "jenis_tempat": "restoran masakan khas Babel",
+     "lokasi": "Bangka Tengah",
+     "keterangan": "Tempat jamuan makan malam Menteri Koperasi dan UKM dengan kuliner khas Babel",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Menteri menilai kuliner Babel enak dengan kemasan restoran sangat bagus",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Bangka Tengah",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": "Artikel lama (2020); lokasi hanya disebut Bangka Tengah"
+    }
+   ]
+  },
+  {
+   "article_id": 1011,
+   "places": [
+    {
+     "nama_tempat": "Destar Point",
+     "kategori": "lainnya",
+     "jenis_tempat": "pusat kuliner durian",
+     "lokasi": "Kompleks terpadu Pemkot Pangkalpinang, Jl. Soekarno Hatta",
+     "keterangan": "Dijadikan pusat kuliner durian lokal; bazar durian cumasi 5-12 Juli",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Juli 2026",
+     "dasar_viral": "Dijadikan destinasi wisata kuliner durian oleh Pemkot",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Pangkalpinang",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -2.12,
+     "longitude": 106.125,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Jl. Soekarno Hatta"
+    },
+    {
+     "nama_tempat": "Alun-Alun Taman Merdeka",
+     "kategori": "lainnya",
+     "jenis_tempat": "alun-alun / wisata kuliner",
+     "lokasi": "Pangkalpinang",
+     "keterangan": "Disebut sebagai destinasi wisata kuliner yang sudah dikenal di Pangkalpinang",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi wisata kuliner yang sudah dikenal di ibukota provinsi",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Pangkalpinang",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -2.1317,
+     "longitude": 106.113,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Bukit Dealova",
+     "kategori": "lainnya",
+     "jenis_tempat": "destinasi wisata kuliner",
+     "lokasi": "Pangkalpinang",
+     "keterangan": "Disebut sebagai destinasi wisata kuliner yang sudah dikenal",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi wisata kuliner yang sudah dikenal di ibukota provinsi",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Pangkalpinang",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Wihelmina Park",
+     "kategori": "lainnya",
+     "jenis_tempat": "taman wisata kuliner",
+     "lokasi": "Pangkalpinang",
+     "keterangan": "Disebut sebagai destinasi wisata kuliner yang sudah dikenal",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi wisata kuliner yang sudah dikenal di ibukota provinsi",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Pangkalpinang",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 1012,
+   "places": []
+  },
+  {
+   "article_id": 1013,
+   "places": [
+    {
+     "nama_tempat": "Pantai Tanjung Tinggi",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai berbatu granit",
+     "lokasi": "Kecamatan Sijuk, Kabupaten Belitung",
+     "keterangan": "Batu granit raksasa, air jernih, lokasi syuting Laskar Pelangi",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "2026",
+     "dasar_viral": "Masuk rekomendasi wisata bahari Belitung 2026; ikon wisata paling terkenal",
+     "kelurahan_desa": null,
+     "kecamatan": "Sijuk",
+     "kota_kabupaten": "Kabupaten Belitung",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -2.566,
+     "longitude": 107.762,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Pantai Tanjung Kelayang",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai dan pintu island hopping",
+     "lokasi": "Kecamatan Sijuk, Kabupaten Belitung, sekitar 27 km dari ibukota kabupaten",
+     "keterangan": "Pasir putih luas, titik berangkat island hopping; bagian Geopark Belitong UNESCO",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "2026",
+     "dasar_viral": "Masuk rekomendasi wisata bahari Belitung 2026",
+     "kelurahan_desa": null,
+     "kecamatan": "Sijuk",
+     "kota_kabupaten": "Kabupaten Belitung",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -2.558,
+     "longitude": 107.669,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Pulau Lengkuas",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pulau dengan mercusuar",
+     "lokasi": "Kecamatan Sijuk, Kabupaten Belitung",
+     "keterangan": "Mercusuar tua peninggalan Belanda, air jernih, terumbu karang, snorkeling",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "2026",
+     "dasar_viral": "Masuk rekomendasi wisata bahari Belitung 2026",
+     "kelurahan_desa": null,
+     "kecamatan": "Sijuk",
+     "kota_kabupaten": "Kabupaten Belitung",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -2.532,
+     "longitude": 107.656,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Pulau Kepayang",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pulau snorkeling dan diving",
+     "lokasi": "Kabupaten Belitung, 15 menit perahu dari Pantai Tanjung Kelayang",
+     "keterangan": "Spot favorit snorkeling dan diving, bawah laut alami, suasana tenang",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "2026",
+     "dasar_viral": "Masuk rekomendasi wisata bahari Belitung 2026",
+     "kelurahan_desa": null,
+     "kecamatan": "Sijuk",
+     "kota_kabupaten": "Kabupaten Belitung",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -2.543,
+     "longitude": 107.642,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan dekat Tanjung Kelayang"
+    }
+   ]
+  },
+  {
+   "article_id": 1014,
+   "places": [
+    {
+     "nama_tempat": "Pantai Tuing Indah",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai",
+     "lokasi": "Desa Mapur, Kecamatan Riau Dilip [Riau Silip], Kabupaten Bangka",
+     "keterangan": "Pasir putih halus, gazebo, spot foto bukit; 30 menit dari Sungailiat",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Mei 2026",
+     "dasar_viral": "Pantai favorit yang selalu ramai dikunjungi, kabar dari mulut ke mulut",
+     "kelurahan_desa": "Mapur",
+     "kecamatan": "Riau Silip",
+     "kota_kabupaten": "Kabupaten Bangka",
+     "provinsi": "Kepulauan Bangka Belitung",
+     "negara": "Indonesia",
+     "latitude": -1.77,
+     "longitude": 106.09,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Artikel menulis 'Riau Dilip'; kemungkinan Riau Silip; koordinat perkiraan"
+    }
+   ]
+  },
+  {
+   "article_id": 1015,
+   "places": []
+  }
+ ]
+}

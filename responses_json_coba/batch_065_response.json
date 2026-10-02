@@ -1,0 +1,174 @@
+{
+ "results": [
+  {
+   "article_id": 512,
+   "places": [
+    {
+     "nama_tempat": "Taman Nasional Seoraksan",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "taman nasional",
+     "lokasi": "Dekat Yangyang, Sokcho, Gangneung, Korea Selatan",
+     "keterangan": "Disebut sebagai destinasi yang bisa diakses lewat zona wisata Bandara Yangyang",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Sokcho",
+     "provinsi": "Provinsi Gangwon",
+     "negara": "Korea Selatan",
+     "latitude": 38.119,
+     "longitude": 128.4655,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Provinsi Gangwon (Korea Selatan); koordinat perkiraan"
+    }
+   ]
+  },
+  {
+   "article_id": 513,
+   "places": [
+    {
+     "nama_tempat": "Sekaran Hills",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "wisata alam perbukitan dan persawahan",
+     "lokasi": "Dusun Krajan, Desa Sedayu, Kecamatan Loano, Purworejo",
+     "keterangan": "Wisata alam baru hasil gotong royong warga; gazebo dengan panorama pegunungan dan sawah; grand launching 11-13 Sep 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "11-13 September 2026",
+     "dasar_viral": "Destinasi wisata alam baru, diluncurkan di Gebyar Wisata Loano",
+     "kelurahan_desa": "Sedayu",
+     "kecamatan": "Loano",
+     "kota_kabupaten": "Kabupaten Purworejo",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": -7.75,
+     "longitude": 110.04,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Desa Sedayu"
+    }
+   ]
+  },
+  {
+   "article_id": 514,
+   "places": []
+  },
+  {
+   "article_id": 515,
+   "places": []
+  },
+  {
+   "article_id": 516,
+   "places": []
+  },
+  {
+   "article_id": 517,
+   "places": [
+    {
+     "nama_tempat": "Padaringan Leuweung Awi Cisurupan",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "wisata alam berbasis masyarakat",
+     "lokasi": "Kawasan Bukit Mbah Garut, Kelurahan Cisurupan, Kecamatan Cibiru, Kota Bandung",
+     "keterangan": "Kawasan wisata baru dikelola Pokdarwis; alam, budaya, religi, UMKM, edukasi lingkungan; diresmikan 2 Agu 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "2 Agustus 2026",
+     "dasar_viral": "Kawasan wisata baru diresmikan Wali Kota Bandung",
+     "kelurahan_desa": "Cisurupan",
+     "kecamatan": "Cibiru",
+     "kota_kabupaten": "Kota Bandung",
+     "provinsi": "Jawa Barat",
+     "negara": "Indonesia",
+     "latitude": -6.921,
+     "longitude": 107.727,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Cisurupan"
+    }
+   ]
+  },
+  {
+   "article_id": 518,
+   "places": [
+    {
+     "nama_tempat": "Puncak Pulek (Bukit Pulek)",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "bukit/puncak",
+     "lokasi": "Desa Karangreja, Kecamatan Cipari, Cilacap",
+     "keterangan": "Panorama perbukitan; lahan milik perusahaan perkebunan sehingga disarankan cari lokasi alternatif",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Mulai dikenal masyarakat",
+     "kelurahan_desa": "Karangreja",
+     "kecamatan": "Cipari",
+     "kota_kabupaten": "Kabupaten Cilacap",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": -7.38,
+     "longitude": 108.8,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Desa Karangreja"
+    },
+    {
+     "nama_tempat": "Curug Goong",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "air terjun",
+     "lokasi": "Desa Karangreja, Kecamatan Cipari, Cilacap",
+     "keterangan": "Spot air terjun di Desa Karangreja",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Mulai dikenal masyarakat",
+     "kelurahan_desa": "Karangreja",
+     "kecamatan": "Cipari",
+     "kota_kabupaten": "Kabupaten Cilacap",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": -7.38,
+     "longitude": 108.8,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Desa Karangreja"
+    },
+    {
+     "nama_tempat": "Bukit Sempayak",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "bukit",
+     "lokasi": "Desa Karangreja, Kecamatan Cipari, Cilacap",
+     "keterangan": "Spot alam perbukitan di Desa Karangreja",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Mulai dikenal masyarakat",
+     "kelurahan_desa": "Karangreja",
+     "kecamatan": "Cipari",
+     "kota_kabupaten": "Kabupaten Cilacap",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": -7.38,
+     "longitude": 108.8,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Desa Karangreja"
+    }
+   ]
+  },
+  {
+   "article_id": 519,
+   "places": [
+    {
+     "nama_tempat": "Huta Siallagan",
+     "kategori": "lainnya",
+     "jenis_tempat": "situs bersejarah Batu Persidangan, wisata budaya Batak",
+     "lokasi": "Kecamatan Simanindo, Kabupaten Samosir",
+     "keterangan": "Ikon wisata budaya Samosir; situs Batu Persidangan; tempat penyambutan Wamen PPN 8 Mei 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Ikon wisata budaya di Samosir",
+     "kelurahan_desa": "Ambarita",
+     "kecamatan": "Simanindo",
+     "kota_kabupaten": "Kabupaten Samosir",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 2.6682,
+     "longitude": 98.846,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Ambarita"
+    }
+   ]
+  }
+ ]
+}

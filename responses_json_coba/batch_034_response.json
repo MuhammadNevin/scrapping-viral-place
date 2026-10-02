@@ -1,0 +1,172 @@
+{
+ "results": [
+  {
+   "article_id": 264,
+   "places": [
+    {
+     "nama_tempat": "Kinanthi Coffee & Eatery",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe minimalis",
+     "lokasi": "Jalan Engku Putri Utara Nomor 3, Teluk Tering, Kecamatan Batam Kota",
+     "keterangan": "Interior minimalis, menu harga terjangkau",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "2026",
+     "dasar_viral": "Masuk daftar 5 cafe baru viral di Batam 2026",
+     "kelurahan_desa": "Teluk Tering",
+     "kecamatan": "Batam Kota",
+     "kota_kabupaten": "Kota Batam",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 1.129,
+     "longitude": 104.053,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Grind Now Coffee Bar Specialty Coffee Batam",
+     "kategori": "Kafe",
+     "jenis_tempat": "specialty coffee bar",
+     "lokasi": "Permata Regency Blok DD Nomor 9, Baloi Indah, Lubuk Baja, Batam",
+     "keterangan": "Specialty coffee bar modern, juga menu makan siang",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "2026",
+     "dasar_viral": "Masuk daftar 5 cafe baru viral di Batam 2026",
+     "kelurahan_desa": "Baloi Indah",
+     "kecamatan": "Lubuk Baja",
+     "kota_kabupaten": "Kota Batam",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 1.15,
+     "longitude": 104.023,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Pretty Please Coffee",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe kopi",
+     "lokasi": "Kawasan Sukajadi, Batam Kota",
+     "keterangan": "Desain cantik dan nyaman, kopi dan minuman kekinian",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "2026",
+     "dasar_viral": "Masuk daftar 5 cafe baru viral di Batam 2026",
+     "kelurahan_desa": "Sukajadi",
+     "kecamatan": "Batam Kota",
+     "kota_kabupaten": "Kota Batam",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 1.125,
+     "longitude": 104.05,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan kawasan Sukajadi"
+    },
+    {
+     "nama_tempat": "Frui",
+     "kategori": "Kafe",
+     "jenis_tempat": "dessert gelato mochi",
+     "lokasi": "Komplek Bumi Indah Nomor 8 Blok 2, Lubuk Baja Kota, Kecamatan Lubuk Baja, Batam",
+     "keterangan": "Gelato dipadukan mochi lembut, aneka kue cantik",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "2026",
+     "dasar_viral": "Masuk daftar 5 cafe baru viral di Batam 2026",
+     "kelurahan_desa": "Lubuk Baja Kota",
+     "kecamatan": "Lubuk Baja",
+     "kota_kabupaten": "Kota Batam",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 1.145,
+     "longitude": 104.02,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Blite's Coffee",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe modern minimalis",
+     "lokasi": "Ruko Tunas Regency Blok C9 Nomor 3A dan 5, Tanjung Uncang, Kecamatan Sagulung, Batam",
+     "keterangan": "Konsep modern minimalis, suasana santai",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "2026",
+     "dasar_viral": "Masuk daftar 5 cafe baru viral di Batam 2026",
+     "kelurahan_desa": "Tanjung Uncang",
+     "kecamatan": "Sagulung",
+     "kota_kabupaten": "Kota Batam",
+     "provinsi": "Kepulauan Riau",
+     "negara": "Indonesia",
+     "latitude": 1.075,
+     "longitude": 103.97,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 265,
+   "places": []
+  },
+  {
+   "article_id": 266,
+   "places": []
+  },
+  {
+   "article_id": 267,
+   "places": []
+  },
+  {
+   "article_id": 268,
+   "places": [
+    {
+     "nama_tempat": "Madyâs Gelato, Cafe and Grill",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe tepi laut dengan gelato dan grill",
+     "lokasi": "Pangandaran",
+     "keterangan": "Kafe hits menghadap langsung ke lautan lepas",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Judul: cafe viral menghadap laut di Pangandaran; kafe yang hits",
+     "kelurahan_desa": null,
+     "kecamatan": "Pangandaran",
+     "kota_kabupaten": "Kabupaten Pangandaran",
+     "provinsi": "Jawa Barat",
+     "negara": "Indonesia",
+     "latitude": -7.69,
+     "longitude": 108.65,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Pangandaran"
+    }
+   ]
+  },
+  {
+   "article_id": 269,
+   "places": []
+  },
+  {
+   "article_id": 270,
+   "places": [
+    {
+     "nama_tempat": "Kafe de'Clan",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe",
+     "lokasi": "Jalan Tole Iskandar, Kota Depok, Jawa Barat",
+     "keterangan": "Kafe tutup sekitar empat hari, rantai dipasang di pintu masuk parkir",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Juli 2026",
+     "dasar_viral": "Tutupnya kafe viral di media sosial",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Depok",
+     "provinsi": "Jawa Barat",
+     "negara": "Indonesia",
+     "latitude": -6.387,
+     "longitude": 106.828,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan Jl. Tole Iskandar"
+    }
+   ]
+  },
+  {
+   "article_id": 271,
+   "places": []
+  }
+ ]
+}

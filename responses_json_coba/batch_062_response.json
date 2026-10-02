@@ -1,0 +1,232 @@
+{
+ "results": [
+  {
+   "article_id": 488,
+   "places": [
+    {
+     "nama_tempat": "Taman Amahami",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "taman kota/ruang publik",
+     "lokasi": "Taman Amahami, Kota Bima",
+     "keterangan": "Taman kota tempat warga berkunjung; ada Safari Mobil Maung Kodim 1608/Bima dan sesi foto bersama, 27 Sep 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Pengunjung antusias berfoto dengan Mobil Maung",
+     "kelurahan_desa": null,
+     "kecamatan": "Rasanae Barat",
+     "kota_kabupaten": "Kota Bima",
+     "provinsi": "Nusa Tenggara Barat",
+     "negara": "Indonesia",
+     "latitude": -8.4606,
+     "longitude": 118.7265,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan di pusat Kota Bima"
+    }
+   ]
+  },
+  {
+   "article_id": 489,
+   "places": []
+  },
+  {
+   "article_id": 490,
+   "places": [
+    {
+     "nama_tempat": "Kawasan Gelora Bung Karno (GBK)",
+     "kategori": "lainnya",
+     "jenis_tempat": "kompleks olahraga dan destinasi MICE",
+     "lokasi": "Gelora Bung Karno, Jakarta",
+     "keterangan": "Kompleks 279,1 hektare jadi lokasi konser, festival, pameran, konferensi; 15.000-20.000 pengunjung per hari",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Berkembang jadi destinasi MICE dan sport tourism; event naik dari 150 (2021) ke 620 (2025)",
+     "kelurahan_desa": "Gelora",
+     "kecamatan": "Tanah Abang",
+     "kota_kabupaten": "Kota Jakarta Pusat",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.2185,
+     "longitude": 106.8018,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "BTN Indonesia Fashion Week 2026",
+     "kategori": "Pameran",
+     "jenis_tempat": "pameran fesyen",
+     "lokasi": "Jakarta International Convention Center (JICC), kawasan GBK",
+     "keterangan": "Pameran fesyen melibatkan desainer, brand, rumah mode, pengrajin kriya, dan UMKM",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Gelora",
+     "kecamatan": "Tanah Abang",
+     "kota_kabupaten": "Kota Jakarta Pusat",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.2178,
+     "longitude": 106.8068,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat area JICC"
+    },
+    {
+     "nama_tempat": "BangorFest Vol.4",
+     "kategori": "Pameran",
+     "jenis_tempat": "festival",
+     "lokasi": "Stadion Madya, kawasan GBK",
+     "keterangan": "Festival budaya/hiburan di Stadion Madya GBK; artikel terpotong",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Gelora",
+     "kecamatan": "Tanah Abang",
+     "kota_kabupaten": "Kota Jakarta Pusat",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.2203,
+     "longitude": 106.801,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat area Stadion Madya"
+    }
+   ]
+  },
+  {
+   "article_id": 491,
+   "places": [
+    {
+     "nama_tempat": "Desa Wisata Wirun",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "desa wisata",
+     "lokasi": "Wirun, Kabupaten Sukoharjo",
+     "keterangan": "Desa wisata budaya, tujuan Fun Cycling World Tourism Day 2026; sentra pembuatan gamelan",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Wirun",
+     "kecamatan": "Mojolaban",
+     "kota_kabupaten": "Kabupaten Sukoharjo",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": -7.571,
+     "longitude": 110.864,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Wirun"
+    },
+    {
+     "nama_tempat": "Sahasra Adhi Pura",
+     "kategori": "lainnya",
+     "jenis_tempat": "destinasi wisata budaya",
+     "lokasi": "Wirun, Sukoharjo",
+     "keterangan": "Destinasi yang dikunjungi peserta fun cycling di Desa Wisata Wirun",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Wirun",
+     "kecamatan": "Mojolaban",
+     "kota_kabupaten": "Kabupaten Sukoharjo",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": "Koordinat tidak diketahui"
+    },
+    {
+     "nama_tempat": "Sentra Gamelan Wirun",
+     "kategori": "lainnya",
+     "jenis_tempat": "sentra kerajinan gamelan",
+     "lokasi": "Wirun, Sukoharjo",
+     "keterangan": "Sentra pembuatan gamelan tradisional yang dikunjungi peserta",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Wirun",
+     "kecamatan": "Mojolaban",
+     "kota_kabupaten": "Kabupaten Sukoharjo",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": -7.571,
+     "longitude": 110.864,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Wirun"
+    }
+   ]
+  },
+  {
+   "article_id": 492,
+   "places": [
+    {
+     "nama_tempat": "Pantai Bulak Baru",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai",
+     "lokasi": "Desa Bulak Baru, Kecamatan Kedung, Jepara",
+     "keterangan": "Destinasi wisata pantai; aksesnya akan diperbaiki, desa juga penghasil garam",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Bulak Baru",
+     "kecamatan": "Kedung",
+     "kota_kabupaten": "Kabupaten Jepara",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": -6.699,
+     "longitude": 110.792,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan di pesisir Kedung"
+    }
+   ]
+  },
+  {
+   "article_id": 493,
+   "places": [
+    {
+     "nama_tempat": "Pantai Bulak Baru",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai",
+     "lokasi": "Desa Bulak Baru, Kecamatan Kedung, Jepara",
+     "keterangan": "Destinasi wisata pantai; aksesnya akan diperbaiki, desa juga penghasil garam",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Bulak Baru",
+     "kecamatan": "Kedung",
+     "kota_kabupaten": "Kabupaten Jepara",
+     "provinsi": "Jawa Tengah",
+     "negara": "Indonesia",
+     "latitude": -6.699,
+     "longitude": 110.792,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan di pesisir Kedung"
+    }
+   ]
+  },
+  {
+   "article_id": 494,
+   "places": []
+  },
+  {
+   "article_id": 495,
+   "places": [
+    {
+     "nama_tempat": "Pasar Apung Kali Karplos",
+     "kategori": "lainnya",
+     "jenis_tempat": "pasar apung wisata",
+     "lokasi": "Antara Karangtengah dan Plosokerep, Kota Blitar",
+     "keterangan": "Pasar apung di tengah sendang dan embung; UMKM, perahu karet, jembatan gantung; buka minggu ke-2 dan ke-4 pukul 08.00, tiket gratis",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Magnet baru wisatawan karena satu-satunya pasar apung di Blitar",
+     "kelurahan_desa": "Karangtengah",
+     "kecamatan": "Sananwetan",
+     "kota_kabupaten": "Kota Blitar",
+     "provinsi": "Jawa Timur",
+     "negara": "Indonesia",
+     "latitude": -8.095,
+     "longitude": 112.19,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Karangtengah"
+    }
+   ]
+  }
+ ]
+}

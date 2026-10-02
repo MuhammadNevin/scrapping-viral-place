@@ -1,0 +1,232 @@
+{
+ "results": [
+  {
+   "article_id": 1136,
+   "places": []
+  },
+  {
+   "article_id": 1137,
+   "places": [
+    {
+     "nama_tempat": "Lembah Hijau Lampung",
+     "kategori": "Wahana",
+     "jenis_tempat": "taman satwa dan waterboom keluarga",
+     "lokasi": "Bandar Lampung",
+     "keterangan": "Taman satwa, Waterboom, permainan; buka sekitar 08.00 WIB; ada pilihan paket tiket",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Tips liburan keluarga ke kawasan wisata dengan taman satwa dan waterboom",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bandar Lampung",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -5.4294,
+     "longitude": 105.261,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Lokasi spesifik tidak disebut; koordinat pusat Kota Bandar Lampung"
+    }
+   ]
+  },
+  {
+   "article_id": 1138,
+   "places": [
+    {
+     "nama_tempat": "Taman Nasional Way Kambas",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "taman nasional / ekowisata",
+     "lokasi": "Lampung Timur; koperasi wisata berbasis di Desa Labuhan Ratu IX, Kec. Labuhan Ratu",
+     "keterangan": "Ekowisata minat khusus: bird watching dan susur sungai; kunjungan tertinggi Juni-September",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Fokus konservasi burung menarik pengamat burung mancanegara",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Lampung Timur",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -4.9,
+     "longitude": 105.78,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Kawasan luas; koordinat perkiraan area taman nasional"
+    }
+   ]
+  },
+  {
+   "article_id": 1139,
+   "places": [
+    {
+     "nama_tempat": "The Nice Park Lampung",
+     "kategori": "Wahana",
+     "jenis_tempat": "taman bermain keluarga",
+     "lokasi": "Jalan Wan Abdurrahman, Batu Putuk, Bandar Lampung",
+     "keterangan": "Trial opening 10 Mei 2026; 80+ wahana, mini zoo, tiket Rp25 ribu main sepuasnya; buka 09.00-17.45",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi wisata baru dengan tiket promo Rp25 ribu",
+     "kelurahan_desa": "Batu Putuk",
+     "kecamatan": "Teluk Betung Utara",
+     "kota_kabupaten": "Kota Bandar Lampung",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -5.3995,
+     "longitude": 105.226,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Artikel menyebut kecamatan berbeda (Teluk Betung Utara/Barat); Batu Putuk umumnya di Teluk Betung Barat"
+    }
+   ]
+  },
+  {
+   "article_id": 1140,
+   "places": [
+    {
+     "nama_tempat": "Kampung Vietnam",
+     "kategori": "lainnya",
+     "jenis_tempat": "wisata keluarga/edukasi",
+     "lokasi": "Kemiling, Bandar Lampung (akses via Jalan Cik Di Tiro)",
+     "keterangan": "Destinasi unggulan wisata Kemiling",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Disebut sebagai destinasi unggulan di Kemiling yang diakses lewat Jalan Cik Di Tiro",
+     "kelurahan_desa": null,
+     "kecamatan": "Kemiling",
+     "kota_kabupaten": "Kota Bandar Lampung",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -5.3947,
+     "longitude": 105.2146,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Kemiling"
+    },
+    {
+     "nama_tempat": "Farm Day Mountain Side",
+     "kategori": "lainnya",
+     "jenis_tempat": "wisata keluarga/perbukitan",
+     "lokasi": "Kemiling, Bandar Lampung (akses via Jalan Cik Di Tiro)",
+     "keterangan": "Destinasi wisata keluarga dan perbukitan di Kemiling",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Disebut sebagai destinasi unggulan di Kemiling yang diakses lewat Jalan Cik Di Tiro",
+     "kelurahan_desa": null,
+     "kecamatan": "Kemiling",
+     "kota_kabupaten": "Kota Bandar Lampung",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -5.3947,
+     "longitude": 105.2146,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Kemiling"
+    },
+    {
+     "nama_tempat": "Lengkung Langit",
+     "kategori": "lainnya",
+     "jenis_tempat": "wisata alam/perbukitan",
+     "lokasi": "Kemiling, Bandar Lampung (akses via Jalan Cik Di Tiro)",
+     "keterangan": "Destinasi wisata alam di Kemiling",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Disebut sebagai destinasi unggulan di Kemiling yang diakses lewat Jalan Cik Di Tiro",
+     "kelurahan_desa": null,
+     "kecamatan": "Kemiling",
+     "kota_kabupaten": "Kota Bandar Lampung",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -5.3947,
+     "longitude": 105.2146,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Kemiling"
+    },
+    {
+     "nama_tempat": "Lembah Durian Farm Stable",
+     "kategori": "lainnya",
+     "jenis_tempat": "wisata agro/edukasi",
+     "lokasi": "Kemiling, Bandar Lampung (akses via Jalan Cik Di Tiro)",
+     "keterangan": "Destinasi wisata di Kemiling",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Disebut sebagai destinasi unggulan di Kemiling yang diakses lewat Jalan Cik Di Tiro",
+     "kelurahan_desa": null,
+     "kecamatan": "Kemiling",
+     "kota_kabupaten": "Kota Bandar Lampung",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -5.3947,
+     "longitude": 105.2146,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Kemiling"
+    }
+   ]
+  },
+  {
+   "article_id": 1141,
+   "places": [
+    {
+     "nama_tempat": "Kawasan Batu Putu",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "kawasan wisata alam sungai/air terjun",
+     "lokasi": "Bandar Lampung",
+     "keterangan": "Panorama alam dan aliran sungai alami; rencana wahana canyoning dan view point menuju air terjun",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Dinilai punya potensi besar untuk dikembangkan jadi wisata unggulan",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bandar Lampung",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": "Kemungkinan Batu Putuk; lokasi tepat tidak disebut"
+    },
+    {
+     "nama_tempat": "Kali Akar",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "kawasan wisata alam sungai",
+     "lokasi": "Bandar Lampung",
+     "keterangan": "Panorama alam dan aliran sungai alami; diproyeksikan punya wahana modern seperti canyoning",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Dinilai punya potensi besar untuk dikembangkan jadi wisata unggulan",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bandar Lampung",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": "Lokasi tepat tidak disebut"
+    }
+   ]
+  },
+  {
+   "article_id": 1142,
+   "places": [
+    {
+     "nama_tempat": "Pantai Gigi Hiu",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pantai",
+     "lokasi": "Tanggamus (rencana akses jalur wisata baru)",
+     "keterangan": "Pantai karang berbentuk gigi hiu menghadap Samudra Hindia",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi unggulan yang akan dihubungkan dengan jalur wisata baru",
+     "kelurahan_desa": null,
+     "kecamatan": "Kelumbayan",
+     "kota_kabupaten": "Kabupaten Tanggamus",
+     "provinsi": "Lampung",
+     "negara": "Indonesia",
+     "latitude": -5.8,
+     "longitude": 105.07,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan kawasan Kiluan"
+    }
+   ]
+  },
+  {
+   "article_id": 1143,
+   "places": []
+  }
+ ]
+}

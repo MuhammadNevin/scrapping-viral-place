@@ -1,0 +1,192 @@
+{
+ "results": [
+  {
+   "article_id": 280,
+   "places": []
+  },
+  {
+   "article_id": 281,
+   "places": [
+    {
+     "nama_tempat": "Bagelicious",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe bagel dan dessert",
+     "lokasi": "Jalan L. L. R.E. Martadinata No.71, Citarum, Kecamatan Bandung Wetan, Kota Bandung 40115",
+     "keterangan": "Bagel premium (Korean Garlic Cheese, salmon), Dubai Kunafe Latte, Matcha; Rp28-78 ribu; buka 07.00",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "2026",
+     "dasar_viral": "Antrean mengular sejak buka pukul 07.00",
+     "kelurahan_desa": "Citarum",
+     "kecamatan": "Bandung Wetan",
+     "kota_kabupaten": "Kota Bandung",
+     "provinsi": "Jawa Barat",
+     "negara": "Indonesia",
+     "latitude": -6.9062,
+     "longitude": 107.618,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Bakkies",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe pastry dan cake",
+     "lokasi": "Jalan Cihampelas No.34, Tamansari, Kecamatan Bandung Wetan, Kota Bandung 40116",
+     "keterangan": "Pastry flaky buttery, Cheese Tart, Earl Grey Choux, Tiramisu; Rp20-60 ribu; buka 08.00-20.00",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "2026",
+     "dasar_viral": "Kafe dessert yang viral di media sosial",
+     "kelurahan_desa": "Tamansari",
+     "kecamatan": "Bandung Wetan",
+     "kota_kabupaten": "Kota Bandung",
+     "provinsi": "Jawa Barat",
+     "negara": "Indonesia",
+     "latitude": -6.8985,
+     "longitude": 107.604,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    }
+   ]
+  },
+  {
+   "article_id": 282,
+   "places": [
+    {
+     "nama_tempat": "Good Measure",
+     "kategori": "Kafe",
+     "jenis_tempat": "kedai kopi dan bar",
+     "lokasi": "Lygon Street, Melbourne, Australia",
+     "keterangan": "Pencipta Mont Blanc Coffee (cold brew + krim dingin) pada 2022",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Asal racikan Mont Blanc yang jadi pembicaraan hangat pencinta kopi",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Melbourne",
+     "provinsi": "Victoria",
+     "negara": "Australia",
+     "latitude": -37.799,
+     "longitude": 144.967,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan Lygon Street; negara Australia"
+    }
+   ]
+  },
+  {
+   "article_id": 283,
+   "places": []
+  },
+  {
+   "article_id": 284,
+   "places": []
+  },
+  {
+   "article_id": 285,
+   "places": [
+    {
+     "nama_tempat": "Makmur Jaya Coffee (MakJay)",
+     "kategori": "Kafe",
+     "jenis_tempat": "coffee shop",
+     "lokasi": "Cabang Lengkong Besar, Soka, Sawunggaling, Lemahnendeut, Bandung",
+     "keterangan": "Kopi Susu Makmur Jaya dan Kopi Apel, interior artistik; Rp22-150 ribu; buka 07.00-22.00",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "2026",
+     "dasar_viral": "Masuk daftar 5 coffee shop yang lagi viral di Bandung 2026",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bandung",
+     "provinsi": "Jawa Barat",
+     "negara": "Indonesia",
+     "latitude": -6.921,
+     "longitude": 107.61,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Punya beberapa cabang; koordinat area Lengkong Besar"
+    },
+    {
+     "nama_tempat": "Dartoyo Coffee",
+     "kategori": "Kafe",
+     "jenis_tempat": "coffee shop konsep pabrik kopi vintage",
+     "lokasi": "Jalan Naripan dan Jalan Sumatera, Bandung",
+     "keterangan": "Interior industrial klasik vintage; Rp25-50 ribu; buka 06.00-22.00",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "2026",
+     "dasar_viral": "Masuk daftar 5 coffee shop yang lagi viral di Bandung 2026",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bandung",
+     "provinsi": "Jawa Barat",
+     "negara": "Indonesia",
+     "latitude": -6.917,
+     "longitude": 107.613,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Punya dua lokasi; koordinat area Jl. Naripan"
+    },
+    {
+     "nama_tempat": "Masagi Coffee",
+     "kategori": "Kafe",
+     "jenis_tempat": "coffee shop semi outdoor",
+     "lokasi": "Jalan Gunung Kareumbi, Bandung",
+     "keterangan": "Konsep semi outdoor hijau, Rp50-75 ribu; buka 07.00-21.00",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "2026",
+     "dasar_viral": "Masuk daftar 5 coffee shop yang lagi viral di Bandung 2026",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bandung",
+     "provinsi": "Jawa Barat",
+     "negara": "Indonesia",
+     "latitude": -6.91,
+     "longitude": 107.67,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan; alamat hanya nama jalan"
+    },
+    {
+     "nama_tempat": "Two Cents",
+     "kategori": "Kafe",
+     "jenis_tempat": "coffee shop modern-industrial",
+     "lokasi": "Bandung (alamat terpotong)",
+     "keterangan": "Coffee shop modern-industrial indoor dan outdoor, sering direkomendasikan untuk WFC",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "2026",
+     "dasar_viral": "Masuk daftar 5 coffee shop yang lagi viral di Bandung 2026",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Bandung",
+     "provinsi": "Jawa Barat",
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": "Artikel terpotong"
+    }
+   ]
+  },
+  {
+   "article_id": 286,
+   "places": [
+    {
+     "nama_tempat": "Cafe D'Mei",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe live music milik penyanyi Mei Sanca",
+     "lokasi": "Desa Kembangsari, Kecamatan Ngoro, Kabupaten Mojokerto",
+     "keterangan": "Kopi dari Aceh, Dampit, Lampung, Toraja, Ambon; Chinese food dan masakan Jawa; live music; buka 10.00-23.00",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Dikenal ramai pengunjung, terutama malam dengan live music",
+     "kelurahan_desa": "Kembangsari",
+     "kecamatan": "Ngoro",
+     "kota_kabupaten": "Kabupaten Mojokerto",
+     "provinsi": "Jawa Timur",
+     "negara": "Indonesia",
+     "latitude": -7.56,
+     "longitude": 112.55,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan desa"
+    }
+   ]
+  },
+  {
+   "article_id": 287,
+   "places": []
+  }
+ ]
+}

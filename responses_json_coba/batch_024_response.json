@@ -1,0 +1,251 @@
+{
+ "results": [
+  {
+   "article_id": 184,
+   "places": [
+    {
+     "nama_tempat": "Pondok Nasi Kapau Fina",
+     "kategori": "Restoran",
+     "jenis_tempat": "rumah makan Minang",
+     "lokasi": "Pekanbaru",
+     "keterangan": "17 menu andalan tanpa MSG, resep sendiri; gulai cincang tanpa santan; pelanggan hingga Malaysia dan Singapura",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Judul: kuliner viral; jadi kuliner favorit Pekanbaru dan dikenal lewat media sosial",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kota Pekanbaru",
+     "provinsi": "Riau",
+     "negara": "Indonesia",
+     "latitude": 0.5071,
+     "longitude": 101.4478,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Alamat tidak disebut; koordinat pusat Pekanbaru"
+    }
+   ]
+  },
+  {
+   "article_id": 185,
+   "places": [
+    {
+     "nama_tempat": "Petak Enam",
+     "kategori": "lainnya",
+     "jenis_tempat": "kawasan kuliner modern Pecinan",
+     "lokasi": "Kawasan Glodok, Jakarta Barat",
+     "keterangan": "Kawasan kuliner kekinian bernuansa Tionghoa modern dengan kualitas premium",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Kawasan modern yang melengkapi pengalaman berburu makanan di Glodok",
+     "kelurahan_desa": "Glodok",
+     "kecamatan": "Taman Sari",
+     "kota_kabupaten": "Kota Jakarta Barat",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.1448,
+     "longitude": 106.8138,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat area Glodok"
+    },
+    {
+     "nama_tempat": "Petak Sembilan Market",
+     "kategori": "lainnya",
+     "jenis_tempat": "pasar kuliner & budaya Pecinan",
+     "lokasi": "Kawasan Petak Sembilan, Glodok, Jakarta Barat",
+     "keterangan": "Pusat aktivitas kuliner dan budaya Pecinan",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Disebut sebagai pusat aktivitas kuliner dan budaya di Glodok",
+     "kelurahan_desa": "Glodok",
+     "kecamatan": "Taman Sari",
+     "kota_kabupaten": "Kota Jakarta Barat",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.1433,
+     "longitude": 106.8146,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat area Petak Sembilan"
+    }
+   ]
+  },
+  {
+   "article_id": 186,
+   "places": []
+  },
+  {
+   "article_id": 187,
+   "places": []
+  },
+  {
+   "article_id": 188,
+   "places": [
+    {
+     "nama_tempat": "BrightspotCITY 2026",
+     "kategori": "Pameran",
+     "jenis_tempat": "festival kreatif brand lokal & kuliner",
+     "lokasi": "Agora Mall Thamrin Nine, Jakarta Pusat",
+     "keterangan": "Festival ke-17 dengan 250+ brand lokal dan tenant kuliner; digelar dua periode",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "26-31 Mei & 4-7 Juni 2026",
+     "dasar_viral": "Menghadirkan kuliner yang sedang viral",
+     "kelurahan_desa": "Kebon Melati",
+     "kecamatan": "Tanah Abang",
+     "kota_kabupaten": "Kota Jakarta Pusat",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.193,
+     "longitude": 106.823,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat Agora Mall Thamrin Nine"
+    },
+    {
+     "nama_tempat": "Knots",
+     "kategori": "Kafe",
+     "jenis_tempat": "kafe bakery (tenant festival)",
+     "lokasi": "Tenant BrightspotCITY 2026, Agora Mall Thamrin Nine, Jakarta Pusat",
+     "keterangan": "Roti bakar sourdough pisang cokelat Rp90 ribu; kafe asli Kemang",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "26-31 Mei & 4-7 Juni 2026",
+     "dasar_viral": "Menu roti bakar unik yang akhirnya viral",
+     "kelurahan_desa": "Kebon Melati",
+     "kecamatan": "Tanah Abang",
+     "kota_kabupaten": "Kota Jakarta Pusat",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.193,
+     "longitude": 106.823,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Tenant festival; gerai asli di Kemang, Jakarta Selatan"
+    },
+    {
+     "nama_tempat": "The Hijo",
+     "kategori": "Kafe",
+     "jenis_tempat": "kedai teh susu (tenant festival)",
+     "lokasi": "Tenant BrightspotCITY 2026, Agora Mall Thamrin Nine, Jakarta Pusat",
+     "keterangan": "Charcoal Roasted Milk Tea; Snow Bird Nest Rp42 ribu",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "26-31 Mei & 4-7 Juni 2026",
+     "dasar_viral": "Masuk daftar 5 tenant kuliner viral BrightspotCITY 2026",
+     "kelurahan_desa": "Kebon Melati",
+     "kecamatan": "Tanah Abang",
+     "kota_kabupaten": "Kota Jakarta Pusat",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.193,
+     "longitude": 106.823,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Tenant festival; koordinat venue Agora Mall Thamrin Nine"
+    },
+    {
+     "nama_tempat": "Camilla La Mozzarela",
+     "kategori": "lainnya",
+     "jenis_tempat": "produsen keju asal Klaten (tenant festival)",
+     "lokasi": "Tenant BrightspotCITY 2026, Agora Mall Thamrin Nine, Jakarta Pusat",
+     "keterangan": "Paket keju Berry Bliss Rp50.500 (halloumi, gouda, brie)",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "26-31 Mei & 4-7 Juni 2026",
+     "dasar_viral": "Masuk daftar 5 tenant kuliner viral BrightspotCITY 2026",
+     "kelurahan_desa": "Kebon Melati",
+     "kecamatan": "Tanah Abang",
+     "kota_kabupaten": "Kota Jakarta Pusat",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.193,
+     "longitude": 106.823,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Tenant festival; koordinat venue Agora Mall Thamrin Nine"
+    },
+    {
+     "nama_tempat": "Pitch+",
+     "kategori": "Kafe",
+     "jenis_tempat": "dessert cokelat premium (tenant festival)",
+     "lokasi": "Tenant BrightspotCITY 2026, Agora Mall Thamrin Nine, Jakarta Pusat",
+     "keterangan": "Callebaut Berry Ube Madness Rp85 ribu, paling laris",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "26-31 Mei & 4-7 Juni 2026",
+     "dasar_viral": "Salah satu tenant paling diburu di festival",
+     "kelurahan_desa": "Kebon Melati",
+     "kecamatan": "Tanah Abang",
+     "kota_kabupaten": "Kota Jakarta Pusat",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.193,
+     "longitude": 106.823,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Tenant festival; koordinat venue Agora Mall Thamrin Nine"
+    }
+   ]
+  },
+  {
+   "article_id": 189,
+   "places": [
+    {
+     "nama_tempat": "Gemblong Persahabatan",
+     "kategori": "Restoran",
+     "jenis_tempat": "jajanan tradisional Betawi",
+     "lokasi": "Jalan Persahabatan No 7, Jagakarsa, Jakarta Selatan",
+     "keterangan": "Gemblong Rp2.500/buah, terjual 3.000-4.000 per hari; juga donat, onde-onde, combro",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Viral di media sosial setelah pembeli mengunggahnya; antrean panjang",
+     "kelurahan_desa": "Jagakarsa",
+     "kecamatan": "Jagakarsa",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.332,
+     "longitude": 106.819,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat area Jagakarsa; kelurahan tidak pasti"
+    }
+   ]
+  },
+  {
+   "article_id": 190,
+   "places": [
+    {
+     "nama_tempat": "Nasi Bejek Jalan Panji Tilar Negara",
+     "kategori": "Restoran",
+     "jenis_tempat": "lapak nasi bejek & nasi tempong",
+     "lokasi": "Jalan Panji Tilar Negara, Kekalik Jaya, Ampenan, Kota Mataram (depan Museum Negeri NTB)",
+     "keterangan": "Nasi bejek original/pete/pindang/komplit; habis 120 porsi dalam 1 jam",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Mei 2026 (sepekan setelah dibuka)",
+     "dasar_viral": "Viral di TikTok dan Instagram; warga mengantre sebelum lapak buka",
+     "kelurahan_desa": "Kekalik Jaya",
+     "kecamatan": "Ampenan",
+     "kota_kabupaten": "Kota Mataram",
+     "provinsi": "Nusa Tenggara Barat",
+     "negara": "Indonesia",
+     "latitude": -8.579,
+     "longitude": 116.073,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Nama lapak tidak disebut; koordinat sekitar Museum NTB"
+    }
+   ]
+  },
+  {
+   "article_id": 191,
+   "places": [
+    {
+     "nama_tempat": "Blok M HUB",
+     "kategori": "lainnya",
+     "jenis_tempat": "pusat kuliner basement terminal",
+     "lokasi": "Basement Terminal Blok M dan eks Mal Blok M, Jakarta Selatan",
+     "keterangan": "Tenant ayam pop Minang, soto Betawi Arab, minuman self service, brownies panggang",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Judul: surga kuliner baru, brownies viral; menu viral di media sosial",
+     "kelurahan_desa": "Melawai",
+     "kecamatan": "Kebayoran Baru",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.2433,
+     "longitude": 106.7983,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Terhubung dengan Stasiun MRT Blok M"
+    }
+   ]
+  }
+ ]
+}

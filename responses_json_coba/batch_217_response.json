@@ -1,0 +1,116 @@
+{
+ "results": [
+  {
+   "article_id": 1728,
+   "places": [
+    {
+     "nama_tempat": "Lembah Dieng",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "lahan bekas tambang / lembah hijau",
+     "lokasi": "Dusun Dieng, Desa Jeruk Purut, Kecamatan Gempol, Kabupaten Pasuruan",
+     "keterangan": "Bekas tambang galian C berpanorama hijau luas; tebing tanpa pagar, belum resmi jadi destinasi wisata",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "April 2026",
+     "dasar_viral": "Viral lewat konten komunitas sepeda dan motor trail; direkomendasikan netizen untuk healing",
+     "kelurahan_desa": "Jeruk Purut",
+     "kecamatan": "Gempol",
+     "kota_kabupaten": "Kabupaten Pasuruan",
+     "provinsi": "Jawa Timur",
+     "negara": "Indonesia",
+     "latitude": -7.55,
+     "longitude": 112.7,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan Desa Jeruk Purut"
+    }
+   ]
+  },
+  {
+   "article_id": 1729,
+   "places": [
+    {
+     "nama_tempat": "Mikutopia",
+     "kategori": "Wahana",
+     "jenis_tempat": "taman wisata bertema jamur",
+     "lokasi": "Desa Tulungrejo, Kecamatan Bumiaji, Kota Batu",
+     "keterangan": "Wisata tema jamur berlatar Gunung Arjuno; tiket reguler Rp40-45 ribu, terusan Rp80-95 ribu; buka sejak 21 Maret 2026",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Maret 2026",
+     "dasar_viral": "Sedang viral dan ramai diperbincangkan; insiden pengunjung pingsan dan wahana Tiram patah",
+     "kelurahan_desa": "Tulungrejo",
+     "kecamatan": "Bumiaji",
+     "kota_kabupaten": "Kota Batu",
+     "provinsi": "Jawa Timur",
+     "negara": "Indonesia",
+     "latitude": -7.83,
+     "longitude": 112.52,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan Desa Tulungrejo"
+    }
+   ]
+  },
+  {
+   "article_id": 1730,
+   "places": []
+  },
+  {
+   "article_id": 1731,
+   "places": []
+  },
+  {
+   "article_id": 1732,
+   "places": []
+  },
+  {
+   "article_id": 1733,
+   "places": []
+  },
+  {
+   "article_id": 1734,
+   "places": [
+    {
+     "nama_tempat": "Museum Mega Science Center dan Budaya",
+     "kategori": "Museum",
+     "jenis_tempat": "museum sains edukasi",
+     "lokasi": "Kawasan Jatim Park 1, Kota Batu",
+     "keterangan": "Destinasi wisata edukasi baru di kawasan Jatim Park 1",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Destinasi wisata edukasi baru di Kota Batu",
+     "kelurahan_desa": null,
+     "kecamatan": "Batu",
+     "kota_kabupaten": "Kota Batu",
+     "provinsi": "Jawa Timur",
+     "negara": "Indonesia",
+     "latitude": -7.887,
+     "longitude": 112.528,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat Jatim Park 1"
+    }
+   ]
+  },
+  {
+   "article_id": 1735,
+   "places": [
+    {
+     "nama_tempat": "Museum Marsinah",
+     "kategori": "Museum",
+     "jenis_tempat": "museum sejarah",
+     "lokasi": "Desa Nglundo, Kabupaten Nganjuk",
+     "keterangan": "Diresmikan Presiden Prabowo; memperkuat Desa Wisata Nglundo berbasis sejarah dan budaya",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "16 Mei 2026",
+     "dasar_viral": "Diapresiasi Wamenpar sebagai penguat desa wisata sejarah dan budaya",
+     "kelurahan_desa": "Nglundo",
+     "kecamatan": "Sukomoro",
+     "kota_kabupaten": "Kabupaten Nganjuk",
+     "provinsi": "Jawa Timur",
+     "negara": "Indonesia",
+     "latitude": -7.6,
+     "longitude": 111.95,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan Desa Nglundo"
+    }
+   ]
+  }
+ ]
+}

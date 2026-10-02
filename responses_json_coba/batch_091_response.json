@@ -1,0 +1,234 @@
+{
+ "results": [
+  {
+   "article_id": 720,
+   "places": [
+    {
+     "nama_tempat": "Pelaruga",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pemandian alam / wisata alam",
+     "lokasi": "Desa Rumah Galuh, Kecamatan Sei Bingai, Langkat",
+     "keterangan": "Wisata alam dengan air segar dan hutan hijau, 2 sampai 2,5 jam dari Medan",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "2026",
+     "dasar_viral": "Salah satu destinasi wisata alam paling viral di Sumut pada 2026",
+     "kelurahan_desa": "Rumah Galuh",
+     "kecamatan": "Sei Bingai",
+     "kota_kabupaten": "Kabupaten Langkat",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.45,
+     "longitude": 98.4,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Sei Bingai"
+    }
+   ]
+  },
+  {
+   "article_id": 721,
+   "places": [
+    {
+     "nama_tempat": "Pemandian Air Panas Sidebu-debu",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pemandian air panas",
+     "lokasi": "Kabupaten Karo",
+     "keterangan": "Retribusi berlapis di lokasi viral; DPRD Sumut minta Pemkab verifikasi",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Awal Juni 2026",
+     "dasar_viral": "Retribusi berlapis viral di media sosial",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Karo",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.24,
+     "longitude": 98.53,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Nama lain Sidebuk-debuk; koordinat perkiraan area Semangat Gunung"
+    }
+   ]
+  },
+  {
+   "article_id": 722,
+   "places": [
+    {
+     "nama_tempat": "Kolam Wak Jowo (Kolam Babe Jowo)",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "kolam air jernih",
+     "lokasi": "Jalan Namutrasi Pasar 1, Desa Purwobinangun, Kecamatan Sei Bingai, Langkat",
+     "keterangan": "Air sebening kaca dari mata air di kebun; tiket Rp5 ribu; buka 08.00-18.00; ada wisatawan Eropa Timur",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "2019",
+     "dasar_viral": "Beredar di media sosial hingga viral, pengunjung makin ramai",
+     "kelurahan_desa": "Purwobinangun",
+     "kecamatan": "Sei Bingai",
+     "kota_kabupaten": "Kabupaten Langkat",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.42,
+     "longitude": 98.43,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Sei Bingai"
+    }
+   ]
+  },
+  {
+   "article_id": 723,
+   "places": [
+    {
+     "nama_tempat": "Gundaling Hilltop",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "bukit pemandangan",
+     "lokasi": "Berastagi, Karo",
+     "keterangan": "Panorama bak Eropa",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk 7 wisata Berastagi terbaru 2026 yang lagi viral",
+     "kelurahan_desa": null,
+     "kecamatan": "Berastagi",
+     "kota_kabupaten": "Kabupaten Karo",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.195,
+     "longitude": 98.509,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Berastagi"
+    },
+    {
+     "nama_tempat": "Taman Alam Lumbini",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "taman wisata religi dan alam",
+     "lokasi": "Berastagi, Karo",
+     "keterangan": "Taman alam di Berastagi",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk 7 wisata Berastagi terbaru 2026 yang lagi viral",
+     "kelurahan_desa": null,
+     "kecamatan": "Berastagi",
+     "kota_kabupaten": "Kabupaten Karo",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.2,
+     "longitude": 98.516,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Berastagi"
+    },
+    {
+     "nama_tempat": "Sidebuk-debuk",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pemandian air panas murah",
+     "lokasi": "Berastagi, Karo",
+     "keterangan": "Pemandian air panas murah",
+     "status_viral": "Disebut viral",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Masuk 7 wisata Berastagi terbaru 2026 yang lagi viral",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Karo",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.24,
+     "longitude": 98.53,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Semangat Gunung"
+    }
+   ]
+  },
+  {
+   "article_id": 724,
+   "places": [
+    {
+     "nama_tempat": "Wisata Air Panas Karo (Semangat Gunung)",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pemandian air panas",
+     "lokasi": "Desa Semangat Gunung, Karo",
+     "keterangan": "Gubernur siapkan dua jalur akses baru; pungutan kepada pengunjung dihentikan",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Salah satu destinasi wisata unggulan Sumut",
+     "kelurahan_desa": "Semangat Gunung",
+     "kecamatan": "Merdeka",
+     "kota_kabupaten": "Kabupaten Karo",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.24,
+     "longitude": 98.53,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Semangat Gunung"
+    }
+   ]
+  },
+  {
+   "article_id": 725,
+   "places": [
+    {
+     "nama_tempat": "Festival Layang-Layang Piala Gubernur Sumut",
+     "kategori": "Pameran",
+     "jenis_tempat": "festival layang-layang",
+     "lokasi": "Sirkuit Dinas Kepemudaan dan Keolahragaan Sumut, Deli Serdang",
+     "keterangan": "Diikuti lebih dari 1.000 peserta, 9-10 Mei 2026; didorong jadi magnet wisata Sumut",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "9-10 Mei 2026",
+     "dasar_viral": "Didorong Gubernur menjadi agenda wisata unggulan",
+     "kelurahan_desa": null,
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Deli Serdang",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.55,
+     "longitude": 98.65,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Lokasi sirkuit tepat tidak disebut; koordinat perkiraan Deli Serdang"
+    }
+   ]
+  },
+  {
+   "article_id": 726,
+   "places": [
+    {
+     "nama_tempat": "Wisata Air Panas Semangat Gunung",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pemandian air panas",
+     "lokasi": "Desa Semangat Gunung, Kecamatan Merdeka, Karo",
+     "keterangan": "Direncanakan dua jalur akses baru (Penatapan Berastagi dan Jaranguda), retribusi diganti pajak usaha",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Pengembangan kawasan wisata air panas oleh Pemprov dan Pemkab Karo",
+     "kelurahan_desa": "Semangat Gunung",
+     "kecamatan": "Merdeka",
+     "kota_kabupaten": "Kabupaten Karo",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.24,
+     "longitude": 98.53,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Semangat Gunung"
+    }
+   ]
+  },
+  {
+   "article_id": 727,
+   "places": [
+    {
+     "nama_tempat": "Pemandian Air Panas Daulu dan Semangat Gunung",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pemandian air panas",
+     "lokasi": "Desa Daulu dan Semangat Gunung, Karo",
+     "keterangan": "Penataan retribusi: pungutan langsung ke wisatawan dihentikan, dibebankan ke pelaku usaha",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Kawasan jadi fokus pembenahan pengelolaan retribusi Gubernur",
+     "kelurahan_desa": "Daulu",
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Karo",
+     "provinsi": "Sumatera Utara",
+     "negara": "Indonesia",
+     "latitude": 3.24,
+     "longitude": 98.53,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Dua desa; koordinat perkiraan area Semangat Gunung"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,328 @@
+{
+ "results": [
+  {
+   "article_id": 560,
+   "places": [
+    {
+     "nama_tempat": "Hutan Kota Imbo Rajo Penjenjang Bumei",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "hutan kota",
+     "lokasi": "Desa Duku Ulu, Kecamatan Curup Timur, Rejang Lebong",
+     "keterangan": "Lokasi Urban MTB 18-19 Apr 2026 (~200 peserta); dipromosikan jadi destinasi wisata baru; balap sepeda, camping",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Dipromosikan sebagai destinasi wisata baru lewat sport tourism",
+     "kelurahan_desa": "Duku Ulu",
+     "kecamatan": "Curup Timur",
+     "kota_kabupaten": "Kabupaten Rejang Lebong",
+     "provinsi": "Bengkulu",
+     "negara": "Indonesia",
+     "latitude": -3.47,
+     "longitude": 102.53,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Curup"
+    }
+   ]
+  },
+  {
+   "article_id": 561,
+   "places": [
+    {
+     "nama_tempat": "D'Otentik River Park",
+     "kategori": "Wahana",
+     "jenis_tempat": "taman satwa indoor dan outdoor",
+     "lokasi": "Jl. Ir H Juanda Kav. 8, Cipambuan, Kecamatan Babakan Madang, Kabupaten Bogor (Sentul)",
+     "keterangan": "Indoor Zoo, Green Park Zoo, Outdoor Zoo, animal show 14.00, wahana anak; tiket mulai Rp30 ribu; grand opening 15 Agu 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "15 Agustus 2026",
+     "dasar_viral": "Wisata baru di Bogor dengan indoor zoo",
+     "kelurahan_desa": "Cipambuan",
+     "kecamatan": "Babakan Madang",
+     "kota_kabupaten": "Kabupaten Bogor",
+     "provinsi": "Jawa Barat",
+     "negara": "Indonesia",
+     "latitude": -6.57,
+     "longitude": 106.86,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Sentul; ~2 menit dari Tol Sentul Selatan"
+    }
+   ]
+  },
+  {
+   "article_id": 562,
+   "places": [
+    {
+     "nama_tempat": "Pulau Besing",
+     "kategori": "Wisata Alam",
+     "jenis_tempat": "pulau/sentra udang galah, wisata memancing",
+     "lokasi": "Kabupaten Berau, Kalimantan Timur",
+     "keterangan": "Sentra udang galah; event Fun Fishing Udang Galah 24 Mei 2026 diikuti 81 peserta",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "24 Mei 2026",
+     "dasar_viral": "Sedang menjadi perhatian setelah event Fun Fishing",
+     "kelurahan_desa": "Pulau Besing",
+     "kecamatan": null,
+     "kota_kabupaten": "Kabupaten Berau",
+     "provinsi": "Kalimantan Timur",
+     "negara": "Indonesia",
+     "latitude": null,
+     "longitude": null,
+     "presisi_koordinat": "unknown",
+     "catatan_lokasi": "Kecamatan dan koordinat tidak diketahui"
+    }
+   ]
+  },
+  {
+   "article_id": 563,
+   "places": [
+    {
+     "nama_tempat": "Pasar Kakap",
+     "kategori": "lainnya",
+     "jenis_tempat": "kawasan pasar/wisata kuliner dan ruang publik",
+     "lokasi": "Pasar Kakap, Kecamatan Sungai Kakap, Kubu Raya",
+     "keterangan": "Ditata jadi destinasi wisata kuliner, ruang publik, budaya, UMKM; Taman Pasar Kakap diresmikan 7 Agu 2026",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "7 Agustus 2026",
+     "dasar_viral": "Disiapkan jadi destinasi wisata unggulan Kubu Raya",
+     "kelurahan_desa": "Sungai Kakap",
+     "kecamatan": "Sungai Kakap",
+     "kota_kabupaten": "Kabupaten Kubu Raya",
+     "provinsi": "Kalimantan Barat",
+     "negara": "Indonesia",
+     "latitude": -0.16,
+     "longitude": 109.2,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Sungai Kakap"
+    },
+    {
+     "nama_tempat": "Festival Robo-robo Kakap",
+     "kategori": "Pameran",
+     "jenis_tempat": "festival budaya Melayu",
+     "lokasi": "Kawasan Pasar Kakap, Kubu Raya",
+     "keterangan": "Festival budaya 12 Agu 2026 dengan konsep lebih modern dan tertata",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "12 Agustus 2026",
+     "dasar_viral": null,
+     "kelurahan_desa": "Sungai Kakap",
+     "kecamatan": "Sungai Kakap",
+     "kota_kabupaten": "Kabupaten Kubu Raya",
+     "provinsi": "Kalimantan Barat",
+     "negara": "Indonesia",
+     "latitude": -0.16,
+     "longitude": 109.2,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Sungai Kakap"
+    }
+   ]
+  },
+  {
+   "article_id": 564,
+   "places": [
+    {
+     "nama_tempat": "Mie Aceh Seulawah",
+     "kategori": "Restoran",
+     "jenis_tempat": "restoran mie Aceh",
+     "lokasi": "Jl. Bendungan Hilir Raya No. 41, Bendungan Hilir, Tanah Abang, Jakarta Pusat",
+     "keterangan": "Salah satu tertua di Jakarta sejak 1996; mie Aceh, gulai kepala ikan, ayam tangkap, roti canai",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Banyak pesohor singgah; sejak 1996",
+     "kelurahan_desa": "Bendungan Hilir",
+     "kecamatan": "Tanah Abang",
+     "kota_kabupaten": "Kota Jakarta Pusat",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.215,
+     "longitude": 106.816,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Punya beberapa cabang"
+    },
+    {
+     "nama_tempat": "Warung Aceh Bang Ari",
+     "kategori": "Restoran",
+     "jenis_tempat": "warung Aceh",
+     "lokasi": "Jl. Tebet Dalam V No. 1, Tebet Barat, Jakarta Selatan",
+     "keterangan": "Mie Aceh Udang berbumbu rempah, Sate Matang kuah soto; suasana mirip Aceh",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Serasa makan di Aceh",
+     "kelurahan_desa": "Tebet Barat",
+     "kecamatan": "Tebet",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.233,
+     "longitude": 106.853,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": null
+    },
+    {
+     "nama_tempat": "Waroeng Aceh Kemang",
+     "kategori": "Restoran",
+     "jenis_tempat": "warung/kedai kopi Aceh",
+     "lokasi": "Jl. Pangeran Antasari, Kebayoran Baru, Jakarta Selatan",
+     "keterangan": "Buka hingga tengah malam; Mie Aceh tumis, nasi goreng, Roti Canai Tissue",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Suasana mirip kedai kopi Aceh, cocok nongkrong ramai-ramai",
+     "kelurahan_desa": "Cipete Selatan",
+     "kecamatan": "Cilandak",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.278,
+     "longitude": 106.801,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Punya beberapa cabang di Jakarta dan Bogor; Jl. Pangeran Antasari area Cilandak/Kebayoran Baru, koordinat perkiraan"
+    }
+   ]
+  },
+  {
+   "article_id": 565,
+   "places": [
+    {
+     "nama_tempat": "Mie Aceh Kring-kring",
+     "kategori": "Restoran",
+     "jenis_tempat": "kedai mie Aceh konsep mobil toko",
+     "lokasi": "Kawasan Saharjo, Tebet, Jakarta Selatan",
+     "keterangan": "Mie Aceh tumis/kuah/goreng, roti canai kari, martabak Aceh; mulai Rp23 ribu; sejak 2020",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Tempat nongkrong seru sejak 2020",
+     "kelurahan_desa": "Manggarai Selatan",
+     "kecamatan": "Tebet",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.229,
+     "longitude": 106.853,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Saharjo"
+    },
+    {
+     "nama_tempat": "Mie Aceh Seulawah",
+     "kategori": "Restoran",
+     "jenis_tempat": "kedai mie Aceh legendaris",
+     "lokasi": "Sekitar Mampang Prapatan, Jakarta Selatan (menurut artikel ini)",
+     "keterangan": "Berdiri sejak 1996; mie Aceh dengan topping lengkap, nasi goreng Aceh, roti canai; buka 09.00-20.00",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Kedai legendaris sejak 1996",
+     "kelurahan_desa": "Tegal Parang",
+     "kecamatan": "Mampang Prapatan",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.24,
+     "longitude": 106.824,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Artikel lain menyebut Bendungan Hilir; punya beberapa cabang"
+    },
+    {
+     "nama_tempat": "Mie Aceh Pandrah",
+     "kategori": "Restoran",
+     "jenis_tempat": "kedai mie Aceh 24 jam",
+     "lokasi": "Kawasan Gambir, Jakarta Pusat",
+     "keterangan": "Buka 24 jam; mie Aceh rebus/goreng/tumis, kari, martabak telur; mulai Rp20 ribu",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Harga terjangkau dan rasa autentik",
+     "kelurahan_desa": "Gambir",
+     "kecamatan": "Gambir",
+     "kota_kabupaten": "Kota Jakarta Pusat",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.17,
+     "longitude": 106.82,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Gambir"
+    },
+    {
+     "nama_tempat": "Waroeng Aceh Kemang",
+     "kategori": "Restoran",
+     "jenis_tempat": "kedai mie Aceh",
+     "lokasi": "Kawasan Kemang, Jakarta Selatan",
+     "keterangan": "Mie Aceh biasa hingga spesial seafood dan daging",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": null,
+     "kelurahan_desa": "Bangka",
+     "kecamatan": "Mampang Prapatan",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.2605,
+     "longitude": 106.814,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Kemang"
+    }
+   ]
+  },
+  {
+   "article_id": 566,
+   "places": [
+    {
+     "nama_tempat": "Mie Aceh Pondok",
+     "kategori": "Restoran",
+     "jenis_tempat": "kedai mie Aceh",
+     "lokasi": "Dekat Stasiun Pasar Minggu, Jakarta Selatan",
+     "keterangan": "Mie Aceh, nasi goreng Aceh, roti cane, kari kambing, martabak telur; AC, mushala, WiFi",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Banyak pengunjung menyebut rasanya mendekati mie Aceh asli",
+     "kelurahan_desa": "Pasar Minggu",
+     "kecamatan": "Pasar Minggu",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.284,
+     "longitude": 106.845,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Nama jalan terpotong di cuplikan; koordinat area Stasiun Pasar Minggu"
+    },
+    {
+     "nama_tempat": "Pempek Palembang Musi Raya",
+     "kategori": "Restoran",
+     "jenis_tempat": "warung pempek",
+     "lokasi": "Jalan Raya Ragunan No 91, Pasar Minggu, Jakarta Selatan",
+     "keterangan": "Pempek kapal selam besar, pempek kulit garing, cuko kental; Rp10-30 ribu; buka 08.00-20.30",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Rasa konsisten sejak dulu",
+     "kelurahan_desa": "Ragunan",
+     "kecamatan": "Pasar Minggu",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.29,
+     "longitude": 106.82,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan Jl. Raya Ragunan"
+    },
+    {
+     "nama_tempat": "Candik Ayu Bakso Rahayu",
+     "kategori": "Restoran",
+     "jenis_tempat": "warung bakso",
+     "lokasi": "Jalan D No.11, Pasar Minggu, Jakarta Selatan (agak masuk gang)",
+     "keterangan": "Bakso padat berkuah kaldu kental, tetelan, daging iris, tulang muda; buka 14.30-21.00",
+     "status_viral": "Rekomendasi",
+     "viral_sejak": "Tidak disebut",
+     "dasar_viral": "Selalu ramai pengunjung",
+     "kelurahan_desa": "Pasar Minggu",
+     "kecamatan": "Pasar Minggu",
+     "kota_kabupaten": "Kota Jakarta Selatan",
+     "provinsi": "DKI Jakarta",
+     "negara": "Indonesia",
+     "latitude": -6.284,
+     "longitude": 106.845,
+     "presisi_koordinat": "approximate",
+     "catatan_lokasi": "Koordinat perkiraan area Pasar Minggu"
+    }
+   ]
+  },
+  {
+   "article_id": 567,
+   "places": []
+  }
+ ]
+}
