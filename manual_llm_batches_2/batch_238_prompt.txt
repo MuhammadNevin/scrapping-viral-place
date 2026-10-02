@@ -1,0 +1,79 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata",
+          "jenis_tempat": "misal: kafe jepang, restoran indonesia, warung padang, dll",
+          "lokasi_text": "lokasi mentah apa adanya sesuai artikel atau kamu cari di internet (kelurahan/kecamatan/kota/kabupaten/provinsi)",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "alasan_viral": "ringkasan alasan/daya tarik",
+          "indikasi_waktu": "tanggal/bulan/periode eksplisit terkait mulai viral, atau null jika tidak disebut",
+          "is_explicitly_viral": true atau false (true HANYA jika artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet, bukan sekadar direkomendasikan),
+          "confidence": angka 0-1
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 1896
+Judul: Wisata Ramah Muslim di Bali: Panduan Lengkap Liburan Nyaman & Seru - TripZilla Indonesia
+Isi:
+Pulau Dewata yang mayoritas penduduknya beragama Hindu ini ternyata punya sisi lain yang sangat ramah buat kita, para wisatawan Muslim. Meskipun adat dan budaya Hindu terasa sangat kental di setiap sudut jalan, Bali tetap menawarkan pelukan hangat bagi siapa pun yang datang. Baca juga: Rekomendasi Camping di Bali: Nikmati Alam dan Liburan yang Berbeda Awalnya, mungkin kamu merasa agak ragu: "Nanti makannya gimana ya? Ada tempat sholat nggak ya? Aman nggak ya kalau pakai hijab ke pantai?" Tenang saja! Sebagai Muslim yang baru saja pulang liburan dari sana, aku mau kasih bocoran kalau Bali sekarang sudah bertransformasi jadi destinasi yang sangat inklusif. Penasaran gimana caranya tetap bisa vibing dengan suasana tropis tanpa rasa khawatir? Yuk, ikuti pengalaman seruku menjelajahi Bali! Menentukan waktu keberangkatan itu kunci biar liburan kamu makin maksimal. Kalau kamu suka keramaian dan cuaca yang benar-benar cerah, High Season di bulan Juli - Agustus atau Desember adalah pilihannya, meski harga tiket dan hotel biasanya ikut meroket. Ingin suasana yang lebih tenang dan harga bersahabat? Datanglah saat Shoulder Season antara April - Juni atau September – Oktober. Cuacanya masih sangat bagus, tapi kamu nggak perlu berdesakan. Nah, kalau kamu tim hemat, Low Season di Januari - Maret adalah juaranya karena harga turun drastis, tapi siap-siap sedia payung karena sering turun hujan ya! Ubud adalah pusat seni Bali yang bakal bikin kamu jatuh cinta. Kamu bisa menghabiskan waktu mengunjungi Museum Puri Lukisan untuk melihat mahakarya seniman lokal dan internasional yang letaknya nggak jauh dari Istana Kerajaan. Jangan lupa mampir ke Pasar Seni Ubud buat borong kerajinan tangan cantik. Sebelum balik ke hotel, pastikan kamu singgah ke Desa Petulu saat matahari terbenam untuk melihat ribuan burung bangau putih terbang kembali ke sarang mereka. Pemandangannya magis banget! Lupakan sejenak panasnya pantai dan melipirlah ke dataran tinggi. Di Bedugul, kamu akan merasakan ketenangan desa pertanian yang asri. Kamu bisa berfoto dengan latar Danau Beratan yang ikonik atau mampir ke Air Terjun Gitgit yang menyegarkan sebelum melanjutkan perjalanan ke pesisir Utara seperti Pantai Lovina atau Singaraja. Udaranya yang sejuk bakal bikin pikiran kamu kembali fresh . Buat kamu pecinta adrenalin, wajib banget nyobain white water rafting di Telaga Waja, Karangasem . Tenang saja, meskipun pemula, kamu akan ditemani pemandu profesional. Sepanjang sungai, kamu akan melewati sawah terasering, hutan hijau, dan sesekali melihat satwa liar. Perjalanan berakhir di bendungan dan ditutup dengan makan siang prasmanan masakan Indonesia yang pastinya halal dan nikmat. Ingin merasakan sensasi padang sabana Afrika di tengah Bali? Datanglah saat malam hari ke Bali Safari & Marine Park. Kamu akan naik trem khusus untuk berinteraksi dengan 60 spesies satwa, mulai dari harimau hingga binturong. Setelah itu, nikmati makan malam barbekyu halal sambil ditemani spektakuler fire dance di bawah la
+
+
+### Artikel 1897
+Judul: 5 Tempat Wisata Petik Buah di Bali Terbaik 2026: Info Tiket & Musim Panen - Radar Bali
+Isi:
+Cari agrowisata hits di Bali? Ini rekomendasi 5 lokasi wisata petik buah stroberi, jeruk, dan anggur terbaik untuk liburan keluarga di tahun 2026, lengkap dengan info waktu panen raya serta estimasi harga tiket terbaru.
+
+
+### Artikel 1898
+Judul: Panduan Wisata ke Nusa Ceningan, Hidden Gem Bali! 🛵 - TripZilla Indonesia
+Isi:
+Hai, para petualang! Kalau kamu sedang mencari pelarian dari keramaian Bali yang mulai padat, ada satu "permata tersembunyi" yang wajib masuk daftar perjalananmu: Nusa Ceningan . Sebagai pulau terkecil di antara trio Nusa (bersama Nusa Penida dan Nusa Lembongan), Ceningan menawarkan suasana yang sangat santai, tebing-tebing dramatis, dan air laut paling biru yang pernah kamu lihat. Berikut adalah panduan wisata ke Nusa Ceningan buat kamu yang ingin merasakan vibe pulau tropis yang sesungguhnya. Nusa Ceningan terletak di sebelah selatan Bali, terjepit di antara Nusa Lembongan dan Nusa Penida. Perlu diingat, kamu tidak bisa langsung pergi ke Ceningan dari Bali menggunakan kapal besar . Dari Bali (Sanur): Kamu harus naik fast boat dari pelabuhan Sanur menuju Nusa Lembongan (biasanya berhenti di Jungut Batu atau Mushroom Bay) dengan waktu tempuh sekitar 30 menit. Begitu sampai di Nusa Lembongan, kamu cukup menyeberangi Yellow Bridge (Jembatan Kuning) yang ikonik untuk sampai ke Ceningan. Jembatan ini hanya bisa dilewati pejalan kaki atau sepeda motor. Dari Nusa Penida: Jika kamu sudah berada di Penida, kamu bisa naik kapal lokal dari Pelabuhan Toya Pakeh yang hanya butuh waktu sekitar 15 menit menuju Yellow Bridge. Pulau ini sangat kecil—bahkan kamu bisa berkendara dari ujung ke ujung hanya dalam 13 menit! Karena tidak ada mobil di sini, pilihan transportasimu terbatas tapi seru: Sewa Skuter: Ini adalah cara terbaik dan paling populer. Namun, hati-hati karena beberapa kondisi jalan cukup sempit dan rusak. Jalan Kaki: Mengingat ukurannya, kamu bisa menjelajahi pulau ini dengan berjalan kaki jika tidak keberatan dengan cuaca yang panas. Berjalan dari ujung utara ke selatan hanya butuh waktu sekitar satu jam. Ojek Skuter: Kalau kamu tidak berani menyetir sendiri, kamu bisa menyewa skuter beserta pengemudinya. Waktu terbaik untuk datang adalah saat musim kemarau (April hingga Oktober) agar aktivitas luar ruanganmu tidak terganggu hujan. Bulan Maret dan November juga oke untuk menghindari puncak keramaian turis. Untuk durasi, satu hari sudah cukup untuk mengeksplorasi seluruh sudut pulau ini. Banyak wisatawan menjadikannya day trip dari Nusa Lembongan. Tapi, kalau kamu ingin benar-benar "kabur" dari dunia luar, menginap satu atau dua malam sangat direkomendasikan. Jangan khawatir kelaparan, Ceningan punya deretan kafe dengan pemandangan ocean view yang kece: Sea Breeze Cafe: Tempat nongkrong populer dengan vibe klub pantai, lengkap dengan ayunan dan kolam renang. Mahana Point Restaurant: Sambil makan nasi goreng atau seafood segar, kamu bisa menonton para peselancar beraksi. Next Level Cafe: Pilihan tepat untuk kopi, smoothies , atau pizza dengan harga yang terjangkau. Klyf Club: Terletak di Blue Lagoon Avia Villas, tempat ini punya kolam renang infinity yang menghadap langsung ke Blue Lagoon. The Dungki Bendega Resto: Terkenal dengan burger ayam dan rendang sapinya yang lezat. Tips Tambahan: Pastikan kamu membawa uang tunai yang cukup sebelum menyeberang
+
+
+### Artikel 1899
+Judul: Polresta Denpasar minta pemilik usaha wisata aplikasikan Cakrawasi data WNA - bali.antaranews.com
+Isi:
+Denpasar (ANTARA) - Kepolisian Resor Kota (Polresta) Denpasar minta para pemilik usaha wisata seperti guest house dan villa agar proaktif mengisi data wisatawan, khususnya wisatawan asing (WNA), melalui aplikasi Cakrawasi. Saat melakukan silahturahmi dengan para jurnalis di Denpasar, Bali, Senin, Kapolresta Denpasar mengatakan langkah tersebut dinilai penting untuk mendukung deteksi dini dan pengungkapan tindak kejahatan di wilayah hukum Denpasar. Leonardo mengatakan aplikasi Cakrawasi menjadi sarana penting dalam pendataan wisatawan yang menginap di akomodasi pariwisata. Menurutnya, data tersebut dapat membantu kepolisian dalam menelusuri serta mengungkap berbagai tindak kriminal, termasuk dugaan kejahatan yang melibatkan warga negara asing. “Pemilik guest house maupun villa dapat menggunakan aplikasi Cakrawasi agar semua data wisatawan asing dimasukkan sehingga memudahkan kepolisian dalam pengungkapan ataupun pencegahan kejahatan,” ujarnya. Cakrawasi atau Cakra Pengawasan Orang Asing merupakan platform digital untuk memudahkan pengawasan dan pendataan keberadaan maupun aktivitas orang asing di wilayah Bali secara cepat, akurat, dan terjamin kerahasiaannya. Cakrawasi diresmikan pada 13 Maret 2026 oleh Kepolisian Daerah Bali. Leonardo mencontohkan keberhasilan pengungkapan sejumlah kasus sebelumnya juga tidak lepas dari peran aktif masyarakat dan jaringan keamanan lingkungan dalam memberikan informasi kepada kepolisian. Menurut dia, kerja sama antara masyarakat, pelaku usaha wisata, pecalang, serta aparat keamanan sangat dibutuhkan untuk mendeteksi indikasi aktivitas mencurigakan di wilayah Denpasar dan sekitarnya. Selain itu, Polresta Denpasar juga kembali mengingatkan masyarakat agar memanfaatkan layanan Call Center 110 milik Polri yang bebas pulsa dan aktif selama 24 jam. Menurut dia, berbagai laporan masyarakat yang masuk melalui layanan 110 telah membantu kepolisian dalam merespons cepat sejumlah kejadian, termasuk kasus viral di media sosial. “Call center 110 ini gratis dan aktif 24 jam. Setiap laporan yang masuk akan diterima SPKT dan langsung diteruskan untuk ditindaklanjuti,” katanya. Ia mencontohkan penanganan cepat terhadap kasus viral manusia silver yang membawa pisau. Pewarta: Rolandus Nampu Editor  : Ardi Irawan COPYRIGHT © ANTARA 2026 Dilarang keras mengambil konten, melakukan crawling atau pengindeksan otomatis untuk AI di situs web ini tanpa izin tertulis dari Kantor Berita ANTARA.
+
+
+### Artikel 1900
+Judul: BTN dan MKP Bangun Sistem Ticketing Digital di Pelabuhan Wisata Bali - Suara.com
+Isi:
+BTN gandeng MKP kembangkan sistem tiket digital terintegrasi di pelabuhan dan wisata Bali, didukung layanan keuangan digital melalui super app Bale by BTN.
+
+
+### Artikel 1901
+Judul: PLN Hadirkan Kelistrikan Andal untuk Bali Maritime Tourism Hub, Perkuat Pariwisata dan Ekonomi Bali - Bali Viral News
+Isi:
+AMAN DAN ANDAL – Tim PLN UP3 Bali Selatan memastikan proses penyalaan listrik pelanggan tegangan menengah berjalan aman dan andal guna mendukung operasional Bali Maritime Tourism Hub sebagai kawasan wisata maritim modern di Bali. MANGUPURA (BALIVIRALNEWS) – Transformasi Pelabuhan Benoa menjadi destinasi wisata maritim kelas dunia terus diperkuat melalui dukungan infrastruktur kelistrikan yang andal. PT PLN (Persero) UP3 Bali Selatan berhasil menghadirkan pasokan listrik untuk kebutuhan operasional Bali Maritime Tourism Hub (BMTH), proyek strategis yang mengintegrasikan pelabuhan dengan sektor pariwisata dan ekonomi kreatif di Bali. BMTH merupakan proyek yang dikembangkan oleh PT Lamong Energi Indonesia (PT LEGI), anak perusahaan PT Pelindo Jasa Maritim (SPJM) yang bergerak di bidang energi dan utilitas penunjang operasional pelabuhan serta kawasan industri. Proyek ini dirancang untuk mengubah Pelabuhan Benoa menjadi hub maritim internasional yang mampu melayani kapal pesiar dan yacht mancanegara, sekaligus menjadi pusat pertumbuhan ekonomi baru bagi masyarakat Bali. Manajer PLN UP3 Bali Selatan, Alexander J. Manuhuwa menyampaikan, keandalan pasokan listrik menjadi faktor penting dalam mendukung pengembangan kawasan strategis pariwisata dan pelayanan publik di Bali. “PLN berkomitmen menghadirkan layanan kelistrikan yang andal dan tepat waktu untuk mendukung proyek-proyek strategis yang memberikan dampak langsung bagi masyarakat. Kehadiran Bali Maritime Tourism Hub diharapkan mampu meningkatkan kunjungan wisatawan, membuka peluang usaha baru, serta mendorong pertumbuhan ekonomi daerah secara berkelanjutan,” ujar Alexander. Ia menambahkan, kesiapan infrastruktur kelistrikan menjadi bagian penting dalam mendukung operasional kawasan BMTH sebagai destinasi wisata maritim modern yang terintegrasi. Dukungan layanan PLN turut mendapat apresiasi dari pihak pelanggan. Team Engineering PT Lamong Energi Indonesia, Junanto menyampaikan, proses pelayanan berjalan optimal dan sesuai kebutuhan proyek. “Kami sangat mengapresiasi respons dan pelayanan dari tim PLN yang mampu memenuhi kebutuhan kelistrikan proyek dengan baik. Dukungan ini sangat penting untuk memastikan seluruh operasional dan rangkaian kegiatan di BMTH dapat berjalan lancar dengan sistem kelistrikan yang optimal,” ungkap Junanto. Pengembangan Bali Maritime Tourism Hub tidak hanya memperkuat citra Bali sebagai destinasi wisata internasional, tetapi juga membuka peluang kerja baru, meningkatkan aktivitas UMKM, serta memberikan multiplier effect bagi perekonomian daerah dan nasional. Dengan dukungan kelistrikan yang andal, PLN terus mempertegas perannya sebagai penggerak pembangunan dan pertumbuhan ekonomi berbasis energi di Bali. (sar/hmpln)
+
+
+### Artikel 1902
+Judul: Miliki 505 DTW dan 243 Desa Wisata, Bali Kian Perkaya Daya Tarik - NUSABALI.com
+Isi:
+DENPASAR, NusaBali - Provinsi Bali tercatat memiliki 505 Daya Tarik Wisata (DTW) yang tersebar di sembilan kabupaten/kota. Selain itu, terdapat 243 desa wisata yang memperkuat potensi pariwisata Pulau Dewata yang terus berkembang.
+
+
+### Artikel 1903
+Judul: Menjelajahi Agrowisata Salak Sibetan: Destinasi Wisata Hijau Nan Eksotis di Jantung Karangasem, Bali - Radar Bali
+Isi:
+Temukan keunikan Agrowisata Salak Sibetan di Karangasem, Bali. Nikmati pengalaman petik salak gula pasir langsung dari pohon dan cicipi wine salak yang legendaris. Cek info lengkapnya di sini

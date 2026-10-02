@@ -1,0 +1,79 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata",
+          "jenis_tempat": "misal: kafe jepang, restoran indonesia, warung padang, dll",
+          "lokasi_text": "lokasi mentah apa adanya sesuai artikel atau kamu cari di internet (kelurahan/kecamatan/kota/kabupaten/provinsi)",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "alasan_viral": "ringkasan alasan/daya tarik",
+          "indikasi_waktu": "tanggal/bulan/periode eksplisit terkait mulai viral, atau null jika tidak disebut",
+          "is_explicitly_viral": true atau false (true HANYA jika artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet, bukan sekadar direkomendasikan),
+          "confidence": angka 0-1
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 264
+Judul: Viral di Batam, Ini 5 Cafe Baru Hits yang Cocok Buat Nongkrong Santai - Batam Pos
+Isi:
+batampos – Kota Batam kembali menghadirkan banyak pilihan tempat nongkrong baru yang sedang viral di kalangan anak muda hingga pecinta kuliner. Sepanjang 2026, berbagai cafe baru bermunculan dengan konsep unik, desain estetik, hingga menu kekinian yang menarik perhatian pengunjung. Tidak hanya cocok untuk nongkrong santai, beberapa cafe ini juga menjadi spot favorit untuk bekerja, berburu kopi, hingga berburu foto Instagramable. Berikut lima cafe baru di Batam yang sedang ramai dikunjungi dan layak masuk daftar tempat nongkrong favorit: 1. Kinanthi Coffee & Eatery Cafe ini menawarkan suasana nyaman dengan lokasi strategis di kawasan Batam Kota. Interior minimalis dan pilihan menu dengan harga terjangkau menjadi daya tarik utama bagi pengunjung. Lokasinya berada di Jalan Engku Putri Utara Nomor 3, Teluk Tering, Kecamatan Batam Kota. 2. Grind Now Coffee Bar Specialty Coffee Batam Bagi pecinta kopi, tempat ini menawarkan konsep specialty coffee bar dengan suasana modern dan santai. Pengunjung tidak hanya bisa menikmati kopi, tetapi juga berbagai pilihan menu makan siang. Cafe ini berlokasi di Permata Regency Blok DD Nomor 9, Baloi Indah, Lubuk Baja, Batam. 3. Pretty Please Coffee Cafe dengan nama unik ini hadir dengan desain tempat yang cantik dan nyaman untuk nongkrong bersama teman. Pilihan kopi dan minuman kekinian menjadi salah satu alasan tempat ini mulai ramai dikunjungi. Lokasinya berada di kawasan Sukajadi, Batam Kota. Tempat dessert ini menawarkan konsep unik berupa gelato yang dipadukan dengan mochi lembut. Selain es krim, pengunjung juga dapat menikmati berbagai pilihan kue cantik dengan tampilan menarik. Frui berada di Komplek Bumi Indah Nomor 8 Blok 2, Lubuk Baja Kota, Kecamatan Lubuk Baja, Batam. Cafe ini cocok bagi pencinta kopi yang ingin menikmati suasana nongkrong santai dengan konsep modern minimalis. Blite’s Coffee berlokasi di Ruko Tunas Regency Blok C9 Nomor 3A dan 5, Tanjung Uncang, Kecamatan Sagulung, Batam. Konsep kreatif, suasana nyaman, serta pilihan menu menarik membuat cafe-cafe baru tersebut diprediksi terus ramai dikunjungi sepanjang tahun. Pengunjung disarankan memastikan jam operasional sebelum datang karena beberapa tempat memiliki jadwal buka yang berbeda. (*) © 2006-2025 oleh PT Batam Multimedia Korporindo. All rights reserved. Main Office: Ruko Orchard Walk Blok H #1, Belian, Batam, Kepulauan Riau, Indonesia Telp/Fax: 0778-460000
+
+
+### Artikel 265
+Judul: Menyantap Kuliner Lezat di Cafe Viral, Jakarta - 20detik
+Isi:
+Di cafe ini terdapat spot-spot foto yang instagramable. Jadi sambil makan, kita juga bisa berfoto-foto di cafe ini. Selain tempatnya yang asik, menu dan rasa dari makanan yang ditawarkan cafe inipun cukup bervariasi dan enak-enak semua. Dok : Celebrity On VacationTrans TV (Diki)
+
+
+### Artikel 266
+Judul: Menikmati Suasana Cafe Viral Nuansa Yunani, Jakarta - 20detik
+Isi:
+Dari taman Kota, selebriti mau lanjut berwisata kuliner. Mereka akan menuju sebuah cafe di daerah Pantai Indah Kapuk. Cafe ini memiliki gaya bangunan seperti di Santorini Yunani. Dok : Celebrity On VacationTrans TV (Diki)
+
+
+### Artikel 267
+Judul: Bergaya di Cafe Viral yang Instagramable di Bogor - 20detik
+Isi:
+Selanjutnya selebriti akan kulineran di tempat makan yang lagi hits di Bogor. Tempat ini memiliki konsep unik dan sangat instagramable. Tempat duduk yang disediakan ada yang berupa ayunan dan berkonsep taman, serta hal unik lainnya. Dok : Celebrity On VacationTrans TV (Diki)
+
+
+### Artikel 268
+Judul: Menyusuri Cafe Viral yang Menghadap Laut di Pangandaran - 20detik
+Isi:
+Di pangandaran terdapat sebuah cafe yang hits. Cafe ini menghadap langsung ke lautan lepas. Nama cafe ini adalah Madyâs Gelato, Cafe and Grill. Dok : Celebrity On VacationTrans TV (Diki)
+
+
+### Artikel 269
+Judul: Berkuliner di Cafe Viral yang Hits di Cianjur - 20detik
+Isi:
+Ada banyak menu istimewa yang dipesan oleh selebriti. Rasa makanannya sangat enak-enak.Selain makanannya yang istimewa, minumannya pun cukup spesial. Dok : Celebrity On VacationTrans TV (Diki)
+
+
+### Artikel 270
+Judul: Viral Kafe de'Clan di Depok Tutup, Bagian Depan Dipasang Rantai - detikNews
+Isi:
+Kafe de'Clan di Jalan Tole Iskandar, Kota Depok , Jawa Barat, tutup. Tutupnya kafe tersebut pun viral di media sosial (medsos). Pantauan detikcom di lokasi, Senin (13/7/2026), kafe yang berada persis di tepi Jalan Tole Iskandar, Kota Depok, Jawa Barat, ini tampak sepi. Tidak ada aktivitas yang terlihat. Sementara itu, rantai yang dipasang berada persis di area masuk parkir kafe. Rantai itu dipasang dari ujung ke ujung area masuk parkir kafe. SCROLL TO CONTINUE WITH CONTENT Adapun di area parkir kafe, hanya terdapat satu unit mobil yang terparkir. Sedangkan pos satpam serta titik petugas parkir juga tampak kosong. Salah satu warga di sekitar lokasi mengatakan kafe tersebut tutup sudah sejak empat hari lalu. Warga juga menyampaikan tidak ada aktivitas apa pun saat kafe itu tutup. "Baru (tutupnya). Sudah empat harilah. Nggak ada apa-apa sih, tutup aja," ujarnya. Lihat juga Video: Daftar 12 Lokasi yang Digeledah Terkait 3 Kasus Korupsi [Gambas:Video 20detik] Anda menyukai artikel ini
+
+
+### Artikel 271
+Judul: Viral Pria Ngamuk Dipicu Rebutan Parkir di Kafe Bogor, Polisi Cek TKP - detikNews
+Isi:
+Rekaman video viral di media sosial memperlihatkan seorang pria mengamuk diduga dipicu rebutan tempat parkir mobil di salah satu kafe di Megamendung, Bogor, Jawa Barat. Pihak kepolisian mengecek ke lokasi. "Dalam rangka menindaklanjuti video viral keributan diduga terjadi di area parkir kafe di sekitar Gunung Geulis, kami pihak Polsek Megamendung sudah menindaklanjuti dengan mendatangi pihak kafe," kata Kapolsek Megamendung Iptu Desi Triana ketika dihubungi wartawan, Kamis (20/8/2026). Desi menyebutkan keributan pengunjung diduga dipicu rebutan tempat parkir mobil terjadi pada Minggu (16/8) sore. Saat kejadian, area parkir sedang padat karena kafe sedang menggelar pembukaan operasional sehingga dihadiri banyak pengunjung. SCROLL TO CONTINUE WITH CONTENT "Pihak kafe menjelaskan terjadinya hal tersebut hanya miskomunikasi (salah paham) saja. Terkait sama-sama akan memarkirkan kendaraannya, dikarenakan kafe baru opening , pengunjung ramai dan saling ingin menempati tempat parkiran. (Kemudian) saling pasang badan," kata Desi. Desi menyebutkan pihak pengelola kafe kemudian menengahi kedua pihak yang terlibat keributan, hingga permasalahan tersebut diselesaikan secara kekeluargaan. Akan tetapi pihak pengelola kafe tidak melaporkan kejadian tersebut ke pihak kepolisian. "Ya pada intinya pada saat setelah kejadian, sudah diselesaikan secara kekeluargaan dan itu keterangan dari pihak kafe makanya tidak laporkan ke pihak berwajib. Pihak kafe minta maaf karena tidak lapor kepada pihak berwajib, dikarenakan permasalahan sudah dianggap selesai dengan baik antara kedua belah pihak," kata Desi. Dalam video viral yang dilihat detikcom , tampak seorang pria kekar terlibat cekcok mulut dengan pria lainnya yang sedang menggendong bayi. Kejadian tersebut tampak terjadi di area kafe dan disaksikan pengunjung lain. Dalam video, tampak sejumlah orang mencoba menengahi percekcokan tersebut. Akan tetapi, video menunjukkan pria kekar membuka bajunya dan marah-marah karena merasa ada yang memaki istrinya. Melalui akun media sosialnya, pemilik akun menyebutkan peristiwa diawali pengunjung perempuan lain yang nge-tag parkir yang ditujunya, padahal kendaraannya belum datang. Pemilik akun mengaku sudah diarahkan petugas untuk menempati titik parkir tersebut. Pemilik akun dan adik perempuannya mengakui saat itu sempat menegur, hingga terlibat adu mulut. Pemilik akun memilih mengalah dan mencari tempat parkir lain. " Gue pikir selesai, ternyata belum. Suami istri ini ternyata menunggu kami di dalam dan langsung menghampiri sambil bertanya, "Siapa yang marahin istri gue ?" tulis pemilik akun radityarusydi, seperti dilihat detikcom . Adu mulut dengan suami dari wanita yang nge-tag parkir itu tidak terhindarkan, meski banyak orang yang mencoba melerai. Pria berbadan kekar itu semakin emosi hingga membuka bajunya. Simak juga Video 'Viral Petugas Parkir Pelabuhan Marina Labuan Bajo Dianiaya Pegawai KSOP': [Gambas:Video 20detik] Anda menyukai artikel ini

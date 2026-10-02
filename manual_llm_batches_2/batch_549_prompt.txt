@@ -1,0 +1,79 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata",
+          "jenis_tempat": "misal: kafe jepang, restoran indonesia, warung padang, dll",
+          "lokasi_text": "lokasi mentah apa adanya sesuai artikel atau kamu cari di internet (kelurahan/kecamatan/kota/kabupaten/provinsi)",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "alasan_viral": "ringkasan alasan/daya tarik",
+          "indikasi_waktu": "tanggal/bulan/periode eksplisit terkait mulai viral, atau null jika tidak disebut",
+          "is_explicitly_viral": true atau false (true HANYA jika artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet, bukan sekadar direkomendasikan),
+          "confidence": angka 0-1
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 4384
+Judul: SIPEKA IKAN, Inovasi Dinas Perikanan Samarinda Deteksi Dini Kualitas Air Budidaya - Sapos - Samarinda Pos
+Isi:
+Sapos - Dinas Perikanan Kota Samarinda memperkenalkan Sistem Pengendalian Kualitas Air Berbasis Data atau SIPEKA IKAN sebagai upaya mendorong pembudidaya ikan melakukan pemantauan kualitas air secara lebih dini. Inovasi yang mengusung tagline “SIPEKA IKAN, Solusi Cerdas Budidaya Ikan Berkelanjutan” tersebut diperkenalkan dalam sosialisasi yang digelar di Cafe Bagios Samarinda, Rabu (23/9). Kepala Dinas Perikanan Kota Samarinda, Achmad Fauzi Irawan, mengatakan selama ini penurunan kualitas air yang berdampak terhadap produksi budidaya kerap baru diketahui setelah ikan mengalami kematian. Menurutnya, setelah terjadi kematian ikan, barulah dilakukan pemeriksaan untuk mengetahui penyebab dan kemungkinan adanya penyakit. “Selama ini penurunan kualitas air yang berdampak terhadap produksi biasanya baru terdeteksi ketika ikan sudah mengalami kematian. Setelah diperiksa, baru kemudian terkonfirmasi adanya penyakit yang muncul,” ujar Fauzi. Melalui SIPEKA IKAN, kondisi tersebut diharapkan dapat diantisipasi dengan melakukan pengukuran dan pemantauan kualitas air secara berkala. Dengan pemantauan lebih awal, perubahan kualitas air dapat diketahui sebelum memberikan dampak lebih besar terhadap ikan. Penanganan pun diharapkan dapat dilakukan dengan lebih cepat. Sementara itu, Kepala Bidang Perikanan Budidaya Dinas Perikanan Kota Samarinda sekaligus pembicara dalam kegiatan tersebut, Henny Apriyanti, menjelaskan SIPEKA IKAN merupakan hasil dari aksi perubahan yang digagasnya dalam rangkaian Diklat Kepemimpinan. Inovasi tersebut, kata Henny, diarahkan untuk meningkatkan pelayanan kepada pembudidaya ikan, termasuk Unit Pembenihan Rakyat (UPR) dan Kelompok Pembudidaya Ikan (Pokdakan). Henny mengatakan, terdapat sejumlah persoalan yang diidentifikasi di lapangan dan berpengaruh terhadap peningkatan produksi budidaya ikan, di antaranya pakan, benih, serta kualitas air. “Permasalahan ketiga yakni kualitas air yang saya ambil sebagai aksi perubahan saya ini,” jelasnya. Menurut Henny, SIPEKA IKAN tidak hanya ditujukan untuk menyediakan informasi mengenai kondisi air, tetapi juga mendorong perubahan pola pelayanan dari sebelumnya bersifat reaktif menjadi lebih proaktif dan preventif. “Tujuan kami ingin memberikan transformasi pelayanan kepada masyarakat, terutama kepada pembudidaya ikan. Kedua adalah transformasi yang sebelumnya bersifat reaktif seperti ketika ada kasus kematian ikan baru kita bisa bertindak, beralih menjadi budidaya ikan yang proaktif atau preventif,” katanya. Dalam penerapannya, SIPEKA IKAN menggunakan platform berbasis website. Data hasil pengukuran kualitas air nantinya dapat dimasukkan langsung oleh pembudidaya melalui website resmi Dinas Perikanan Kota Samarinda. Editor: Redaksi Sapos
+
+
+### Artikel 4385
+Judul: 15 Lokasi Nobar Gratis Persija vs Persib di Bandung dan Sekitarnya - tvOneNews
+Isi:
+tvOnenews.com - Inilah lokasi yang menyediakan nobar atau nonton bareng gratis pertandingan Persija vs Persib di Bandung dan sekitarnya. El Clasico versi Indonesia akan tersaji dalam laga pekan ke-32 yang mempertemukan dua tim klasik yakni Persija Jakarta vs Persib Bandung . GULIR UNTUK LANJUT BACA Semua perhatian fans sepak bola jelas tertuju kepada laga ini karena Persija Jakarta dan Persib Bandung kini tengah berada di jalur perburuan juara Super League 2025/2026. Apalagi, keduanya hanya berjarak tujuh poin dengan Persib Bandung unggul di puncak klasemen Super League, sedangkan Persija Jakarta di urutan ketiga. Aroma balas dendam tentu kentara khususnya bagi Persija Jakarta yang di pertemuan pertama lalu kalah 0-1 atas Persib Bandung dk Stadion GBLA. Kendati demikian, Persija Jakarta harus mengalami nasib sial karena mereka tidak bisa menjamu Persib Bandung di Stadion Gelora Bung Karno, Jakarta. Alasan keamanan membuat laga Persija Jakarta vs Persib Bandung harus dipindahkan ke Stadion Segiri, Samarinda pada hari Minggu, 10 Mei 2025 pukul 15.30 WIB. Alhasil, jumlah penonton pastinya jauh berkurang karena pertandingan terpaksa diselenggarakan jauh dari kandang Macan Kemayoran. Namun, para suporter jangan risau. Pasalnya, dukungan dari kota masing-masing bisa dilakukan karena berbagai penyelenggara mengadakan acara nonton bareng. Berikut ini lokasi nobar atau nonton bareng gratis laga Persija Jakarta vs Persib Bandung, Minggu (10/5/2026) pukul 15.30 WIB. 1. Halaman Polres Cimahi 3. Paris Van Java Cafe & Resto 4.  Heritage Resto & Cafe 5. Hagya Coffee Roaster GULIR UNTUK LANJUT BACA
+
+
+### Artikel 4386
+Judul: Daftar 10 Promo Cafe HUT Kemerdekaan Indonesia ke-81 di Samarinda, Ada Minuman Rp17 Ribu hingga Gratis Croissant - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Sejumlah cafe di Samarinda menawarkan promo spesial untuk menyambut HUT Kemerdekaan Indonesia ke-81.Promo yang diberikan cuku...
+
+
+### Artikel 4387
+Judul: 5 Rekomendasi Kafe Kids Friendly di Samarinda, Nongkrong Santai sambil Bawa Anak - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Mencari tempat nongkrong yang nyaman untuk orang tua sekaligus menyenangkan bagi anak-anak memang tidak selalu mudah.Beruntun...
+
+
+### Artikel 4388
+Judul: Rekomendasi 10 Warung Nasi Kuning di Samarinda Enak untuk Sarapan, Ada yang Buka sejak Pukul 04.00 WITA - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Menyantap nasi kuning sudah menjadi tradisi masyarakat Samarinda saat memulai hari.Berbeda dengan nasi kuning di daerah lain,...
+
+
+### Artikel 4389
+Judul: Jadwal Pemadaman Listrik Samarinda Hari Ini, 23 Juli 2026: Yos Sudarso hingga Pulau Flores Terdampak - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;PT PLN (Persero) UP3 Samarinda melalui PLN ULP Samarinda Kota mengumumkan penghentian sementara pasokan listrik di sejumlah w...
+
+
+### Artikel 4390
+Judul: Jadwal Pemadaman Listrik Samarinda Hari Ini, 23 Juli 2026: Yos Sudarso hingga Pulau Flores Terdampak - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;PT PLN (Persero) UP3 Samarinda melalui PLN ULP Samarinda Kota mengumumkan penghentian sementara pasokan listrik di sejumlah w...
+
+
+### Artikel 4391
+Judul: DPRD Samarinda Dorong Dinas Pariwisata Berdiri Sendiri, Dinilai Mampu Maksimalkan Potensi Wisata Daerah - kutaipanrita.id
+Isi:
+BERITA DAERAH · 6 Agu 2026 16:00 WITA · Anggota Komisi II DPRD Kota Samarinda, Joha Fajal, mendorong Pemkot Samarinda membentuk kembali Dinas Pariwisata yang berdiri sendiri agar pengembangan destinasi wisata lebih fokus, profesional, dan mampu meningkatkan pertumbuhan ekonomi daerah. Foto: Fathur Rabbany. KUTAIPANRITA.ID, SAMARINDA – Komisi II DPRD Kota Samarinda mendorong Pemerintah Kota (Pemkot) Samarinda untuk membentuk kembali dinas yang secara khusus menangani sektor pariwisata. Usulan tersebut dinilai penting agar pengembangan destinasi wisata dapat dilakukan secara lebih fokus, terarah, dan mampu memberikan kontribusi yang lebih besar terhadap pertumbuhan ekonomi daerah. Pandangan itu disampaikan Anggota Komisi II DPRD Kota Samarinda, Joha Fajal, saat mengikuti uji publik Rancangan Peraturan Daerah (Raperda) tentang Pengembangan dan Pengelolaan Pariwisata Daerah di Universitas 17 Agustus 1945 (Untag) Samarinda, Jalan Ir H Juanda, Kamis (6/8/2026). Menurut Joha, saat ini urusan pariwisata masih berada dalam satu organisasi perangkat daerah bersama bidang kepemudaan dan olahraga. Kondisi tersebut membuat perhatian terhadap sektor pariwisata belum maksimal karena program dan anggaran harus dibagi untuk beberapa bidang sekaligus. “Pariwisata membutuhkan perhatian yang lebih fokus agar potensinya dapat berkembang secara optimal,” ujarnya. Ia menjelaskan, sejumlah masukan dari pelaku industri pariwisata, termasuk asosiasi perhotelan, menunjukkan bahwa sektor wisata telah memberikan kontribusi terhadap Pendapatan Asli Daerah (PAD). Namun, besarnya kontribusi tersebut dinilai belum diimbangi dengan alokasi anggaran maupun kebijakan yang mendukung pengembangan destinasi wisata secara berkelanjutan. Menurut Joha, Samarinda memiliki potensi wisata yang cukup besar untuk dikembangkan, baik wisata budaya, sejarah, maupun wisata berbasis alam dan ekonomi kreatif. Karena itu, pemerintah daerah perlu memberikan perhatian lebih melalui penguatan kelembagaan, peningkatan infrastruktur pendukung, promosi yang berkesinambungan, serta penyelenggaraan berbagai agenda wisata yang mampu menarik kunjungan wisatawan. Ia menilai keberadaan organisasi perangkat daerah yang secara khusus menangani pariwisata akan mempermudah penyusunan program kerja yang lebih terarah. Mulai dari pengembangan destinasi, peningkatan kualitas sumber daya manusia, promosi wisata, hingga membangun kemitraan dengan pelaku usaha di sektor perhotelan, kuliner, transportasi, dan ekonomi kreatif. Joha mengungkapkan, pembentukan kembali Dinas Pariwisata bukan merupakan gagasan baru. Sebelumnya, sektor tersebut pernah berdiri sebagai dinas tersendiri sebelum akhirnya digabungkan dengan urusan kepemudaan dan olahraga melalui penyesuaian struktur organisasi pemerintah daerah. “Kami ingin sektor pariwisata memiliki ruang untuk berkembang lebih optimal,” katanya. Selain berpotensi meningkatkan PAD, Joha menilai sektor pariwisata juga mampu menciptakan efek berganda (multiplier effect) bagi berbagai

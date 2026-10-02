@@ -1,0 +1,83 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata",
+          "jenis_tempat": "misal: kafe jepang, restoran indonesia, warung padang, dll",
+          "lokasi_text": "lokasi mentah apa adanya sesuai artikel atau kamu cari di internet (kelurahan/kecamatan/kota/kabupaten/provinsi)",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "alasan_viral": "ringkasan alasan/daya tarik",
+          "indikasi_waktu": "tanggal/bulan/periode eksplisit terkait mulai viral, atau null jika tidak disebut",
+          "is_explicitly_viral": true atau false (true HANYA jika artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet, bukan sekadar direkomendasikan),
+          "confidence": angka 0-1
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 3952
+Judul: Cafe Hopping Makin Populer, Ini yang Bisa Dilakukan dalam Satu Hari di Malang - radarmalang.jawapos.com
+Isi:
+Tren cafe hopping atau berpindah-pindah antara berbagai kafe dalam sehari menjadi salah satu cara untuk merasakan berbagai suasana, menu, dan konsep tempat berkumpul di Kota Malang.
+
+
+### Artikel 3953
+Judul: 3 Rekomendasi Cafe Perpus di Malang, Bisa Ngopi Sambil Baca Buku - ketik.com
+Isi:
+21 Juli 2026 04:00 21 Jul 2026 04:00 Karyawan kafe membuat kopi pesanan pengunjung. (Foto: Instagram/@perpus.cafe) KETIK, MALANG – Kenyamanan tempat belajar dapat membantu menjaga konsentrasi. Saat fokus tetap terjaga, tugas dapat diselesaikan lebih cepat dan efektif. Karena itu, memilih tempat belajar yang nyaman menjadi salah satu cara untuk meningkatkan produktivitas. Namun, belajar di tempat yang sama setiap hari sering kali menimbulkan rasa jenuh. Sebagian orang mungkin berpindah dari satu kafe ke kafe lain, tetapi suasananya terasa tidak jauh berbeda. Perbedaannya sering hanya terletak pada menu yang disajikan. Jika kalian mulai bosan dengan suasana seperti itu, tiga tempat berikut bisa menjadi pilihan untuk mencari pengalaman belajar yang lebih segar. Kalian tetap bisa menikmati secangkir kopi sambil ditemani tumpukan buku yang siap dibaca. Kafe ini menawarkan interior bergaya homey dengan pencahayaan hangat yang cocok untuk belajar, bekerja, atau sekadar bersantai. Di beberapa sudut ruangan, pengunjung dapat menemukan koleksi buku bertema sejarah, budaya kuno, hingga replika kitab suci yang menambah suasana tenang. Sambil menikmati waktu membaca, Anda juga bisa mencicipi berbagai pilihan kopi dengan beragam varian rasa. Donat menjadi salah satu menu andalan di kafe ini, dengan harga makanan dan minuman yang dimulai dari sekitar Rp14 ribu. Tempat menyediakan area outdoor yang menghadap langusng kke jalan dan area Indoor tanpa AC serta meeting room di lantai 2. Kafe ini buka setipa hari mulai pukul 10.00 WIB  hingga pukul 22.00 WIB. Lokasinya berada di Ruko Malang Trade Centre, Jl. Raden Panji Suroso No.12A Kav.10, Polowijen, Kec. Blimbing, Kota Malang. Rumah Budaya Ratna merupakan salah satu bangunan bersejarah. Awalnya tempat ini adalah kediaman sastrawan perempuan Indonesia, Ratna Indraswari Ibrahim. Tak hanya varian kopi, Tempat ini juga menyediakan ribuan koleksi buku, manuskrip dan arsip pribadi sang sastrawan. Kafe ini cocok bagi para berbagai generasi seniman. Menariknya, tempat ini juga menyediakan pembacaan kartu tarot. Anda sudah dapat menikmati dengan harga mulai Rp8.000. Selain itu, pengunjung tidak perlu bayar untuk parkir di area sini. Kafe ini buka setiap hari dari pukul 11.00 WIB hingga pukul 22.00 WIB. Kafe ini mengusung konsep kafe perpustakaan (book cafe) yang tenang dan nyaman. Tempat ini menyajikan berbagai genre buku bacaan gratis. Mulai dari novel, komik, hingga buku self-development. Ruangannya dirancang khusus sebagai ruang baca dan kerja yang minim distraksi. Jika ingin suasana lebih santai, tersedia juga area lesehan yang nyaman. topkontak tersedia di setiap meja, baik di area indoor ber-AC maupun outdoor. Kafe ini juga aktif membagikan kegiatan positif melalui akun Instagram @perpus.cafe. Kegiatannya berupa agenda diskusi komunitas, bedah buku, dan berbagai workshop kreatif.  harga menu berkisar antara Rp15.000 hingga Rp50.000. Tempat ini berlokasi di Jl. Sulfat, Purwantoro, Blimbing, Kota Malang. Itulah beberap
+
+
+### Artikel 3954
+Judul: Bukan Sekadar Ngopi, Tren Work From Cafe di Malang Kini Lahirkan Komunitas Produktif - ketik.com
+Isi:
+12 Juli 2026 03:00 12 Jul 2026 03:00 Kegiatan para pekerja work from cafe (WFC) di Fore Coffee Suhat, Kota Malang. Tren bekerja dari kafe kian diminati karena menawarkan suasana yang nyaman dan mendukung produktivitas. (Foto: TikTok/@sepertinyakevin) KETIK, MALANG – Bekerja tak lagi harus selalu dilakukan dari kantor atau rumah. Dalam beberapa tahun terakhir, tren work from cafe (WFC) semakin melekat dalam gaya hidup masyarakat, terutama mahasiswa, freelancer, pekerja kreatif, hingga pelaku usaha. Suasana coffee shop yang nyaman, ditemani secangkir kopi dan akses internet yang memadai, menjadi pilihan banyak orang untuk menyelesaikan pekerjaan sekaligus mencari suasana baru yang lebih produktif. Melihat perubahan pola kerja tersebut, banyak coffee shop di Malang mulai beradaptasi dengan menyediakan berbagai fasilitas yang mendukung kebutuhan para pekerja. Mulai dari koneksi WiFi yang stabil, colokan listrik di berbagai sudut, meja kerja yang nyaman, hingga area yang kondusif untuk rapat daring maupun diskusi. Kini, coffee shop tak hanya menjadi tempat bersantai, tetapi juga berkembang sebagai ruang produktif bagi masyarakat dengan sistem kerja yang fleksibel. Tren tersebut turut melahirkan komunitas yang mewadahi para pekerja jarak jauh untuk berkumpul dan bekerja bersama. Salah satunya Malang Remote Club, yang rutin menggelar sesi work from cafe di berbagai coffee shop di Kota Malang. Dalam setiap pertemuan, jumlah peserta dibatasi sekitar 10 hingga 20 orang melalui sistem undangan agar suasana tetap kondusif untuk bekerja, berdiskusi, maupun memperluas jejaring profesional. Salah satu peserta, Founder Keminggris sekaligus remote worker asal Malang, Yudis, menilai kehadiran Malang Remote Club menjadi wadah yang positif bagi para pekerja dengan latar belakang profesi yang beragam. Menurutnya, komunitas tersebut tidak hanya diperuntukkan bagi pekerja jarak jauh, tetapi juga terbuka bagi siapa saja yang ingin bekerja dalam suasana yang produktif. "Anggotanya beragam. Ada guru, staf supply chain management, lead marketing di bidang F&B, akuntan, hingga freelancer. Komunitas ini lebih inklusif sehingga siapa pun bisa saling belajar dan membangun koneksi," ujarnya. Dengan semakin banyaknya coffee shop yang ramah untuk bekerja serta tumbuhnya komunitas seperti Malang Remote Club, Malang kian menunjukkan diri sebagai kota yang mendukung ekosistem kerja fleksibel. Fenomena ini tidak hanya mencerminkan perubahan gaya bekerja masyarakat, tetapi juga memperlihatkan bagaimana ruang publik dapat berkembang menjadi tempat bertemunya produktivitas, kolaborasi, dan jejaring profesional. Kontributor Ketik di
+                                            Malang Editor Ketik di
+                                            Malang
+
+
+### Artikel 3955
+Judul: Nongkrong Makin Seru, Ini 9 Cafe dan Bar di Malang dengan Live Music - radarmalang.jawapos.com
+Isi:
+Malang punya banyak pilihan tempat nongkrong dengan suasana musik yang menarik. Mulai dari cafe estetik hingga bar dengan pertunjukan live music, berikut rekomendasi tempat yang cocok untuk menikmati malam bersama teman
+
+
+### Artikel 3956
+Judul: Imbas Ketatnya Persaingan, Makin Marak Rebranding Kafe dan Restoran di Kota Malang - radarmalang.jawapos.com
+Isi:
+Hampir tiap bulan selalu ada pembukaan kafe dan restoran baru di Kota Malang. Berdasar data Pemkot Malang, saat ini ada 1.103 wajib pajak (WP) kategori kafe dan restoran. Jumlah itu naik ketimbang 2024 lalu.
+
+Dari total
+
+
+### Artikel 3957
+Judul: 5 Kafe 24 Jam di Malang, Mulai Rp 3.500 hingga yang Estetik - Tribun Travel
+Isi:
+TRIBUNTRAVEL.COM - Cari tempat nongkrong yang tetap buka saat malam hari? Malang di Jawa Timur punya sejumlah kafe 24 jam yang bisa menjadi pilihan, terutama bagi wisatawan yang ingin ngopi santai, mengerjakan tugas, atau sekadar mencari tempat untuk menghabiskan waktu hingga dini hari. Menariknya, pilihan kafe 24 jam di Malang cukup beragam. Ada yang menawarkan harga mulai Rp 3.500, tempat cozy dan estetik, hingga kafe dengan fasilitas lengkap seperti wifi, banyak colokan, mushola, dan area parkir. Berikut 5 kafe 24 jam di Malang yang bisa masuk daftar kunjungan. Baca juga: 3 Tempat Ngopi di Pasar Klojen Malang, Ada Kopi Legendaris Sejak 1953 1. Kopi Studio 24 Bromo Alamat: Jalan Bromo No.4, Kauman, Kecamatan Klojen, Kota Malang Harga: Rp 3.500–Rp 15.500 Kopi Studio 24 Bromo menjadi satu pilihan kafe 24 jam di Malang yang cocok untuk mahasiswa maupun wisatawan. Area yang luas dilengkapi banyak colokan dan wifi gratis, sehingga nyaman untuk nugas atau WFC hingga tengah malam. Tersedia area indoor dan outdoor, termasuk ruangan ber-AC maupun non-AC. Kafe ini juga memiliki mushola dan kamar mandi, sementara menu ayam geprek sambal bawang menjadi salah satu pilihan yang bisa dicoba. 2. Roketto Coffee & Co Alamat: Jalan Kendalsari No.06, Jatimulyo, Kecamatan Lowokwaru, Kota Malang Harga: Rp 13.000–Rp 40.000 Roketto Coffee & Co cocok bagi wisatawan yang mencari kafe 24 jam dengan suasana cozy dan estetik. Interiornya mengusung konsep minimalis dengan dominasi earth tone serta tanaman hijau. Area indoor dan semi-outdoor tersedia dengan colokan di hampir setiap meja. Pilihan menunya juga cukup beragam, mulai Latte, Caramel Latte, Matcha Latte, Yuzu Sparkling, Lemon Tea, hingga cake dan pastry. Alamat: Jalan Bunga Coklat No.10, Tulusrejo, Kecamatan Lowokwaru, Kota Malang Harga: Rp 9.000–Rp 30.000 Omahdatok 24 bisa menjadi pilihan untuk wisatawan yang ingin nongkrong sekaligus mencari tempat mengerjakan tugas. Kafe ini menyediakan wifi kencang, banyak stop kontak, toilet, dan mushola. Menu yang tersedia cukup beragam, mulai dari masakan Malaysia, Oriental, hingga makanan lokal. Ada nasi, mi, dimsum, dan berbagai camilan dengan harga yang relatif terjangkau. Alamat: Jalan Jakarta No.26, Penanggungan, Kecamatan Klojen, Kota Malang , Jawa Timur Harga: Rp 20.000–Rp 120.000 Jokopi termasuk kafe 24 jam di Malang yang cocok untuk nongkrong hingga dini hari. Tempatnya memiliki area indoor dan outdoor, banyak colokan, serta area smoking dan non-smoking. Fasilitas lain yang tersedia antara lain kamar mandi dan photobox. Dengan suasana yang mendukung untuk bekerja maupun mengerjakan tugas, Jokopi juga kerap menjadi pilihan mahasiswa untuk WFC. Alamat: Jalan Raya Langsep No.2B, Pisang Candi, Kecamatan Sukun, Kota Malang Harga: Mulai Rp 20.000 Kotäsk Kaffe Co. menawarkan tempat yang nyaman untuk nongkrong maupun nugas. Fasilitasnya meliputi kamar mandi bersih, mushola, serta area parkir yang cukup luas untuk motor dan mobil. Pilihan menunya juga beragam, mulai dari mak
+
+
+### Artikel 3958
+Judul: Bad Mood? Saatnya Manjakan Diri, Ini Rekomendasi Dessert Cafe di Malang yang Cocok untuk Healing - radarmalang.jawapos.com
+Isi:
+Dessert manis selalu menjadi pilihan untuk menemani waktu santai. Mulai dari pastry artisan, cake premium, hingga gelato yang menyegarkan, tujuh dessert cafe di Malang ini layak masuk daftar tempat yang wajib dikunjungi.
+
+
+### Artikel 3959
+Judul: Deadline Numpuk? 8 Coffee Shop di Kota Malang yang Cocok buat WFC hingga Skripsian - radarmalang.jawapos.com
+Isi:
+Deadline tugas, skripsi, atau pekerjaan bakal terasa lebih ringan kalau dikerjakan di tempat yang nyaman. Tujuh coffee shop di Kota Malang ini punya suasana yang mendukung produktivitas.

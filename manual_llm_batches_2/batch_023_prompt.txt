@@ -1,0 +1,81 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata",
+          "jenis_tempat": "misal: kafe jepang, restoran indonesia, warung padang, dll",
+          "lokasi_text": "lokasi mentah apa adanya sesuai artikel atau kamu cari di internet (kelurahan/kecamatan/kota/kabupaten/provinsi)",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "alasan_viral": "ringkasan alasan/daya tarik",
+          "indikasi_waktu": "tanggal/bulan/periode eksplisit terkait mulai viral, atau null jika tidak disebut",
+          "is_explicitly_viral": true atau false (true HANYA jika artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet, bukan sekadar direkomendasikan),
+          "confidence": angka 0-1
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 176
+Judul: Drunk Baker Bandung jadi Destinasi Kuliner Viral yang Wajib Dikunjungi dengan Sajian Dirty Milo - jogja.disway.id - Disway Jogja
+Isi:
+diswayjogja.id - Bandung, sebagai kota yang tak pernah tidur dalam urusan inovasi kuliner, kembali menghadirkan oase baru bagi para penikmat camilan manis. Drunk Baker hadir dengan konsep yang segar, menawarkan perpaduan antara kenyamanan suasana kafe dan kualitas rasa dari produk pastry yang dibuat secara fresh. Di tengah persaingan ketat bisnis kuliner di Bandung, tempat ini mampu menonjol berkat keunikan menu yang sulit ditemukan di tempat lain, menjadikannya magnet baru bagi generasi muda dan keluarga. Bagi banyak orang, mencari tempat nongkrong yang menyajikan dessert berkualitas bukan hanya tentang rasa, tetapi juga pengalaman emosional. Drunk Baker memahami kebutuhan tersebut dengan menghadirkan atmosfir yang hangat dan mengundang. Setiap sudut toko dirancang untuk memberikan kenyamanan, baik bagi mereka yang ingin menikmati waktu sendiri sambil membaca buku, maupun bagi kelompok teman yang ingin merayakan momen kebersamaan dengan sajian pastry yang lezat. Popularitas Drunk Baker meledak melalui media sosial, di mana sajian signature-nya seringkali menghiasi beranda Instagram maupun TikTok. Dirty Milo yang melimpah dengan bubuk cokelat dan Nutella Bomb yang lumer di mulut menjadi perbincangan hangat yang membuat penasaran banyak orang. Inovasi menu ini adalah kunci utama mengapa tempat ini selalu dipadati pengunjung, membuktikan bahwa kreativitas dalam mengolah bahan sederhana menjadi hidangan mewah adalah kunci kesuksesan di industri kuliner Bandung. Melalui ulasan mendalam ini, kami akan mengajak Anda menjelajahi apa saja yang ditawarkan oleh Drunk Baker. Kami akan membahas secara rinci menu-menu andalannya, suasana tempat, serta tips agar Anda tidak kehabisan stok saat berkunjung ke sini. Mari kita selami kelezatan pastry dan minuman manis di salah satu titik kuliner paling hits di Bandung yang wajib masuk dalam agenda akhir pekan Anda. BACA JUGA : Sensasi Kuliner Timur Tengah di Bandung yang Menggugah Selera BACA JUGA : Berikut Tempat Sarapan Enak di Bandung, Mulai Kuliner Legendaris hingga Cafe Hits Mengenal Drunk Baker Drunk Baker bukan sekadar toko roti atau kafe biasa. Sejak awal kemunculannya, tempat ini telah membawa standar baru dalam penyajian pastry di Bandung. Menggunakan bahan-bahan berkualitas premium, setiap item yang keluar dari dapur Drunk Baker dikerjakan dengan penuh ketelitian. Pengunjung tidak hanya membeli makanan, tetapi juga menikmati seni di balik setiap lapisan pastry yang renyah di luar namun lembut di dalam. Lokasinya yang strategis membuat Drunk Baker mudah dijangkau dari berbagai penjuru Bandung. Hal ini menjadi keuntungan besar bagi wisatawan yang ingin mencicipi kuliner lokal tanpa harus menempuh perjalanan yang jauh. Dengan pelayanan yang ramah dan cepat, pihak pengelola memastikan bahwa pengalaman setiap pelanggan tetap terjaga kualitasnya, dari saat pertama masuk hingga mereka meninggalkan toko dengan senyum puas. Keajaiban Dirty Milo Salah satu menu yang paling banyak dicari adalah Dirty Milo. Minuman 
+
+
+### Artikel 177
+Judul: Video: Tenant Kuliner Viral di BrightspotCITY 2026, Jangan Sampai Kelewatan Ya! - 20detik
+Isi:
+Scroll atau gunakan tombol
+                                        [ ]
+                                        [ ] serta klik panah di sisi kanan untuk menjelajahi feed video. Selain berburu produk fashion lokal, pengunjung BrightspotCITY 2026 juga bisa jajan enak. Ada ayam panggang peri-peri hingga cheese platter yang menarik.
+
+
+### Artikel 178
+Judul: Terakhir Besok, Food Festival Indogrosir Malang Diserbu Pengunjung: Kuliner Viral dan Jajanan Murah Jadi Daya Tarik! - Radar Malang
+Isi:
+Food Festival Indogrosir Malang resmi memasuki hari terakhir besok dan menjadi salah satu acara kuliner paling ramai dikunjungi masyarakat karena menghadirkan puluhan tenant makanan viral dengan harga terjangkau.
+
+
+### Artikel 179
+Judul: 3 Kuliner Viral di Salatiga yang Legendaris, Traveler Wajib Coba - Tribun Travel
+Isi:
+TRIBUNTRAVEL.COM - Salatiga dikenal sebagai salah satu kota kuliner terbaik di Jawa Tengah yang menawarkan beragam hidangan legendaris dengan cita rasa autentik. Tidak hanya menjadi kota transit antara Semarang dan Solo, Salatiga juga menyimpan banyak tempat makan yang sudah eksis selama puluhan tahun. Berbagai kuliner khas Salatiga berhasil mempertahankan resep turun-temurun sehingga tetap diminati hingga sekarang. Seiring perkembangan media sosial, sejumlah kuliner legendaris di Salatiga kembali viral dan menjadi destinasi favorit wisatawan. Baca juga: Panduan Rute Menuju The Great Asia Africa untuk Libur Sekolah 2026 Bila ingin membeli tiket wisata, yuk dapatkan harga terbaik dari Tiket.com . Mulai dari sate sapi,hingga ronde, semuanya menawarkan pengalaman kuliner yang unik dan menggugah selera. Nah, berikut rekomendasi 3 kuliner legendaris dan viral di Salatiga yang wajib masuk daftar wisata kulinermu. Bila ingin sekaligus menginap, kamu bisa dapatkan penawaran menarik dengan harga spesial lewat Tiket.com . 1. Sate Sapi Suruh & Bakso Bu Harkim Sate Sapi Suruh merupakan salah satu ikon kuliner legendaris Salatiga yang telah dikenal luas oleh wisatawan. Daging sapinya terkenal empuk karena menggunakan potongan pilihan dan proses pembakaran yang tepat. Bumbu kacangnya memiliki cita rasa gurih manis yang khas dan sulit ditemukan di tempat lain. Selain sate sapi, pengunjung juga dapat menikmati bakso dengan kuah kaldu yang kaya rasa. Baca juga: Bingung Pilih Tiket VIP atau Reguler Jakarta Fair Music Concert 2026? 2. Ronde Sekoteng Jago Ronde Sekoteng Jago telah menjadi legenda kuliner malam di Salatiga sejak puluhan tahun lalu. Minuman hangat ini berisi ronde kenyal, kacang tanah, jahe, dan kuah manis yang menghangatkan tubuh. Tempat ini selalu ramai dikunjungi wisatawan, terutama saat cuaca dingin. Rasanya yang autentik membuat Ronde Jago tetap bertahan sebagai salah satu kuliner favorit hingga sekarang. Baca juga: Update Harga Tiket Masuk The Great Asia Africa untuk Libur Sekolah Juni 2026 3. Tumpang Koyor Mbah Rakinem Tumpang Koyor Mbah Rakinem merupakan kuliner khas Salatiga yang telah diwariskan sejak era 1940-an. Hidangan ini terdiri dari nasi dengan kuah sambal tumpang yang gurih serta koyor sapi yang empuk. Perpaduan rasa gurih, sedikit pedas, dan aroma khas tempe semangit membuatnya begitu istimewa. Banyak wisatawan rela datang pagi-pagi karena menu ini sering habis sebelum siang hari. Baca juga: Rumah Indofood Jakarta Fair 2026 Penuh Keseruan, Ada Warmindo dan Persija (TribunTravel.com/mym) Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
+
+
+### Artikel 180
+Judul: Modal Kecil, Untung Maksimal: 5 Ide Bisnis Kuliner Kekinian yang Lagi Viral! - suara.com
+Isi:
+Industri F&amp;B tumbuh pesat. Peluang bisnis bermodal kecil seperti es cokelat, dessert box, dan minuman kekinian makin menjanjikan berkat bahan baku siap pakai yang praktis.
+
+
+### Artikel 181
+Judul: Rekomendasi Kuliner Viral Malang Paling Hits lewat Kelezatan Otentik yang Bikin Ketagihan - jogja.disway.id - Disway Jogja
+Isi:
+Cwie Mie Malang Legendaris-- diswayjogja.id - Menjelajahi Kota Malang yang sejuk dan asri tidak akan pernah lengkap tanpa mencicipi berbagai kelezatan hidangan lokal yang tersebar di setiap sudut jalannya. Kota yang terkenal dengan sebutan Kota Apel ini sejak lama menjelma menjadi salah satu surga kuliner paling dicari oleh para pelancong dari berbagai penjuru daerah. Beragam pilihan makanan mulai dari jajanan tradisional warisan leluhur hingga hidangan modern yang sedang viral di media sosial siap memanjakan lidah siapa saja yang berkunjung ke sini. Perjalanan liburan tentu akan terasa jauh lebih berkesan ketika kita meluangkan waktu sejenak untuk mengeksplorasi kekayaan cita rasa kuliner khas Malang yang autentik. Di tengah gempuran tren makanan modern yang silih berganti, Malang tetap mempertahankan identitas kulinernya melalui kehadiran berbagai tempat makan legendaris maupun inovasi menu baru yang menggugah selera. Antusiasme para pemburu kuliner terhadap berbagai spot makanan viral di Malang terus meningkat setiap tahunnya, menjadikan kota ini sebagai destinasi wisata gastronomi yang sangat diperhitungkan. Menikmati kehangatan kuliner lokal di tengah sejuknya udara pegunungan Malang memberikan kenyamanan tersendiri yang sulit ditemukan di tempat lain. Bagi Anda yang sedang merencanakan liburan singkat maupun agenda wisata kuliner panjang ke Kota Malang, memahami karakteristik setiap tempat makan adalah langkah awal yang sangat krusial agar pengalaman bersantap menjadi sempurna. Pertimbangan mengenai lokasi yang strategis, kisaran harga yang ramah di kantong, variasi menu andalan, hingga kenyamanan tempat menjadi faktor penentu kepuasan bersantap Anda selama berada di sana. Melalui ulasan komprehensif ini, kami hadir untuk memandu langkah Anda menemukan spot makan paling idola di Malang, memastikan setiap suapan yang Anda nikmati memberikan kepuasan maksimal tanpa harus merasa kebingungan di tengah banyaknya opsi yang ada. Panduan mendalam ini akan memastikan Anda tidak salah pilih tempat dan bisa langsung menikmati kelezatan makanan terbaik, mulai dari kedai legendaris hingga warung kekinian yang digandrungi kaum muda, agar agenda kuliner Anda di kota sejuk ini menjadi jauh lebih berkesan dan menyenangkan. BACA JUGA : Pilihan Nasi Gandul di Malang Paling Populer yang Bikin Lidah Ketagihan BACA JUGA : Menjelajah Wisata Kuliner Malam Malang, Angkringan Paling Hits yang Bikin Betah Nongkrong Perjalanan kuliner di Malang tentu terasa sangat hampa tanpa mencicipi kelembutan semangkuk Cwie Mie yang telah lama menjadi ikon kebanggaan warga setempat. Berbeda dengan mie ayam biasa, cwie mie khas Malang memiliki karakteristik mi yang sangat tipis, bertekstur lembut, serta disajikan dengan taburan daging ayam bertekstur halus mirip serundeng. Kuah kaldu bening yang disajikan secara terpisah memiliki rasa gurih yang ringan namun sangat kaya akan kaldu tulang pilihan. Tambahan selada segar, acar urat, serta pangsit goreng renyah semakin menyempurnakan k
+
+
+### Artikel 182
+Judul: Menelusuri Jejak Kuliner Betawi dari yang Legendaris hingga Langka - food.detik.com
+Isi:
+Kuliner Betawi jadi bagian sejarah Jakarta. Selain kerak telor, ada banyak sajian autentik yang masih bertahan, meski sebagian mulai langka. Di balik gemerlap gedung pencakar langit dan hiruk-pikuk kehidupan metropolitan, Jakarta menyimpan warisan kuliner yang tak kalah menarik untuk ditelusuri. Bertepatan dengan Hari Ulang Tahun (HUT) Jakarta pada 22 Juni, ragam kuliner Betawi kembali menjadi sorotan karena menjadi bagian penting dari identitas budaya ibu kota yang telah terbentuk selama ratusan tahun. SCROLL TO CONTINUE WITH CONTENT Kuliner Betawi lahir dari percampuran beragam budaya yang pernah singgah dan menetap di Batavia. Pengaruh kuliner Nusantara, Arab, Tionghoa, India, hingga Eropa berpadu menghasilkan aneka hidangan dengan cita rasa khas yang kaya rempah. Dari hidangan berkuah santan hingga jajanan tradisional, makanan Betawi menjadi cerminan sejarah panjang masyarakatnya yang multikultural. Sejumlah kuliner Betawi masih bertahan dan mudah ditemukan hingga kini. Sebut saja soto Betawi dengan kuah gurih berbasis santan atau susu, kerak telor yang menjadi ikon kuliner Jakarta, hingga nasi uduk dan semur jengkol yang tetap digemari lintas generasi. Hidangan-hidangan tersebut masih banyak dijajakan di rumah makan legendaris, kaki lima, hingga pusat kuliner yang tersebar di berbagai sudut Jakarta. Namun, tak sedikit pula kuliner Betawi autentik yang mulai langka dan jarang ditemui. Beberapa di antaranya adalah sayur babanci yang unik karena tidak menggunakan babat maupun cingur meski namanya demikian, gabus pucung dengan kuah hitam pekat dari kluwek, hingga sengkulun dan kue rangi yang kini semakin sulit ditemukan di pasar tradisional. Perubahan gaya hidup, berkurangnya jumlah perajin makanan tradisional, hingga minimnya regenerasi menjadi tantangan tersendiri bagi keberlangsungan kuliner-kuliner tersebut. Meski demikian, upaya pelestarian terus dilakukan oleh komunitas budaya, pelaku usaha kuliner, hingga generasi muda yang mulai memperkenalkan kembali makanan khas Betawi kepada masyarakat luas. Momentum HUT Jakarta pun bisa jadi pengingat bahwa kuliner bukan sekadar makanan, melainkan bagian dari sejarah dan identitas kota yang patut dijaga. Karena itu kali ini detikFood akan mengulas tentang serba-serbi tentang kuliner Betawi. Dalam ulasan, kami akan mengungkap fakta sejarah dan filosofi setiap makanan Betawi. Tak hanya itu, kami juga akan memberikan rekomendasi tempat makan kuliner Betawi dan mengulas kisah dan perjalanan pengrajin kuliner Betawi. Simak terus artikelnya ya! Anda menyukai artikel ini
+
+
+### Artikel 183
+Judul: Mencicipi Kuliner Viral di Two Stories Resto, Bogor - 20detik
+Isi:
+Banyak kuliner lezat yang bisa dinikmati di Bogor. Kali ini selebriti akan menikmari kuliner di Two Stories Resto. Menu makanan di sini sangat lezat-lezat. Dok : Celebrity on Vacation Trans TV (Ade)

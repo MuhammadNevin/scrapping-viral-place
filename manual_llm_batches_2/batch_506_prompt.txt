@@ -1,0 +1,79 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata",
+          "jenis_tempat": "misal: kafe jepang, restoran indonesia, warung padang, dll",
+          "lokasi_text": "lokasi mentah apa adanya sesuai artikel atau kamu cari di internet (kelurahan/kecamatan/kota/kabupaten/provinsi)",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "alasan_viral": "ringkasan alasan/daya tarik",
+          "indikasi_waktu": "tanggal/bulan/periode eksplisit terkait mulai viral, atau null jika tidak disebut",
+          "is_explicitly_viral": true atau false (true HANYA jika artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet, bukan sekadar direkomendasikan),
+          "confidence": angka 0-1
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 4040
+Judul: 5 Wisata Instagramable di Malang yang Lagi Hits 2026, Cocok Buat Foto Estetik! - radarmalang.jawapos.com
+Isi:
+Kota Malang dikenal sebagai salah satu destinasi wisata favorit di Jawa Timur yang menawarkan beragam tempat menarik dan instagramable. Tidak hanya menghadirkan pemandangan indah, sejumlah wisata ini juga cocok dijadikan
+
+
+### Artikel 4041
+Judul: Menjajal Serunya Beragam Wahana di Sumber Maron Malang - radarmalang.jawapos.com
+Isi:
+Di balik rimbunnya pepohonan Desa Karangsuko, Kecamatan Pagelaran, Kabupaten Malang, mengalir air jernih yang menjadi alasan ribuan orang rela menempuh perjalanan jauh hanya untuk merasakan kesegarannya.
+
+
+### Artikel 4042
+Judul: Koordinasi Lintas Sektor, Disparbud Cari Lahan untuk Kelola Sampah dari Destinasi Wisata Malang Selatan - MalangTIMES
+Isi:
+JATIMTIMES - Dinas Pariwisata dan Kebudayaan (Disparbud) Kabupaten Malang saat ini tengah menjalin koordinasi lintas sektor untuk mengatasi masalah pengelolaan sampah di berbagai destinasi wisata di wilayah Malang Selatan. Kepala Disparbud Kabupaten Malang Firmando Hasiholan Matondang menyampaikan,  pihaknya juga telah menjalin komunikasi intensif dengan Kepala Dinas Lingkungan Hidup (DLH) Kabupaten Malang Ahmad Dzulfikar Nurrahman untuk mencari lahan empat pengelolaan sampah. Firmando menyebut, tren peningkatan wisatawan di Kabupaten Malang harus selaras dengan pengelolaan sampah yang maksimal. Oleh karena itu, ia telah menginisiasi bersama Kepala DLH Kabupaten Malang Ahmad Dzulfikar Nurrahman untuk memprioritaskan pengelolaan sampah di Malang Selatan, utamanya di kawasan pantai. Salah satu hasilnya yakni mencari lahan tanah yang dapat digunakan untuk kawasan pengelolaan sampah. Pasalnya, Pemerintah Kabupaten (Pemkab) Malang tidak memiliki lahan yang cukup dan sesuai untuk digunakan sebagai tempat pengelolaan sampah. "Karena kita kabupaten tidak punya tanah untuk sampah (di kawaaan wisata Malang Selatan). Tanah itu ada di Kehutanan Sosial dan Perhutani. Kita mencoba pendekatan melalui kelompok pengelola hutan sosial untuk mencari lokasi pengelolaan sampah," ungkap Firmando. Mantan kepala Satuan Polisi Pamong Praja (Satpol PP) Kabupaten Malang ini mengatakan, soal penggunaan lahan untuk pengelolaan sampah itu masuk dalam program prioritas yang harus dituntaskan. Terlebih lagi, Presiden RI Prabowo Subianto telah telah memerintahkan seluruh perangkat daerah bersama TNI/Polri dan masyarakat melakukan korve atau gotong-royong membersihkan lingkungan secara rutin. "Ini menjadi catatan yang sudah kami inisiasi dengan kepala DLH untuk menjadi prioritas penanganan sampah di Malang Selatan, khususnya daerah pesisir pantai wisata," kata Firmando. Lebih lanjut, pihaknya juga tengah melakukan pemetaan karakteristik destinasi wisata unggulan di Kabupaten Malang, khususnya di wilayah Malang Selatan. Tercatat, destinasi wisata Pantai Balekambang dan Pantai Tanjung Penyu menjadi dua destinasi unggulan yang paling banyak dikunjungi wisatawan dalam negeri maupun luar negeri. "Pantai Balekambang itu menjual melalui paket-paket kegiatan dan gelaran seni. Kalau Tanjung Penyu menjual melalui kekuatan media sosialnya," ujar Firmando. Oleh karena itu, pihaknya berharap dalam waktu dekat Pemerintah Kabupaten (Pemkab) Malang bisa segera mendapatkan lahan tanah untuk pengelolaan sampah dari berbagai destinasi wisata di Malang Selatan. Sehingga dengan adanya peningkatan kunjungan wisatawan, pengelolaan sampah juga terselesaikan. Bantu kembangkan jurnalisme berkualitas dengan membagikan berita ini ke jejaring sosial Anda.
+
+
+### Artikel 4043
+Judul: Oleh-Oleh Tahan Lama yang Lagi Viral! Nona Abon Gulung Malang Punya Isian Abon Super Melimpah - radarmalang.jawapos.com
+Isi:
+Tidak hanya berwisata, para pelancong yang datang ke Kota Malang biasanya juga berburu oleh-oleh untuk dibawa pulang ke kota asal. Selain rasa yang lezat, oleh-oleh tahan lama tentu menjadi pilihan favorit karena lebih a
+
+
+### Artikel 4044
+Judul: Tiga Rekomendasi Wisata di Malang yang Cocok untuk Habiskan Weekend bareng Keluarga - radarmalang.jawapos.com
+Isi:
+Menghabiskan akhir pekan bersama keluarga tidak selalu harus ke tempat wisata yang ramai. Di Malang, terdapat sejumlah destinasi yang relatif lebih sepi namun tetap nyaman dikunjungi bersama keluarga.
+
+
+### Artikel 4045
+Judul: Disparbud Kenalkan Destinasi Unggulan Kabupaten Malang di Travel Meet Asia 2026 - TIMES Indonesia
+Isi:
+MALANG – Kabupaten Malang terus berupaya memperluas promosi destinasi wisatanya ke pasar internasional. Tak hanya mengandalkan nama besar Gunung Bromo, berbagai destinasi unggulan lain seperti Coban Sewu, kawasan pantai Malang Selatan, hingga desa wisata turut diperkenalkan kepada pelaku industri pariwisata Asia dalam ajang Travel Meet Asia (TMA) 2026. Forum business-to-business (B2B) pariwisata yang berlangsung pada 23-24 Juni 2026 di Swissôtel Jakarta PIK Avenue tersebut mempertemukan pemerintah daerah, asosiasi perjalanan wisata, tour operator, hotel, hingga buyer dari berbagai negara. Kepala Dinas Pariwisata dan Kebudayaan Kabupaten Malang, Firmando Matondang Hasiholan mengatakan keikutsertaan Kabupaten Malang dalam Travel Meet Asia menjadi bagian dari strategi memperkuat promosi destinasi wisata daerah dalam branding Wonderful Indonesia. Menurutnya, selama ini Kabupaten Malang identik dengan Bromo. Padahal, masih banyak destinasi lain yang memiliki potensi besar untuk menarik wisatawan domestik maupun mancanegara. "Travel Meet Asia menjadi momentum penting untuk memperkenalkan potensi pariwisata Kabupaten Malang kepada asosiasi travel, tour operator, dan buyer internasional," ujarnya. Pihaknya ingin semakin banyak pelaku industri pariwisata mengenal bahwa Kabupaten Malang tidak hanya memiliki Bromo, tetapi juga Coban Sewu, pantai-pantai di Malang Selatan, desa wisata, dan berbagai destinasi unggulan lainnya yang layak menjadi pilihan wisata. Promosi tersebut menyasar pasar ASEAN, khususnya Singapura, serta jaringan travel agent dan buyer internasional yang hadir dalam kegiatan tersebut. Selain memperkenalkan destinasi wisata, Dinas Pariwisata dan Kebudayaan Kabupaten Malang juga memanfaatkan forum tersebut untuk memperluas jaringan kerja sama dengan berbagai pemangku kepentingan di sektor pariwisata. Firmando menilai kolaborasi dengan asosiasi perjalanan, pelaku industri wisata, dan sektor perhotelan menjadi langkah penting untuk meningkatkan daya saing destinasi wisata Kabupaten Malang. "Kami ingin membangun sinergi yang lebih luas dengan asosiasi perjalanan, pelaku industri, hingga jaringan perhotelan. Masukan dari para buyer dan pelaku pariwisata sangat penting sebagai bahan evaluasi untuk menyempurnakan produk, pelayanan, dan pengelolaan destinasi sehingga pariwisata Kabupaten Malang semakin kompetitif," katanya. Dalam kesempatan tersebut, Disparbud Kabupaten Malang juga melakukan dialog dengan Menteri Pariwisata terkait strategi pengembangan salah satu destinasi unggulan, yakni Coban Sewu. Pembahasan tidak hanya menyangkut aspek promosi, tetapi juga peningkatan keamanan destinasi serta penguatan kualitas sumber daya manusia (SDM) pariwisata. Menurut Firmando, peningkatan kapasitas para pemandu wisata menjadi salah satu perhatian utama, terutama bagi para guide yang belum tergabung dalam organisasi profesi. "Kami menyampaikan strategi pengembangan dan pemasaran Coban Sewu agar semakin dikenal di pasar nasional maupun internasional. Kemen
+
+
+### Artikel 4046
+Judul: Heboh Foto Karcis Gunung Kawi Rp 400 Ribu Beredar di Medsos, Ini Faktanya - detikcom
+Isi:
+Unggahan foto karcis masuk ke kawasan wisata religi Gunung Kawi, Kecamatan Wonosari, Kabupaten Malang, mendadak geger di media sosial. Pasalnya, dalam foto lembaran karcis yang beredar tersebut, tertera nominal harga tiket yang sangat fantastis, yakni sebesar Rp 400 ribu per orang. Beredarnya foto tersebut langsung menyedot perhatian netizen dan memicu polemik. Tarif tersebut dinilai sangat tidak wajar untuk ukuran retribusi masuk objek wisata religi di wilayah Kabupaten Malang. Menanggapi itu pihak Kecamatan Wonosari langsung angkat bicara untuk meluruskan informasi simpang siur yang meresahkan publik tersebut. SCROLL TO CONTINUE WITH CONTENT Camat Wonosari A.K. Wisnu Aji memastikan bahwa kabar mengenai harga tiket masuk Wisata Gunung Kawi seharga Rp 400 ribu adalah tidak benar alias hoaks. Foto karcis bertarif fantastis yang terlanjur viral di media sosial itu diduga kuat merupakan hasil rekayasa atau suntingan. Wisnu menjelaskan bahwa karcis dengan nominal Rp 400 ribu itu bukanlah tiket resmi yang dikeluarkan oleh pihak pengelola maupun pemerintah desa setempat. Ia menduga ada oknum yang sengaja mengedit gambar karcis tersebut hingga memicu kegaduhan. "Itu tidak benar, kami sudah monitor dan koordinasi dengan Pak Kades Wonosari, yang beredar itu tidak betul," ujar Wisnu saat dikonfirmasi, Kamis (13/8/2026). Wisnu menegaskan, ada dugaan tiket karcis sebesar Rp 400 ribu tersebut merupakan produk editan oleh pihak yang tak bertanggung jawab. Karena hingga saat ini besaran tarif karcis yang diterbitkan oleh Pemerintah Desa Wonosari sebesar Rp 5 ribu per orang. "Sepertinya gambar tersebut editan, sekilas nampak ada huruf yang tidak sesuai dengan aslinya. Karena harga tiket aslinya Rp 5 ribu," bebernya. Pihaknya pun meminta warga maupun wisatawan agar tidak langsung menelan mentah-mentah kabar yang beredar di media sosial. Wisnu juga mengimbau masyarakat untuk selalu melakukan saring sebelum sharing dan memastikan kebenaran informasi ke pihak berwenang. "Jangan mudah percaya dengan informasi yang belum valid sumber dan kebenarannya belum jelas. Tolong pastikan informasi berasal dari sumber resmi dr pengelola atau pihak desa. Cek kebenarannya dikhawatirkan nanti justru menimbulkan keresahan, salah paham, bahkan merugikan orang lain," pungkasnya. Anda menyukai artikel ini
+
+
+### Artikel 4047
+Judul: Harga Tiket Malang Skyland Mei 2026, Ada Jembatan Kaca Viral - Tribun Travel
+Isi:
+TRIBUNTRAVEL.COM - Malang Skyland menjadi satu destinasi wisata hits di Kabupaten Malang yang ramai dikunjungi wisatawan saat liburan. Tempat wisata ini menawarkan konsep wisata alam instagramable dengan perpaduan panorama pegunungan, spot foto estetik, wahana permainan hingga area kuliner dalam satu kawasan. Pesan tiket wisata Malang Skyland lewat tiket.com untuk menikmati liburan praktis dengan banyak promo menarik. Cari hotel dekat Malang Skyland di tiket.com untuk staycation nyaman sambil menikmati udara sejuk Malang. Berkunjung ke Malang Skyland memberikan pengalaman menikmati pemandangan Kota Malang dari ketinggian dengan suasana sejuk khas dataran tinggi. Satu daya tarik utamanya adalah jembatan kaca atau Sky Glass yang memungkinkan pengunjung melihat panorama Kota Malang dan area sekitarnya dari atas. Baca juga: Harga Tiket TMII Jakarta Mei 2026, Ada Jagat Satwa dan Shuttle Gratis Baca juga: Harga Tiket Masuk New Small World Mei 2026, Taman Dino Hits di Banyumas Selain itu ada pula Sky Garden, taman di ketinggian yang dipenuhi berbagai tanaman hias dan bunga cantik. Tak hanya menawarkan wisata alam, Malang Skyland juga menyediakan berbagai fasilitas penunjang mulai dari cafe, kantin, mushola, toilet hingga area parkir luas. Bagi keluarga yang membawa anak-anak, tersedia playground gratis untuk balita dan anak-anak. Pengunjung juga dapat menyewa sepeda listrik untuk berkeliling area wisata. Baca juga: Terbaru , Harga Tiket Masuk Kebun Binatang Surabaya untuk Kunjungan Mei 2026 Spot Foto Instagramable di Malang Skyland Malang Skyland dikenal memiliki banyak spot foto estetik yang cocok untuk kebutuhan media sosial. Beberapa spot favorit wisatawan antara lain Sky Bridge, Jembatan Kaca, Sky Net, Rainbow Gate hingga video booth 360 derajat. Saat sore hari, suasana di kawasan ini semakin menarik karena pengunjung bisa menikmati pemandangan sunset dari ketinggian. Tak heran jika banyak wisatawan memilih datang menjelang petang untuk berburu foto sekaligus menikmati suasana malam. Baca juga: Harga Tiket Masuk Museum Benteng Vredeburg Mei 2026, Wisata Ikonik di Jogja Lokasi dan Rute ke Malang Skyland Malang Skyland berlokasi di Jalan Brak, Leban, Tawangargo , Karangploso , Kabupaten Malang , Jawa Timur . Jaraknya sekira 34 hingga 40 menit perjalanan dari pusat Kota Malang . Rute tercepat menuju lokasi bisa ditempuh melalui Jalan Raya Gempol-Malang atau Jalan Raya Lawang-Malang. Dari pusat kota, perjalanan dilanjutkan menuju Jalan Raya Karangjuwet hingga masuk ke Jalan Brak sebagai akses terakhir menuju Malang Skyland. Akses jalan menuju lokasi relatif mudah dilalui kendaraan roda dua maupun roda empat sehingga cocok untuk wisata keluarga. Baca juga: Harga Tiket PICTNIQ Jogja Mei 2026, Wisata Ala Eropa di Gunungkidul Jam Buka Malang Skyland Mei 2026 Sebelum berkunjung, wisatawan perlu mengetahui jam operasional Malang Skyland. Berikut jadwal jam buka Malang Skyland: Waktu favorit wisatawan biasanya pada sore hingga malam hari karena suasana lebih s

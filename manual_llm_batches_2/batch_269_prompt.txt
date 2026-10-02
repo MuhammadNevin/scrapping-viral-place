@@ -1,0 +1,79 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata",
+          "jenis_tempat": "misal: kafe jepang, restoran indonesia, warung padang, dll",
+          "lokasi_text": "lokasi mentah apa adanya sesuai artikel atau kamu cari di internet (kelurahan/kecamatan/kota/kabupaten/provinsi)",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "alasan_viral": "ringkasan alasan/daya tarik",
+          "indikasi_waktu": "tanggal/bulan/periode eksplisit terkait mulai viral, atau null jika tidak disebut",
+          "is_explicitly_viral": true atau false (true HANYA jika artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet, bukan sekadar direkomendasikan),
+          "confidence": angka 0-1
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 2144
+Judul: Rekomendasi 10 Tempat Sarapan Enak di Samarinda, Ada Nasi Kuning hingga Bubur Ayam - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Sarapan menjadi waktu makan yang penting untuk mengisi energi sebelum memulai aktivitas.Di Samarinda, pilihan tempat sarapan...
+
+
+### Artikel 2145
+Judul: Rekomendasi 8 Rumah Makan Banjar di Samarinda, Sajikan Kuliner Khas dengan Cita Rasa Autentik - Arusbawah.co
+Isi:
+Rumah makan ini juga dikenal memiliki banyak pelanggan tetap dan menjadi salah satu kuliner legendaris di kawasan Pasar Pagi.Alamat: Jalan KH Abul Has...
+
+
+### Artikel 2146
+Judul: 8 Rekomendasi Sate Buka Siang di Samarinda, Ada Pilihan Sate Kambing hingga Ayam - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Samarinda memiliki banyak pilihan kuliner yang bisa menjadi tujuan untuk makan siang.&nbsp;Bagi pencinta sate, tidak perlu me...
+
+
+### Artikel 2147
+Judul: 7 Rekomendasi Warung Nasi Pecel di Samarinda, Favorit untuk Sarapan dan Makan Siang - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Bagi pencinta kuliner tradisional, nasi pecel menjadi salah satu menu yang selalu menggugah selera.&nbsp;Perpaduan aneka sayu...
+
+
+### Artikel 2148
+Judul: 9 Rekomendasi Kuliner Samarinda Terbaik untuk Pecinta Seafood dan Masakan Khas dari Kalimantan Timur - Jawa Pos
+Isi:
+Ilustrasi kuliner Samarinda (Instagram @smrbikinlaper) &nbsp; &nbsp; JawaPos.com &nbsp;- &nbsp;Samarinda tidak hanya dikenal sebagai ibu kota Kalimantan Timur, tetapi juga sebagai surga kuliner yang menawarkan beragam hidangan khas dengan cita rasa menggugah selera. Mulai dari olahan ikan segar, nasi kuning khas Banjar, hingga soto Banjar yang legendaris, semuanya bisa ditemukan dengan mudah di kota ini. Bagi Anda yang sedang berlibur atau berkunjung ke Samarinda, berikut rekomendasi tempat makan legendaris yang wajib dicoba untuk memanjakan lidah seperti dilansir dari YouTube 10 Best Id. 1. Raja Kepala Ikan — Surganya Pecinta Olahan Ikan Jika Anda penggemar hidangan laut, Raja Kepala Ikan menjadi destinasi kuliner yang tidak boleh dilewatkan. Restoran ini terkenal dengan berbagai menu berbahan dasar ikan yang dimasak dengan bumbu khas Kalimantan. Beberapa menu favorit yang banyak dipesan antara lain kepala ikan palumara, kepala ikan asam pedas, hingga ikan baronang bakar rica. Lokasinya berada di Jalan Awang Long, Bugis, Kecamatan Samarinda Kota, Kalimantan Timur. Restoran ini melayani pelanggan setiap hari mulai pukul 10.00 hingga 22.00 WITA. 2. Nasi Kuning Acil Kintul — Kuliner Malam Favorit Warga Samarinda Nasi Kuning Acil Kintul Mangkurat menjadi salah satu kuliner malam yang selalu ramai pembeli. Warung sederhana yang berlokasi di Jalan Lambung Mangkurat II, Kecamatan Sungai Pinang ini menawarkan nasi kuning khas Banjar dengan bumbu habang atau bumbu merah yang kaya rasa. Sajian tersebut biasanya dilengkapi lauk ikan haruan yang membuat rasanya semakin istimewa. Dengan harga sekitar Rp11.000&nbsp;hingga Rp16.000&nbsp;per porsi, tempat ini menjadi favorit warga lokal. Warung buka mulai pukul 22.30 hingga 03.30 WITA. 3. Soto Banjar Veteran — Kuliner Legendaris yang Selalu Dicari Soto Banjar Veteran merupakan salah satu tempat makan legendaris di Samarinda yang terkenal dengan kuahnya yang gurih dan segar. Meski dahulu bernama Pusaka Indah, masyarakat lebih mengenalnya sebagai Soto Veteran karena lokasinya berada di Jalan Veteran. Satu porsi soto berisi ayam kampung suwir, telur, soun, perkedel, serta kuah kental yang kaya rempah. Pengunjung dapat memilih pendamping berupa nasi atau lontong. Dengan harga sekitar Rp28.000&nbsp;per porsi, tempat makan ini buka setiap hari pukul 06.00 hingga 21.00 WITA. 4. Warung Makan Ikan Bakar Haji Ijay Berada di Jalan Kadri Oening, Warung Makan Ikan Bakar Haji Ijay hampir tidak pernah sepi pengunjung. Menu unggulannya adalah berbagai jenis ikan bakar, baik ikan air tawar maupun ikan laut yang diolah dengan bumbu khas. Selain itu tersedia pula ayam bakar dan empal jagung yang tak kalah lezat. Harga makanan di sini cukup terjangkau, mulai dari Rp20.000. Warung buka pukul 10.00 hingga 16.00 WITA dan biasanya sangat ramai saat jam makan siang. 5. Pisang Gapit Warkop Voorvo — Jajanan Manis Khas Samarinda Belum lengkap rasanya berwisata kuliner di Samarinda tanpa mencicipi pisang gapit. Salah satu tempat terbaik un
+
+
+### Artikel 2149
+Judul: Rekomendasi 7 Rawon Enak di Samarinda yang Siap Menghangatkan Harimu, Kuah Pekatnya Bikin Nagih - Arusbawah.co
+Isi:
+ARUSBAWAH.CO&nbsp;-&nbsp;Rawon menjadi salah satu hidangan khas Jawa Timur yang memiliki banyak penggemar di berbagai daerah, termasuk Samarinda.Ciri...
+
+
+### Artikel 2150
+Judul: 5 Tempat Makan Siang Enak di Samarinda, Terkenal Enak dan Legendaris - Tribun Travel
+Isi:
+TRIBUNTRAVEL.COM - Samarinda memiliki beragam pilihan kuliner yang cocok untuk menikmati makan siang bersama keluarga, teman, maupun rekan kerja. Mulai dari masakan khas Kalimantan Timur hingga hidangan Nusantara, ada banyak tempat makan yang bisa menjadi pilihan saat berada di Kota Samarinda. Baca juga: Tips Liburan ke Taman Sari Jogja, Jangan Lupa Bawa Air Minum Berikut rekomendasi 5 tempat makan siang enak di Samarinda yang populer dan layak masuk daftar kuliner traveler. 1. RM Amado - Soto Banjar Bagi pencinta kuliner berkuah, RM Amado - Soto Banjar bisa menjadi pilihan makan siang yang menggugah selera di Samarinda . Soto Banjar dikenal dengan kuah gurih berbumbu rempah, potongan ayam, dan pelengkap yang membuat hidangan semakin nikmat. Lokasinya berada di Jalan Pangeran Diponegoro No. 43, Samarinda Kota. Tempat makan ini tercatat sebagai salah satu restoran soto yang banyak mendapat ulasan dari pengunjung. 2. Ayam Goreng Banjar Ayam Goreng Banjar cocok untuk traveler yang ingin menikmati makan siang sederhana dengan cita rasa khas Nusantara. Menu ayam goreng bersama nasi dan sambal menjadi pilihan yang praktis untuk mengisi energi di tengah aktivitas. Restoran ini beralamat di Jalan KH Abul Hasan No. 54, Pasar Pagi, Samarinda Kota. Ayam Goreng Banjar juga tercantum dalam rekomendasi restoran makan siang di Samarinda . 3. Warung Dayak Mahakam Warung Dayak Mahakam dapat dipertimbangkan oleh wisatawan yang ingin mengeksplorasi pilihan makanan khas Indonesia di Samarinda . Nama tempatnya menarik bagi pencinta kuliner yang ingin mengenal lebih dekat ragam cita rasa lokal. Lokasinya berada di Jalan Sei Musi No. 34, Samarinda Kota. Sebelum berkunjung, traveler dapat menanyakan menu yang tersedia untuk makan siang dan menyesuaikannya dengan selera keluarga. 4. Ikan Goreng Cianjur Samarinda Jika traveler menyukai hidangan ikan, Ikan Goreng Cianjur Samarinda bisa masuk daftar tujuan kuliner saat berada di pusat kota. Menu berbahan ikan cocok untuk makan bersama keluarga, terutama bagi pengunjung yang mencari variasi lauk selain ayam. Restoran ini beralamat di Jalan Pangeran Diponegoro C No. 53B, Pelabuhan, Samarinda Kota. Informasi bisnis menunjukkan tempat ini memiliki banyak ulasan pengunjung, sehingga bisa menjadi salah satu pilihan yang traveler pertimbangkan. Rumah Makan Anna merupakan pilihan bagi pencinta hidangan ikan bakar yang ingin menikmati makan siang di Samarinda . Restoran ini berada di Jalan Pangeran Diponegoro No. 08, Pasar Pagi, Samarinda Kota. Dengan pilihan menu berbahan ikan, tempat ini dapat menjadi alternatif untuk makan bersama keluarga atau teman. Pastikan traveler mengecek ketersediaan menu sebelum datang agar pengalaman makan siang lebih sesuai harapan. Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
+
+
+### Artikel 2151
+Judul: Wisata Kuliner Samarinda: 9 Rekomendasi Tempat Makan Legendaris Paling Populer yang Wajib Dicoba - Jawa Pos
+Isi:
+Ilustrasi kuliner Samarinda (Instagram @linafauziyati) JawaPos.com &nbsp;- &nbsp;Samarinda tidak hanya dikenal sebagai ibu kota Kalimantan Timur, tetapi juga sebagai surga kuliner dengan cita rasa khas yang menggugah selera. Beragam hidangan tradisional hingga olahan seafood segar bisa dengan mudah ditemukan di kota ini. Jika kamu sedang berkunjung, berikut daftar wisata kuliner Samarinda legendaris yang wajib masuk bucket list dilansir dari YouTube 10 Best Id. Baca Juga: Lupakan Diet, Ini 13 Rekomendasi Kuliner Steak Paling Mantap di Bandung dengan Rasa Daging yang Sedap 1. Raja Kepala Ikan, Surganya Olahan Ikan Lezat Bagi pecinta seafood, Raja Kepala Ikan menjadi destinasi yang tidak boleh dilewatkan. Restoran ini menyajikan berbagai menu olahan ikan dengan cita rasa khas, seperti kepala ikan palumara, asam pedas, hingga ikan baronang bakar. Berlokasi di Jalan Awang Long, tempat ini buka setiap hari dari pagi hingga malam dan selalu ramai pengunjung. 2. Nasi Kuning Acil Kintul, Kuliner Malam Favorit Ingin menikmati kuliner malam khas Samarinda? Nasi Kuning Acil Kintul adalah jawabannya. Kedai sederhana ini terkenal dengan nasi kuning berbumbu habang khas Banjar, lengkap dengan lauk ikan haruan. Selain rasanya yang autentik, harganya juga ramah di kantong. Uniknya, tempat ini buka mulai larut malam hingga dini hari. 3. Soto Banjar Jalan Veteran, Legendaris dan Mengenyangkan Soto Banjar di Jalan Veteran sudah lama menjadi favorit warga lokal. Kuahnya gurih dan segar, dengan isian lengkap seperti ayam kampung, telur, soun, dan perkedel. Pengunjung bisa memilih menikmatinya dengan nasi atau lontong, menjadikannya menu sarapan hingga makan malam yang sempurna. 4. Warung Ikan Bakar Haji Ijay, Selalu Ramai Pengunjung Warung makan ini terkenal dengan sajian ikan bakarnya yang menggoda selera. Beragam pilihan ikan air tawar dan laut tersedia, ditambah menu pelengkap seperti ayam bakar dan empal jagung. Lokasinya di Jalan Kadrie Oeing dan hampir selalu penuh, terutama saat jam makan siang. 5. Pisang Gapit Warkop Voorvo, Jajanan Manis yang Wajib Coba Tak lengkap rasanya ke Samarinda tanpa mencicipi pisang gapit. Di Warkop Voorvo, kamu bisa menikmati pisang bakar yang disiram saus gula merah dan santan yang kental. Rasanya manis legit dan cocok sebagai camilan santai di sore hari. 6. Restoran Siang Malam, Kulineran Sambil Menikmati Sungai Mahakam Restoran ini menawarkan pengalaman makan yang berbeda dengan pemandangan Sungai Mahakam. Menu favoritnya adalah ikan bakar yang disajikan dengan tumis kangkung atau capcay kuah. Tempatnya nyaman dan cocok untuk makan bersama keluarga. 7. Pondok Borneo, Hidangan Khas Kalimantan yang Menggoda Pondok Borneo menghadirkan berbagai menu khas Kalimantan dengan cita rasa autentik. Ikan bakar, pindang, hingga aneka seafood segar menjadi andalan. Suasana tempatnya yang nyaman membuat restoran ini cocok untuk kumpul keluarga maupun acara santai. 8. Rumah Makan Bemo, Surganya Pecinta Seafood Rumah Makan Bemo dikenal dengan sa

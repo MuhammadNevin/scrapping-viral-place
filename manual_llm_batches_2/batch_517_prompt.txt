@@ -1,0 +1,79 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata",
+          "jenis_tempat": "misal: kafe jepang, restoran indonesia, warung padang, dll",
+          "lokasi_text": "lokasi mentah apa adanya sesuai artikel atau kamu cari di internet (kelurahan/kecamatan/kota/kabupaten/provinsi)",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "alasan_viral": "ringkasan alasan/daya tarik",
+          "indikasi_waktu": "tanggal/bulan/periode eksplisit terkait mulai viral, atau null jika tidak disebut",
+          "is_explicitly_viral": true atau false (true HANYA jika artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet, bukan sekadar direkomendasikan),
+          "confidence": angka 0-1
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 4128
+Judul: Viral Motor Harley Terbakar di Denpasar Timur, Ini Temuan Polisi - JPNN.com
+Isi:
+bali.jpnn.com , DENPASAR - Polsek Denpasar Timur (Dentim) bergerak cepat melakukan olah tempat kejadian perkara (TKP) terkait terbakarnya satu unit sepeda motor Harley Davidson di Jalan Gumitir, Desa Kesiman Kertalangu, Kamis (23/4). Insiden terbakarnya motor Harley Davidson ini sempat viral setelah videonya diunggah di media sosial. Insiden ini bermula saat korban, seorang warga asal Ubud, Gianyar, tengah memanaskan mesin motor besar tersebut sebelum berkendara. Nahas, percikan api tiba-tiba muncul dan dengan cepat melahap bodi motor mewah tersebut. Beruntung, aksi sigap warga sekitar yang membantu memadamkan api dengan APAR dan air selang membuat api padam dalam waktu 10 menit tanpa ada korban jiwa. "Unit UKL yang dipimpin Ipda I Wayan Suartana sudah diterjunkan ke lokasi untuk mengumpulkan keterangan saksi dan memastikan penyebab pasti kejadian," ujar Kapolsek Dentim Kompol I Ketut Tomiyasa, Jumat (24/4). Dugaan sementara kebakaran dipicu korsleting listrik pada instalasi kendaraan yang merembet ke tangki bahan bakar. Akibat kejadian tersebut, sepeda motor Harley Davidson mengalami kerusakan parah. Silakan baca konten menarik lainnya dari JPNN.com Bali di Google News
+
+
+### Artikel 4129
+Judul: Jangan Cuma ke Pantai, Ini Rute Buat Kamu yang Ingin Berwisata di Denpasar - detikcom
+Isi:
+Jangan Cuma ke Pantai, Ini Rute Buat Kamu yang Ingin Berwisata di Denpasar Kadek Eno Vania Wikasari - detikBali Denpasar tidak hanya menawarkan pantai. Kota ini juga punya museum, monumen bersejarah, kawasan kota tua hingga pusat kuliner yang bisa dikunjungi dalam satu hari. Kalau ingin mencoba jalan-jalan dengan suasana berbeda, rute ini cocok untuk kamu yang ingin melihat sisi lain Denpasar tanpa harus pergi jauh-jauh dari pusat kota. Museum Le Mayeur bisa menjadi pemberhentian pertama karena lokasinya berada di kawasan Sanur dan buka sejak pagi hari. Museum ini menyimpan banyak karya pelukis Belgia, Adrien Jean Le Mayeur de Merpres, yang datang ke Bali pada 1932 lewat jalur laut dan berlabuh di Singaraja. Menariknya, kisah Museum Le Mayeur juga tidak bisa dilepaskan dari penari legong yang kemudian menjadi model sekaligus istri sang pelukis, yaitu Ni Nyoman Polok. Museum ini resmi berdiri pada 28 Agustus 1957 untuk melestarikan karya-karya Le Mayeur. Museum Le Mayeur berada di Jalan Hang Tuah, Desa Sanur Kaja, Kecamatan Denpasar Selatan. Berdasarkan informasi Dinas Pariwisata Denpasar, harga tiket masuk sebesar Rp 10 ribu untuk dewasa dan Rp 5 ribu untuk anak-anak. Waktu berkunjung tercantum mulai pukul 08.00 hingga 16.00 Wita. Setelah dari Museum Le Mayeur, perjalanan bisa dilanjutkan ke Monumen Perjuangan Rakyat Bali Bajra Sandhi. Monumen ini berada di tengah Lapangan Puputan Margarana Niti Mandala dan menjadi salah satu ikon Kota Denpasar. Monumen Bajra Sandhi menceritakan perjalanan sejarah Bali, mulai dari kehidupan masyarakat Bali pada masa lampau hingga perjuangan melawan penjajahan dan masa setelah kemerdekaan. Monumen Bajra Sandhi buka setiap Senin-Jumat pukul 08.30-17.00 Wita dan Sabtu - Minggu pukul 09.30-17.00 Wita. Harga tiket masuk untuk wisatawan lokal sebesar Rp 25 ribu, sedangkan pelajar dan mahasiswa dikenakan Rp 5 ribu. Menjelang sore, perjalanan bisa dilanjutkan ke kawasan Gajah Mada Heritage. Kawasan ini berada di pusat Kota Denpasar dan dikenal dengan deretan bangunan lama yang masih mempertahankan suasana Denpasar tempo dahulu. Jalan Gajah Mada juga menjadi salah satu kawasan bersejarah di Denpasar. Sepanjang jalan, pengunjung bisa menemukan toko, tempat makan hingga bangunan tua yang masih digunakan sampai sekarang. Kalau datang sore hari, suasana akan terasa lebih santai untuk jalan-jalan sambil melihat sisi lama Kota Denpasar. Kawasan ini juga tidak jauh dari Pasar Badung dan Tukad Badung. Jadi setelah puas berkeliling Gajah Mada, perjalanan bisa dilanjutkan dengan menjelajahi kuliner di Pasar Badung. Selepas puas keliling kawasan Gajah Mada, waktunya mencari makan malam di sekitar Pasar Badung. Area sekitar pasar biasanya masih ramai hingga malam dan bisa jadi pilihan untuk berburu jajanan atau sekadar melihat aktivitas warga. Setelah berburu kuliner, detikers bisa melanjutkan aktivitas ke Tukad Korea di kawasan Tukad Badung. Area ini berada di bantaran sungai dan dilengkapi tempat duduk serta area untuk bersantai. S
+
+
+### Artikel 4130
+Judul: Pemkot Denpasar Lanjutkan Penataan Sanur Senilai Rp23,9 Miliar, Kawasan Wisata Kian Ramah Pejalan Kaki - Radar Badung
+Isi:
+Pemerintah Kota Denpasar kembali melanjutkan tahap selanjutnya penataan kawasan wisata Sanur pada tahun 2026. Usai menyelesaikan rehabilitasi Jalan Danau Tamblingan beserta penataan trotoar, kini pekerjaan menyasar ruas
+
+
+### Artikel 4131
+Judul: Antisipasi Lakalaut, Satpolairud Polresta Denpasar Perketat Pengawasan Wisata Bahari Kutsel - BALIPOST.com
+Isi:
+Bali > Badung > Antisipasi Lakalaut, Satpolairud Polresta Denpasar Perketat Pengawasan Wisata Bahari Kutsel Pengecekan sarana dan prasarana yang dimiliki wahana wisata bahari, Kasi Humas Polresta Denpasar Iptu Gede Adi Saputra Jaya, Sabtu (29/8) menyampaikan rutin dilakukan oleh personel Satpolairud. Petugas melakukan kegiatan sambang dialogis dalam pengawasan dan pemantauan wahana wisata laut tersebut. “Anggota Satpolairud Polresta Denpasar juga melaksanakan pengawasan di pesisir pantai,” ujarnya. Pengawasan diperketat saat terjadi  ekstrem yang diprediksi akan membahayakan para wisatawan maupun penyedia wisata bahari. Imbauan dan teguran akan diberikan saat penyedia wahana wisata bahari tidak mengindahkan atau mengabaikan faktor keselamatan pengguna jasa/wisatawan. Selain itu, koordinasi dengan paguyuban dan para pengelola wisata laut senantiasa terjalin dengan baik. “Sejauh ini belum adanya penyedia wisata bahari yang tidak mengindahkan imbauan saat cuaca ekstrem. Termasuk belum ada sanksi menutupan tempat usaha tersebut,” tegasnya. (Kerta Negara/balipost)
+
+
+### Artikel 4132
+Judul: Gelar Gathering Destinasi Pariwisata, Pemkot Denpasar Dorong Sektor Pariwisata Destinasi dan Horeka Terapkan Ekonomi Sirkular - Bali Viral News
+Isi:
+BUKA GATHERING – Sekda Kota Denpasar, I Gusti Ngurah Eddy Mulya mewakili Walikota Denpasar saat membuka Gathering Destinasi Pariwisata Kota Denpasar di Grand Mercure Sanur, Selasa (28/4). DENPASAR (BALIVIRALNEWS) – Pemerintah Kota Denpasar mendorong sektor pariwisata destinasi dan hotel, restoran, kafe/katering (horeka) untuk menerapkan ekonomi sirkular yang menggabungkan sektor bisnis pariwisata dengan pengolahan sampah/limbah berkelanjutan. Hal tersebut diungkapkan Sekda Kota Denpasar I Gusti Ngurah Eddy Mulya mewakili Walikota Denpasar saat membuka Gathering Destinasi Pariwisata Kota Denpasar di Grand Mercure Sanur, Selasa (28/4). Kegiatan tersebut merupakan momentum penyamaan persepsi dalam mewujudkan pariwisata berkelanjutan sesuai konsep Waste to Worth dengan sistem ekonomi sirkular yang mengedepankan 5 R (Rethink, Reduce, Reuse, Recycle, dan Recovery). Kadis Pariwisata Kota Denpasar Ni Luh Putu Ryastiti dalam kesempatan tersebut mengatakan, pelaksanaan Gathering Destinasi Pariwisata Kota Denpasar Tahun 2026 ini diikuti oleh 80 peserta yang terdiri atas 40 daerah tujuan wisata (DTW) dan 40 perwakilan pemilik usaha Horeka. Dikatakannya, berbagai narasumber turut dihadirkan, yakni Inspektur Daerah Kota Denpasar, Dinas Lingkungan Hidup dan Kebersihan Kota Denpasar, perwakilan Eling Ring Pertiwi Anak Agung Ngurah Srijaya Widiada, perwakilan Blockchain I Komang T. Ananda D. Priantara, dan Management PT Bali Ocean Magic -Waterboom Bali, Syifa Muntaha. “Mari kita samakan persepsi mewujudkan pariwisata berkelanjutan di Kota Denpasar dengan konsep Waste to Worth,” ujarnya. Sekretaris Daerah Kota Denpasar I Gusti Ngurah Eddy Mulya menegaskan, sebagai kota pariwisata berbasis budaya, Denpasar tidak hanya dituntut menghadirkan pengalaman wisata yang berkualitas, tetapi juga memastikan pengelolaan destinasi dilakukan secara berkelanjutan. “Kami tidak bisa lagi memandang sampah sebagai persoalan biasa. Ini adalah isu strategis yang berpengaruh langsung terhadap keberlanjutan pariwisata dan kualitas hidup masyarakat,” ujarnya. Menurutnya, pendekatan ekonomi sirkular sejalan dengan waste to worth . Konsep ini menjadi langkah strategis dalam mengubah paradigma pengelolaan sampah. Konsep ini sejalan dengan kebijakan Pemerintah Kota Denpasar yang mendorong pengelolaan sampah berbasis sumber, mulai dari pemilahan, pengurangan, hingga pengolahan yang dilakukan sejak dari hotel, restoran, kafe, hingga destinasi wisata. “Kami mendorong pelaku pariwisata baik destinasi dan horeka agar mulai menerapkan sistem ekonomi sirkular. Pendekatan ini mendorong kita untuk melihat sampah sebagai potensi dengan konsep 5R, yakni sampah bukan sekadar residu yang harus dibuang,” tambahnya. Eddy Mulya menekankan, sektor horeka memiliki peran yang sangat penting dan strategis dalam mendukung upaya tersebut. Langkah sederhana seperti pemilahan sampah organik dan anorganik, pengurangan penggunaan plastik sekali pakai, pengolahan sisa makanan menjadi kompos, serta pemanfaatan kembali 
+
+
+### Artikel 4133
+Judul: Tiongkok Dukung Pengetatan Standar Keselamatan Wisata Berisiko Tinggi di Bali dan Nusra - Radar Bali
+Isi:
+Kunjungan turis Tiongkok ke Bali &amp; NTT melonjak, Konjen Tiongkok galang kolaborasi lintas sektor untuk tingkatkan sistem pengawasan wisata berisiko tinggi dan tanggap darurat.
+
+
+### Artikel 4134
+Judul: Ratusan DTW Tersebar di Bali, Destinasi Favorit Masih Didominasi 3 Kabupaten Ini - BALIPOST.com
+Isi:
+Bali > Ratusan DTW Tersebar di Bali, Destinasi Favorit Masih Didominasi 3 Kabupaten Ini Berdasarkan catatan Dinas Pariwisata (Dispar) Provinsi Bali, DTW tersebar merata di sembilan kabupaten/kota. Setiap wilayah menawarkan karakteristik berbeda yang memperkaya pengalaman wisata di Bali. Bahkan, sejumlah destinasi disebut sebagai wajib dikunjungi karena dianggap belum lengkap berlibur ke Bali tanpa mendatanginya. Kepala Bidang Destinasi Pariwisata Dispar Bali, A.A. Made Anggia Widana, mengungkapkan bahwa jumlah DTW di Bali mencapai ratusan. “Untuk DTW di Bali terdapat 505 yang tersebar di sembilan kabupaten/kota, sedangkan desa wisata ada 243 berdasarkan catatan tahun 2025,” ujarnya, Sabtu (18/4). Perempuan yang akrab disapa Anggie ini juga menyoroti munculnya destinasi baru yang kini tengah viral di media sosial, yakni Pantai Sidakarya. Pantai ini diketahui dikelola oleh desa adat setempat dan mulai menarik perhatian wisatawan. Terkait tingkat kunjungan, Anggie mengatakan ada 3 kabupaten yang mendominasi. Ia memaparkan bahwa pada periode Januari–Februari 2026, DTW di Kabupaten Badung menempati posisi teratas dengan total kunjungan mencapai 839.403 wisatawan. Disusul Kabupaten Gianyar dengan 372.518 kunjungan, serta Kabupaten Tabanan di posisi ketiga dengan 351.852 kunjungan. Di Kabupaten Badung, sejumlah DTW favorit wisatawan antara lain Pura Uluwatu yang terkenal dengan pura di atas tebing serta atraksi tari kecak berlatar matahari terbenam dan kawanan kera. Selain itu, Pantai Pandawa menawarkan panorama pantai tersembunyi dengan tebing kapur yang menjulang tinggi, serta akses menuju kawasan unik Tanah Barak. Tak kalah populer, Pantai Labuan Sait atau yang dikenal sebagai Pantai Padang-Padang menjadi surga bagi peselancar dengan lanskap tebing yang eksotis. Sementara di Kabupaten Gianyar, wisatawan banyak mengunjungi Tirta Empul yang dikenal sebagai tempat pelukatan atau ritual penyucian diri dengan mata air alami. Destinasi lainnya adalah Air Terjun Tegenungan yang menyuguhkan panorama air terjun setinggi sekitar 15 meter di tengah aliran sungai. Selain itu, Bali Safari and Marine Park menjadi pilihan wisata edukasi dan konservasi dengan ratusan satwa yang hidup menyerupai habitat aslinya. Adapun di Kabupaten Tabanan, Tanah Lot masih menjadi ikon wisata dengan pura di atas karang di tepi laut. Kemudian Ulun Danu Beratan menawarkan keindahan pura di tengah danau dengan udara sejuk pegunungan. Serta Jatiluwih yang menyuguhkan panorama sawah berundak khas Bali lengkap dengan aktivitas pertanian tradisional. (Ketut Winata/balipost) Login untuk meninggalkan komentar
+
+
+### Artikel 4135
+Judul: Viral! Limbah Dibuang ke Pantai Segara Sanur, PUPR Denpasar Turun Tangan - Radar Badung
+Isi:
+Video yang beredar di media sosial memperlihatkan aliran air keruh yang diduga sebagai limbah yang dibuang ke kawasan Pantai Segara Sanur sempat menimbulkan kekhawatiran warga. Menanggapi hal tersebut, Dinas Pekerjaan

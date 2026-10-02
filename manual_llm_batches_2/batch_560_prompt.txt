@@ -1,0 +1,79 @@
+Kamu akan menerima beberapa artikel berita. Untuk SETIAP artikel, ekstrak semua tempat makan/kafe/resto/wisata/museum/wahana/pameran yang disebutkan.
+
+Balas HANYA dengan JSON valid (tanpa penjelasan, tanpa markdown code fence) dengan format:
+{
+  "results": [
+    {
+      "article_id": <id artikel, angka>,
+      "places": [
+        {
+          "nama_tempat": "...",
+          "kategori": "Kafe/Restoran/Wisata",
+          "jenis_tempat": "misal: kafe jepang, restoran indonesia, warung padang, dll",
+          "lokasi_text": "lokasi mentah apa adanya sesuai artikel atau kamu cari di internet (kelurahan/kecamatan/kota/kabupaten/provinsi)",
+          "kelurahan_desa": "nama kelurahan/desa, atau null jika tidak diketahui",
+          "kecamatan": "nama kecamatan, atau null jika tidak diketahui",
+          "kota_kabupaten": "nama kota/kabupaten, atau null jika tidak diketahui",
+          "provinsi": "nama provinsi, atau null jika tidak diketahui",
+          "alasan_viral": "ringkasan alasan/daya tarik",
+          "indikasi_waktu": "tanggal/bulan/periode eksplisit terkait mulai viral, atau null jika tidak disebut",
+          "is_explicitly_viral": true atau false (true HANYA jika artikel eksplisit menyebut tempat ini viral/ramai dibahas/jadi perbincangan warganet, bukan sekadar direkomendasikan),
+          "confidence": angka 0-1
+        }
+      ]
+    }
+  ]
+}
+
+Jika sebuah artikel tidak menyebut tempat spesifik, kembalikan places: [] untuk artikel itu. Sertakan SEMUA article_id yang diberikan di bawah, jangan ada yang terlewat.
+
+
+Artikel:
+
+
+### Artikel 4472
+Judul: Bupati Jayapura: Pemalangan Aset Publik Tindakan Pidana, Sengketa Tanah Selesaikan Lewat Pengadilan dan Kerjasama - beritapapua.co
+Isi:
+Berita Papua, Jayapura — Bupati Jayapura, Yunus Wonda, menegaskan bahwa tindakan pemalangan aset pemerintah yang digunakan untuk kepentingan publik seperti jalan, kantor, rumah sakit, sekolah, dan gereja merupakan tindakan pidana. Ia meminta agar sengketa tanah diselesaikan melalui musyawarah atau jalur pengadilan, bukan dengan aksi sepihak yang merugikan masyarakat luas. Pernyataan tegas itu disampaikan Bupati Yunus Wonda usai memimpin Rapat Festival Danau Sentani (FDS) XV di Grand Hotel Cartenz Flafouw, Sentani, Rabu (24/6/2026). Ia juga meluruskan polemik Jalan Lingkar Selatan yang viral akhir-akhir ini, dengan menegaskan bahwa infrastruktur tersebut dibangun oleh negara atas usulan Pemkab Jayapura, bukan perorangan. Menanggapi maraknya aksi pemalangan di sejumlah kawasan fasilitas publik, Bupati mengingatkan bahwa tindakan tersebut memiliki konsekuensi hukum yang berat. Ia bahkan menyebut aparat kepolisian memiliki kewenangan penuh untuk menindak karena perbuatan itu jelas melanggar aturan. “Kalau kita sudah palang, itu asetnya pemerintah yang kepentingan publik, itu sama saja kita sudah bertentangan. Itu sama saja kita langsung melanggar. Itu sebenarnya kalau Kapolres mau, dia tinggal pegang karena sudah melanggar aturan. Itu pidana, sudah pasti pidana. Publik itu tidak boleh. Kantor-kantor pemerintah, rumah sakit, sekolah, gereja, itu tidak boleh palang,” tegas Bupati. Ia meminta warga yang merasa memiliki hak atas tanah aset pemerintah untuk datang berunding dengan baik. Jika dokumen kepemilikan pemerintah tidak lengkap, Pemkab siap membicarakan penyelesaian. Namun jika dokumen lengkap, Pemkab mendorong agar persoalan diuji di pengadilan. “Kalau dokumen pemerintah tidak lengkap, oke, baru kita bicara bagaimana penyelesaian. Kalau dokumen pemerintah juga ada, mari kita uji ke pengadilan. Putusan pengadilan itu buat dasar kita pemerintah menganggarkan,” ujarnya. Bupati mengungkapkan bahwa Pemkab Jayapura masih memiliki utang ganti rugi tanah sebesar Rp216 miliar dari total kewajiban Rp300 miliar. Utang tersebut terjadi akibat praktik “salah bayar” di masa lalu, di mana pemerintah membayar ganti rugi kepada pihak yang tidak berhak. “Hari ini dalam kepemimpinan kami, 2 tahun ini, kita sudah cicil sampai sekarang tinggal 216-an miliar sekitar, masih tersisa. Kita bayar terus ini,” katanya. “Semua terjadi salah bayar. Orang lain punya tanah, orang lain yang jual. Akhirnya kesimpulan salah bayar. Kan tidak mungkin kembali uang itu. Saya sudah minta ke Polsek bikin tim untuk kami mengusut itu. Ini salah bayar bukan uang 100 juta, 200 juta. Ini miliar. Aturan jelas, kita tidak bisa bayar di objek yang sama,” jelasnya. Untuk mencegah konflik di masa depan, Bupati mendorong skema kerja sama sewa pakai antara Pemkab dengan masyarakat adat. Ia mencontohkan Pasar Lama Sentani yang statusnya hak guna pakai, di mana retribusi pasar akan dibagi hasil dengan pemilik adat. “Seperti di Pasar Lama, difasilitasi distrik dengan masyarakat adat, karena ternyata t
+
+
+### Artikel 4473
+Judul: Jembatan Merah Youtefa, Destinasi Wisata Ikonik di Jayapura dengan Panorama Teluk Memukau - Tribun Video
+Isi:
+Belum punya akun? Daftar Akun Download Aplikasi TribunX di AppStore dan PlayStore Download aplikasi berita TribunX di Play Store atau App Store untuk dapatkan pengalaman baru TRIBUN-VIDEO.COM - Jembatan Merah atau Jembatan Youtefa menjadi salah satu ikon baru di Papua yang selalu menarik perhatian wisatawan. Jembatan ini memiliki desain lengkung baja berwarna merah yang mencolok sehingga mudah dikenali dari kejauhan. Jembatan tersebut menghubungkan Kota Jayapura dengan kawasan Lintas Batas Negara Skouw, sekaligus mempermudah akses menuju wilayah di sekitar Teluk Youtefa. Jembatan Merah memiliki panjang keseluruhan 11,6 kilometer. Infrastruktur ini terdiri atas bentang tengah sepanjang 433 meter, jembatan pendekat sisi Youtefa sepanjang 900 meter, jalan pendekat sisi Hamadi sepanjang 320 meter, serta jalan akses sepanjang 9.950 meter. Selain berfungsi sebagai penghubung antarkawasan, Jembatan Merah juga menjadi destinasi wisata favorit di Kota Jayapura. Banyak wisatawan datang untuk menikmati panorama Teluk Youtefa sekaligus mengabadikan momen dengan latar jembatan yang ikonik. Keindahan Jembatan Merah semakin memikat saat matahari terbit maupun menjelang senja. Cahaya yang memantul di permukaan teluk berpadu dengan lengkungan jembatan berwarna merah menciptakan pemandangan yang kerap menjadi objek fotografi. Jembatan ini diresmikan oleh Presiden Joko Widodo pada akhir Oktober 2019. Sejak saat itu, Jembatan Merah terus menjadi salah satu landmark sekaligus kebanggaan masyarakat Papua dan destinasi yang wajib dikunjungi saat berada di Jayapura.erikan kepada keluarga dan sanak saudara di tempat tinggalnya. (*) Artikel ini telah tayang di TribunJakarta.com dengan judul Jembatan Merah Jadi Ikon Baru Jayapura, Kapten Cricket Bali Penasaran Pengin Melancong Program: Local Experience Editor : Magang Ayu Ariana Lailatul Khotimah #JembatanYoutefa #JembatanMerah #Jayapura #Papua #WisataPapua #ExplorePapua #WonderfulIndonesia #Landmark #WisataIndonesia #PesonaPapua Fenomena Embun Upas di Dataran Tinggi Dieng, Hamparan Es Tipis yang Menyerupai Salju Pesona Sabang, Pulau Paling Barat Indonesia dengan Pantai Eksotis dan Surga Bawah Laut Mendunia Monumen Kapsul Waktu Merauke, Landmark Unik Papua Selatan yang Menyimpan Impian Anak Muda Dari Korban Gempa Jadi Eksportir Batik, Perjuangan Ibu Ibu Bayat Bangkit dari Keterpurukan Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
+
+
+### Artikel 4474
+Judul: 4 Wilayah Hujan di Provinsi Papua Rabu 23 September 2026: Jayapura dan Kepulauan Yapen Waspada - TribunWow.com
+Isi:
+TRIBUNWOW.COM - Berikut ini prakiraan cuaca di Provinsi Papua, Rabu 23 September 2026, 4 wilayah alami hujan ringan. Dilansir TribunWow.com dari laman BMKG, cuaca di Provinsi Papua bakal mengalami perbedaan tiga cuaca. Empat wilayah di Provinsi Papua, Jayapura, Kepulauan Yapen , Keerom dan Waropen alami cuaca hujan ringan. Dua wilayah bakal mengalami cuaca berawan yakni Biak Numfor dan Mamberamo Raya. Sementara satu wilayah yakni Kota Jayapura mengalami cuaca cerah. Baca juga: Prakiraan Cuaca di Lampung Jumat 18 September 2026: Cek Wilayah Ibu Kota hingga Metro Jayapura (Hujan Ringan, suhu 22-29 derajat C) Kepulauan Yapen (Hujan Ringan, suhu 22-26 derajat C) Biak Numfor (Cerah, suhu 23-28 derajat C) Sarmi (Cerah, suhu 22-29 derajat C) Keerom (Hujan Ringan, suhu 22-30 derajat C) Waropen (Hujan Ringan, suhu 21-26 derajat C) Supiori (Hujan Ringan, suhu 23-28 derajat C) Mamberamo Raya (Berawan, suhu 21-29 derajat C) Kota Jayapura (Cerah, suhu 23-32 derajat C). Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
+
+
+### Artikel 4475
+Judul: 2 Wilayah di Provinsi Papua Hujan Ringan Senin 21 September 2026: Jayapura & Kota Jayapura Kontras - TribunWow.com
+Isi:
+TRIBUNWOW.COM - Berikut ini prakiraan cuaca di Provinsi Papua, Senin 21 September 2026, 2 wilayah alami hujan ringan. Dilansir TribunWow.com dari laman BMKG, cuaca di Provinsi Papua bakal mengalami perbedaan tiga cuaca. Lima wilayah di Provinsi Papua, Jayapura , Sarmi , Keerom, Waropen, dan Kota Jayapura alami hujan ringan. Dua wilayah bakal alami hujan ringan di antaranya Jayapura dan Keerom. Sementara tujuh wilayah lain bakal alami cuaca cerah dan berawan. Baca juga: Prakiraan Cuaca di Lampung Jumat 18 September 2026: Cek Wilayah Ibu Kota hingga Metro Jayapura (Hujan Ringan, suhu 22-32 derajat C) Kepulauan Yapen (Berawan, suhu 20-28 derajat C) Biak Numfor (Cerah Berawan, suhu 23-29 derajat C) Sarmi (Berawan, suhu 22-29 derajat C) Keerom (Hujan Ringan, suhu 21-32 derajat C) Waropen (Cerah Berawan, suhu 21-31 derajat C) Supiori (Berawan, suhu 23-30 derajat C) Mamberamo Raya (Cerah, suhu 22-30 derajat C) Kota Jayapura (Cerah, suhu 23-31 derajat C). Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
+
+
+### Artikel 4476
+Judul: 9 Prakiraan Cuaca di Provinsi Papua Selasa 11 Mei 2026: Jayapura, Keerom, Biak, Waropen & Supiori - TribunWow.com
+Isi:
+TRIBUNWOW.COM - Berikut ini prakiraan cuaca versi BMKG di Provinsi Papua untuk Selasa 12 Mei 2026, Kota  Jayapura, Keerom , Biak, Waropen dan Supiori . Dilansir TribunWow.com dari laman BMKG, sembilan wilayah di Provinsi Papua bakal mayoritas bakal mengalami cuaca hujan. Sementara beberapa lainnya di wilayah Provinsi Papua bakal dilanda cuaca berawan. Sedangkan 2 wilayah lainnya bakal hujan ringan. Berikut rincian prakiraan cuaca di Provinsi Papua : Jayapura (Berawan, suhu 22-31 derajat C) Kepulauan Yapen (Berawan, suhu 22-28 derajat C) Biak Numfor (Berawan, suhu 24-29 derajat C) Sarmi (Berawan, suhu 22-30 derajat C) Keerom (Berawan, suhu 23-30 derajat C) Waropen (Berawan, suhu 21-32 derajat C) Supiori (Cerah Berawan, suhu 24-28 derajat C) Mamberamo Raya (Hujan Ringan, suhu 22-30 derajat C) Kota Jayapura (Hujan Ringan, suhu 24-30 derajat C). Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
+
+
+### Artikel 4477
+Judul: Prakiraan Cuaca Provinsi Papua Sabtu 2 Mei 2026 Versi BMKG: Kota Jayapura, Biak, Waropen, Sarmi - TribunWow.com
+Isi:
+TRIBUNWOW.COM - Berikut ini prakiraan cuaca versi BMKG di Provinsi Papua untuk Sabtu 2 Mei 2026, Kota  Jayapura, Biak, Waropen, Sarmi serta lima wilayah lainnya. Dilansir TribunWow.com dari laman BMKG, sembilan wilayah di Provinsi Papua bakal mayoritas bakal mengalami cuaca hujan. Sementara beberapa lainnya di wilayah Provinsi Papua bakal cuaca hujan ringan. Sedangkan 1 wilayah lainnya bakal berawan. Berikut rincian prakiraan cuaca di Provinsi Papua : Jayapura (Hujan Ringan, suhu 22-31 derajat C) Kepulauan Yapen (Hujan Ringan, suhu 21-27 derajat C) Biak Numfor (Hujan Ringan, suhu 24-28 derajat C) Sarmi (Hujan Ringan, suhu 22-28 derajat C) Keerom (Hujan Ringan, suhu 22-29 derajat C) Waropen (Hujan Sedang, suhu 21-28 derajat C) Supiori (Berawan, suhu 23-29 derajat C) Mamberamo Raya (Hujan Ringan, suhu 21-29 derajat C) Kota Jayapura (Hujan Ringan, suhu 23-29 derajat C). Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
+
+
+### Artikel 4478
+Judul: 4 Wilayah Sudah Hujan di Provinsi Papua Jumat 25 September 2026 Versi BMKG: Jayapura Berawan - TribunWow.com
+Isi:
+TRIBUNWOW.COM - Berikut ini prakiraan cuaca di Provinsi Papua, Jumat 25 September 2026, 4 wilayah alami hujan ringan. Dilansir TribunWow.com dari laman BMKG, cuaca di Provinsi Papua bakal mengalami tiga perbedaan cuaca. Empat wilayah di Provinsi Papua, Kepulauan Yapen , Biak Numfor , Keerom dan Waropen alami hujan ringan. Sementara Jayapura bakal alami cuaca berawan dan beberapa lainnya alami cuaca cerah. Baca juga: Prakiraan Cuaca di Lampung Jumat 18 September 2026: Cek Wilayah Ibu Kota hingga Metro Jayapura (Berawan, suhu 22-32 derajat C) Kepulauan Yapen (Hujan Ringan, suhu 22-31 derajat C) Biak Numfor (Berawan, suhu 23-32 derajat C) Sarmi (Cerah Berawan, suhu 22-28 derajat C) Keerom (Hujan Ringan, suhu 22-30 derajat C) Waropen (Hujan Ringan, suhu 22-30 derajat C) Supiori (Cerah, suhu 24-32 derajat C) Mamberamo Raya (Cerah, suhu 22-28 derajat C) Kota Jayapura (Cerah, suhu 23-33 derajat C). Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
+
+
+### Artikel 4479
+Judul: Prakiraan Cuaca di Provinsi Papua Sabtu 29 Agustus 2026: Hanya Jayapura & Sarmi yang Bakal Berawan - TribunWow.com
+Isi:
+TRIBUNWOW.COM - Berikut ini prakiraan cuaca di Provinsi Papua, Sabtu 29 Agustus 2026, mayoritas hujan ringan. Dilansir TribunWow.com dari laman BMKG, hanya ada dua wilayah di Provinsi Papua yang memiliki cuaca berawan. Selain dari itu, mayoritas cuaca di Provinsi Papua mengalami hujan ringan. Berikut rincian prakiraan cuaca di Provinsi Papua: Jayapura (Cerah Berawan, suhu 22-26 derajat C) Kepulauan Yapen (Hujan Ringan, suhu 21-26 derajat C) Biak Numfor (Hujan Ringan, suhu 24-28 derajat C) Sarmi (Berawan, suhu 22-26 derajat C) Keerom (Hujan Ringan, suhu 21-25 derajat C) Waropen (Hujan Ringan, suhu 21-30 derajat C) Supiori (Hujan Ringan, suhu 24-28 derajat C) Mamberamo Raya (Hujan Ringan, suhu 22-28 derajat C) Kota Jayapura (Hujan Ringan, suhu 23-25 derajat C). Isi komentar sepenuhnya adalah tanggung jawab pengguna dan diatur dalam UU ITE.
